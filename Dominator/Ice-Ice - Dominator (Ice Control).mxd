@@ -1,0 +1,74 @@
+This Villain build was built using Mids Reborn 3.4.7
+https://github.com/LoadedCamel/MidsReborn
+
+Ice-Ice: Level 50 Science Dominator
+Primary Power Set: Ice Control
+Secondary Power Set: Icy Assault
+Power Pool: Speed
+Power Pool: Leaping
+Power Pool: Fighting
+Ancillary Pool: Ice Mastery
+
+Villain Profile:
+------------
+Level 1:	Block of Ice			Dcm-Acc/Dmg(A), Dcm-Dmg/EndRdx(3), Dcm-Build%(3)
+Level 1:	Ice Bolt			EntChs-Heal%(A)
+Level 2:	Ice Sword			Mk'Bit-Acc/Dmg(A), Mk'Bit-Dmg/EndRdx(5), Mk'Bit-Acc/Dmg/EndRdx/Rchg(5), Mk'Bit-Dam%(7)
+Level 4:	Frostbite			GrvAnc-Hold%(A), GrvAnc-Acc/Immob/Rchg(11), GrvAnc-Immob/EndRdx(11), GrvAnc-Acc/Rchg(36), GrvAnc-Immob(36)
+Level 6:	Ice Sword Circle		FuroftheG-Acc/Dmg(A), FuroftheG-Acc/Dmg/End/Rech(7), FuroftheG-Dam/Rech(9), FuroftheG-ResDeb%(9)
+Level 8:	Arctic Air			MlsIll-EndRdx/Conf(A), MlsIll-Acc/EndRdx(13), MlsIll-Dam%(13)
+Level 10:	Hasten				RechRdx-I(A), RechRdx-I(15)
+Level 12:	Cold Snap			IceMisTrmt-End/Slow(A), IceMisTrmt-Acc/Dam/End/Rech(15), IceMisTrmt-+ColdDmg(17)
+Level 14:	Combat Jumping			LucoftheG-Def/Rchg+(A)
+Level 16:	Ice Slick			PstBls-Acc/Dmg(A), PstBls-Dmg/Rchg(17), PstBls-Acc/Dmg/EndRdx(19), PstBls-Dam%(19)
+Level 18:	Power Up			RechRdx-I(A), RechRdx-I(21)
+Level 20:	Kick				FrcFdb-Rechg%(A)
+Level 22:	Tough				GldArm-End/Res(A), GldArm-ResDam(23), GldArm-3defTpProc(23)
+Level 24:	Weave				LucoftheG-Def/Rchg+(A), LucoftheG-Def/EndRdx(25), LucoftheG-Def(25)
+Level 26:	Glacier				SprAscoft-Acc/Conf/Hold/Immob/Sleep/Stun/Fear(A), SprAscoft-Conf/Hold/Immob/Sleep/Stun/Fear/Rchg(27), SprAscoft-EndRdx/Rchg(27), SprAscoft-Acc/Conf/Hold/Immob/Sleep/Stun/Fear/EndRdx(29), SprAscoft-Acc/Conf/Hold/Immob/Sleep/Stun/Fear/EndRdx/Rchg(29), SprAscoft-Rchg/+Dmg%(31)
+Level 28:	Chilling Embrace		SprAvl-Acc/Dmg(A), SprAvl-Dmg/EndRdx(31), SprAvl-Acc/Dmg/EndRdx(31), SprAvl-Rchg/KDProc(33)
+Level 30:	Frost Breath			SprFrzBls-Acc/Dmg(A), SprFrzBls-Dmg/EndRdx(33), SprFrzBls-Acc/Dmg/EndRdx(33), SprFrzBls-Rchg/ImmobProc(34)
+Level 32:	Jack Frost			SvrRgh-PetResDam(A), SvrRgh-Dmg/EndRdx(34), SvrRgh-Acc/Dmg(34), EdcoftheM-PetDef(36)
+Level 35:	Ice Slash			SprBlsCol-Acc/Dmg(A), SprBlsCol-Dmg/EndRdx(37), SprBlsCol-Acc/Dmg/EndRdx(37), SprBlsCol-Acc/Dmg/Rchg(37), SprBlsCol-Dmg/EndRdx/Acc/Rchg(39), SprBlsCol-Rchg/HoldProc(39)
+Level 38:	Bitter Ice Blast		Apc-Dmg(A), Apc-Dmg/Rchg(39), Apc-Acc/Dmg/Rchg(40), Apc-Acc/Rchg(40), Apc-Dmg/EndRdx(40), Apc-Dam%(42)
+Level 41:	Sleet				OvrFrc-Acc/Dmg(A), OvrFrc-Acc/Dmg/End(42), OvrFrc-Dmg/End/Rech(42), OvrFrc-Dam/KB(43)
+Level 44:	Frozen Armor			StdPrt-ResDam/Def+(A), StdPrt-ResKB(45), ShlWal-Def/EndRdx(45), ShlWal-ResDam/Re TP(45), LucoftheG-Def/Rchg+(46), LucoftheG-Def/EndRdx(46)
+Level 47:	Ice Storm			Rgn-Dmg/Rchg(A), Rgn-Acc/Dmg/Rchg(48), Rgn-Dmg(48), Rgn-Acc/Rchg(48), Rgn-Dmg/EndRdx(50), Rgn-Knock%(50)
+Level 49:	Hibernate			Mrc-Rcvry+(A), Mrc-Heal(50)
+Level 1:	Brawl				Empty(A)
+Level 1:	Domination	
+Level 1:	Sprint				Clr-Stlth(A)
+Level 2:	Rest				Empty(A)
+Level 1:	Swift				Run-I(A)
+Level 1:	Health				NmnCnv-Regen/Rcvry+(A), NmnCnv-Heal(21), Heal-I(43)
+Level 1:	Hurdle				Jump-I(A)
+Level 1:	Stamina				PrfShf-End%(A), PrfShf-EndMod(43), EndMod-I(46)
+------------
+
+
+
+|              Do not modify anything below this line!              |
+|-------------------------------------------------------------------|
+|MxDz;2016;693;1386;HEX;|
+|78DA6595CB4E53511486FF7329B58502955BB954B080A0D04251C05B140392A0901|
+|011A7A4A947ACD6B6A1259107702EA8C1019AF80C8A829737D037301A870E548C1A|
+|67E26A1BBA7EED4976CEFEFAAFF5EFB52F6777E6F644D5BBB7D363306AC693B16C7|
+|661227D2B918AE5D24BEEB978C249C51D0B807B2AEE84A5B9A51F2C452C8CA753B9|
+|A5743222CA5E9FD473D96C6C3999137565AF0FEF6C5AE2E7328E73B5AAD09D76629|
+|9446AD15780C9C4E2F59C90BF4033B15422B39C8CE512E954CBF94C225E18672696|
+|CD394B2B5A67406A6A97369C2FD4C0DEB36B02EBF2EEB18D5D794C3C64D850F863F|
+|E9B276D555AA8A8E66D0C522D03D7E41D2DAA3616196E2854E0A6C2889466414D6C|
+|0BF36649F5E212C365854ECC31CC2AE4ED5C5C960B272D1AFC8CC23E9C6238AB302|
+|A5D37AF981B3F8C925A859F0CBF1542720C3C946778D0A793AD66382E4354F21095|
+|F0B828D4A7508B6A854619C2C79BE243831670425C6B78F635780A32DA54D88F170|
+|C5B0AA698F879167E2EBC9E411606755C4D1DEEE85E58A236F01C1B10D5456EC400|
+|C390822D794D9CD7C4730CA096A15E21BF9DCD94E76AC696BAB6609BE1A5421B5E3|
+|1BC563880375496745B79715BB16153E82386C70A1D78A2608949904D8278C6A19B|
+|0CCF150E625BE1B498B4B3493B7E8142BF33ECE817DD89CF0A2E3109F16A8570578|
+|7E8C22AC31AC33D8543B8CFF040A142ECBBD9BE1BFD268586157A10611860185438|
+|8CA842C00FF4F212F4E2BD45A11F183E2A1CC127855631E9E31AFB0AE72E5854FB1|
+|16098D4BC7E5C5408F3E10CF3E16C13FB08DB477054673080630C430CC30A518C30|
+|8C2A348BFD207FA783B86094B6378A2985361BFCE4AFF2FCCFC54BEB3F6D77DA2EB|
+|BF73D3AEAACCDA2A8865A7DF1966586F5287EF396FD0F5D31E85E99376897BA34EF|
+|6BB96BAFAA3BE5AEEB2619AD99B4391D9AF7174B8746A1|
+|-------------------------------------------------------------------|

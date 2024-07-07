@@ -1,0 +1,218 @@
+This Hero build was built using Mids Reborn 3.4.7
+https://github.com/LoadedCamel/MidsReborn
+
+Elec-SS-32: Level 50 Magic Tanker
+Primary Power Set: Electric Armor
+Secondary Power Set: Super Strength
+Power Pool: Speed
+Power Pool: Leaping
+
+Hero Profile:
+------------
+Level 1:	Charged Armor			UnbGrd-ResDam(A), UnbGrd-ResDam/EndRdx(3), UnbGrd-EndRdx/Rchg(3), UnbGrd-Max HP%(5)
+Level 1:	Punch				GntFis-Rchg/+Absorb(A), GntFis-Acc/Dmg(5), GntFis-Acc/Dmg/EndRdx/Rchg(7)
+Level 2:	Conductive Shield		GldArm-End/Res(A), GldArm-ResDam(11), GldArm-3defTpProc(11)
+Level 4:	Haymaker			MghoftheT-Rchg/Res%(A), MghoftheT-Acc/Dmg(7), MghoftheT-Acc/Dmg/EndRdx/Rchg(29)
+Level 6:	Lightning Field			Avl-Acc/Dmg(A), Avl-Dmg/EndRdx(13), Avl-Acc/Dmg/EndRdx(13), Avl-Acc/Dmg/Rchg(15), Avl-Acc/Dmg/EndRdx/Rchg(15), Avl-Rchg/KDProc(17)
+Level 8:	Grounded			StdPrt-ResKB(A), StdPrt-ResDam/Def+(17)
+Level 10:	Taunt				PrfZng-Dam%(A)
+Level 12:	Energize			RgnTss-Regen+(A), Mrc-Rcvry+(19)
+Level 14:	Hasten				RechRdx-I(A)
+Level 16:	Combat Jumping			LucoftheG-Def/Rchg+(A), Ksm-ToHit+(19), ShlWal-ResDam/Re TP(29)
+Level 18:	Hand Clap			SuddAcc--KB/+KD(A), PrfZng-Acc/Rchg(25), PrfZng-Dam%(31)
+Level 20:	Knockout Blow			TchofDth-Acc/Dmg(A), TchofDth-Dmg/EndRdx(21), TchofDth-Dmg/Rchg(21), TchofDth-Acc/Dmg/EndRdx(23), TchofDth-Dmg/EndRdx/Rchg(23), TchofDth-Dam%(25)
+Level 22:	Power Sink			EffAdp-EndMod(A), EffAdp-EndMod/Rchg(27)
+Level 24:	Static Shield			ImpArm-ResDam/EndRdx(A), ImpArm-ResPsi(27)
+Level 26:	Rage				RechRdx-I(A)
+Level 28:	Power Surge			RechRdx-I(A)
+Level 30:	Foot Stomp			OvrFrc-Dam/KB(A), OvrFrc-Acc/Dmg(31), OvrFrc-Acc/Dmg/End/Rech(31)
+Level 32:	Super Jump			UnbLea-Jump(A)
+Level 35:	[Empty]				Empty(A)
+Level 38:	[Empty]				Empty(A)
+Level 41:	[Empty]				Empty(A)
+Level 44:	[Empty]				Empty(A)
+Level 47:	[Empty]				Empty(A)
+Level 49:	[Empty]				Empty(A)
+Level 1:	Gauntlet	
+Level 1:	Brawl				Empty(A)
+Level 1:	Sprint				Clr-Stlth(A)
+Level 2:	Rest				Empty(A)
+Level 1:	Swift				Run-I(A)
+Level 1:	Hurdle				Jump-I(A)
+Level 1:	Health				NmnCnv-Regen/Rcvry+(A), NmnCnv-Heal(9), NmnCnv-Heal/EndRdx(9)
+Level 1:	Stamina				PrfShf-End%(A)
+Level 32:	Double Jump	
+Level 50:	Portal Jockey	
+Level 50:	Task Force Commander	
+Level 50:	The Atlas Medallion	
+Level 50:	Freedom Phalanx Reserve	
+------------
+------------
+Set Bonus Totals:
+7.5% DamageBuff(Smashing)
+7.5% DamageBuff(Lethal)
+7.5% DamageBuff(Fire)
+7.5% DamageBuff(Cold)
+7.5% DamageBuff(Energy)
+7.5% DamageBuff(Negative)
+7.5% DamageBuff(Toxic)
+7.5% DamageBuff(Psionic)
+10.38% Defense(Smashing)
+10.38% Defense(Lethal)
+9.75% Defense(Fire)
+9.75% Defense(Cold)
+6% Defense(Energy)
+6% Defense(Negative)
+6% Defense(Toxic)
+6% Defense(Psionic)
+14.75% Defense(Melee)
+6% Defense(Ranged)
+7.88% Defense(AoE)
+1.8% Max End
+2.5% Enhancement(Max EnduranceDiscount)
++7.5% Enhancement(RechargeTime) (when Recharge)
+260 HP (13.88%) HitPoints (when HealSelf)
+Knockback (Mag -7)
+Knockup (Mag -7)
+27.5% MezResist(Confused)
+27.5% MezResist(Held)
+27.5% MezResist(Immobilized)
+27.5% MezResist(Sleep)
+27.5% MezResist(Stunned)
+27.5% MezResist(Terrorized)
+200% MezResist(Teleport) (20% chance)
+8.5% (0.14 End/sec) Recovery
+24% (1.87 HP/sec) Regeneration
+10% ResEffect(SpeedFlying)
+10% ResEffect(RechargeTime)
+10% ResEffect(SpeedRunning)
+8.75% Resistance(Smashing)
+8% Resistance(Fire)
+8% Resistance(Cold)
+12.5% Resistance(Energy)
+12.5% Resistance(Negative)
+7.25% Resistance(Toxic)
+13.25% Resistance(Psionic)
+8.75% Resistance(Lethal) (when Resist)
+
+
+
+------------
+Set Bonuses:
+Unbreakable Guard
+(Charged Armor)
+  2.5% Enhancement(EnduranceDiscount)
+  2.25% Resistance(Energy,Negative), 3.75% Status Resistance
+  3.13% Defense(Melee), 1.56% Defense(Lethal), 1.56% Defense(Smashing)
+  140.6 HP (7.5%) HitPoints (when HealSelf)
+
+
+Gauntleted Fist
+(Punch)
+  1.8% Max End
+  3.75% Resistance(Energy,Negative), 6.25% Status Resistance
+
+
+Gladiator's Armor
+(Conductive Shield)
+  2.5% (0.04 End/sec) Recovery
+  2.25% Max End
+  3% Defense(Melee) (when Defense), 3% Defense(AoE), 3% Defense(Ranged), 3% Defense(Smashing), 3% Defense(Lethal), 3% Defense(Fire), 3% Defense(Cold), 3% Defense(Energy), 3% Defense(Negative), 3% Defense(Toxic), 3% Defense(Psionic), 100% MezResist(Teleport) (20% chance)
+
+
+Might of the Tanker
+(Haymaker)
+  2% DamageBuff(All)
+  35.14 HP (1.88%) HitPoints (when HealSelf)
+
+
+Avalanche
+(Lightning Field)
+  10% ResEffect(SpeedRunning), 10% ResEffect(RechargeTime), 10% ResEffect(SpeedFlying)
+  3% Resistance(Fire,Cold), 5% Status Resistance
+  2% (0.03 End/sec) Recovery
+  1.88% Defense(Melee), 0.94% Defense(Lethal), 0.94% Defense(Smashing)
+  3.75% Defense(Fire,Cold), 1.88% Defense(AoE)
+
+
+Steadfast Protection
+(Grounded)
+  1.5% (0.03 End/sec) Recovery
+  Knockback Protection (Mag 4)
+  3% Defense(Melee) (when Defense), 3% Defense(AoE), 3% Defense(Ranged), 3% Defense(Smashing), 3% Defense(Lethal), 3% Defense(Fire), 3% Defense(Cold), 3% Defense(Energy), 3% Defense(Negative), 3% Defense(Toxic), 3% Defense(Psionic)
+
+
+Luck of the Gambler
+(Combat Jumping)
+  +7.5% Enhancement(RechargeTime) (when Recharge)
+
+
+Shield Wall
+(Combat Jumping)
+  5% Resistance(Lethal) (when Resist), 5% Resistance(Smashing), 5% Resistance(Fire), 5% Resistance(Cold), 5% Resistance(Energy), 5% Resistance(Negative), 5% Resistance(Psionic), 5% Resistance(Toxic), 100% MezResist(Teleport) (20% chance)
+
+
+Perfect Zinger
+(Hand Clap)
+  2.25% Resistance(Toxic,Psionic), 3.75% Status Resistance
+
+
+Touch of Death
+(Knockout Blow)
+  1.5% Resistance(Energy,Negative), 2.5% Status Resistance
+  28.11 HP (1.5%) HitPoints (when HealSelf)
+  2.5% DamageBuff(All)
+  3.75% Resistance(Smashing,Lethal), 6.25% Status Resistance
+  3.75% Defense(Melee), 1.88% Defense(Lethal), 1.88% Defense(Smashing)
+
+
+Efficacy Adaptor
+(Power Sink)
+  21.08 HP (1.13%) HitPoints (when HealSelf)
+
+
+Impervium Armor
+(Static Shield)
+  2.5% (0.04 End/sec) Recovery
+  6% Resistance(Psionic) (when Resist)
+
+
+Overwhelming Force
+(Foot Stomp)
+  12% (0.94 HP/sec) Regeneration
+  3% DamageBuff(All)
+
+
+Numina's Convalesence
+(Health)
+  12% (0.94 HP/sec) Regeneration
+  35.14 HP (1.88%) HitPoints (when HealSelf)
+
+
+
+
+
+
+|              Do not modify anything below this line!              |
+|-------------------------------------------------------------------|
+|MxDz;1550;612;1224;HEX;|
+|78DA65944B6F125114C7FFC3438482D8560A6DC1264D8DAD0DB4A06BE3A375A1906|
+|050176A9D20BD021101074874E34237464177D6C7D7A9AF58BF810B8D6B1F0B3571|
+|61F030039CD3E12417E677CFF3FEE742E6CE9AFFE34EFA0434FFE94ABED1D02FE4A|
+|B3795E1CEE48BE502C87CEB155588E772F1A3290F61CCF2EB6BEA86AA3654A2E76D|
+|1AE5827ED2B8553366FBDE8CAA2895C8B5EAF49C6B1AAA5A6C96E0CBD66A9544AEA|
+|ED4A6DF7C4CAB7CBD5C2D064C38532E969A44C1816B53198D52B91E5AAF970B8953|
+|46ABA9F44C4BCFE41B4D65DC8DD0280BB4B683F4A161605D27F08B56D2A575C91CF|
+|82DE10F830B7F19E23E48A3483C7089D07B0C7B709FE10D35D7447387862457F561|
+|45428A2141FD9CB29F131DA768F190218A36C36BEAE716FDDC6E3CE369FCD892F09|
+|C611F5E4878C9B01FAF18DE51798F28AF7910218C0D42C30C2B7402AF0885170DC7|
+|B0D07B2A34260B8DE138E74EE02CC1610BE6E94E0564A10096312C3445DEA014388|
+|89036F44EE01F8655A338C742ADD278E3326F1C5FF99C11DCE6590FCAC193943729|
+|059EC46598B33E32D30FE08A858FFB78D5C2B68953D8B0B0D3C76B163E313102DDC|
+|2A7267E208DE82CDA50A310DA3CC80C3A0C6F29342CE50C6381E59CC112CB99A203|
+|4C8BAA989672EE50A15971EF0884F718E5C6E4AD8CE18B53E8F449C2678630BDA43|
+|9F90AE7E0E0E17B8679F4BE980FD978D1C6CB364ED8789579C9B5FB0FA01B75EDFE|
+|319B9BFDE0B42D98969747CDBAA493BC1A677EF38D64C659BAEFA3DE45F6FEB079A|
+|9E325BEC57B7151C279869FA355B778DAED2324BB98B6BB41E149A944DEBE71DDBE|
+|91B56FFC07E472B83E|
+|-------------------------------------------------------------------|

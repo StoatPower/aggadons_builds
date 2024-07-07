@@ -1,0 +1,184 @@
+This Villain build was built using Mids Reborn 3.4.7
+https://github.com/LoadedCamel/MidsReborn
+
+ill-sonic-psi-22: Level 49 Magic Dominator
+Primary Power Set: Illusion Control
+Secondary Power Set: Sonic Assault
+Power Pool: Speed
+Power Pool: Leaping
+
+Villain Profile:
+------------
+Level 1:	Spectral Wall			Dcm-Build%(A), Dcm-Acc/Dmg(3), Dcm-Acc/Dmg/Rchg(3)
+Level 1:	Strident Echo			TchofDth-Dam%(A), TchofDth-Acc/Dmg(5), TchofDth-Acc/Dmg/EndRdx(5)
+Level 2:	Blind				Lck-Acc/Hold(A), Lck-%Hold(7)
+Level 4:	Scream				GldJvl-Dam%(A), GldJvl-Acc/Dmg(7), GldJvl-Acc/Dmg/End/Rech(9)
+Level 6:	Spectral Terror			AscoftheD-Rchg/+Dmg%(A), AscoftheD-Acc/Conf/Hold/Immob/Sleep/Stun/Fear(9), AscoftheD-Conf/Hold/Immob/Sleep/Stun/Fear/Rchg(11), AscoftheD-Acc/Conf/Hold/Immob/Sleep/Stun/Fear/EndRdx(11), AscoftheD-EndRdx/Rchg(13), AscoftheD-Acc/Conf/Hold/Immob/Sleep/Stun/Fear/EndRdx/Rchg(13)
+Level 8:	Superior Invisibility		LucoftheG-Def/Rchg+(A)
+Level 10:	Hasten				RechRdx-I(A)
+Level 12:	Combat Jumping			LucoftheG-Def/Rchg+(A), ShlWal-ResDam/Re TP(25), Ksm-ToHit+(25)
+Level 14:	Gleam				DmnGrs-Rchg/Fiery Orb(A), DmnGrs-Acc/Conf/Hold/Immob/Sleep/Stun/Fear(15), DmnGrs-Conf/Hold/Immob/Sleep/Stun/Fear/Rchg(15), DmnGrs-Acc/Conf/Hold/Immob/Sleep/Stun/Fear/EndRdx(17), DmnGrs-Acc/Conf/Hold/Immob/Sleep/Stun/Fear/EndRdx/Rchg(17)
+Level 16:	Bass Boost			RechRdx-I(A)
+Level 18:	Phantom Army			ExpRnf-Acc/Rchg(A), ExpRnf-Acc/Dmg(19), ExpRnf-Acc/Dmg/Rchg(19), ExpRnf-EndRdx/Dmg/Rchg(23)
+Level 20:	Deafening Wave			Erd-%Dam(A), Erd-Acc/Dmg/EndRdx/Rchg(21), Erd-Acc/Dmg/Rchg(21)
+Level 22:	Flash				Lck-Acc/Hold(A), Lck-%Hold(23)
+Level 24:	Disruption Aura			EndRdx-I(A)
+Level 26:	[Empty]	
+Level 28:	[Empty]	
+Level 30:	[Empty]	
+Level 32:	[Empty]	
+Level 35:	[Empty]	
+Level 38:	[Empty]	
+Level 41:	[Empty]	
+Level 44:	[Empty]	
+Level 47:	[Empty]	
+Level 49:	[Empty]	
+Level 1:	Domination	
+Level 1:	Brawl				Empty(A)
+Level 1:	Sprint				Empty(A)
+Level 2:	Rest				Empty(A)
+Level 1:	Swift				Empty(A)
+Level 1:	Hurdle				Empty(A)
+Level 1:	Health				NmnCnv-Regen/Rcvry+(A)
+Level 1:	Stamina				EndMod-I(A)
+------------
+------------
+Set Bonus Totals:
+11.5% DamageBuff(Smashing)
+11.5% DamageBuff(Lethal)
+11.5% DamageBuff(Fire)
+11.5% DamageBuff(Cold)
+11.5% DamageBuff(Energy)
+11.5% DamageBuff(Negative)
+11.5% DamageBuff(Toxic)
+11.5% DamageBuff(Psionic)
+4.69% Defense(Energy)
+4.69% Defense(Negative)
+4.69% Defense(Ranged)
+1.8% Max End
++6% Enhancement(Confused)
++6% Enhancement(Held)
++6% Enhancement(Stunned)
++9% Enhancement(Accuracy)
++30% Enhancement(RechargeTime)
++6.6% Enhancement(Terrorized)
++12% Enhancement(Sleep)
++12% Enhancement(Immobilized)
+64.86 HP (6.38%) HitPoints
+16.25% MezResist(Confused)
+16.25% MezResist(Held)
+16.25% MezResist(Immobilized)
+16.25% MezResist(Sleep)
+16.25% MezResist(Stunned)
+16.25% MezResist(Terrorized)
+100% MezResist(Teleport) (20% chance)
+5.5% (0.09 End/sec) Recovery
+10.25% Resistance(Smashing)
+5% Resistance(Fire)
+5% Resistance(Cold)
+9.5% Resistance(Energy)
+9.5% Resistance(Negative)
+5% Resistance(Toxic)
+5% Resistance(Psionic)
+10.25% Resistance(Lethal)
+
+
+
+------------
+Set Bonuses:
+Decimation
+(Spectral Wall)
+  1.5% Resistance(Energy,Negative), 2.5% Status Resistance
+  11.45 HP (1.13%) HitPoints
+
+
+Touch of Death
+(Strident Echo)
+  1.5% Resistance(Energy,Negative), 2.5% Status Resistance
+  15.26 HP (1.5%) HitPoints
+
+
+Lockdown
+(Blind)
+  3% DamageBuff(All)
+
+
+Gladiator's Javelin
+(Scream)
+  2.5% (0.04 End/sec) Recovery
+  +7.5% Enhancement(Range)
+
+
+Ascendency of the Dominator
+(Spectral Terror)
+  2.5% DamageBuff(All)
+  +6% Enhancement(Immobilized), +6% Enhancement(Sleep), +3.3% Enhancement(Terrorized), +3% Enhancement(Confused), +3% Enhancement(Held), +3% Enhancement(Stunned)
+  +9% Enhancement(Accuracy)
+  +8.75% Enhancement(RechargeTime)
+  3.13% Defense(Ranged), 1.56% Defense(Energy), 1.56% Defense(Negative)
+
+
+Luck of the Gambler
+(Superior Invisibility)
+  +7.5% Enhancement(RechargeTime)
+
+
+Luck of the Gambler
+(Combat Jumping)
+  +7.5% Enhancement(RechargeTime)
+
+
+Shield Wall
+(Combat Jumping)
+  5%  Resistance(All), 100% MezResist(Teleport) (20% chance)
+
+
+Dominating Grasp
+(Gleam)
+  +6% Enhancement(Immobilized), +6% Enhancement(Sleep), +3.3% Enhancement(Terrorized), +3% Enhancement(Confused), +3% Enhancement(Held), +3% Enhancement(Stunned)
+  19.08 HP (1.88%) HitPoints
+  5.25% Resistance(Smashing,Lethal), 8.75% Status Resistance
+  3% (0.05 End/sec) Recovery
+
+
+Expedient Reinforcement
+(Phantom Army)
+  1.5% Resistance(Energy,Negative), 2.5% Status Resistance
+  3% DamageBuff(All)
+  +6.25% Enhancement(RechargeTime)
+
+
+Eradication
+(Deafening Wave)
+  1.8% Max End
+  3.13% Defense(Energy,Negative), 1.56% Defense(Ranged)
+
+
+Lockdown
+(Flash)
+  3% DamageBuff(All)
+
+
+
+
+
+
+|              Do not modify anything below this line!              |
+|-------------------------------------------------------------------|
+|MxDz;1216;472;944;HEX;|
+|78DA95925D4B1B51108667B39B46F3D1C48FC44095B4B991622318A962BDB144856|
+|20281402F0A36DDC6253D70DCDDEED980FE88825E79D1FE24FB4F348AC51B41D6C9|
+|C6642606841E58CE3CE79D77F67C4CED683BF9F7BCBA055ABA224DA59ADBCEA1B04|
+|DDFF1A235B32D5A3A0064849425E5D8A25572952895CB315C2C0E139B15C7F63D47|
+|2E7F92B2A384630F160A94F25129B323FDE546AFCA80205E77D0D6702DEB2019865|
+|5CB7485DD4E84B02B45FB879FEAC7BD1095573BAE68217956B3662ADFF28E69C379|
+|DC5501BFAF4BC0471001F8D3DBB0A19D865304CEFAF8EB117FF7F1249CCAE3EE26C|
+|E8B8616E030E00B877D827DF4691AF930BE45EF425F7D017704AB98AAF35FE8F00E|
+|796590FA9660029608BEA12FCA7CD1287478AA4B10879F1C1441123C0E3E8189E56|
+|3EC041083AC36548BF8E8935C9D84DE4D3DAA3954134C8D24B8370F7B3A837B185E|
+|C577AC9162473252B0690C535FC21A8775820C6C70F840F01E2BA6F93ED37C9F12E|
+|329A6EA5370450F330DD71C6E0872F08F600D8BCCF0F79B812EA9B370C9E182E010|
+|7D59DE2259DE2239DE22EB983AC74F31076FE814FF3F8AC6685707F34F16C2C5200|
+|8CB579FD1EAA8695CD348BB8C0317477CDD67B4AB71ED3335CFF5B8FA9AAEE20185|
+|8E7676|
+|-------------------------------------------------------------------|

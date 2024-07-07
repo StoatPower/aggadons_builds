@@ -1,0 +1,267 @@
+This Hero build was built using Mids Reborn 3.4.7
+https://github.com/LoadedCamel/MidsReborn
+
+FF-Rad-Soul: Level 50 Science Defender
+Primary Power Set: Force Field
+Secondary Power Set: Radiation Blast
+Power Pool: Concealment
+Power Pool: Teleportation
+Power Pool: Leadership
+Power Pool: Speed
+Ancillary Pool: Soul Mastery
+
+Hero Profile:
+------------
+Level 1:	Personal Force Field		Ksm-ToHit+(A)
+Level 1:	Neutrino Bolt			Dvs-Acc/Dmg(A), Dvs-Dmg/EndRdx(33), Dvs-Dmg/Rchg(34), Dvs-Acc/Dmg/Rchg(34), Dvs-Hold%(34)
+Level 2:	Deflection Shield		GifoftheA-Def(A), GifoftheA-Def/Rchg(3), GifoftheA-Def/EndRdx(3)
+Level 4:	Irradiate			Arm-Dmg(A), Arm-Dmg/Rchg(5), Arm-Acc/Dmg/Rchg(5), Arm-Acc/Rchg(7), Arm-Dmg/EndRdx(7), Arm-Dam%(9)
+Level 6:	Insulation Shield		GifoftheA-Def(A), GifoftheA-Def/EndRdx(9), GifoftheA-Def/Rchg(11)
+Level 8:	Infiltration			LucoftheG-Def/Rchg+(A)
+Level 10:	Grant Invisibility		LucoftheG-Def/Rchg+(A)
+Level 12:	Dispersion Bubble		Rct-Def(A), Rct-Def/EndRdx(13), Rct-EndRdx/Rchg(13), Rct-Def/EndRdx/Rchg(15), Rct-Def/Rchg(15), Rct-ResDam%(17)
+Level 14:	Combat Teleport			Empty(A)
+Level 16:	Proton Volley			ExcCnt-Dmg/EndRdx(A), ExcCnt-Acc/Dmg(37), ExcCnt-Dmg/Rng(40), ExcCnt-Stun%(42), ExcCnt-Dmg/Rchg(42)
+Level 18:	Teleport			Empty(A), Empty(19), Empty(19)
+Level 20:	Team Teleport			Empty(A), Empty(21), Empty(21)
+Level 22:	Repulsion Field			SuddAcc-KB/Rech(A), SuddAcc-KB/Dmg/Rech(46), SuddAcc-KB/Dmg/End(48), SuddAcc-KB/Acc/Dmg(48), SuddAcc-KB/Acc(48), SuddAcc--KB/+KD(50)
+Level 24:	Aim				GssSynFr--ToHit(A), GssSynFr--ToHit/Rchg(25), GssSynFr--ToHit/Rchg/EndRdx(25), GssSynFr--Rchg/EndRdx(27), GssSynFr--ToHit/EndRdx(27), GssSynFr--Build%(29)
+Level 26:	Force Bomb			SprFrzBls-Acc/Dmg(A), SprFrzBls-Dmg/EndRdx(29), SprFrzBls-Acc/Dmg/EndRdx(31), SprFrzBls-Acc/Dmg/Rchg(31), SprFrzBls-Dmg/EndRdx/Acc/Rchg(31), SprFrzBls-Rchg/ImmobProc(33)
+Level 28:	Maneuvers			LucoftheG-Def/EndRdx(A), LucoftheG-Def(33), LucoftheG-Def/Rchg+(43), ShlWal-ResDam/Re TP(50), ShlWal-Def/EndRdx(50)
+Level 30:	Tactics				EndRdx-I(A)
+Level 32:	Damping Bubble			EndRdx-I(A)
+Level 35:	Neutron Bomb			Rgn-Dmg(A), Rgn-Dmg/Rchg(36), Rgn-Acc/Dmg/Rchg(36), Rgn-Acc/Rchg(36), Rgn-Dmg/EndRdx(37), Rgn-Knock%(37)
+Level 38:	Atomic Blast			SprAvl-Acc/Dmg(A), SprAvl-Dmg/EndRdx(39), SprAvl-Acc/Dmg/EndRdx(39), SprAvl-Acc/Dmg/Rchg(39), SprAvl-Acc/Dmg/EndRdx/Rchg(40), SprAvl-Rchg/KDProc(40)
+Level 41:	Soul Drain			Empty(A), Empty(42), Empty(43)
+Level 44:	Dark Embrace			Empty(A), Empty(45), Empty(45), Empty(45), Empty(46), Empty(46)
+Level 47:	Hasten				Empty(A)
+Level 49:	Power Boost			Empty(A)
+Level 1:	Vigilance	
+Level 1:	Brawl				Empty(A)
+Level 1:	Sprint				Empty(A)
+Level 2:	Rest				Empty(A)
+Level 1:	Swift				Empty(A)
+Level 1:	Hurdle				Empty(A)
+Level 1:	Health				NmnCnv-Heal(A), NmnCnv-Regen/Rcvry+(11), Mrc-Rcvry+(17), Mrc-Heal(43)
+Level 1:	Stamina				PrfShf-End%(A), PrfShf-EndMod(23), EndMod-I(23)
+Level 49:	Quick Form	
+Level 50:	Degenerative Core Flawless Interface	
+Level 50:	Banished Pantheon Radial Superior Ally	
+Level 50:	Cardiac Core Paragon	
+Level 50:	Support Core Embodiment	
+Level 50:	Ageless Core Epiphany	
+------------
+------------
+Set Bonus Totals:
+8% DamageBuff(Smashing)
+8% DamageBuff(Lethal)
+8% DamageBuff(Fire)
+8% DamageBuff(Cold)
+8% DamageBuff(Energy)
+8% DamageBuff(Negative)
+8% DamageBuff(Toxic)
+8% DamageBuff(Psionic)
+3.75% Defense(Smashing)
+3.75% Defense(Lethal)
+13.75% Defense(Fire)
+13.75% Defense(Cold)
+1.25% Defense(Energy)
+1.25% Defense(Negative)
+7.5% Defense(Melee)
+2.5% Defense(Ranged)
+12.5% Defense(AoE)
+2.25% Max End
+3.75% Enhancement(Max EnduranceDiscount)
++30% Enhancement(Accuracy)
++58.75% Enhancement(RechargeTime)
+22.5% SpeedFlying
+95.38 HP (9.38%) HitPoints
+22.5% JumpHeight
+22.5% SpeedJumping
+92.5% MezResist(Confused)
+92.5% MezResist(Held)
+92.5% MezResist(Immobilized)
+92.5% MezResist(Sleep)
+92.5% MezResist(Stunned)
+92.5% MezResist(Terrorized)
+100% MezResist(Teleport) (20% chance)
+27% (0.45 End/sec) Recovery
+54% (2.29 HP/sec) Regeneration
+30% ResEffect(SpeedFlying)
+30% ResEffect(RechargeTime)
+30% ResEffect(SpeedRunning)
+13.25% Resistance(Smashing)
+13.25% Resistance(Lethal)
+46.25% Resistance(Fire)
+46.25% Resistance(Cold)
+20% Resistance(Toxic)
+20% Resistance(Psionic)
+8% Resistance(Energy)
+8% Resistance(Negative)
+22.5% SpeedRunning
+
+
+
+------------
+Set Bonuses:
+Devastation
+(Neutrino Bolt)
+  12% (0.51 HP/sec) Regeneration
+  22.89 HP (2.25%) HitPoints
+  3% DamageBuff(All)
+  3.75% Resistance(Fire,Cold), 6.25% Status Resistance
+
+
+Gift of the Ancients
+(Deflection Shield)
+  2% (0.03 End/sec) Recovery
+  2.25% Resistance(Fire,Cold), 3.75% Status Resistance
+
+
+Armageddon
+(Irradiate)
+  4% (0.07 End/sec) Recovery
+  6% Resistance(Fire,Cold), 10% Status Resistance
+  +15% Enhancement(Accuracy)
+  +10% Enhancement(RechargeTime)
+  6% Resistance(Toxic,Psionic), 10% Status Resistance
+
+
+Gift of the Ancients
+(Insulation Shield)
+  2% (0.03 End/sec) Recovery
+  2.25% Resistance(Fire,Cold), 3.75% Status Resistance
+
+
+Luck of the Gambler
+(Infiltration)
+  +7.5% Enhancement(RechargeTime)
+
+
+Luck of the Gambler
+(Grant Invisibility)
+  +7.5% Enhancement(RechargeTime)
+
+
+Reactive Defenses
+(Dispersion Bubble)
+  1.5% Resistance(Smashing,Lethal), 2.5% Status Resistance
+  19.08 HP (1.88%) HitPoints
+  3% Resistance(Fire,Cold), 5% Status Resistance
+  3.75% Enhancement(EnduranceDiscount)
+  +8.75% Enhancement(RechargeTime)
+  3% Resistance(All)
+
+
+Executioner's Contract
+(Proton Volley)
+  2% (0.03 End/sec) Recovery
+  3% Resistance(Fire,Cold), 5% Status Resistance
+  10% (0.42 HP/sec) Regeneration
+  3.75% Resistance(Smashing,Lethal), 6.25% Status Resistance
+
+
+Sudden Acceleration
+(Repulsion Field)
+  7.5% Movement Speed
+  2.25% Max End
+  2.5% DamageBuff(All)
+  22.89 HP (2.25%) HitPoints
+  +7.5% Enhancement(RechargeTime)
+
+
+Gaussian's Synchronized Fire-Control
+(Aim)
+  7.5% Movement Speed
+  19.08 HP (1.88%) HitPoints
+  2.5% (0.04 End/sec) Recovery
+  2.5% DamageBuff(All)
+  2.5% Defense(Melee), 1.25% Defense(Lethal), 1.25% Defense(Smashing), 2.5% Defense(Ranged), 1.25% Defense(Energy), 1.25% Defense(Negative), 2.5% Defense(AoE), 1.25% Defense(Fire), 1.25% Defense(Cold)
+
+
+Superior Frozen Blast
+(Force Bomb)
+  15% ResEffect(SpeedRunning), 15% ResEffect(RechargeTime), 15% ResEffect(SpeedFlying)
+  6% Resistance(Fire,Cold), 10% Status Resistance
+  4% (0.07 End/sec) Recovery
+  5% Defense(AoE), 2.5% Defense(Fire), 2.5% Defense(Cold)
+  5% Defense(Fire,Cold), 2.5% Defense(AoE)
+
+
+Luck of the Gambler
+(Maneuvers)
+  10% (0.42 HP/sec) Regeneration
+  11.45 HP (1.13%) HitPoints
+  +7.5% Enhancement(RechargeTime)
+
+
+Shield Wall
+(Maneuvers)
+  10% (0.42 HP/sec) Regeneration
+  5%  Resistance(All), 100% MezResist(Teleport) (20% chance)
+
+
+Ragnarok
+(Neutron Bomb)
+  4% (0.07 End/sec) Recovery
+  6% Resistance(Fire,Cold), 10% Status Resistance
+  +15% Enhancement(Accuracy)
+  +10% Enhancement(RechargeTime)
+  6% Resistance(Toxic,Psionic), 10% Status Resistance
+
+
+Superior Avalanche
+(Atomic Blast)
+  15% ResEffect(SpeedRunning), 15% ResEffect(RechargeTime), 15% ResEffect(SpeedFlying)
+  6% Resistance(Fire,Cold), 10% Status Resistance
+  4% (0.07 End/sec) Recovery
+  5% Defense(Melee), 2.5% Defense(Lethal), 2.5% Defense(Smashing)
+  5% Defense(Fire,Cold), 2.5% Defense(AoE)
+
+
+Numina's Convalesence
+(Health)
+  12% (0.51 HP/sec) Regeneration
+
+
+Miracle
+(Health)
+  2.5% (0.04 End/sec) Recovery
+
+
+Performance Shifter
+(Stamina)
+  7.5% Movement Speed
+
+
+
+
+
+
+|              Do not modify anything below this line!              |
+|-------------------------------------------------------------------|
+|MxDz;2098;753;1506;HEX;|
+|78DA8594CF4F135110C767B75B0BE54729050101814AA1145BC1DF8A0603D804014|
+|340BD36B57D95D5B5DB6CCBAF7FC30B177F4640BCFBF30C510F7A3046A3177FDF8C|
+|807A3675D8C5CE50096EB2ED7CDEF7CDBCD979F3DED0545FF18BE78327402AEDD5A|
+|2E974A44F2444322E0CC7684C15C998007C8AC2E1E048341E1CD5C7350772CDDF49|
+|919EF1442214D68D98888455A1C51B72CA48347941C443E8A64633AA9E8CF460F80|
+|CB887755D0BF52727D4B47A5ED5D4CC74B93972466822A51B1973AECB1C1A14510C|
+|941E53534E93475342C46B4FA6D458A857378CF1544637226B29458630B230A6AB3|
+|1351FBE4206FE64F1FD8D6FBD2265F179B9A64AA42A00B7F1BFD3521B6196A009E6|
+|38CC7358204860448945942528406CB55419EC1C148257E867637E761B1C9673511|
+|538C2E128C136E8E2708CA0008E138CA169E769D9795A053C1327CFD1855BEC607E|
+|E0804A2917B514D542AE1672F522AE59C43FA908966D39B5185638AC1294C24F0E3|
+|F08CAE017410B2E5EC277B604D6864DED352EED629AE28225DAA366582468852704|
+|6DF08CC353360D5773B388B29B562BDFD4F4A387877B7848ABD8D4BC845957F2825|
+|5C27B259741103E10EC818F1C3E71F84CD0095F08DE60F82A1EBE0A66A943AA618E|
+|C33CC10EB8C36181A00EEE126868D6F0F035704F6153EF13EC84071C1E7278A4B0F|
+|3F798C08DE5ACE547B516CA2436B58220C0BBB013066C0CC2041E8C58CFBBB71E9A|
+|68C32FE3E73470B581AB6F51F5F28FF5C25E2AC52ED8C7613F870332EBC3831C0E1|
+|1BC43D3C7C3FBE0AA558A09338716B866E1E43A5EB7706A1D6F58386D622BDCB4B0|
+|CB66E12D0BBB4D9CC45F3F5D8259D94F0DD9466680CC29F468678D6D6F276DF7FFC|
+|CE0A6A617B722C4CF7288B4AFC5001D5CEB20EDB4B2F1FECED629FF5CF7B9C9835B|
+|68C30A8F839A44DA77E7C645B8DFF216DA4A9E86653B4B7DE9847312BBD84ED19D1|
+|B807E82D5BC20D81833D427DBE10A87466AD081C0C6AA65C355A8F1527D6BCE1BE8|
+|F6E40D2C7AF30666F267FC01B0BF9878|
+|-------------------------------------------------------------------|

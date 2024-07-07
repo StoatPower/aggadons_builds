@@ -1,0 +1,302 @@
+This Villain build was built using Mids Reborn 3.4.7
+https://github.com/LoadedCamel/MidsReborn
+
+AR-Kin-Elec: Level 50 Science Corruptor
+Primary Power Set: Assault Rifle
+Secondary Power Set: Kinetics
+Power Pool: Concealment
+Power Pool: Leadership
+Power Pool: Fighting
+Ancillary Pool: Electricity Mastery
+
+Villain Profile:
+------------
+Level 1:	Burst				SprScrBls-Acc/Dmg(A), SprScrBls-Dmg/Rchg(7), SprScrBls-Acc/Dmg/Rchg(7), SprScrBls-Dmg/EndRdx/Rchg(9), SprScrBls-Acc/Dmg/EndRdx/Rchg(9), SprScrBls-Rchg/+End(37)
+Level 1:	Transfusion			Prv-Heal(A), Prv-Absorb%(11), TchoftheN-Acc/EndRdx/Heal/HP/Regen(11), TchoftheN-Heal(36), TchoftheN-Acc/Heal(43), TchoftheN-%Dam(46)
+Level 2:	Slug				Dvs-Acc/Dmg(A), Dvs-Dmg/EndRdx(3), Dvs-Acc/Dmg/Rchg(3), Dvs-Acc/Dmg/EndRdx/Rchg(5), Dcm-Build%(5), GldJvl-Dam%(37)
+Level 4:	Siphon Power			RechRdx-I(A)
+Level 6:	Stealth				LucoftheG-Def/Rchg+(A)
+Level 8:	M30 Grenade			PstBls-Acc/Dmg(A), PstBls-Dmg/EndRdx(39), PstBls-Dmg/Rchg(39), PstBls-Dmg/Rng(39), PstBls-Dam%(40), Bmbdmt-+FireDmg(40)
+Level 10:	Siphon Speed			PcnoftheT-Acc/Slow(A), PcnoftheT-EndRdx/Rchg/Slow(50)
+Level 12:	Sniper Rifle			Apc-Dmg(A), Apc-Dmg/Rchg(13), Apc-Acc/Dmg/Rchg(13), Apc-Acc/Rchg(23), Apc-Dmg/EndRdx(25), Apc-Dam%(25)
+Level 14:	Maneuvers			LucoftheG-Def/Rchg+(A), LucoftheG-Def/EndRdx(15), Ksm-ToHit+(15), ShlWal-ResDam/Re TP(17), Rct-ResDam%(17)
+Level 16:	Increase Density		ImpArm-ResDam(A), ImpArm-ResDam/EndRdx(43), ImpArm-ResPsi(43)
+Level 18:	Flamethrower			Rgn-Dmg(A), Rgn-Dmg/Rchg(19), Rgn-Acc/Dmg/Rchg(19), Rgn-Acc/Rchg(21), Rgn-Dmg/EndRdx(21), Rgn-Knock%(23)
+Level 20:	Speed Boost			EndMod-I(A)
+Level 22:	Tactics				EndRdx-I(A)
+Level 24:	Boxing				Acc-I(A)
+Level 26:	Tough				UnbGrd-ResDam(A), UnbGrd-ResDam/EndRdx(27), UnbGrd-Max HP%(27)
+Level 28:	Weave				LucoftheG-Def/EndRdx(A), LucoftheG-Def(29), LucoftheG-Def/Rchg+(29)
+Level 30:	Ignite				Ann-Acc/Dmg(A), Ann-Dmg/Rchg(31), Ann-Acc/Dmg/Rchg(31), Ann-Acc/Dmg/EndRdx(31), Ann-Acc/Dmg/EndRdx/Rchg(34), Ann-ResDeb%(36)
+Level 32:	Full Auto			SprMlcoft-Acc/Dmg(A), SprMlcoft-Dmg/Rchg(33), SprMlcoft-Acc/Dmg/Rchg(33), SprMlcoft-Dmg/EndRdx/Rchg(33), SprMlcoft-Acc/Dmg/EndRdx/Rchg(34), SprMlcoft-Rchg/Dmg%(34)
+Level 35:	Transference			EnrMnp-Stun%(A), EnrMnp-EndMod(40)
+Level 38:	Fulcrum Shift			Acc-I(A)
+Level 41:	Thunder Strike			Arm-Dmg(A), Arm-Dmg/Rchg(42), Arm-Acc/Dmg/Rchg(42), Arm-Dam%(42), FuroftheG-ResDeb%(50), OvrFrc-Dam/KB(50)
+Level 44:	Charged Armor			GldArm-End/Res(A), GldArm-ResDam(45), GldArm-3defTpProc(45), StdPrt-ResDam/Def+(45), StdPrt-ResKB(46), ImpSki-Status(46)
+Level 47:	Power Sink			EnrMnp-EndMod(A), EnrMnp-EndMod/Rchg(48), EnrMnp-Stun%(48), PwrTrns-+Heal(48)
+Level 49:	Assault				EndRdx-I(A)
+Level 1:	Scourge	
+Level 1:	Brawl				Empty(A)
+Level 1:	Sprint				Clr-RunSpd(A)
+Level 2:	Rest				Empty(A)
+Level 1:	Swift				Run-I(A)
+Level 1:	Hurdle				Jump-I(A)
+Level 1:	Health				NmnCnv-Regen/Rcvry+(A), NmnCnv-Heal(36), Mrc-Rcvry+(37)
+Level 1:	Stamina				PrfShf-End%(A)
+Level 49:	Quick Form	
+Level 50:	Vigor Radial Paragon	
+Level 50:	Ion Core Final Judgement	
+Level 50:	Reactive Core Flawless Interface	
+Level 50:	Banished Pantheon Radial Superior Ally	
+Level 50:	Barrier Core Epiphany	
+Level 50:	Assault Radial Embodiment	
+------------
+------------
+Set Bonus Totals:
+11% DamageBuff(Smashing)
+11% DamageBuff(Lethal)
+11% DamageBuff(Fire)
+11% DamageBuff(Cold)
+11% DamageBuff(Energy)
+11% DamageBuff(Negative)
+11% DamageBuff(Toxic)
+11% DamageBuff(Psionic)
+6% Defense(Melee) (when Defense)
+6% Defense(Smashing)
+6% Defense(Lethal)
+10.38% Defense(Fire)
+10.38% Defense(Cold)
+8.5% Defense(Energy)
+8.5% Defense(Negative)
+6% Defense(Toxic)
+12.88% Defense(Psionic)
+11% Defense(Ranged)
+14.75% Defense(AoE)
+4.95% Max End
++5% Enhancement(Heal)
++68.75% Enhancement(RechargeTime)
++63% Enhancement(Accuracy)
++10% Enhancement(Range)
+5.5% Enhancement(Max EnduranceDiscount)
+GrantPower Preventive Medicine (when PreventiveMedicine)
+200.8 HP (18.75%) HitPoints (when HealSelf)
+Knockback (Mag -7)
+Knockup (Mag -7)
+56.25% MezResist(Confused)
+56.25% MezResist(Held)
+56.25% MezResist(Immobilized)
+56.25% MezResist(Sleep)
+56.25% MezResist(Stunned)
+56.25% MezResist(Terrorized)
+200% MezResist(Teleport) (20% chance)
+24% (0.4 End/sec) Recovery
+101% (4.51 HP/sec) Regeneration
+10.25% Resistance(Smashing)
+10.25% Resistance(Lethal)
+22.25% Resistance(Fire)
+22.25% Resistance(Cold)
+12.5% Resistance(Energy)
+12.5% Resistance(Negative)
+16.25% Resistance(Toxic)
+22.25% Resistance(Psionic)
+
+
+
+------------
+Set Bonuses:
+Superior Scourging Blast
+(Burst)
+  3.6% Max End
+  +10% Enhancement(RechargeTime)
+  +15% Enhancement(Accuracy)
+  4% (0.07 End/sec) Recovery
+  5% Defense(AoE), 2.5% Defense(Fire), 2.5% Defense(Cold)
+
+
+Preventive Medicine
+(Transfusion)
+  2.25% Resistance(Smashing,Lethal), 3.75% Status Resistance
+  GrantPower Preventive Medicine (when PreventiveMedicine)
+
+
+Touch of the Nictus
+(Transfusion)
+  20.08 HP (1.87%) HitPoints (when HealSelf)
+  +9% Enhancement(Accuracy)
+  +5% Enhancement(Heal)
+
+
+Devastation
+(Slug)
+  12% (0.54 HP/sec) Regeneration
+  24.1 HP (2.25%) HitPoints (when HealSelf)
+  3% DamageBuff(All)
+
+
+Luck of the Gambler
+(Stealth)
+  +7.5% Enhancement(RechargeTime) (when Recharge)
+
+
+Positron's Blast
+(M30 Grenade)
+  2.5% (0.04 End/sec) Recovery
+  2.25% Resistance(Fire,Cold), 3.75% Status Resistance
+  +9% Enhancement(Accuracy)
+  +6.25% Enhancement(RechargeTime)
+
+
+Pacing of the Turtle
+(Siphon Speed)
+  2.25% Resistance(Toxic,Psionic), 3.75% Status Resistance
+
+
+Apocalypse
+(Sniper Rifle)
+  16% (0.71 HP/sec) Regeneration
+  32.13 HP (3%) HitPoints (when HealSelf)
+  4% DamageBuff(All)
+  +10% Enhancement(RechargeTime)
+  5% Defense(Psionic)
+
+
+Luck of the Gambler
+(Maneuvers)
+  10% (0.45 HP/sec) Regeneration
+  +7.5% Enhancement(RechargeTime) (when Recharge)
+
+
+Shield Wall
+(Maneuvers)
+  5% Resistance(Lethal) (when Resist), 5% Resistance(Smashing), 5% Resistance(Fire), 5% Resistance(Cold), 5% Resistance(Energy), 5% Resistance(Negative), 5% Resistance(Psionic), 5% Resistance(Toxic), 100% MezResist(Teleport) (20% chance)
+
+
+Reactive Defenses
+(Maneuvers)
+  3% Resistance(All) (when Resist)
+
+
+Impervium Armor
+(Increase Density)
+  2.5% (0.04 End/sec) Recovery
+  1.88% Defense(Psionic)
+  6% Resistance(Psionic) (when Resist)
+
+
+Ragnarok
+(Flamethrower)
+  4% (0.07 End/sec) Recovery
+  6% Resistance(Fire,Cold), 10% Status Resistance
+  +15% Enhancement(Accuracy)
+  +10% Enhancement(RechargeTime)
+  6% Resistance(Toxic,Psionic), 10% Status Resistance
+
+
+Unbreakable Guard
+(Tough)
+  2.5% Enhancement(EnduranceDiscount)
+  2.25% Resistance(Energy,Negative), 3.75% Status Resistance
+  80.32 HP (7.5%) HitPoints (when HealSelf)
+
+
+Luck of the Gambler
+(Weave)
+  10% (0.45 HP/sec) Regeneration
+  12.05 HP (1.12%) HitPoints (when HealSelf)
+  +7.5% Enhancement(RechargeTime) (when Recharge)
+
+
+Annihilation
+(Ignite)
+  1.35% Max End
+  2.25% Resistance(Energy,Negative), 3.75% Status Resistance
+  10% (0.45 HP/sec) Regeneration
+  3% Enhancement(EnduranceDiscount)
+  3.75% Defense(AoE), 1.88% Defense(Fire), 1.88% Defense(Cold)
+
+
+Superior Malice of the Corruptor
+(Full Auto)
+  32.13 HP (3%) HitPoints (when HealSelf)
+  +10% Enhancement(Range)
+  4% DamageBuff(All)
+  5% Defense(Ranged), 2.5% Defense(Energy), 2.5% Defense(Negative)
+  +10% Enhancement(RechargeTime)
+
+
+Energy Manipulator
+(Transference)
+  1.5% (0.03 End/sec) Recovery
+
+
+Armageddon
+(Thunder Strike)
+  4% (0.07 End/sec) Recovery
+  6% Resistance(Fire,Cold), 10% Status Resistance
+  +15% Enhancement(Accuracy)
+
+
+Gladiator's Armor
+(Charged Armor)
+  2.5% (0.04 End/sec) Recovery
+  2.25% Max End
+  3% Defense(Melee) (when Defense), 3% Defense(AoE), 3% Defense(Ranged), 3% Defense(Smashing), 3% Defense(Lethal), 3% Defense(Fire), 3% Defense(Cold), 3% Defense(Energy), 3% Defense(Negative), 3% Defense(Toxic), 3% Defense(Psionic), 100% MezResist(Teleport) (20% chance)
+
+
+Steadfast Protection
+(Charged Armor)
+  1.5% (0.03 End/sec) Recovery
+  3% Defense(Melee) (when Defense), 3% Defense(AoE), 3% Defense(Ranged), 3% Defense(Smashing), 3% Defense(Lethal), 3% Defense(Fire), 3% Defense(Cold), 3% Defense(Energy), 3% Defense(Negative), 3% Defense(Toxic), 3% Defense(Psionic)
+  Knockback Protection (Mag 4)
+
+
+Impervious Skin
+(Charged Armor)
+  7.5% Status Resistance, 25% (1.12 HP/sec) Regeneration
+
+
+Energy Manipulator
+(Power Sink)
+  1.5% (0.03 End/sec) Recovery
+  6% (0.27 HP/sec) Regeneration
+
+
+Numina's Convalesence
+(Health)
+  12% (0.54 HP/sec) Regeneration
+
+
+
+
+
+
+|              Do not modify anything below this line!              |
+|-------------------------------------------------------------------|
+|MxDz;2238;852;1704;HEX;|
+|78DA8D955B4F134114C7FFB3DD5A2E2297725501C102E5D242F16E6214511305128|
+|3D15752CB029B342D698B918FA07E005FD4986834265EA3227E07881A4D7CF6AE31|
+|5E122F890F5A0F3BCB9E2368E224DBE96FFF73CE9C39736676E8F89E95F37383BBA|
+|04AFB93F16C76A43F9DC94C4DE6D299C0A1846DA512960F4071DF7064C04E45F626|
+|AD4480B8C11B35321C4F8D5BA3D1BE6C363E95CC8D0CDB6349AB86E5DD536363513|
+|2B57276228BF283E97432BA3F75CCCEDA47EDA49D9B2E75DE0C5AF1512B939DB027|
+|4B1CDE678F4FE4ECD4B81E3F144FD99353C978CE4EA76AF74EDA89E8421CB98C9D2|
+|0072343F16CCECA4CD75258BDF41806FD282CB6BC1F089940CC54796A2BD022A195|
+|A1006D12C20C21B433CCA965EEDF5286EAB55A840F3E6F6811AA19D623C8D0812A8|
+|6086A197C14BD92EE152E50DFA6550317E10D357089C1C4650967D826842E763F4F|
+|AE89CC45F7049D6C57425BEB1793C38F2AE5A97E0A2D20430BE0B6B6FDE9A4A7157|
+|734FE72F1AEEBD9C5198DE494BA36CC6A542E1A4EAF74F780A629540B91EAA95421|
+|AE712031DC62085054C532AA6274198EFAD2997725221A5FB918D5F8DAC16A746B7|
+|CE3602D7A34BE7531A6F19D83E5949E1231955922D3B30A65127EC22B8A320CF00E|
+|94E10BC343B228151E8D528495B7731D0849686728A0B0CAE5A2CBD16B785E2BB04|
+|1C246864A6C92B099A11A5B181E91EBA0AC8320D6719504290D5552AD4213AB8AD4|
+|1A08B506AB59F5915A27175C87AF9C8ED5F826E1078349766BA4DD1A99EDB5A8942|
+|036A59016552FA2F1D7E3397B6DC00B092F25BC6268C26B798EDF88134EEE1BE53E|
+|34E2AA56EF3815B30ED734DE75F1BAC619176F68BCE760136E6A9C75F196C6FB0E3|
+|EA6699AC54A54334ED1EC411D481B4E303CA1A12D0A45DE16B4C82D38435EC332E6|
+|30B6F2D6B7639B84ED127618E208EEF40978C67096FE764AF79D88B1DA856E09BD1|
+|26A947762E84A9450CF708E2CA27C01E77D51B9F26E9C94704AC277BEC32BA89A7A|
+|6405F7C80ADE6F3A37FCE8A29A5F6B42B6BCF3922A7DE16770B956C0693A68CA6F0|
+|5A98A2D3F14FDF921A127C2417C5CAE8659FDB444A5198F2851A28795B8FE0F307C|
+|5EEEF534473BD0416911D1FE77ABA6031F537F35ACAB5C223D0D2E79F13EF44FE3F|
+|30B636540579A978CFD0D133362C0|
+|-------------------------------------------------------------------|

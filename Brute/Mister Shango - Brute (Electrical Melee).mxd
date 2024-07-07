@@ -1,0 +1,81 @@
+This Villain build was built using Mids Reborn 3.4.6
+https://github.com/LoadedCamel/MidsReborn
+
+Mister Shango: Level 50 Magic Brute
+Primary Power Set: Electrical Melee
+Secondary Power Set: Shield Defense
+Power Pool: Speed
+Power Pool: Sorcery
+Power Pool: Flight
+Power Pool: Leadership
+Ancillary Pool: Mu Mastery
+
+Villain Profile:
+------------
+Level 1:	Havoc Punch			TchofDth-Acc/Dmg(A), TchofDth-Dmg/EndRdx(43), TchofDth-Dmg/Rchg(43), TchofDth-Acc/Dmg/EndRdx(45), TchofDth-Dmg/EndRdx/Rchg(50)
+Level 1:	Deflection			LucoftheG-Def/EndRdx(A), LucoftheG-Def(3), LucoftheG-Def/Rchg+(3), UnbGrd-Max HP%(5), StdPrt-ResDam/EndRdx(5), StdPrt-ResDam/Def+(7)
+Level 2:	Battle Agility			RedFrt-Def/EndRdx(A), RedFrt-Def/Rchg(7), RedFrt-EndRdx/Rchg(9), RedFrt-Def/EndRdx/Rchg(9), RedFrt-Def(11), RedFrt-EndRdx(11)
+Level 4:	True Grit			Mrc-Rcvry+(A), Mrc-Heal(13), Mrc-Heal/EndRdx(13)
+Level 6:	Build Up			GssSynFr--ToHit(A), GssSynFr--ToHit/Rchg(15), GssSynFr--ToHit/Rchg/EndRdx(15), GssSynFr--Rchg/EndRdx(17), GssSynFr--ToHit/EndRdx(17), GssSynFr--Build%(19)
+Level 8:	Thunder Strike			Obl-Dmg(A), Obl-Acc/Rchg(21), Obl-Dmg/Rchg(21), Obl-Acc/Dmg/Rchg(23), Obl-Acc/Dmg/EndRdx/Rchg(23), Obl-%Dam(34)
+Level 10:	Active Defense			RechRdx-I(A)
+Level 12:	Taunt				PrfZng-Dam%(A)
+Level 14:	Hasten				RechRdx-I(A), RechRdx-I(19)
+Level 16:	Against All Odds		EndRdx-I(A)
+Level 18:	Chain Induction			Hct-Dmg(A), Hct-Dmg/Rchg(27), Hct-Acc/Dmg/Rchg(39), Hct-Acc/Rchg(40), Hct-Dmg/EndRdx(46)
+Level 20:	Mystic Flight			HypSnc-Fly(A)
+Level 22:	Phalanx Fighting		LucoftheG-Def/Rchg+(A)
+Level 24:	Hover				BlsoftheZ-Travel(A), BlsoftheZ-Travel/EndRdx(25), BlsoftheZ-ResKB(25), LucoftheG-Def/Rchg+(29)
+Level 26:	Lightning Clap			SuddAcc--KB/+KD(A), SuddAcc-KB/Rech(45), SuddAcc-KB/Acc(46), SuddAcc-KB/Acc/Dmg(46)
+Level 28:	Grant Cover			LucoftheG-Def/Rchg+(A), LucoftheG-Def/EndRdx(29), LucoftheG-Def(31)
+Level 30:	Maneuvers			LucoftheG-Def/EndRdx(A), LucoftheG-Def(31), LucoftheG-Def/EndRdx/Rchg(31), LucoftheG-Def/Rchg(37), LucoftheG-Def/Rchg+(39), Ksm-ToHit+(39)
+Level 32:	Lightning Rod			Obl-Dmg(A), Obl-Acc/Rchg(33), Obl-Dmg/Rchg(33), Obl-Acc/Dmg/Rchg(33), Obl-Acc/Dmg/EndRdx/Rchg(34), Obl-%Dam(34)
+Level 35:	Shield Charge			ScrDrv-Dmg/EndRdx(A), ScrDrv-Dmg/Rchg(36), ScrDrv-Acc/Rchg(36), ScrDrv-Acc/Dmg(36), ScrDrv-Acc/Dmg/EndRdx(37), ScrDrv-Dam%(37)
+Level 38:	Mu Lightning			Thn-Dmg/EndRdx(A), Thn-Acc/Dmg(40), Thn-Dmg/Rchg(40), Thn-Acc/Dmg/Rchg(42)
+Level 41:	Ball Lightning			PstBls-Acc/Dmg(A), PstBls-Dmg/EndRdx(42), PstBls-Dmg/Rchg(42), PstBls-Dmg/Rng(43), PstBls-Acc/Dmg/EndRdx(50), Rgn-Knock%(50)
+Level 44:	Assault				EndRdx-I(A), EndRdx-I(45)
+Level 47:	Arcane Bolt			Dvs-Acc/Dmg(A), Dvs-Dmg/EndRdx(48), Dvs-Dmg/Rchg(48), Dvs-Acc/Dmg/Rchg(48)
+Level 49:	Rune of Protection		Ags-Psi/Status(A)
+Level 1:	Fury	
+Level 1:	Brawl				Empty(A)
+Level 1:	Sprint				Clr-Stlth(A)
+Level 2:	Rest				Empty(A)
+Level 1:	Swift				Flight-I(A)
+Level 1:	Hurdle				Jump-I(A)
+Level 1:	Health				NmnCnv-Regen/Rcvry+(A)
+Level 1:	Stamina				PrfShf-EndMod(A), PrfShf-End%(27)
+Level 47:	Arcane Power	
+------------
+
+
+
+|              Do not modify anything below this line!              |
+|-------------------------------------------------------------------|
+|MxDz;2118;841;1682;HEX;|
+|78DA75D5594F13511407F0FFB453B11B5011D905D96529F240DC13A34282A189098|
+|951504953065AD308695141BF0526FAE49208A8CFAEDFC044C5E555717F7679352A|
+|F5CC3DB7BD07894DCA9DDF9CB9E72E736E89CD1E0E2D3F1F3A002B78281DCF66C70|
+|E66CECD38BE587C3295F00208C752D91927D3309C8C9F9D9C2AA23BB5EA89B19893|
+|769C687FDA49CC645289789A6FE8E06167C2399B75A2C3C994931ECF1381A35353E|
+|9E8F0B4E38C87F8722A93703273418581746A323953A2AE879CF8B893C92653D3E5|
+|FDD3A944548F796E2C1677A73357491369A0EF2A7D6121FFC9D9C008B56DB615A2C|
+|B5EBB03A3CCB0E64966B162174E314B157B719A19517C1A5A9BDB07945A6EC0DA42|
+|4D9DEDC16666856639B352D1C64FAF22DFB5C19D2CEEB301DCC9E28CCF68284B0E6|
+|521C0C972F4D980A0C1468424C20601144B94183CA7F45E91DEE3C5114BAD949B10|
+|0699839AFD4C5E81BB073E33BB9CCF87054F2177311625960C4A715BE28EC126DC3|
+|5703317C9F445F8C5D1E36AF8CDF8CD3CA1F98739A2B805ABCC51CD1CF3A4E2365A|
+|B7E229D52CD33EF8C53EC08F4EA8781F35B6D743B1A08C079135136DA4EA0F8BA81|
+|5CEF7E63509BCA08168FF03854425D866A2EEAB8840146D04AD3CCC847AA81A6DCC|
+|49C556B433938A6DD8CE4C2976A3837946F1720B5026975086125F61E497342FAA4|
+|76F215A9E2F5A37EAA7055688BEDE0ABC31CBAFC45B8915835A99C4A6CB2A99A40A|
+|5FEC42B40BEF0DBAF159E293C12B9A678D2CD81A39446DFE1CBAD89A3F852E22B48|
+|23A798EEAFEFBE856B54D1ACD8818B4CAB15AF107EAA0BAA063897A99BE3E5FAA2B|
+|AABE1AF2A5FA4E5397EA7B4D5DAA1F746DEA52FDB8B6543FA9E635ED40A31CAA111|
+|7B88276A95E4D9865EED69C63EED13CCFDCABD88C8BCC7D9A9798FB15C768C016F9|
+|C65A709DE35D1E2EB86BCC6ECD1BCCA8E276DC64F628C62959BB9C773BEE71FC3EF|
+|8716EAD7B9A0F98DC74E021939B5E3C623ED2DCC93BF6587113BDEC4E791E3BE521|
+|EB9298A75311954B8CE29689F66041625162C9E00A25D9218E2DA1CF14CA80BDF6B|
+|F45AED686FCE4D44DFAB973FF0CFDF3307DFDE63C1DB56590A296E9F935B0AE6793|
+|99E2B7F5D17613FDBE3E7ACC2CE0C73F51BA9C3773AAC65583271DB49D6282B9BF2|
+|630A871|
+|-------------------------------------------------------------------|

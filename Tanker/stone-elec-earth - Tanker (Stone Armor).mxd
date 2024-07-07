@@ -1,0 +1,337 @@
+This Hero build was built using Mids Reborn 3.4.7
+https://github.com/LoadedCamel/MidsReborn
+
+stone-elec-earth: Level 50 Magic Tanker
+Primary Power Set: Stone Armor
+Secondary Power Set: Electrical Melee
+Power Pool: Teleportation
+Power Pool: Concealment
+Power Pool: Speed
+Ancillary Pool: Earth Mastery
+
+Hero Profile:
+------------
+Level 1:	Rock Armor			LucoftheG-Def/Rchg+(A), GifoftheA-Run+(36)
+Level 1:	Havoc Punch			Hct-Dmg(A), Hct-Dmg/Rchg(40), Hct-Acc/Dmg/Rchg(40), Hct-Acc/Rchg(43), Hct-Dmg/EndRdx(43), Hct-Dam%(43)
+Level 2:	Stone Skin			ImpSki-Status(A), StdPrt-ResDam/Def+(15), UnbGrd-Max HP%(23), ShlWal-ResDam/Re TP(23), ShlWal-Def(45), ShlWal-Def/EndRdx(46)
+Level 4:	Earth's Embrace			Pnc-Heal/EndRedux(A), Pnc-EndRdx/Rchg(5), Pnc-Heal/Rchg(9), Pnc-Heal/EndRedux/Rchg(15), Pnc-Heal(21)
+Level 6:	Mud Pots			SprMghoft-Acc/Dmg(A), SprMghoft-Dmg/Rchg(7), SprMghoft-Acc/Dmg/Rchg(7), SprMghoft-Dmg/EndRdx/Rchg(11), SprMghoft-Acc/Dmg/EndRdx/Rchg(11), SprMghoft-Rchg/Res%(13)
+Level 8:	Combat Teleport			GssSynFr--Build%(A), GssSynFr--ToHit/Rchg(9)
+Level 10:	Taunt				PrfZng-Acc/Rchg(A)
+Level 12:	Rooted				RgnTss-Heal/EndRdx(A), RgnTss-Regen+(13), Pnc-Heal/EndRedux(45), Pnc-Heal(46), NmnCnv-Regen/Rcvry+(50)
+Level 14:	Stealth				LucoftheG-Def/Rchg+(A), GifoftheA-Run+(46)
+Level 16:	Thunder Strike			SprAvl-Acc/Dmg(A), SprAvl-Dmg/EndRdx(17), SprAvl-Acc/Dmg/EndRdx(17), SprAvl-Acc/Dmg/Rchg(19), SprAvl-Acc/Dmg/EndRdx/Rchg(19), Erd-%Dam(21)
+Level 18:	Crystal Armor			LucoftheG-Def/Rchg+(A), GifoftheA-Run+(37)
+Level 20:	Minerals			LucoftheG-Def/Rchg+(A), GifoftheA-Run+(40)
+Level 22:	Brimstone Armor			GldArm-3defTpProc(A), ImpArm-ResPsi(37), Ags-ResDam/EndRdx(37), Ags-ResDam(39), Ags-ResDam/EndRdx/Rchg(39), Ags-Psi/Status(39)
+Level 24:	Chain Induction			TchofDth-Acc/Dmg(A), TchofDth-Dmg/EndRdx(25), TchofDth-Dmg/Rchg(25), TchofDth-Acc/Dmg/EndRdx(27), TchofDth-Dmg/EndRdx/Rchg(27), TchofDth-Dam%(29)
+Level 26:	Granite Armor			Rct-ResDam%(A), Rct-Def(29), Rct-Def/EndRdx(33), UnbGrd-ResDam/EndRdx(34), UnbGrd-ResDam/EndRdx/Rchg(34), UnbGrd-ResDam(34)
+Level 28:	Hasten				RechRdx-I(A)
+Level 30:	Lightning Rod			SprGntFis-Acc/Dmg(A), SprGntFis-Dmg/Rchg(31), SprGntFis-Acc/Dmg/Rchg(31), SprGntFis-Acc/Dmg/EndRdx/Rchg(31), SprGntFis-Rchg/+Absorb(33), FuroftheG-ResDeb%(33)
+Level 32:	Teleport			Wrp-+Special(A)
+Level 35:	Fold Space			RechRdx-I(A), RechRdx-I(36), Acc-I(36)
+Level 38:	Salt Crystals			Acc-I(A)
+Level 41:	Lightning Clap			SuddAcc--KB/+KD(A), SuddAcc-KB/Acc(42), FrcFdb-Acc/KB(42), FrcFdb-Rechg%(42)
+Level 44:	Quick Sand			PcnoftheT-Acc/Slow(A), PcnoftheT--Rchg%(45)
+Level 47:	Stalagmites			SprFrzBls-Acc/Dmg(A), SprFrzBls-Dmg/EndRdx(48), SprFrzBls-Acc/Dmg/EndRdx(48), SprFrzBls-Acc/Dmg/Rchg(48), SprFrzBls-Dmg/EndRdx/Acc/Rchg(50), SprFrzBls-Rchg/ImmobProc(50)
+Level 49:	Build Up			RechRdx-I(A)
+Level 1:	Brawl				Empty(A)
+Level 1:	Gauntlet	
+Level 1:	Sprint				Run-I(A)
+Level 2:	Rest				Empty(A)
+Level 1:	Swift				Run-I(A)
+Level 1:	Health				Pnc-Heal/+End(A), Prv-Absorb%(3), Mrc-Rcvry+(3)
+Level 1:	Hurdle				Jump-I(A)
+Level 1:	Stamina				PrfShf-End%(A), PrfShf-EndMod(5)
+Level 50:	Freedom Phalanx Reserve	
+Level 50:	Portal Jockey	
+Level 50:	Task Force Commander	
+Level 50:	The Atlas Medallion	
+Level 50:	Musculature Radial Paragon	
+Level 50:	Mighty Radial Final Judgement	
+Level 50:	Preemptive Core Flawless Interface	
+Level 50:	Banished Pantheon Radial Superior Ally	
+Level 50:	Rebirth Radial Epiphany	
+Level 50:	Melee Radial Embodiment	
+------------
+------------
+Set Bonus Totals:
+6.5% DamageBuff(Smashing)
+6.5% DamageBuff(Lethal)
+6.5% DamageBuff(Fire)
+6.5% DamageBuff(Cold)
+6.5% DamageBuff(Energy)
+6.5% DamageBuff(Negative)
+6.5% DamageBuff(Toxic)
+6.5% DamageBuff(Psionic)
+19.75% Defense(Melee)
+12.88% Defense(Smashing)
+12.88% Defense(Lethal)
+16.63% Defense(Fire)
+16.63% Defense(Cold)
+6% Defense(Energy)
+6% Defense(Negative)
+6% Defense(Toxic)
+6% Defense(Psionic)
+6% Defense(Ranged)
+15.06% Defense(AoE)
+3.6% Max End
++15% Enhancement(Accuracy)
+2.5% Enhancement(Max EnduranceDiscount)
++57.5% Enhancement(RechargeTime)
+43.5% SpeedFlying
+GrantPower Preventive Medicine (when PreventiveMedicine)
+330.3 HP (17.63%) HitPoints
+43.5% JumpHeight
+43.5% SpeedJumping
+101.3% MezResist(Confused)
+101.3% MezResist(Held)
+101.3% MezResist(Immobilized)
+101.3% MezResist(Sleep)
+101.3% MezResist(Stunned)
+101.3% MezResist(Terrorized)
+200% MezResist(Teleport) (20% chance)
+17% (0.28 End/sec) Recovery
+61% (4.76 HP/sec) Regeneration
+30% ResEffect(SpeedFlying)
+30% ResEffect(RechargeTime)
+30% ResEffect(SpeedRunning)
+22.25% Resistance(Smashing)
+26% Resistance(Fire)
+26% Resistance(Cold)
+17.75% Resistance(Energy)
+17.75% Resistance(Negative)
+22.25% Resistance(Toxic)
+33.25% Resistance(Psionic)
+22.25% Resistance(Lethal)
+73.5% SpeedRunning
+
+
+
+------------
+Set Bonuses:
+Luck of the Gambler
+(Rock Armor)
+  +7.5% Enhancement(RechargeTime)
+
+
+Gift of the Ancients
+(Rock Armor)
+  7.5% SpeedRunning
+
+
+Hecatomb
+(Havoc Punch)
+  4% (0.07 End/sec) Recovery
+  6% Resistance(Fire,Cold), 10% Status Resistance
+  +15% Enhancement(Accuracy)
+  +10% Enhancement(RechargeTime)
+  6% Resistance(Toxic,Psionic), 10% Status Resistance
+
+
+Impervious Skin
+(Stone Skin)
+  7.5% Status Resistance, 25% (1.95 HP/sec) Regeneration
+
+
+Steadfast Protection
+(Stone Skin)
+  3% Defense(All)
+
+
+Unbreakable Guard
+(Stone Skin)
+  140.6 HP (7.5%) HitPoints
+
+
+Shield Wall
+(Stone Skin)
+  10% (0.78 HP/sec) Regeneration
+  2.5% (0.04 End/sec) Recovery
+  5%  Resistance(All), 100% MezResist(Teleport) (20% chance)
+
+
+Panacea
+(Earth's Embrace)
+  2.5% (0.04 End/sec) Recovery
+  2.25% Resistance(Smashing,Lethal), 3.75% Status Resistance
+  10% (0.78 HP/sec) Regeneration
+  1000% MezResist(Repel) (10% chance)
+
+
+Superior Might of the Tanker
+(Mud Pots)
+  4% DamageBuff(All)
+  56.22 HP (3%) HitPoints
+  +10% Enhancement(RechargeTime)
+  6% Resistance(Toxic,Psionic), 10% Status Resistance
+  6% Resistance(Smashing,Lethal), 10% Status Resistance
+
+
+Gaussian's Synchronized Fire-Control
+(Combat Teleport)
+  7.5% Movement Speed
+
+
+Regenerative Tissue
+(Rooted)
+  6% Movement Speed
+
+
+Panacea
+(Rooted)
+  2.5% (0.04 End/sec) Recovery
+
+
+Luck of the Gambler
+(Stealth)
+  +7.5% Enhancement(RechargeTime)
+
+
+Gift of the Ancients
+(Stealth)
+  7.5% SpeedRunning
+
+
+Superior Avalanche
+(Thunder Strike)
+  15% ResEffect(SpeedRunning), 15% ResEffect(RechargeTime), 15% ResEffect(SpeedFlying)
+  6% Resistance(Fire,Cold), 10% Status Resistance
+  4% (0.07 End/sec) Recovery
+  5% Defense(Melee), 2.5% Defense(Lethal), 2.5% Defense(Smashing)
+
+
+Luck of the Gambler
+(Crystal Armor)
+  +7.5% Enhancement(RechargeTime)
+
+
+Gift of the Ancients
+(Crystal Armor)
+  7.5% SpeedRunning
+
+
+Luck of the Gambler
+(Minerals)
+  +7.5% Enhancement(RechargeTime)
+
+
+Gift of the Ancients
+(Minerals)
+  7.5% SpeedRunning
+
+
+Gladiator's Armor
+(Brimstone Armor)
+  3% Defense(All), 100% MezResist(Teleport) (20% chance)
+
+
+Impervium Armor
+(Brimstone Armor)
+  6% Resistance(Psionic)
+
+
+Aegis
+(Brimstone Armor)
+  7.5% Movement Speed
+  3.13% Defense(Fire,Cold), 1.56% Defense(AoE)
+  3% Resistance(Smashing,Lethal), 5% Status Resistance
+  5% Resistance(Psionic)
+
+
+Touch of Death
+(Chain Induction)
+  1.5% Resistance(Energy,Negative), 2.5% Status Resistance
+  28.11 HP (1.5%) HitPoints
+  2.5% DamageBuff(All)
+  3.75% Resistance(Smashing,Lethal), 6.25% Status Resistance
+  3.75% Defense(Melee), 1.88% Defense(Lethal), 1.88% Defense(Smashing)
+
+
+Reactive Defenses
+(Granite Armor)
+  1.5% Resistance(Smashing,Lethal), 2.5% Status Resistance
+  35.14 HP (1.88%) HitPoints
+  3% Resistance(All)
+
+
+Unbreakable Guard
+(Granite Armor)
+  2.5% Enhancement(EnduranceDiscount)
+  2.25% Resistance(Energy,Negative), 3.75% Status Resistance
+
+
+Superior Gauntleted Fist
+(Lightning Rod)
+  3.6% Max End
+  6% Resistance(Energy,Negative), 10% Status Resistance
+  16% (1.25 HP/sec) Regeneration
+  5% Defense(Melee), 2.5% Defense(Lethal), 2.5% Defense(Smashing)
+
+
+Sudden Acceleration
+(Lightning Clap)
+  7.5% Movement Speed
+
+
+Force Feedback
+(Lightning Clap)
+  7.5% Movement Speed
+
+
+Pacing of the Turtle
+(Quick Sand)
+  2.25% Resistance(Toxic,Psionic), 3.75% Status Resistance
+
+
+Superior Frozen Blast
+(Stalagmites)
+  15% ResEffect(SpeedRunning), 15% ResEffect(RechargeTime), 15% ResEffect(SpeedFlying)
+  6% Resistance(Fire,Cold), 10% Status Resistance
+  4% (0.07 End/sec) Recovery
+  5% Defense(AoE), 2.5% Defense(Fire), 2.5% Defense(Cold)
+  5% Defense(Fire,Cold), 2.5% Defense(AoE)
+
+
+Preventive Medicine
+(Health)
+  GrantPower Preventive Medicine (when PreventiveMedicine)
+
+
+Performance Shifter
+(Stamina)
+  7.5% Movement Speed
+
+
+
+
+
+
+|              Do not modify anything below this line!              |
+|-------------------------------------------------------------------|
+|MxDz;2212;787;1574;HEX;|
+|78DA6D95C94F137114C7DFB4531128964576CA5296B6945670B97870896022B6910|
+|4E241C56628A34CAC6D9D36468E2662F46A8C5EDC2E1E3C787137FE0B6ADC375CE1|
+|640C60A2267AC2476BFABE1DFC2593CCE7BDEFEFFDBEEF37BF99891CEB773E7A18D|
+|E428A735B5C4BA7A3235AE2906E3A22DA4123463CCAD39964420FEA713D16D43533|
+|3351C4C1869C2ADAAF1FD013693D34BCA4896E350F274DF7BF548467E8A1019E963|
+|18D9816CF05A87228998C8746F83E9534335AC648262AB2A11D89A346DA1833E246|
+|66B2241B194EE9FAB82B7B1BD6B571DD4C4F18A9CA8194110B0D2C198946B474463|
+|727EBD85088AFE962C2B1A81055F3D5A72A8B3CDAA998C19B83C72E162822751075|
+|D9F2522F79117C02DDE447E8460808BC67270A9657C8CDE8CE655751AD400DFDB1E|
+|7E7D5D04E811E1A1408D276810F5CDE0EE5553B35495625B7C04A6A1658452D02AB|
+|A955E0235774A06107BD92EC0A7A8DF046A084DE22BC1370D2B440179F992228AF1|
+|4D1351B78BC2AF0849F4C3148A9988E48F613FB2CC5CE4B69A3ECA5933609F4E09E|
+|04B1D93EDA2DC7A28CAD95A1B5323C34413C344FD99A0B37C94517D4BCB49C2E225|
+|C12A8A4CB0857547806F3B6BCE12FDC5B051EDF0A74D2814E66585A85D22A947A51|
+|FA99A5D5207554D35A3B54F58BB4837AA54817AD475887B041E039EF492DEE492DE|
+|DA17CC53ADA8BB04FA0814611F60B3451546096DDD763F97AFA21EE9B685EA09516|
+|04DAE817C26F849F021E7EF88D78D81A2940F9EC4BEECD8D8BBBE9843CBB669A423|
+|889704A055BA71136CBE25E5EBC05176FA166473E6BAF21F240D6E6416BED85D020|
+|709617E8C4AA9D987DC12DF9206BF7D1ACD8F3D30CC2711BC094C0572751005F990|
+|05D57E0B37543E01CBB09E11686E8962CB1866E23DC41B8ABC2FB7A0FE1BEC0336E|
+|A7179BEDC57D69520BFF074B178F5C436AE10F6031BC5C1C9452432AAA39AB48A9B|
+|992C2528533172C59DEC6363903369A43189497717E79559F54FD6EC9F2ED791BFC|
+|01CE0864C710EBFBB0DD516B40B306C6AC81FF8D70954534E1B70476D55A02DF3A2|
+|C819BD61A0F3CD940493EF0171E3D86C0|
+|-------------------------------------------------------------------|

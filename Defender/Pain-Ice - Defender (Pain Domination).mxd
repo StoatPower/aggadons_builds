@@ -1,0 +1,83 @@
+This Hero build was built using Mids Reborn 3.4.7
+https://github.com/LoadedCamel/MidsReborn
+
+Pain-Ice: Level 50 Science Defender
+Primary Power Set: Pain Domination
+Secondary Power Set: Ice Blast
+Power Pool: Speed
+Power Pool: Flight
+Power Pool: Fighting
+Power Pool: Leadership
+Ancillary Pool: Soul Mastery
+
+Hero Profile:
+------------
+Level 1:	Nullify Pain			Pnc-Heal(A), Pnc-Heal/+End(3), RgnTss-Regen+(3)
+Level 1:	Ice Bolt			SprVglAss-Acc/Dmg(A), SprVglAss-Dmg/Rchg(5), SprVglAss-Dmg/EndRdx/Rchg(5), SprVglAss-Acc/Dmg/EndRdx(7), SprVglAss-Acc/Dmg/EndRdx/Rchg(7), SprVglAss-Rchg/+Absorb(9)
+Level 2:	Share Pain			NmnCnv-Regen/Rcvry+(A), HrmHln-Heal(13), HrmHln-Heal/Rchg(15), HrmHln-Heal/EndRdx(21)
+Level 4:	Frost Breath			PstBls-Acc/Dmg(A), PstBls-Dmg/Rchg(15), PstBls-Dmg/Rng(17), PstBls-Acc/Dmg/EndRdx(17), PstBls-Dam%(19), OvrFrc-Dam/KB(19)
+Level 6:	Hasten				RechRdx-I(A)
+Level 8:	Hover				LucoftheG-Def/Rchg+(A), WntGif-RunSpd/Jump/Fly/Rng(39), WntGif-RunSpd/Jump/Fly/Rng/EndRdx(50)
+Level 10:	Aim				RechRdx-I(A), RechRdx-I(21)
+Level 12:	Soothing Aura			Prv-Heal(A), Prv-Heal/EndRdx(23), Prv-EndRdx/Rchg(23), Prv-Heal/Rchg(25), Prv-Heal/Rchg/EndRdx(25), Prv-Absorb%(27)
+Level 14:	Kick				FrcFdb-Rechg%(A)
+Level 16:	Tough				Ags-ResDam/EndRdx(A), Ags-ResDam(27), Ags-ResDam/EndRdx/Rchg(29)
+Level 18:	World of Pain			UnbGrd-ResDam(A), UnbGrd-ResDam/EndRdx(29), UnbGrd-EndRdx/Rchg(31), UnbGrd-Rchg/ResDam(31), UnbGrd-ResDam/EndRdx/Rchg(31), UnbGrd-Max HP%(33)
+Level 20:	Ice Storm			SprFrzBls-Acc/Dmg(A), SprFrzBls-Dmg/EndRdx(45), SprFrzBls-Acc/Dmg/EndRdx(45), SprFrzBls-Acc/Dmg/Rchg(45), SprFrzBls-Dmg/EndRdx/Acc/Rchg(46), SprFrzBls-Rchg/ImmobProc(46)
+Level 22:	Weave				LucoftheG-Def/EndRdx(A), LucoftheG-Def(33), LucoftheG-Def/Rchg+(33)
+Level 24:	Maneuvers			LucoftheG-Def/EndRdx(A), LucoftheG-Def(36), LucoftheG-Def/Rchg+(37), ShlWal-ResDam/Re TP(37), Rct-ResDam%(37)
+Level 26:	Anguishing Cry			TchofLadG-DefDeb/Rchg(A), TchofLadG-DefDeb/Rchg/EndRdx(34), TchofLadG-%Dam(34), AchHee-DefDeb/Rchg(34), AchHee-ResDeb%(36), AnlWkn-%ToHit(36)
+Level 28:	Fly				WntGif-RunSpd/Jump/Fly/Rng(A), WntGif-RunSpd/Jump/Fly/Rng/EndRdx(39)
+Level 30:	Tactics				EndRdx-I(A)
+Level 32:	Painbringer			RechRdx-I(A)
+Level 35:	Bitter Ice Blast		SprWntBit-Acc/Dmg(A), SprWntBit-Dmg/Rchg(39), SprWntBit-Acc/Dmg/EndRdx(40), SprWntBit-Acc/Dmg/Rchg(40), SprWntBit-Dmg/EndRdx/Acc/Rchg(40), SprWntBit-Rchg/SlowProc(42)
+Level 38:	Blizzard			Rgn-Dmg(A), Rgn-Dmg/Rchg(42), Rgn-Acc/Dmg/Rchg(42), Rgn-Acc/Rchg(43), Rgn-Dmg/EndRdx(43), Rgn-Knock%(43)
+Level 41:	Soul Drain			SprAvl-Dmg/EndRdx(A), SprAvl-Acc/Dmg/EndRdx(48), SprAvl-Acc/Dmg/EndRdx/Rchg(48), SprAvl-Acc/Dmg(48), SprAvl-Acc/Dmg/Rchg(50), SprAvl-Rchg/KDProc(50)
+Level 44:	Power Boost			RechRdx-I(A), RechRdx-I(46)
+Level 47:	Vengeance			LucoftheG-Def/Rchg+(A)
+Level 49:	Assault				EndRdx-I(A)
+Level 1:	Vigilance	
+Level 1:	Brawl				Empty(A)
+Level 1:	Sprint				Clr-Stlth(A)
+Level 2:	Rest				Empty(A)
+Level 1:	Swift				Flight-I(A)
+Level 1:	Hurdle				Jump-I(A)
+Level 1:	Health				Pnc-Heal(A), Pnc-Heal/EndRedux(9), Pnc-Heal/Rchg(11)
+Level 1:	Stamina				PrfShf-End%(A), PrfShf-EndMod(11), EndMod-I(13)
+Level 28:	Afterburner	
+Level 50:	Reactive Total Core Conversion	
+Level 50:	Agility Total Core Revamp	
+Level 50:	Banished Pantheon Partial Radial Improved Ally	
+Level 50:	Ageless Partial Radial Invocation	
+Level 50:	Support Partial Radial Graft	
+------------
+
+
+
+|              Do not modify anything below this line!              |
+|-------------------------------------------------------------------|
+|MxDz;2112;753;1506;HEX;|
+|78DA7D95594F135114C7CF4CA796B6EC652B50A46555A4964DDF5C004D8C608824B|
+|E364D1960923AD39412F503F8054C8C2FAE6FAE4FCAE293623446234F7C02131F70|
+|414D1470CD782861CE9F92789369EEEF9EE59EAD33C3E7070B17DF0C1D21A578209|
+|5989A8A0FEAE3BA39A6673CA3494337933AF12A18491866E789A4EE61086D69C4FB|
+|A7C7C7A31BA2F8A075D6301359C332838EF474C29CD0C7A26C15EF67CF59F28D585|
+|62A3A9AD6F5317F6E7B3C654C4C668B36F71B5BC39C28C9D1909E6017539346BAEE|
+|58DA484607AC4C663A9DB532F1516B3A151F66777AE6420D47D3C2CF6A2BFF28B4B|
+|56C95A8D145D4A529362F95C208875831B4094FD4ED766EA298E6A86ABC01E816D8|
+|453D08BD0205D427B0CE6129E0DEA5D019C59116D20043DB2614D351810A3A2CB0C|
+|031BA3046173D24C74931CD0894D22CC29C4039CD23BC957A44B8A36E704F6EEA10|
+|552F4B3D58580F554A06AD1414475D542BF08C83F692D8295EF45A81F08B8BE4C7F|
+|CFCB42C8EAAE83DC207811AFA88F049A09656A0DF9C4111E65744175547EA626909|
+|E6574231051CF50AD4538FC06F0EBA0C832EA3EF2E505D1568A0358475841F028DF|
+|453E039471840F7017A2463B58F66106611E6043A691EE131CC32675D89595752A9|
+|0291542040BFCBD8AE1AECB46AB46B42BB66B46BA6932E806F027FB88E414C3448A|
+|FA43B617A8DB088F074A3445B172F202C899A9F03AE03F74A1D4E6C2B4E6C805543|
+|3827210ACB90FEE53877C33C33C008BFE01B239845846E6B70CD1D8136BA8B700FE|
+|1BEC01E7A20F092DDB7A0FB16EA5641B507A157602FF5211C403828708E8BD0AE38|
+|AF41DBDD4ED7E4F2FD741DE126C2550DFEFD37106E09BC2BA45CAD9C1E7460E93AB|
+|7BD17B80751AC7214A7A89CA531EC500C3B744ADBFE2AB7EB35C265E70E6D3BA73C|
+|94A7CC8F570A32A2A190A58A58AEF876583649109F774ADB45FAC5F7BFAF5401D50|
+|BF8A841E0EB4EBB2B2AA85E52E19BD228F751154F3FE4612F055886355AABCA3B58|
+|6ECE3BB89C6FB210C93BF807F98A603A|
+|-------------------------------------------------------------------|

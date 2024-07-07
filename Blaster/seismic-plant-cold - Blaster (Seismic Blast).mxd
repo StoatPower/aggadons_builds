@@ -1,0 +1,295 @@
+This Hero build was built using Mids Reborn 3.4.7
+https://github.com/LoadedCamel/MidsReborn
+
+seismic-plant-cold: Level 50 Magic Blaster
+Primary Power Set: Seismic Blast
+Secondary Power Set: Plant Manipulation
+Power Pool: Leaping
+Power Pool: Speed
+Power Pool: Fighting
+Ancillary Pool: Cold Mastery
+
+Hero Profile:
+------------
+Level 1:	Shatter				SprDfnBrr-Acc/Dmg(A), SprDfnBrr-Dmg/Rchg(21), SprDfnBrr-Acc/Dmg/Rchg(36), SprDfnBrr-Acc/Dmg/EndRdx(37), SprDfnBrr-Acc/Dmg/EndRdx/Rchg(37), SprDfnBrr-Rchg/+Status Protect(37)
+Level 1:	Entangle			Dcm-Acc/Dmg(A), Dcm-Acc/Dmg/Rchg(21), Dcm-Build%(43)
+Level 2:	Rock Shards			SprFrzBls-Acc/Dmg(A), SprFrzBls-Dmg/EndRdx(3), SprFrzBls-Acc/Dmg/EndRdx(3), SprFrzBls-Acc/Dmg/Rchg(5), SprFrzBls-Dmg/EndRdx/Acc/Rchg(11), SprFrzBls-Rchg/ImmobProc(17)
+Level 4:	Strangler			Lck-Acc/Hold(A), Lck-Acc/EndRdx/Rchg/Hold(5), Lck-%Hold(43)
+Level 6:	Entomb				Apc-Dmg(A), Apc-Dmg/Rchg(7), Apc-Acc/Dmg/Rchg(7), Apc-Acc/Rchg(9), Apc-Dmg/EndRdx(9), Apc-Dam%(11)
+Level 8:	Seismic Force			RechRdx-I(A)
+Level 10:	Combat Jumping			LucoftheG-Def/Rchg+(A)
+Level 12:	Upthrust			Rgn-Dmg(A), Rgn-Dmg/Rchg(13), Rgn-Acc/Dmg/Rchg(13), Rgn-Acc/Rchg(15), Rgn-Knock%(15), AchHee-ResDeb%(17)
+Level 14:	Toxins				RechRdx-I(A), GssSynFr--Build%(45)
+Level 16:	Hasten				RechRdx-I(A)
+Level 18:	Spore Cloud			DarWtcDsp-ToHitDeb/EndRdx(A), DarWtcDsp-ToHitdeb/Rchg/EndRdx(19), DarWtcDsp-Slow%(19)
+Level 20:	Wild Fortress			Prv-Absorb%(A), Prv-Heal(43), Mrc-Rcvry+(46), Mrc-Heal(46), EndMod-I(46)
+Level 22:	Tombstone			StnoftheM-Acc/Dmg(A), StnoftheM-Dmg/EndRdx(23), StnoftheM-Acc/ActRdx/Rng(23), StnoftheM-Dmg/ActRdx/Rchg(34), StnoftheM-Dmg/EndRdx/Rchg(34), StnoftheM-Dam%(34)
+Level 24:	Stalagmite			SprBlsWrt-Acc/Dmg(A), SprBlsWrt-Dmg/Rchg(25), SprBlsWrt-Acc/Dmg/Rchg(25), SprBlsWrt-Acc/Dmg/EndRdx(31), SprBlsWrt-Acc/Dmg/EndRdx/Rchg(31), SprBlsWrt-Rchg/Dmg%(33)
+Level 26:	Meteor				PstBls-Acc/Dmg(A), PstBls-Dmg/Rchg(27), PstBls-Acc/Dmg/EndRdx(27), PstBls-Dmg/Rng(29), PstBls-Dam%(29), SuddAcc--KB/+KD(31)
+Level 28:	Vines				UnbCns-Hold/Rchg(A), UnbCns-Dam%(39), Lck-%Hold(40), NrnSht-Dam%(40), GhsWdwEmb-Dam%(40), GldNet-Dam%(42)
+Level 30:	Kick				FrcFdb-Rechg%(A)
+Level 32:	Tough				GldArm-3defTpProc(A), StdPrt-ResDam/Def+(33), StdPrt-ResKB(33)
+Level 35:	Weave				LucoftheG-Def/Rchg+(A), ShlWal-Def/EndRdx(36), ShlWal-ResDam/Re TP(36)
+Level 38:	Snow Storm			IceMisTrmt-End/Slow(A), IceMisTrmt-Acc/Dam/End(42), IceMisTrmt-Acc/Dam/End/Rech(42)
+Level 41:	Super Speed			WntGif-ResSlow(A)
+Level 44:	Hoarfrost			Prv-Heal/EndRdx(A), Prv-Heal(45), Prv-Heal/Rchg(45), Prv-Heal/Rchg/EndRdx(50)
+Level 47:	Frozen Armor			LucoftheG-Def/Rchg+(A), LucoftheG-Def/EndRdx(48), Rct-Def(48), Rct-Def/EndRdx(48), Rct-ResDam%(50), Ksm-ToHit+(50)
+Level 49:	Hibernate			RgnTss-Regen+(A)
+Level 1:	Brawl				Empty(A)
+Level 1:	Defiance	
+Level 1:	Sprint				Empty(A)
+Level 2:	Rest				Empty(A)
+Level 1:	Swift				Empty(A)
+Level 1:	Health				Pnc-Heal/+End(A), NmnCnv-Regen/Rcvry+(39)
+Level 1:	Hurdle				Empty(A)
+Level 1:	Stamina				PwrTrns-+Heal(A), PrfShf-End%(39)
+Level 1:	Seismic Shockwaves	
+Level 49:	Quick Form	
+Level 41:	Speed Phase	
+Level 50:	Cardiac Core Paragon	
+Level 50:	Cryonic Core Final Judgement	
+Level 50:	Reactive Core Flawless Interface	
+Level 50:	Banished Pantheon Radial Superior Ally	
+Level 50:	Barrier Core Epiphany	
+Level 50:	Assault Radial Embodiment	
+------------
+------------
+Set Bonus Totals:
+18% DamageBuff(Smashing)
+18% DamageBuff(Lethal)
+18% DamageBuff(Fire)
+18% DamageBuff(Cold)
+18% DamageBuff(Energy)
+18% DamageBuff(Negative)
+18% DamageBuff(Toxic)
+18% DamageBuff(Psionic)
+6% Defense(Melee)
+6% Defense(Smashing)
+6% Defense(Lethal)
+13.5% Defense(Fire)
+13.5% Defense(Cold)
+14.75% Defense(Energy)
+14.75% Defense(Negative)
+6% Defense(Toxic)
+11% Defense(Psionic)
+16% Defense(Ranged)
+13.5% Defense(AoE)
+3.6% Max End
++10% Enhancement(Range)
++46% Enhancement(Accuracy)
++2.5% Enhancement(Held)
++76.25% Enhancement(RechargeTime)
+GrantPower Preventive Medicine (when PreventiveMedicine)
+162.6 HP (13.5%) HitPoints
+Knockback (Mag -4)
+Knockup (Mag -4)
+48.75% MezResist(Confused)
+48.75% MezResist(Held)
+48.75% MezResist(Immobilized)
+48.75% MezResist(Sleep)
+48.75% MezResist(Stunned)
+48.75% MezResist(Terrorized)
+200% MezResist(Teleport) (20% chance)
+21% (0.35 End/sec) Recovery
+48% (2.41 HP/sec) Regeneration
+35% ResEffect(SpeedFlying)
+35% ResEffect(RechargeTime)
+35% ResEffect(SpeedRunning)
+14% Resistance(Smashing)
+14% Resistance(Lethal)
+25.25% Resistance(Fire)
+25.25% Resistance(Cold)
+9.5% Resistance(Energy)
+9.5% Resistance(Negative)
+12.5% Resistance(Toxic)
+12.5% Resistance(Psionic)
+
+
+
+------------
+Set Bonuses:
+Superior Defiant Barrage
+(Shatter)
+  4% DamageBuff(All)
+  3.6% Max End
+  36.14 HP (3%) HitPoints
+  +10% Enhancement(RechargeTime)
+  5% Defense(Energy,Negative), 2.5% Defense(Ranged)
+
+
+Decimation
+(Entangle)
+  1.5% Resistance(Energy,Negative), 2.5% Status Resistance
+  13.55 HP (1.12%) HitPoints
+
+
+Superior Frozen Blast
+(Rock Shards)
+  15% ResEffect(SpeedRunning), 15% ResEffect(RechargeTime), 15% ResEffect(SpeedFlying)
+  6% Resistance(Fire,Cold), 10% Status Resistance
+  4% (0.07 End/sec) Recovery
+  5% Defense(AoE), 2.5% Defense(Fire), 2.5% Defense(Cold)
+  5% Defense(Fire,Cold), 2.5% Defense(AoE)
+
+
+Lockdown
+(Strangler)
+  3% DamageBuff(All)
+  +2.5% Enhancement(Held)
+
+
+Apocalypse
+(Entomb)
+  16% (0.8 HP/sec) Regeneration
+  36.14 HP (3%) HitPoints
+  4% DamageBuff(All)
+  +10% Enhancement(RechargeTime)
+  5% Defense(Psionic)
+
+
+Luck of the Gambler
+(Combat Jumping)
+  +7.5% Enhancement(RechargeTime)
+
+
+Ragnarok
+(Upthrust)
+  4% (0.07 End/sec) Recovery
+  6% Resistance(Fire,Cold), 10% Status Resistance
+  +15% Enhancement(Accuracy)
+  +10% Enhancement(RechargeTime)
+
+
+Dark Watcher's Despair
+(Spore Cloud)
+  18.07 HP (1.5%) HitPoints
+  2.5% (0.04 End/sec) Recovery
+
+
+Preventive Medicine
+(Wild Fortress)
+  2.25% Resistance(Smashing,Lethal), 3.75% Status Resistance
+  GrantPower Preventive Medicine (when PreventiveMedicine)
+
+
+Miracle
+(Wild Fortress)
+  2.5% (0.04 End/sec) Recovery
+
+
+Sting of the Manticore
+(Tombstone)
+  12% (0.6 HP/sec) Regeneration
+  2.5% Defense(Ranged), 1.25% Defense(Energy), 1.25% Defense(Negative)
+  3% DamageBuff(All)
+  +7.5% Enhancement(RechargeTime)
+  4.5% Resistance(Toxic,Psionic), 7.5% Status Resistance
+
+
+Superior Blaster's Wrath
+(Stalagmite)
+  +15% Enhancement(Accuracy)
+  +10% Enhancement(Range)
+  4% DamageBuff(All)
+  +10% Enhancement(RechargeTime)
+  5% Defense(Ranged), 2.5% Defense(Energy), 2.5% Defense(Negative)
+
+
+Positron's Blast
+(Meteor)
+  2.5% (0.04 End/sec) Recovery
+  2.25% Resistance(Fire,Cold), 3.75% Status Resistance
+  +9% Enhancement(Accuracy)
+  +6.25% Enhancement(RechargeTime)
+
+
+Unbreakable Constraint
+(Vines)
+  4% (0.07 End/sec) Recovery
+
+
+Gladiator's Armor
+(Tough)
+  3% Defense(All), 100% MezResist(Teleport) (20% chance)
+
+
+Steadfast Protection
+(Tough)
+  1.5% (0.03 End/sec) Recovery
+  3% Defense(All)
+  Knockback Protection (Mag 4)
+
+
+Luck of the Gambler
+(Weave)
+  +7.5% Enhancement(RechargeTime)
+
+
+Shield Wall
+(Weave)
+  10% (0.5 HP/sec) Regeneration
+  5%  Resistance(All), 100% MezResist(Teleport) (20% chance)
+
+
+Ice Mistral's Torment
+(Snow Storm)
+  13.55 HP (1.12%) HitPoints
+  +7% Enhancement(Accuracy)
+
+
+Winter's Gift
+(Super Speed)
+  20% ResEffect(SpeedRunning), 20% ResEffect(RechargeTime), 20% ResEffect(SpeedFlying)
+
+
+Preventive Medicine
+(Hoarfrost)
+  2.25% Resistance(Smashing,Lethal), 3.75% Status Resistance
+  22.59 HP (1.87%) HitPoints
+  3% Resistance(Fire,Cold), 5% Status Resistance
+
+
+Luck of the Gambler
+(Frozen Armor)
+  10% (0.5 HP/sec) Regeneration
+  +7.5% Enhancement(RechargeTime)
+
+
+Reactive Defenses
+(Frozen Armor)
+  1.5% Resistance(Smashing,Lethal), 2.5% Status Resistance
+  22.59 HP (1.87%) HitPoints
+  3% Resistance(All)
+
+
+
+
+
+
+|              Do not modify anything below this line!              |
+|-------------------------------------------------------------------|
+|MxDz;2193;770;1540;HEX;|
+|78DA7D95CB4F135114C6BFE94C45A0E5551010102820506879A871A746C40481844|
+|8E29634D0D431A56D6849F00FF06F20117C6C592B0F7565DCAA3CD5AD891B0C0226|
+|46134D4C3D14E9F95A0D37E9747EF7DCF3DDEF9E39D30ECF5C73BD793D740586BB2|
+|F124C24C6AECA35199A720E07C3F638649425427662D21EF7C723C168D23F1E8B4C|
+|E4C974EDDF85633783D1706822307AB8EA30DF7B141C9D8EC76353C9C0C841EED87|
+|0306AC7A723C1A41D8BC235128B450243A160DC8E860BD2301A0F8526DCE9DBEB76|
+|F8765202E569EA9F8987A6ECC9503499CE2DED8FDBE3813E71229207FBDCAD12477|
+|EF9BCF5C9C5C0D14839E562013D969192510E43A1090E8566980C168353A1A83D5B|
+|DE01CCCA77EB91FC9C820FF30AAB62CB605B069EAAAA038B0C4B0A1696150AB0A25|
+|082670462CB645B26BE3B48E4A7820FBF14D6C496936D39D1A9D113F03304144EA2|
+|8BA1DB411E7B14D6453E8FE491870E64A2A7A48BF2399A8F0A2313DD90DC42B6568|
+|85E5576E11CC37985225C60B8E8A08ABD14F01C42A954CC4DF2869BAD756241F3BC|
+|E2B3987D16679D42844AB9F4A578AEDB94614585CAF042C123791ECAB33CD835A97|
+|9B6CDCC523F6E1899881F030C0DEA64532A56C115ABC02AF9C41AC3BA4223361836|
+|19B614B644BE92E52B715F3D56618E615EE10C1E303C5468C0238577225FCDF2D57|
+|8A29B9FC622C3B2422D961856407B7DD237A442CA5DC3F235E8D7877116030AADFC|
+|86B4222859754730A90DDA8E7E75EF901EA9E31EA9C33D1531255ACF3D528F5E2E4|
+|3A56ED1802A054BF2BC9CE7E537A409D74D824185B0DCB6705E0BF29D19D576B89C|
+|740AB74293ECD7C6A768438DAA7E74011D14353BF0D9A457669B6147A1075F146CB|
+|90DF07308F091BA50C2B06712ECB3E23786DFC89CED8ECC77834ED08D4B5ACF5A0B|
+|3C52071F1987BD6E65FFB2A7868E593C62F15A89191ADB2DC816E2BCFD9C98DC369|
+|AD485B7F4F47BC7C87CFD57E6874532B3DA7AEF73FE0F5383BEEC0AA55EC9441B4F|
+|E8B8EC111D233754529E33FB2177D94EF3FFF2D2E371EEDA056FCEC41F381191BB|
+|-------------------------------------------------------------------|

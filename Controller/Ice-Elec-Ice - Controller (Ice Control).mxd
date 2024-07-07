@@ -1,0 +1,328 @@
+This Hero build was built using Mids Reborn 3.4.7
+https://github.com/LoadedCamel/MidsReborn
+
+Ice-Elec-Ice: Level 50 Science Controller
+Primary Power Set: Ice Control
+Secondary Power Set: Electrical Affinity
+Power Pool: Speed
+Power Pool: Flight
+Ancillary Pool: Ice Mastery
+
+Hero Profile:
+------------
+Level 1:	Chilblain			GrvAnc-Immob(A), GrvAnc-Hold%(3)
+Level 1:	Shock				PwrTrns-EndMod(A), PwrTrns-+Heal(3)
+Level 2:	Block of Ice			UnbCns-Hold(A), UnbCns-Dam%(5)
+Level 4:	Rejuvenating Circuit		Prv-Heal(A), Prv-Absorb%(5)
+Level 6:	Galvanic Sentinel		EnrMnp-EndMod(A), EnrMnp-EndMod/Rchg(7), EnrMnp-Stun%(7)
+Level 8:	Frostbite			SprWiloft-Acc/Conf/Hold/Immob/Sleep/Stun/Fear(A), SprWiloft-Conf/Hold/Immob/Sleep/Stun/Fear/Rchg(9), SprWiloft-EndRdx/Rchg(9), SprWiloft-Acc/Conf/Hold/Immob/Sleep/Stun/Fear/EndRdx(11), SprWiloft-Acc/Conf/Hold/Immob/Sleep/Stun/Fear/EndRdx/Rchg(11), SprWiloft-Rchg/Dmg%(13)
+Level 10:	Energizing Circuit		PrfShf-EndMod(A), PrfShf-End%(13)
+Level 12:	Arctic Air			SprOvrPrs-Acc/Conf/Hold/Immob/Sleep/Stun/Fear(A), SprOvrPrs-Conf/Hold/Immob/Sleep/Stun/Fear/Rchg(15), SprOvrPrs-EndRdx/Rchg(15), SprOvrPrs-Acc/Conf/Hold/Immob/Sleep/Stun/Fear/EndRdx(17), SprOvrPrs-Acc/Conf/Hold/Immob/Sleep/Stun/Fear/EndRdx/Rchg(17), SprOvrPrs-Rchg/Energy Font(50)
+Level 14:	Hasten				RechRdx-I(A)
+Level 16:	Cold Snap			GlmoftheA-Acc/Fear/Rchg(A), GlmoftheA-Fear/Rng(19), GlmoftheA-Dam%(19), PcnoftheT-Rng/Slow(21), PcnoftheT--Rchg%(21), IceMisTrmt-+ColdDmg(23)
+Level 18:	Faraday Cage			GldArm-End/Res(A), GldArm-ResDam(23), GldArm-3defTpProc(25), StdPrt-ResDam/Def+(25), StdPrt-ResKB(27), UnbGrd-Max HP%(27)
+Level 20:	Ice Slick			Ann-Acc/Dmg(A), Ann-Dmg/Rchg(29), Ann-Acc/Dmg/Rchg(29), Ann-ResDeb%(31), Bmbdmt-Dam(31), Bmbdmt-+FireDmg(31)
+Level 22:	Empowering Circuit		GssSynFr--ToHit(A), GssSynFr--Build%(33)
+Level 24:	Flash Freeze			FrtHyp-Sleep/Rchg(A), FrtHyp-Acc/Sleep/Rchg(33), FrtHyp-Plct%(33), Bmbdmt-+FireDmg(34), PstBls-Dam%(34), Ann-ResDeb%(34)
+Level 26:	Glacier				SprEnt-Acc/Hold/End/Rchg(A), SprEnt-Rchg/AbsorbProc(36), Lck-Acc/EndRdx/Rchg/Hold(36), Lck-%Hold(36), GhsWdwEmb-Dam%(37), NrnSht-Dam%(37)
+Level 28:	Defibrillate			PwrTrns-EndMod(A), PwrTrns-+Heal(37)
+Level 30:	Hover				LucoftheG-Def/Rchg+(A), BlsoftheZ-Travel(39), BlsoftheZ-Travel/EndRdx(39)
+Level 32:	Jack Frost			SlbAll-Dmg(A), SlbAll-Build%(39), SvrRgh-PetResDam(40), EdcoftheM-PetDef(40), ExpRnf-+Res(Pets)(40), CaltoArm-+Def(Pets)(42)
+Level 35:	Insulating Circuit		Pnc-Heal(A), Pnc-Heal/+End(42)
+Level 38:	Ice Blast			Apc-Dmg(A), Apc-Dmg/EndRdx(42), Apc-Acc/Dmg/Rchg(43), Apc-Dam%(43), IceMisTrmt-+ColdDmg(43), Dcm-Build%(45)
+Level 41:	Frozen Armor			LucoftheG-Def/EndRdx(A), LucoftheG-Def/Rchg+(45), ShlWal-Def/EndRdx(45), ShlWal-ResDam/Re TP(46), Ksm-ToHit+(46), Rct-ResDam%(46)
+Level 44:	Ice Storm			Rgn-Dmg(A), Rgn-Dmg/Rchg(48), Rgn-Acc/Dmg/Rchg(48), Rgn-Acc/Rchg(48), Rgn-Dmg/EndRdx(50), Rgn-Knock%(50)
+Level 47:	Amp Up				RechRdx-I(A)
+Level 49:	Hibernate			RgnTss-Regen+(A)
+Level 1:	Brawl				Empty(A)
+Level 1:	Containment	
+Level 1:	Sprint				Empty(A)
+Level 2:	Rest				Empty(A)
+Level 1:	Swift				Empty(A)
+Level 1:	Health				NmnCnv-Regen/Rcvry+(A)
+Level 1:	Hurdle				Empty(A)
+Level 1:	Stamina				PrfShf-End%(A)
+------------
+------------
+Set Bonus Totals:
+11% DamageBuff(Smashing)
+11% DamageBuff(Lethal)
+11% DamageBuff(Fire)
+11% DamageBuff(Cold)
+11% DamageBuff(Energy)
+11% DamageBuff(Negative)
+11% DamageBuff(Toxic)
+11% DamageBuff(Psionic)
+6% Defense(Melee) (when Defense)
+10% Defense
+6% Defense(Smashing)
+6% Defense(Lethal)
+6% Defense(Fire)
+6% Defense(Cold)
+14.13% Defense(Energy)
+14.13% Defense(Negative)
+6% Defense(Toxic)
+6% Defense(Psionic)
+14.75% Defense(Ranged)
+6% Defense(AoE)
+1.35% Max End
++8% Enhancement(Confused)
++8% Enhancement(Held)
++8% Enhancement(Stunned)
++11.55% Enhancement(Terrorized)
++16% Enhancement(Immobilized)
++16% Enhancement(Sleep)
++30% Enhancement(Accuracy)
++35% Enhancement(RechargeTime)
++5% Enhancement(Range)
+15% SpeedFlying
+GrantPower Preventive Medicine (when PreventiveMedicine)
+156.4 HP (15.38%) HitPoints (when HealSelf)
+15% JumpHeight
+15% SpeedJumping
+Knockback (Mag -7)
+Knockup (Mag -7)
+61.25% MezResist(Confused)
+61.25% MezResist(Held)
+61.25% MezResist(Immobilized)
+61.25% MezResist(Sleep)
+61.25% MezResist(Stunned)
+61.25% MezResist(Terrorized)
+200% MezResist(Teleport) (20% chance)
+28% (0.47 End/sec) Recovery
+80% (3.39 HP/sec) Regeneration
+36.25% Resistance(Smashing)
+36.25% Resistance(Lethal)
+46% Resistance(Fire)
+46% Resistance(Cold)
+30.25% Resistance(Energy)
+30.25% Resistance(Negative)
+36.25% Resistance(Toxic)
+36.25% Resistance(Psionic)
+15% SpeedRunning
+
+
+
+------------
+Set Bonuses:
+Gravitational Anchor
+(Chilblain)
+  4% (0.07 End/sec) Recovery
+
+
+Power Transfer
+(Shock)
+  6% (0.25 HP/sec) Regeneration
+
+
+Unbreakable Constraint
+(Block of Ice)
+  4% (0.07 End/sec) Recovery
+
+
+Preventive Medicine
+(Rejuvenating Circuit)
+  2.25% Resistance(Smashing,Lethal), 3.75% Status Resistance
+  GrantPower Preventive Medicine (when PreventiveMedicine)
+
+
+Energy Manipulator
+(Galvanic Sentinel)
+  1.5% (0.03 End/sec) Recovery
+  6% (0.25 HP/sec) Regeneration
+
+
+Superior Will of the Controller
+(Frostbite)
+  4% DamageBuff(All)
+  +8% Enhancement(Immobilized), +8% Enhancement(Sleep), +4.4% Enhancement(Terrorized), +4% Enhancement(Confused), +4% Enhancement(Held), +4% Enhancement(Stunned)
+  +15% Enhancement(Accuracy)
+  +10% Enhancement(RechargeTime)
+  5% Defense(Ranged), 2.5% Defense(Energy), 2.5% Defense(Negative)
+
+
+Performance Shifter
+(Energizing Circuit)
+  7.5% Movement Speed
+
+
+Superior Overpowering Presence
+(Arctic Air)
+  +8% Enhancement(Immobilized), +8% Enhancement(Sleep), +4.4% Enhancement(Terrorized), +4% Enhancement(Confused), +4% Enhancement(Held), +4% Enhancement(Stunned)
+  30.52 HP (3%) HitPoints (when HealSelf)
+  6% Resistance(Smashing,Lethal), 10% Status Resistance
+  4% (0.07 End/sec) Recovery
+  5% Defense(Energy,Negative), 2.5% Defense(Ranged)
+
+
+Glimpse of the Abyss
+(Cold Snap)
+  +2.75% Enhancement(Terrorized)
+  19.08 HP (1.88%) HitPoints (when HealSelf)
+
+
+Pacing of the Turtle
+(Cold Snap)
+  2.25% Resistance(Toxic,Psionic), 3.75% Status Resistance
+
+
+Gladiator's Armor
+(Faraday Cage)
+  2.5% (0.04 End/sec) Recovery
+  2.25% Max End
+  3% Defense(Melee) (when Defense), 3% Defense(AoE), 3% Defense(Ranged), 3% Defense(Smashing), 3% Defense(Lethal), 3% Defense(Fire), 3% Defense(Cold), 3% Defense(Energy), 3% Defense(Negative), 3% Defense(Toxic), 3% Defense(Psionic), 100% MezResist(Teleport) (20% chance)
+
+
+Steadfast Protection
+(Faraday Cage)
+  1.5% (0.03 End/sec) Recovery
+  3% Defense(Melee) (when Defense), 3% Defense(AoE), 3% Defense(Ranged), 3% Defense(Smashing), 3% Defense(Lethal), 3% Defense(Fire), 3% Defense(Cold), 3% Defense(Energy), 3% Defense(Negative), 3% Defense(Toxic), 3% Defense(Psionic)
+  Knockback Protection (Mag 4)
+
+
+Unbreakable Guard
+(Faraday Cage)
+  76.3 HP (7.5%) HitPoints (when HealSelf)
+
+
+Annihilation
+(Ice Slick)
+  1.35% Max End
+  2.25% Resistance(Energy,Negative), 3.75% Status Resistance
+  10% (0.42 HP/sec) Regeneration
+
+
+Bombardment
+(Ice Slick)
+  +5% Enhancement(Range)
+
+
+Gaussian's Synchronized Fire-Control
+(Empowering Circuit)
+  7.5% Movement Speed
+
+
+Fortunata Hypnosis
+(Flash Freeze)
+  4% (0.07 End/sec) Recovery
+  6% Resistance(Fire,Cold), 10% Status Resistance
+
+
+Superior Entomb
+(Glacier)
+  6% Resistance(Fire,Cold), 10% Status Resistance
+
+
+Lockdown
+(Glacier)
+  3% DamageBuff(All)
+
+
+Power Transfer
+(Defibrillate)
+  6% (0.25 HP/sec) Regeneration
+
+
+Luck of the Gambler
+(Hover)
+  +7.5% Enhancement(RechargeTime) (when Recharge)
+
+
+Blessing of the Zephyr
+(Hover)
+  1.25% Defense(Ranged), 0.63% Defense(Energy), 0.63% Defense(Negative)
+
+
+Soulbound Allegiance
+(Jack Frost)
+  16% (0.68 HP/sec) Regeneration
+
+
+Sovereign Right
+(Jack Frost)
+  10% Resistance(All)
+
+
+Edict of the Master
+(Jack Frost)
+  5% Defense
+
+
+Expedient Reinforcement
+(Jack Frost)
+  10% Resistance(All)
+
+
+Call to Arms
+(Jack Frost)
+  5% Defense
+
+
+Panacea
+(Insulating Circuit)
+  2.5% (0.04 End/sec) Recovery
+
+
+Apocalypse
+(Ice Blast)
+  16% (0.68 HP/sec) Regeneration
+  30.52 HP (3%) HitPoints (when HealSelf)
+  4% DamageBuff(All)
+
+
+Luck of the Gambler
+(Frozen Armor)
+  10% (0.42 HP/sec) Regeneration
+  +7.5% Enhancement(RechargeTime) (when Recharge)
+
+
+Shield Wall
+(Frozen Armor)
+  10% (0.42 HP/sec) Regeneration
+  5% Resistance(Lethal) (when Resist), 5% Resistance(Smashing), 5% Resistance(Fire), 5% Resistance(Cold), 5% Resistance(Energy), 5% Resistance(Negative), 5% Resistance(Psionic), 5% Resistance(Toxic), 100% MezResist(Teleport) (20% chance)
+
+
+Reactive Defenses
+(Frozen Armor)
+  3% Resistance(All) (when Resist)
+
+
+Ragnarok
+(Ice Storm)
+  4% (0.07 End/sec) Recovery
+  6% Resistance(Fire,Cold), 10% Status Resistance
+  +15% Enhancement(Accuracy)
+  +10% Enhancement(RechargeTime)
+  6% Resistance(Toxic,Psionic), 10% Status Resistance
+
+
+
+
+
+
+|              Do not modify anything below this line!              |
+|-------------------------------------------------------------------|
+|MxDz;2015;719;1438;HEX;|
+|78DA7D95C94F535114C6BFF7DA5A998B8094A1CC0832148AD38EA80C09111212E29|
+|0B8204D7D85A7A56D4A4DE04F50772EC4015D19155D88ACFC0374A7FF80266AD044|
+|5DA0240E0926A49EB6D0F329093779CDFDBDEFBBE79D737ADF7D63738385AF5F8D1|
+|E87E11988046767270762D1642216895809F744C8B6A2210B320A474256F750C40A|
+|75CBC42D37EAD4B7BDC42FD2F6BC99E49397C3617F7A6D3261878291C913E1B01DB|
+|593F3C81F8FC9AA89B8655D28C84C8723F6D474B23C331F9A8B5B097BC68A268349|
+|3B162DCA1AD2BA1D9DF20CC5ED50E67963C1D9A49598F74A4AF572DD30E4277D654|
+|74AA6E32610701A2919264E2B4C75ECB0AE3BC9FA5B61413483AD0606359013230A|
+|D312D5C15607BE38C8BAA6608BD54556D3852B12A82CABEEC155866B0A37658D9BD|
+|6B9DC78A051F7E221C323857C2C313C5628C413858B92561E579087EB265917146E|
+|89AD8033298057BB568C2A866A050F6A186A1502F02934C9462BA2F028422772EA6|
+|D514A400F2FC17B23A7EEC33B860F0AE558665851D88F62570E2E491B4AB9B65204|
+|1C64ED51F0A28FA15256F9B2500D2FC386DAEEC8FD32CEBE0CABAAD6E223C327853|
+|A7C66D87412989A7D44B2AFE03FB102F7F57F6BC092C2A2D82AB9D04A9C65EB3986|
+|F30A8DFCBC463C0701E57857425771F82ABCD0A49BF19261C324F8A3D082198320A|
+|84D9D91426BB8D01A7E8B5BF82DCE93EDE4E3F7CD9769D1967A006F4C82B70AF78C|
+|ECD992ABA01EFD6C1D5068C32F107C1568DB869F6A3B8855335741542A68E20A9AD|
+|0E0206BA3C25399B6722F5BD1C5517B153AE0670830A477F9565A5D58D41C9F49F8|
+|760EDF0E8F36A88BBBD585614DAB1BA7183691ABAD1B3F545991692787EF449FA6D|
+|583430C87198E9874401C6538A610973EFAF9B4F0F369B12C0FEF65B517FDBA8BD2|
+|27108D54FA9291D17CFF69A9D15DCCE34EFEA68866A8B696FFEF0787D77DDFA99DD|
+|16E7FDB65E5FA4E8D4EE8BF067F60FA|
+|-------------------------------------------------------------------|

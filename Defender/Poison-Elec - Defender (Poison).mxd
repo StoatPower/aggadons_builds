@@ -1,0 +1,82 @@
+This Hero build was built using Mids Reborn 3.4.7
+https://github.com/LoadedCamel/MidsReborn
+
+Poison-Elec: Level 50 Science Defender
+Primary Power Set: Poison
+Secondary Power Set: Electrical Blast
+Power Pool: Flight
+Power Pool: Fighting
+Power Pool: Speed
+Power Pool: Leadership
+Ancillary Pool: Soul Mastery
+
+Hero Profile:
+------------
+Level 1:	Alkaloid			Prv-Heal(A), Prv-Heal/EndRdx(3), Prv-Heal/Rchg(3), Prv-Absorb%(46)
+Level 1:	Charged Bolts			Dvs-Acc/Dmg(A), Dvs-Dmg/EndRdx(5), Dvs-Dmg/Rchg(5), Dvs-Acc/Dmg/Rchg(40), Dvs-Hold%(45)
+Level 2:	Envenom				ShlBrk-DefDeb(A), ShlBrk-Acc/DefDeb(11), ShlBrk-Acc/EndRdx/Rchg(11), ShlBrk-%Dam(48)
+Level 4:	Ball Lightning			Rgn-Dmg(A), Rgn-Dmg/Rchg(13), Rgn-Acc/Dmg/Rchg(13), Rgn-Dmg/EndRdx(45), Rgn-Knock%(50)
+Level 6:	Weaken				CldSns-ToHitDeb(A), CldSns-Acc/ToHitDeb(15), CldSns-%Dam(15)
+Level 8:	Hover				LucoftheG-Def/Rchg+(A), WntGif-RunSpd/Jump/Fly/Rng(19), WntGif-RunSpd/Jump/Fly/Rng/EndRdx(34)
+Level 10:	Short Circuit			SprAvl-Acc/Dmg(A), SprAvl-Dmg/EndRdx(17), SprAvl-Acc/Dmg/EndRdx(17), SprAvl-Acc/Dmg/Rchg(36), SprAvl-Acc/Dmg/EndRdx/Rchg(46), SprAvl-Rchg/KDProc(48)
+Level 12:	Kick				FrcFdb-Rechg%(A)
+Level 14:	Neurotoxic Breath		ImpSwf-Acc/Slow(A), ImpSwf-Dam%(19)
+Level 16:	Charge Up			RechRdx-I(A), RechRdx-I(48)
+Level 18:	Tough				Ags-ResDam/EndRdx(A), Ags-ResDam(21), Ags-ResDam/EndRdx/Rchg(21)
+Level 20:	Zapp				SprWntBit-Acc/Dmg(A), SprWntBit-Dmg/Rchg(23), SprWntBit-Acc/Dmg/EndRdx(23), SprWntBit-Acc/Dmg/Rchg(25), SprWntBit-Dmg/EndRdx/Acc/Rchg(25), SprWntBit-Rchg/SlowProc(27)
+Level 22:	Weave				LucoftheG-Def/EndRdx(A), LucoftheG-Def(27), LucoftheG-Def/Rchg+(29)
+Level 24:	Hasten				RechRdx-I(A)
+Level 26:	Poison Trap			Arm-Dmg/EndRdx(A), Arm-Dmg(29), Arm-Dam%(31), GhsWdwEmb-Dam%(31), SprEnt-Rchg/AbsorbProc(31), SprEnt-Acc/Hold(33)
+Level 28:	Maneuvers			LucoftheG-Def/EndRdx(A), LucoftheG-Def(33), LucoftheG-Def/Rchg+(33), ShlWal-ResDam/Re TP(34), Rct-ResDam%(34)
+Level 30:	Tactics				EndRdx-I(A)
+Level 32:	Venomous Gas			DarWtcDsp-ToHitDeb(A), DarWtcDsp-ToHitdeb/Rchg/EndRdx(36), DarWtcDsp-ToHitDeb/EndRdx(36), DarWtcDsp-Slow%(37), AchHee-ResDeb%(46)
+Level 35:	Voltaic Sentinel		SprVglAss-Acc/Dmg(A), SprVglAss-Dmg/Rchg(37), SprVglAss-Dmg/EndRdx/Rchg(37), SprVglAss-Acc/Dmg/EndRdx(43), SprVglAss-Acc/Dmg/EndRdx/Rchg(50), SprVglAss-Rchg/+Absorb(50)
+Level 38:	Thunderous Blast		SprFrzBls-Acc/Dmg(A), SprFrzBls-Dmg/EndRdx(39), SprFrzBls-Acc/Dmg/EndRdx(39), SprFrzBls-Acc/Dmg/Rchg(39), SprFrzBls-Dmg/EndRdx/Acc/Rchg(40), SprFrzBls-Rchg/ImmobProc(40)
+Level 41:	Soul Drain			Arm-Dmg/Rchg(A), Arm-Acc/Rchg(42), Arm-Acc/Dmg/Rchg(42), OvrFrc-Acc/Dmg(42), OvrFrc-Acc/Dmg/End/Rech(43), OvrFrc-Dam/KB(43)
+Level 44:	Power Boost			RechRdx-I(A), RechRdx-I(45)
+Level 47:	Assault				EndRdx-I(A)
+Level 49:	Vengeance			LucoftheG-Def/Rchg+(A)
+Level 1:	Vigilance	
+Level 1:	Brawl				Empty(A)
+Level 1:	Sprint				Clr-RunSpd(A)
+Level 2:	Rest				Empty(A)
+Level 1:	Swift				Flight-I(A)
+Level 1:	Hurdle				Jump-I(A)
+Level 1:	Health				NmnCnv-Regen/Rcvry+(A), NmnCnv-Heal(7), Mrc-Rcvry+(7)
+Level 1:	Stamina				PrfShf-End%(A), PrfShf-EndMod(9), EndMod-I(9)
+Level 1:	Shocked	
+Level 49:	Quick Form	
+Level 50:	Support Core Embodiment	
+Level 50:	Ageless Core Epiphany	
+Level 50:	Musculature Core Paragon	
+------------
+
+
+
+|              Do not modify anything below this line!              |
+|-------------------------------------------------------------------|
+|MxDz;2126;763;1526;HEX;|
+|78DA6D94494F145110C7FFDDD3C3BE0FC82EC3208B2CC3EAAE8961F120608844AF1|
+|3323430C938430688FA01FC025EB8B81195E0425C02887AD1186FFA0D3C68E48031|
+|A88977C79A99D0F567794977DEAFEB55D5BFEABD7EC3D7FA733E7F1A3A0B23AF2F3|
+|C363313E8B727ECC8B81D4B1F0D86EC48D0868CEC916868261A691B08DBC174E1E2|
+|ED4581DEB989097FCAEA753E5E1C8B4CDAE3FEC4EAD9582838160EF44AE8D944986|
+|8D87F2E1C9A9C9ACD4DCD13D35064322B49A3D3B63D9E9F9C0ED9631269662A345D|
+|39301D0AFAFBA2B1D8DCF46C3416188DCE8503C312CE8E5D2F132DCDF2FC6B90978|
+|1ED1177019BF2745A465C86891F0C3F15DAB0A5B06CEE0C6201F7E1582D3C6078A8|
+|D0884585562C29C44596C1B20C1892AF3A65CD82C9E05668479AC23391E562592E7|
+|4994E8A1C7433F498A4E4A842278E29A011705344D38DEFA6932F0F1B0C9B0A99B2|
+|F5E9EC978E12C3895A8472ED652D2A149E4B884CF27367E296E5580B709BE18E421|
+|DEE5AB455F714DAB1A02032904DE1918D1B5AAC21C5E692D5C8C582E19454844585|
+|17E295CF4BF3D102CA49E0929C85DC8A4274682B8AD1C3D0ADF0525278B8151E2C6|
+|92507F088E1B142199E303C55A8C0B28225B24A5856090A0C5A5AAC50C57BE713BF|
+|526E612917EB961696834497E3B449818E2B1CC419862B06C147D5E9C53B8542495|
+|EC907BC92457B59B49745D762900FDC5F058F44ACE672AA51ABE5A44939359CAF06|
+|6B261DBA7586370A87F0D6A4E3F83EB195295891A94F7FF4B8DB870E8BFC3A19BA1|
+|49AD16DD12FDAC370446155C2D7F3A1A9C78A5A1BB0CAB0C6F0CAA25B6A9DE1B5C2|
+|55695C93E1DC7C7177134E68A187718AE124C3171795F295E19BC2460E9287C9F9A|
+|B5AF86CB53214C9BEF979DFFCBC6FC562EDA04002741A2E583B6FEF7895051EF1E4|
+|47B90F12AFA15D8BE5C9D0C2462C368AD550CFADAC3D9E752AF1D75E6B935A7FEFB|
+|24AC6CB5A401A2E319C17684CC19FBD7EF3AA36033719BC9AAFAC25E937EEB464B0|
+|796707E31F7CB2989B961CF39EFDBEEE370677AFFC0F72B67577|
+|-------------------------------------------------------------------|

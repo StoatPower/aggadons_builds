@@ -1,0 +1,179 @@
+This Hero build was built using Mids Reborn 3.4.7
+https://github.com/LoadedCamel/MidsReborn
+
+Ice-Spines-Nrg-22: Level 49 Magic Tanker
+Primary Power Set: Ice Armor
+Secondary Power Set: Spines
+Power Pool: Leaping
+Power Pool: Speed
+
+Hero Profile:
+------------
+Level 1:	Frozen Armor			ShlWal-ResDam/Re TP(A), ShlWal-Def/EndRdx(3), ShlWal-Def(3), ShlWal-Def/EndRdx/Rchg(15)
+Level 1:	Lunge				MghoftheT-Rchg/Res%(A), MghoftheT-Acc/Dmg(7), MghoftheT-Acc/Dmg/EndRdx/Rchg(9)
+Level 2:	Hoarfrost			GldArm-RechRes(A), GldArm-3defTpProc(5), GldArm-ResDam(7), RechRdx-I(23), RechRdx-I(23)
+Level 4:	Spine Burst			ScrDrv-Acc/Dmg(A), ScrDrv-Dmg/EndRdx(5), ScrDrv-Dmg/Rchg(11), ScrDrv-Acc/Rchg(13), ScrDrv-Acc/Dmg/EndRdx(13), ScrDrv-Dam%(15)
+Level 6:	Wet Ice				EndRdx-I(A)
+Level 8:	Chilling Embrace		PcnoftheT-Acc/EndRdx(A), PcnoftheT--Rchg%(9)
+Level 10:	Combat Jumping			Rct-ResDam%(A), Rct-Def(11)
+Level 12:	Taunt				PrfZng-Acc/Rchg(A)
+Level 14:	Hasten				RechRdx-I(A)
+Level 16:	Ripper				GntFis-Rchg/+Absorb(A), GntFis-Acc/Dmg(17), GntFis-Acc/Dmg/EndRdx/Rchg(17)
+Level 18:	Glacial Armor			Ksm-ToHit+(A), Ksm-Def/EndRdx(19), Ksm-Def/EndRdx/Rchg(19)
+Level 20:	Permafrost			StdPrt-ResDam/Def+(A), StdPrt-ResKB(21), UnbGrd-Max HP%(21)
+Level 22:	Energy Absorption		RechRdx-I(A)
+Level 24:	[Empty]	
+Level 26:	[Empty]	
+Level 28:	[Empty]	
+Level 30:	[Empty]	
+Level 32:	[Empty]	
+Level 35:	[Empty]	
+Level 38:	[Empty]	
+Level 41:	[Empty]	
+Level 44:	[Empty]	
+Level 47:	[Empty]	
+Level 49:	[Empty]	
+Level 1:	Brawl				Empty(A)
+Level 1:	Gauntlet	
+Level 1:	Sprint				Empty(A)
+Level 2:	Rest				Empty(A)
+Level 1:	Swift				Empty(A)
+Level 1:	Health				NmnCnv-Regen/Rcvry+(A)
+Level 1:	Hurdle				Empty(A)
+Level 1:	Stamina				PrfShf-EndMod(A)
+------------
+------------
+Set Bonus Totals:
+2% DamageBuff(Smashing)
+2% DamageBuff(Lethal)
+2% DamageBuff(Fire)
+2% DamageBuff(Cold)
+2% DamageBuff(Energy)
+2% DamageBuff(Negative)
+2% DamageBuff(Toxic)
+2% DamageBuff(Psionic)
+6% Defense(Melee)
+6% Defense(Smashing)
+6% Defense(Lethal)
+7.56% Defense(Fire)
+7.56% Defense(Cold)
+6% Defense(Energy)
+6% Defense(Negative)
+6% Defense(Toxic)
+9.13% Defense(Psionic)
+6% Defense(Ranged)
+9.13% Defense(AoE)
+1.8% Max End
++9% Enhancement(Accuracy)
+217.9 HP (11.63%) HitPoints
+Knockback (Mag -7)
+Knockup (Mag -7)
+27.5% MezResist(Confused)
+27.5% MezResist(Held)
+27.5% MezResist(Immobilized)
+27.5% MezResist(Sleep)
+27.5% MezResist(Stunned)
+27.5% MezResist(Terrorized)
+200% MezResist(Teleport) (20% chance)
+5.5% (0.09 End/sec) Recovery
+20% (1.56 HP/sec) Regeneration
+11.75% Resistance(Smashing)
+8% Resistance(Fire)
+8% Resistance(Cold)
+18.5% Resistance(Energy)
+18.5% Resistance(Negative)
+10.25% Resistance(Toxic)
+10.25% Resistance(Psionic)
+11.75% Resistance(Lethal)
+
+
+
+------------
+Set Bonuses:
+Shield Wall
+(Frozen Armor)
+  10% (0.78 HP/sec) Regeneration
+  2.5% (0.04 End/sec) Recovery
+  42.17 HP (2.25%) HitPoints
+  5%  Resistance(All), 100% MezResist(Teleport) (20% chance)
+
+
+Might of the Tanker
+(Lunge)
+  2% DamageBuff(All)
+  35.14 HP (1.88%) HitPoints
+
+
+Gladiator's Armor
+(Hoarfrost)
+  2.5% (0.04 End/sec) Recovery
+  2.25% Max End
+  3% Defense(All), 100% MezResist(Teleport) (20% chance)
+
+
+Scirocco's Dervish
+(Spine Burst)
+  10% (0.78 HP/sec) Regeneration
+  2.25% Resistance(Energy,Negative), 3.75% Status Resistance
+  +9% Enhancement(Accuracy)
+  3.13% Defense(AoE), 1.56% Defense(Fire), 1.56% Defense(Cold)
+  3.13% Defense(Psionic)
+
+
+Pacing of the Turtle
+(Chilling Embrace)
+  2.25% Resistance(Toxic,Psionic), 3.75% Status Resistance
+
+
+Reactive Defenses
+(Combat Jumping)
+  1.5% Resistance(Smashing,Lethal), 2.5% Status Resistance
+  3% Resistance(All)
+
+
+Gauntleted Fist
+(Ripper)
+  1.8% Max End
+  3.75% Resistance(Energy,Negative), 6.25% Status Resistance
+
+
+Kismet
+(Glacial Armor)
+  1.5% (0.03 End/sec) Recovery
+  2.25% Resistance(Smashing,Lethal), 3.75% Status Resistance
+
+
+Steadfast Protection
+(Permafrost)
+  1.5% (0.03 End/sec) Recovery
+  3% Defense(All)
+  Knockback Protection (Mag 4)
+
+
+Unbreakable Guard
+(Permafrost)
+  140.6 HP (7.5%) HitPoints
+
+
+
+
+
+
+|              Do not modify anything below this line!              |
+|-------------------------------------------------------------------|
+|MxDz;1127;449;898;HEX;|
+|78DA9D924B4B1B5114C7FF379998E6654CE3230B457423228918FA012A55414D8AA|
+|0B80DC3788D83318933C16A0B5DE8A68B76E3172974A3E227F0857E11ADE04A50E2|
+|31D13927282E3C7087F9CDFF3CE79EFCE644F4EC34F7192AFAA564BA6E61C12CAF6|
+|A2790378BB605B2C4B4A5D3F355BBACDDF457A798CE6683F435D5742B4CE8655D76|
+|75869C0AE3CE5AC5493E09795DD23AD38C4374AE52296572DA242C861B305FD57A2|
+|9D6789DB28B2B3512224D2A3D6272B26A5B9971C7AAD956216FBA35ED6CA5A86E3F|
+|9DA3103D149EADEE0766E98C19AA4EE6C394841986764C33EC0D411A79E20FAB6DF|
+|8C5F001BF198EA9B812C50D854FAC1AC8CA24A30CDD18C1EBB04F9DF845C6801F1B|
+|1019BF3184B1C910C59684EF1083FE6038A58603223D021860F584D4A05055107F9|
+|598FC1F4337DD7B48BA8670E317AD5D11F435E180468AC89A11ACFB3CD7414A1493|
+|6A4CFE8E438A8DCB8B8963C7F0D40EFC94B0CD704E932444565F02F7F03AFA885B0|
+|9770C671497947149F4284FED444AC22D0F7C41715DCADBC33ABAE414EFB45EA375|
+|2B1F0F5923E5B0D1BAF6F5DC1BCE7386F4254DB176196E4D24E3FEBFD4167905AED|
+|E88BC7EA9EDF29D3F00FE756AA8|
+|-------------------------------------------------------------------|

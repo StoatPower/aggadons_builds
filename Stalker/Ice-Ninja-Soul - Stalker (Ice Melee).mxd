@@ -1,0 +1,285 @@
+This Villain build was built using Mids Reborn 3.4.7
+https://github.com/LoadedCamel/MidsReborn
+
+Ice-Ninja-Soul: Level 50 Science Stalker
+Primary Power Set: Ice Melee
+Secondary Power Set: Ninjitsu
+Power Pool: Leaping
+Power Pool: Fighting
+Power Pool: Speed
+Power Pool: Leadership
+Ancillary Pool: Soul Mastery
+
+Villain Profile:
+------------
+Level 1:	Ice Sword			SprAssMar-Acc/Dmg(A), SprAssMar-Dmg/Rchg(3), SprAssMar-Acc/Dmg/Rchg(3), SprAssMar-Dmg/EndRdx/Rchg(5), SprAssMar-Acc/Dmg/EndRdx/Rchg(5), SprAssMar-Rchg/Rchg Build Up(7)
+Level 1:	Hide				LucoftheG-Def/Rchg+(A), ShlWal-ResDam/Re TP(7), Ksm-ToHit+(9)
+Level 2:	Frost				PstBls-Acc/Dmg(A), PstBls-Dmg/Rng(9), PstBls-Dmg/Rchg(11), PstBls-Acc/Dmg/EndRdx(11), PstBls-Dam%(13), Ann-ResDeb%(13)
+Level 4:	Ninja Reflexes			RedFrt-Def/EndRdx(A), RedFrt-Def/Rchg(15), RedFrt-Def/EndRdx/Rchg(17), RedFrt-Def(17), RedFrt-EndRdx(19)
+Level 6:	Assassin's Ice Sword		SprStlGl-Acc/Dmg(A), SprStlGl-Rchg/Hide%(15), SprStlGl-Dmg/Rchg(19), SprStlGl-Acc/Dmg/Rchg(21), SprStlGl-Dmg/EndRdx/Rchg(21), SprStlGl-Acc/Dmg/EndRdx/Rchg(23)
+Level 8:	Danger Sense			Rct-Def(A), Rct-ResDam%(23), Rct-Def/EndRdx(25), Rct-EndRdx/Rchg(25), Rct-Def/Rchg(27), Rct-Def/EndRdx/Rchg(27)
+Level 10:	Combat Jumping			LucoftheG-Def/Rchg+(A)
+Level 12:	Build Up			GssSynFr--Build%(A)
+Level 14:	Boxing				Empty(A)
+Level 16:	Kuji-In Rin			RechRdx-I(A)
+Level 18:	Ice Patch			RechRdx-I(A)
+Level 20:	Kuji-In Sha			Prv-Heal(A), Prv-Heal/EndRdx(29), Prv-Absorb%(29), Prv-EndRdx/Rchg(31), Prv-Heal/Rchg(31), Prv-Heal/Rchg/EndRdx(31)
+Level 22:	Hasten				RechRdx-I(A)
+Level 24:	Tough				GldArm-End/Res(A), GldArm-3defTpProc(33), GldArm-ResDam(34), StdPrt-ResDam/Def+(34)
+Level 26:	Freezing Touch			Hct-Dmg/Rchg(A), Hct-Acc/Dmg/Rchg(34), Hct-Acc/Rchg(36), Hct-Dmg/EndRdx(36), Hct-Dam%(36), GhsWdwEmb-Dam%(37)
+Level 28:	Weave				LucoftheG-Def/EndRdx(A), LucoftheG-Def/Rchg+(33), LucoftheG-Def/Rchg(37), LucoftheG-Def(37), LucoftheG-Def/EndRdx/Rchg(39)
+Level 30:	Maneuvers			LucoftheG-Def/Rchg+(A), LucoftheG-Def/EndRdx(33)
+Level 32:	Frozen Aura			SprAvl-Acc/Dmg(A), SprAvl-Dmg/EndRdx(39), SprAvl-Acc/Dmg/EndRdx(40), SprAvl-Acc/Dmg/Rchg(40), SprAvl-Acc/Dmg/EndRdx/Rchg(40), SprAvl-Rchg/KDProc(42)
+Level 35:	Moonbeam			SprWntBit-Acc/Dmg(A), SprWntBit-Dmg/Rchg(42), SprWntBit-Acc/Dmg/EndRdx(42), SprWntBit-Acc/Dmg/Rchg(43), SprWntBit-Dmg/EndRdx/Acc/Rchg(43), SprWntBit-Rchg/SlowProc(43)
+Level 38:	Caltrops			Rgn-Dmg(A), Rgn-Acc/Dmg/Rchg(39), Rgn-Knock%(50)
+Level 41:	Shadow Meld			LucoftheG-Def/Rchg+(A), LucoftheG-Def/Rchg(45), RechRdx-I(45)
+Level 44:	Soul Storm			Lck-Rchg/Hold(A), Lck-%Hold(45), Dvs-Dmg/Rchg(46), Dvs-Hold%(46)
+Level 47:	Assault				EndRdx-I(A)
+Level 49:	Kuji-In Retsu			Krm-ResKB(A), RechRdx-I(50), RechRdx-I(50)
+Level 1:	Assassination	
+Level 1:	Brawl				Empty(A)
+Level 1:	Sprint				Empty(A)
+Level 2:	Rest				Empty(A)
+Level 1:	Swift				Empty(A)
+Level 1:	Health				Pnc-Heal/+End(A), NmnCnv-Regen/Rcvry+(48), Mrc-Rcvry+(48)
+Level 1:	Hurdle				Empty(A)
+Level 1:	Stamina				PrfShf-End%(A), PwrTrns-+Heal(46), PwrTrns-EndMod(48)
+Level 49:	Quick Form	
+------------
+------------
+Set Bonus Totals:
+13% DamageBuff(Smashing)
+13% DamageBuff(Lethal)
+13% DamageBuff(Fire)
+13% DamageBuff(Cold)
+13% DamageBuff(Energy)
+13% DamageBuff(Negative)
+13% DamageBuff(Toxic)
+13% DamageBuff(Psionic)
+13.5% Defense(Smashing)
+13.5% Defense(Lethal)
+18.5% Defense(Fire)
+18.5% Defense(Cold)
+11% Defense(Energy)
+11% Defense(Negative)
+6% Defense(Toxic)
+6% Defense(Psionic)
+13.5% Defense(Melee)
+8.5% Defense(Ranged)
+16% Defense(AoE)
++63% Enhancement(Accuracy)
++96.25% Enhancement(RechargeTime)
+7.5% Enhancement(Max EnduranceDiscount)
+GrantPower Preventive Medicine (when PreventiveMedicine)
+58.73 HP (4.88%) HitPoints (when HealSelf)
+Knockback (Mag -7)
+Knockup (Mag -7)
+81.25% MezResist(Confused)
+81.25% MezResist(Held)
+81.25% MezResist(Immobilized)
+81.25% MezResist(Sleep)
+81.25% MezResist(Stunned)
+81.25% MezResist(Terrorized)
+200% MezResist(Teleport) (20% chance)
+25% (0.42 End/sec) Recovery
+48% (2.41 HP/sec) Regeneration
+30% ResEffect(SpeedFlying)
+30% ResEffect(RechargeTime)
+30% ResEffect(SpeedRunning)
+23% Resistance(Smashing)
+41.75% Resistance(Fire)
+41.75% Resistance(Cold)
+8% Resistance(Energy)
+8% Resistance(Negative)
+8% Resistance(Toxic)
+8% Resistance(Psionic)
+23% Resistance(Lethal) (when Resist)
+
+
+
+------------
+Set Bonuses:
+Superior Assassin's Mark
+(Ice Sword)
+  4% (0.07 End/sec) Recovery
+  +15% Enhancement(Accuracy)
+  5% Defense(AoE), 2.5% Defense(Fire), 2.5% Defense(Cold)
+  4% DamageBuff(All)
+  +10% Enhancement(RechargeTime)
+
+
+Luck of the Gambler
+(Hide)
+  +7.5% Enhancement(RechargeTime) (when Recharge)
+
+
+Shield Wall
+(Hide)
+  5% Resistance(Lethal) (when Resist), 5% Resistance(Smashing), 5% Resistance(Fire), 5% Resistance(Cold), 5% Resistance(Energy), 5% Resistance(Negative), 5% Resistance(Psionic), 5% Resistance(Toxic), 100% MezResist(Teleport) (20% chance)
+
+
+Positron's Blast
+(Frost)
+  2.5% (0.04 End/sec) Recovery
+  2.25% Resistance(Fire,Cold), 3.75% Status Resistance
+  +9% Enhancement(Accuracy)
+  +6.25% Enhancement(RechargeTime)
+
+
+Red Fortune
+(Ninja Reflexes)
+  1.5% Resistance(Smashing,Lethal), 2.5% Status Resistance
+  1.5% Resistance(Fire,Cold), 2.5% Status Resistance
+  2% DamageBuff(All)
+  +5% Enhancement(RechargeTime)
+
+
+Superior Stalker's Guile
+(Assassin's Ice Sword)
+  +15% Enhancement(Accuracy)
+  5% Defense(Smashing,Lethal), 2.5% Defense(Melee)
+  4% DamageBuff(All)
+  +10% Enhancement(RechargeTime)
+  6% Resistance(Smashing,Lethal), 10% Status Resistance
+
+
+Reactive Defenses
+(Danger Sense)
+  1.5% Resistance(Smashing,Lethal), 2.5% Status Resistance
+  22.59 HP (1.88%) HitPoints (when HealSelf)
+  3% Resistance(Fire,Cold), 5% Status Resistance
+  3.75% Enhancement(EnduranceDiscount)
+  +8.75% Enhancement(RechargeTime)
+  3% Resistance(All) (when Resist)
+
+
+Luck of the Gambler
+(Combat Jumping)
+  +7.5% Enhancement(RechargeTime) (when Recharge)
+
+
+Preventive Medicine
+(Kuji-In Sha)
+  2.25% Resistance(Smashing,Lethal), 3.75% Status Resistance
+  22.59 HP (1.88%) HitPoints (when HealSelf)
+  3% Resistance(Fire,Cold), 5% Status Resistance
+  3.75% Enhancement(EnduranceDiscount)
+  +8.75% Enhancement(RechargeTime)
+  GrantPower Preventive Medicine (when PreventiveMedicine)
+
+
+Gladiator's Armor
+(Tough)
+  2.5% (0.04 End/sec) Recovery
+  2.25% Max End
+  3% Defense(Melee) (when Defense), 3% Defense(AoE), 3% Defense(Ranged), 3% Defense(Smashing), 3% Defense(Lethal), 3% Defense(Fire), 3% Defense(Cold), 3% Defense(Energy), 3% Defense(Negative), 3% Defense(Toxic), 3% Defense(Psionic), 100% MezResist(Teleport) (20% chance)
+
+
+Steadfast Protection
+(Tough)
+  3% Defense(Melee) (when Defense), 3% Defense(AoE), 3% Defense(Ranged), 3% Defense(Smashing), 3% Defense(Lethal), 3% Defense(Fire), 3% Defense(Cold), 3% Defense(Energy), 3% Defense(Negative), 3% Defense(Toxic), 3% Defense(Psionic)
+
+
+Hecatomb
+(Freezing Touch)
+  4% (0.07 End/sec) Recovery
+  6% Resistance(Fire,Cold), 10% Status Resistance
+  +15% Enhancement(Accuracy)
+  +10% Enhancement(RechargeTime)
+
+
+Luck of the Gambler
+(Weave)
+  10% (0.5 HP/sec) Regeneration
+  13.55 HP (1.13%) HitPoints (when HealSelf)
+  +9% Enhancement(Accuracy)
+  3.75% Resistance(Smashing,Lethal), 6.25% Status Resistance
+  +7.5% Enhancement(RechargeTime) (when Recharge)
+
+
+Luck of the Gambler
+(Maneuvers)
+  10% (0.5 HP/sec) Regeneration
+  +7.5% Enhancement(RechargeTime) (when Recharge)
+
+
+Superior Avalanche
+(Frozen Aura)
+  15% ResEffect(SpeedRunning), 15% ResEffect(RechargeTime), 15% ResEffect(SpeedFlying)
+  6% Resistance(Fire,Cold), 10% Status Resistance
+  4% (0.07 End/sec) Recovery
+  5% Defense(Melee), 2.5% Defense(Lethal), 2.5% Defense(Smashing)
+  5% Defense(Fire,Cold), 2.5% Defense(AoE)
+
+
+Superior Winter's Bite
+(Moonbeam)
+  6% Resistance(Fire,Cold), 10% Status Resistance
+  15% ResEffect(SpeedRunning), 15% ResEffect(RechargeTime), 15% ResEffect(SpeedFlying)
+  4% (0.07 End/sec) Recovery
+  5% Defense(Energy,Negative), 2.5% Defense(Ranged)
+  5% Defense(Fire,Cold), 2.5% Defense(AoE)
+
+
+Ragnarok
+(Caltrops)
+  4% (0.07 End/sec) Recovery
+  6% Resistance(Fire,Cold), 10% Status Resistance
+
+
+Luck of the Gambler
+(Shadow Meld)
+  10% (0.5 HP/sec) Regeneration
+  +7.5% Enhancement(RechargeTime) (when Recharge)
+
+
+Lockdown
+(Soul Storm)
+  3% DamageBuff(All)
+
+
+Devastation
+(Soul Storm)
+  12% (0.6 HP/sec) Regeneration
+
+
+Karma
+(Kuji-In Retsu)
+  Knockback Protection (Mag 4)
+
+
+Power Transfer
+(Stamina)
+  6% (0.3 HP/sec) Regeneration
+
+
+
+
+
+
+|              Do not modify anything below this line!              |
+|-------------------------------------------------------------------|
+|MxDz;2026;705;1410;HEX;|
+|78DA7D95594F534114C7FFB7F762A5B494B208880854B040A15062E2AB8968A2B44|
+|8D2C457D29411AED652B945C1E573F8E2FA60022E4FC6257E064D5C3F832B8B9A28|
+|3131385DCF1F4998A437FDCD39E73F67CE9CB937BE30EA7DF532760486EF683AE93|
+|893895C327D4ECDB913295B6552CA04507B22A506C7EDCCD9E46062763EEDD653CD|
+|25B7C9B84A2B15D10EC57F2DE5F9517546651C15C987D939671EDE89D9D97424A69|
+|2593B33ED2BC0717B7A26A7C953A04456A9297FD96B4ACD393376B6F558D64E45CA|
+|A2F9D527E34927A7E6165B741641FDCB86F4C340796C56010B1610B58C4D3D5C586|
+|4B82C60E10AC355815DB8263056BD55DE053419E43A66566037FE6A8FF6225CD069|
+|199C9681C720D7A7021E3C617826E0C573868FB2564CA76592BC65C22369D5A246A|
+|00E3E865A817AF8055EF401559C70155E9BA4F8C1A4B837028D78CBF04E600FDE0B|
+|C475C26E967763955D7F0AB4608D615D602FBE33FC2001DD94D5248F6A3E26471F4|
+|60D5B6BB0ECAA580D1DEB03597D284CE71FA774DA7E8EF4232C4732AF75036C0DB0|
+|7542C736F0961BF04932DE87CF0C2B02FBF185E12BC33781A0BBD88A95C59B78715|
+|35B9BC96A36232AB19D1811E8C210433EAAD4C417F5FE5A7907AD08B9C8B557E000|
+|FA18FA19C202DD382FC762E91CDBB889DB5067508E7482DD853A57A051E060A1C62|
+|50868C5765234DA59A493E52FE9BD75F0DE3A70C322D59B0221DC62B8CD7047A00F|
+|7705F2271D64F92096D87599E1BE403F1E303C64782430AE7BAB875F4B3D187151F|
+|68704A2382CB0E1057A39AE970B34C0551EE076CAF76A98DB298CDF2E72FD233088|
+|7B205812A8D7A713E18E8DA04BAC09BDA5614E6D181BF23E8D72365BA0CD020F7D9|
+|9FE9B284C96EE736C07DB84C56F7A6D33C4B6E2D9FA19E0B835CFB64F44975CA821|
+|9C36084E6A0815617507CDF5ED9AD7B9C4BF2CD25C179031D6AFCBC965F90731E26|
+|800|
+|-------------------------------------------------------------------|

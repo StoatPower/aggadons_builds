@@ -1,0 +1,318 @@
+This Hero build was built using Mids Reborn 3.4.7
+https://github.com/LoadedCamel/MidsReborn
+
+Fire-Storm-Lev: Level 50 Science Controller
+Primary Power Set: Fire Control
+Secondary Power Set: Storm Summoning
+Power Pool: Flight
+Power Pool: Speed
+Power Pool: Leadership
+Ancillary Pool: Leviathan Mastery
+
+Hero Profile:
+------------
+Level 1:	Ring of Fire			GrvAnc-Immob(A), GrvAnc-Hold%(3)
+Level 1:	Gale				FrcFdb-Rechg%(A)
+Level 2:	Char				SprEnt-Acc/Hold(A), SprEnt-Rchg/AbsorbProc(3), SprEnt-Hold/Rchg(11), SprEnt-Acc/Hold/End(11)
+Level 4:	Fire Cages			SprWiloft-Acc/Conf/Hold/Immob/Sleep/Stun/Fear(A), SprWiloft-Conf/Hold/Immob/Sleep/Stun/Fear/Rchg(5), SprWiloft-EndRdx/Rchg(5), SprWiloft-Acc/Conf/Hold/Immob/Sleep/Stun/Fear/EndRdx(13), SprWiloft-Acc/Conf/Hold/Immob/Sleep/Stun/Fear/EndRdx/Rchg(13), SprWiloft-Rchg/Dmg%(15)
+Level 6:	Snow Storm			PcnoftheT-Acc/EndRdx(A), PcnoftheT--Rchg%(15)
+Level 8:	Hover				LucoftheG-Def/Rchg+(A), BlsoftheZ-Travel(17), BlsoftheZ-Travel/EndRdx(17)
+Level 10:	Smoke				DarWtcDsp-ToHitDeb(A), DarWtcDsp-Slow%(19)
+Level 12:	Steamy Mist			LucoftheG-Def/EndRdx(A), LucoftheG-Def/Rchg+(19), Ksm-Def/EndRdx(21), Ksm-ToHit+(21), ShlWal-ResDam/Re TP(23), Rct-ResDam%(23)
+Level 14:	Hot Feet			Arm-Dmg(A), Arm-Dmg/EndRdx(25), Arm-Acc/Dmg/Rchg(25), Arm-Dmg/Rchg(27), Arm-Dam%(27)
+Level 16:	Freezing Rain			Rgn-Dmg(A), Rgn-Dmg/Rchg(29), Rgn-Dmg/EndRdx(29), Rgn-Knock%(31)
+Level 18:	Flashfire			AbsAmz-Stun(A), AbsAmz-Acc/Rchg(31)
+Level 20:	Hurricane			EndRdx-I(A), EndRdx-I(31), SuddAcc--KB/+KD(33)
+Level 22:	Cinders				SprOvrPrs-Acc/Conf/Hold/Immob/Sleep/Stun/Fear(A), SprOvrPrs-Conf/Hold/Immob/Sleep/Stun/Fear/Rchg(33), SprOvrPrs-EndRdx/Rchg(33), SprOvrPrs-Acc/Conf/Hold/Immob/Sleep/Stun/Fear/EndRdx(34), SprOvrPrs-Acc/Conf/Hold/Immob/Sleep/Stun/Fear/EndRdx/Rchg(50), SprOvrPrs-Rchg/Energy Font(50)
+Level 24:	Hasten				RechRdx-I(A)
+Level 26:	Bonfire				SuddAcc-KB/Rech(A), SuddAcc-KB/Dmg/Rech(34), SuddAcc-KB/Acc/Dmg(34), FrcFdb-Dmg/KB(36), FrcFdb-Dmg/EndRdx/KB(36), SuddAcc--KB/+KD(36)
+Level 28:	Thunder Clap			AbsAmz-Acc/Stun/Rchg(A), AbsAmz-ToHitDeb%(37)
+Level 30:	Maneuvers			LucoftheG-Def/Rchg+(A), LucoftheG-Def/EndRdx(37), LucoftheG-Def(37)
+Level 32:	Fire Imps			CaltoArm-Acc/Dmg(A), CaltoArm-EndRdx/Dmg/Rchg(39), ExpRnf-+Res(Pets)(39), SlbAll-Build%(39)
+Level 35:	Tornado				CaltoArm-Acc/Rchg(A), CaltoArm-Acc/Dmg(40), CaltoArm-Acc/Dmg/Rchg(40), CaltoArm-EndRdx/Dmg/Rchg(40), FrcFdb-Rechg%(42), SuddAcc--KB/+KD(42)
+Level 38:	Lightning Storm			Dcm-Acc/Dmg(A), Dcm-Dmg/Rchg(42), Dcm-Acc/Dmg/Rchg(43), Dcm-Build%(43), FrcFdb-Rechg%(43), SuddAcc--KB/+KD(45)
+Level 41:	Water Spout			Ann-Acc/Dmg(A), Ann-Dmg/Rchg(45), Ann-Acc/Dmg/Rchg(45), Ann-ResDeb%(46), FrcFdb-Rechg%(46), SuddAcc--KB/+KD(46)
+Level 44:	Hibernate			EndMod-I(A)
+Level 47:	Shark Skin			GldArm-End/Res(A), GldArm-ResDam(48), GldArm-3defTpProc(48), StdPrt-ResDam/Def+(48), UnbGrd-Max HP%(50)
+Level 49:	O2 Boost			Empty(A)
+Level 1:	Brawl				Empty(A)
+Level 1:	Containment	
+Level 1:	Sprint				Empty(A)
+Level 2:	Rest				Empty(A)
+Level 1:	Swift				Empty(A)
+Level 1:	Health				Mrc-Heal(A), Mrc-Rcvry+(7), NmnCnv-Regen/Rcvry+(7)
+Level 1:	Hurdle				Empty(A)
+Level 1:	Stamina				PrfShf-End%(A), PwrTrns-EndMod(9), PwrTrns-+Heal(9)
+Level 50:	Pyronic Radial Final Judgement	
+Level 50:	Reactive Core Flawless Interface	
+Level 50:	Banished Pantheon Radial Superior Ally	
+Level 50:	Cardiac Core Paragon	
+Level 50:	Barrier Core Epiphany	
+Level 50:	Support Core Embodiment	
+------------
+------------
+Set Bonus Totals:
+6.5% DamageBuff(Smashing)
+6.5% DamageBuff(Lethal)
+6.5% DamageBuff(Fire)
+6.5% DamageBuff(Cold)
+6.5% DamageBuff(Energy)
+6.5% DamageBuff(Negative)
+6.5% DamageBuff(Toxic)
+6.5% DamageBuff(Psionic)
+6% Defense(Melee) (when Defense)
+6% Defense(Smashing)
+6% Defense(Lethal)
+6% Defense(Fire)
+6% Defense(Cold)
+14.13% Defense(Energy)
+14.13% Defense(Negative)
+6% Defense(Toxic)
+6% Defense(Psionic)
+14.75% Defense(Ranged)
+6% Defense(AoE)
+5.85% Max End
++45% Enhancement(Accuracy)
++8% Enhancement(Stunned)
++8% Enhancement(Held)
++48.75% Enhancement(RechargeTime)
++8% Enhancement(Confused)
++8.8% Enhancement(Terrorized)
++16% Enhancement(Sleep)
++16% Enhancement(Immobilized)
+15% SpeedFlying
+160.2 HP (15.76%) HitPoints (when HealSelf)
+15% JumpHeight
+15% SpeedJumping
+Knockback (Mag -3)
+Knockup (Mag -3)
+50% MezResist(Confused)
+50% MezResist(Held)
+50% MezResist(Immobilized)
+50% MezResist(Sleep)
+50% MezResist(Stunned)
+50% MezResist(Terrorized)
+200% MezResist(Teleport) (20% chance)
+31.5% (0.53 End/sec) Recovery
+36% (1.53 HP/sec) Regeneration
+15% ResEffect(SpeedFlying)
+15% ResEffect(RechargeTime)
+15% ResEffect(SpeedRunning)
+24% Resistance(Smashing)
+36% Resistance(Fire)
+36% Resistance(Cold)
+21.75% Resistance(Energy)
+21.75% Resistance(Negative)
+20.25% Resistance(Toxic)
+20.25% Resistance(Psionic)
+24% Resistance(Lethal) (when Resist)
+15% SpeedRunning
+
+
+
+------------
+Set Bonuses:
+Gravitational Anchor
+(Ring of Fire)
+  4% (0.07 End/sec) Recovery
+
+
+Superior Entomb
+(Char)
+  6% Resistance(Fire,Cold), 10% Status Resistance
+  15% ResEffect(SpeedRunning), 15% ResEffect(RechargeTime), 15% ResEffect(SpeedFlying)
+  4% (0.07 End/sec) Recovery
+
+
+Superior Will of the Controller
+(Fire Cages)
+  4% DamageBuff(All)
+  +8% Enhancement(Immobilized), +8% Enhancement(Sleep), +4.4% Enhancement(Terrorized), +4% Enhancement(Confused), +4% Enhancement(Held), +4% Enhancement(Stunned)
+  +15% Enhancement(Accuracy)
+  +10% Enhancement(RechargeTime)
+  5% Defense(Ranged), 2.5% Defense(Energy), 2.5% Defense(Negative)
+
+
+Pacing of the Turtle
+(Snow Storm)
+  2.25% Resistance(Toxic,Psionic), 3.75% Status Resistance
+
+
+Luck of the Gambler
+(Hover)
+  +7.5% Enhancement(RechargeTime) (when Recharge)
+
+
+Blessing of the Zephyr
+(Hover)
+  1.25% Defense(Ranged), 0.63% Defense(Energy), 0.63% Defense(Negative)
+
+
+Dark Watcher's Despair
+(Smoke)
+  15.26 HP (1.5%) HitPoints (when HealSelf)
+
+
+Luck of the Gambler
+(Steamy Mist)
+  10% (0.42 HP/sec) Regeneration
+  +7.5% Enhancement(RechargeTime) (when Recharge)
+
+
+Kismet
+(Steamy Mist)
+  1.5% (0.03 End/sec) Recovery
+
+
+Shield Wall
+(Steamy Mist)
+  5% Resistance(Lethal) (when Resist), 5% Resistance(Smashing), 5% Resistance(Fire), 5% Resistance(Cold), 5% Resistance(Energy), 5% Resistance(Negative), 5% Resistance(Psionic), 5% Resistance(Toxic), 100% MezResist(Teleport) (20% chance)
+
+
+Reactive Defenses
+(Steamy Mist)
+  3% Resistance(All) (when Resist)
+
+
+Armageddon
+(Hot Feet)
+  4% (0.07 End/sec) Recovery
+  6% Resistance(Fire,Cold), 10% Status Resistance
+  +15% Enhancement(Accuracy)
+  +10% Enhancement(RechargeTime)
+
+
+Ragnarok
+(Freezing Rain)
+  4% (0.07 End/sec) Recovery
+  6% Resistance(Fire,Cold), 10% Status Resistance
+  +15% Enhancement(Accuracy)
+
+
+Absolute Amazement
+(Flashfire)
+  4% (0.07 End/sec) Recovery
+
+
+Superior Overpowering Presence
+(Cinders)
+  +8% Enhancement(Immobilized), +8% Enhancement(Sleep), +4.4% Enhancement(Terrorized), +4% Enhancement(Confused), +4% Enhancement(Held), +4% Enhancement(Stunned)
+  30.52 HP (3%) HitPoints (when HealSelf)
+  6% Resistance(Smashing,Lethal), 10% Status Resistance
+  4% (0.07 End/sec) Recovery (Exceeded 5 Bonus Cap)
+  5% Defense(Energy,Negative), 2.5% Defense(Ranged)
+
+
+Sudden Acceleration
+(Bonfire)
+  7.5% Movement Speed
+  2.25% Max End
+  2.5% DamageBuff(All)
+
+
+Force Feedback
+(Bonfire)
+  7.5% Movement Speed
+
+
+Absolute Amazement
+(Thunder Clap)
+  4% (0.07 End/sec) Recovery (Exceeded 5 Bonus Cap)
+
+
+Luck of the Gambler
+(Maneuvers)
+  10% (0.42 HP/sec) Regeneration
+  11.45 HP (1.13%) HitPoints (when HealSelf)
+  +7.5% Enhancement(RechargeTime) (when Recharge)
+
+
+Call to Arms
+(Fire Imps)
+  2.5% (0.04 End/sec) Recovery
+
+
+Expedient Reinforcement
+(Fire Imps)
+  10% Resistance(All)
+
+
+Call to Arms
+(Tornado)
+  2.5% (0.04 End/sec) Recovery
+  15.26 HP (1.5%) HitPoints (when HealSelf)
+  +6.25% Enhancement(RechargeTime)
+
+
+Decimation
+(Lightning Storm)
+  1.5% Resistance(Energy,Negative), 2.5% Status Resistance
+  11.45 HP (1.13%) HitPoints (when HealSelf)
+  2.25% Max End
+
+
+Annihilation
+(Water Spout)
+  1.35% Max End
+  2.25% Resistance(Energy,Negative), 3.75% Status Resistance
+  10% (0.42 HP/sec) Regeneration
+
+
+Gladiator's Armor
+(Shark Skin)
+  2.5% (0.04 End/sec) Recovery
+  2.25% Max End
+  3% Defense(Melee) (when Defense), 3% Defense(AoE), 3% Defense(Ranged), 3% Defense(Smashing), 3% Defense(Lethal), 3% Defense(Fire), 3% Defense(Cold), 3% Defense(Energy), 3% Defense(Negative), 3% Defense(Toxic), 3% Defense(Psionic), 100% MezResist(Teleport) (20% chance)
+
+
+Steadfast Protection
+(Shark Skin)
+  3% Defense(Melee) (when Defense), 3% Defense(AoE), 3% Defense(Ranged), 3% Defense(Smashing), 3% Defense(Lethal), 3% Defense(Fire), 3% Defense(Cold), 3% Defense(Energy), 3% Defense(Negative), 3% Defense(Toxic), 3% Defense(Psionic)
+
+
+Unbreakable Guard
+(Shark Skin)
+  76.3 HP (7.5%) HitPoints (when HealSelf)
+
+
+Miracle
+(Health)
+  2.5% (0.04 End/sec) Recovery
+
+
+Power Transfer
+(Stamina)
+  6% (0.25 HP/sec) Regeneration
+
+
+
+
+
+
+|              Do not modify anything below this line!              |
+|-------------------------------------------------------------------|
+|MxDz;2215;755;1510;HEX;|
+|78DA7D95496853511885CF4B526B27DBDA79886DD374B2261D04ABA228B60AD6140|
+|B41B731A6AF4D20434952D19D60EBBC2FA20B578E0BC1851B374A71A76B41B15A07|
+|5C885A50842E24FE4949FE436A7BE125EFBBE7DC73DFBDF77FC9D8D991D2572F3D0|
+|761540C87FD89846F38164DC663E1B0192FF4064266346042DA9623A1B8E9F22663|
+|F188CB639E2994AE16756607B9D3AE2CB07E686672D29D19EDF3CE4422B168283A8|
+|592F1587A483834154C1667EEBDD3A639519EB9F598FE09339E0886A6CB566D6997|
+|8C6A3D3C1D0AB847629150D42F793E7998903F19F4477D63FE44D28C9FAB97471B9|
+|26BD6908FF4B5DA52723B6E01066C464A9A0527144EE559E59A53754E148354AB81|
+|67360A7AA1508CE70C0B0A1725C04A210556DCB1E6541BEE32DC5328C57D86070A5|
+|BF050E1B44417F0620BF0C820EB63852239BB42B25A0A51A36A05DE5808DE2A5C12|
+|53114F518427AA6EC5538580D84A78B125A830C84AF35563451CF62CFC55A8C5315|
+|D5F2D7E295C96E165146F2BC36E9DBC1EFB18F62A34620FC37E8509492BE7232EC7|
+|A0AACDD8C9B04B611B8614AE4840256F502546D93AA6608AAD8ACFA00A6D202B412|
+|B3E69155D953135BCB135A8B791B581A151A10D4D0A036866B02B38A434EAF83DA8|
+|43AF3EC935511A4093376091A778CFB0A4D08EF3168259065ADBA4C437F1F635C1A|
+|356278E2B54CA73DA79FBEC5C524E2E3627AA15AECB6D0BADC0DA82454BAEE03AB1|
+|C4F05BE7EBC4B0C2948438F80C1C78A7E3BA38B10B1F1828BE877F607A781B8212D|
+|DC1F11D9897EFAEACF586C276DC64B8C540F13B38FE82BC46DD1CDF8D8F56B6327C|
+|5670E12B03C5BB38FE4B29322593ABA05EB46A05CD49849B5F5C370634B50F7D0C8|
+|30CE9AAB4672B764515BFF4F7F37CFD4877AFBEA936704BFFAAE7347B9E96F26C60|
+|1EB7F1BF8368866ADF8BD7FC75E4B49F799AECD9512377469B30CA7052CBF4C7069|
+|9CB6B33E7F52C3663D946F04761DDD65E2D1E0A4CBDAECAEBF8E6CCEBC86B07AA36|
+|D66FA775ACAFFFAF2D38F232FF01130ED333|
+|-------------------------------------------------------------------|

@@ -1,0 +1,75 @@
+This Villain build was built using Mids Reborn 3.4.7
+https://github.com/LoadedCamel/MidsReborn
+
+Dark-Sonic: Level 50 Science Dominator
+Primary Power Set: Darkness Control
+Secondary Power Set: Sonic Assault
+Power Pool: Fighting
+Power Pool: Speed
+Power Pool: Leaping
+Ancillary Pool: Psionic Mastery
+
+Villain Profile:
+------------
+Level 1:	Dark Grasp			Dcm-Dmg/EndRdx(A), Dcm-Acc/Dmg(3), Dcm-Build%(3)
+Level 1:	Shriek				EntChs-Heal%(A)
+Level 2:	Strident Echo			Hct-Dmg(A), Hct-Dmg/Rchg(5), Hct-Acc/Dmg/Rchg(5), Hct-Dmg/EndRdx(7), Hct-Dam%(7)
+Level 4:	Living Shadows			GrvAnc-Immob(A), GrvAnc-Acc/Immob/Rchg(9), GrvAnc-Hold%(9)
+Level 6:	Possess				CrcPrs-Conf%(A), CrcPrs-Conf(11)
+Level 8:	Fearsome Stare			CldSns-ToHitDeb(A), CldSns-Acc/ToHitDeb(11), CldSns-Acc/Rchg(13), CldSns-ToHitDeb/EndRdx/Rchg(13), CldSns-Acc/EndRdx/Rchg(15), CldSns-%Dam(15)
+Level 10:	Kick				FrcFdb-Rechg%(A)
+Level 12:	Heart of Darkness		SprDmnGrs-Acc/Conf/Hold/Immob/Sleep/Stun/Fear(A), SprDmnGrs-Conf/Hold/Immob/Sleep/Stun/Fear/Rchg(17), SprDmnGrs-EndRdx/Rchg(17), SprDmnGrs-Acc/Conf/Hold/Immob/Sleep/Stun/Fear/EndRdx(19), SprDmnGrs-Acc/Conf/Hold/Immob/Sleep/Stun/Fear/EndRdx/Rchg(19), SprDmnGrs-Rchg/Fiery Orb(21)
+Level 14:	Hasten				RechRdx-I(A), RechRdx-I(21)
+Level 16:	Bass Boost			RechRdx-I(A), RechRdx-I(23)
+Level 18:	Haunt				SlbAll-Dmg(A), SlbAll-Dmg/Rchg(23), SlbAll-Acc/Dmg/Rchg(25), SlbAll-Acc/Rchg(25), SlbAll-Dmg/EndRdx(36), SlbAll-Build%(36)
+Level 20:	Deafening Wave			SprEnt-Acc/Hold(A), SprEnt-Rchg/AbsorbProc(27), SprEnt-Hold/Rchg(37), SprEnt-End/Rchg(37), SprEnt-Acc/Hold/End(37), SprEnt-Acc/Hold/End/Rchg(39)
+Level 22:	Tough				GldArm-3defTpProc(A), GldArm-ResDam(27), GldArm-End/Res(40)
+Level 24:	Combat Jumping			LucoftheG-Def/Rchg+(A)
+Level 26:	Shadow Field			UnbCns-Hold(A), UnbCns-Hold/Rchg(29), UnbCns-Acc/Rchg(29), UnbCns-Dam%(31)
+Level 28:	Disruption Aura			EndRdx-I(A), EndRdx-I(39)
+Level 30:	Weave				LucoftheG-Def/Rchg+(A), LucoftheG-Def/EndRdx(31), LucoftheG-Def(31)
+Level 32:	Umbra Beast			SvrRgh-Acc/Dmg(A), SvrRgh-Acc/Dmg/EndRdx(33), SvrRgh-PetResDam(33), EdcoftheM-PetDef(33)
+Level 35:	Shout				Dvs-Dmg/EndRdx(A), Dvs-Dmg/Rchg(39), Dvs-Acc/Dmg/Rchg(40), Dvs-Acc/Dmg/EndRdx/Rchg(40), Dvs-Acc/Dmg(42), Dvs-Hold%(45)
+Level 38:	Earsplitter			SprAscoft-Acc/Conf/Hold/Immob/Sleep/Stun/Fear(A), SprAscoft-Conf/Hold/Immob/Sleep/Stun/Fear/Rchg(42), SprAscoft-EndRdx/Rchg(42), SprAscoft-Acc/Conf/Hold/Immob/Sleep/Stun/Fear/EndRdx(43), SprAscoft-Acc/Conf/Hold/Immob/Sleep/Stun/Fear/EndRdx/Rchg(43), SprAscoft-Rchg/+Dmg%(45)
+Level 41:	Link Minds			LucoftheG-Def/Rchg+(A), LucoftheG-Def/Rchg(43), LucoftheG-Def(45)
+Level 44:	Mind Over Body			StdPrt-ResDam/Def+(A), StdPrt-ResKB(46), UnbGrd-ResDam(46), UnbGrd-ResDam/EndRdx(46), UnbGrd-ResDam/EndRdx/Rchg(48), UnbGrd-Max HP%(48)
+Level 47:	World of Confusion		MlsIll-EndRdx/Conf(A), MlsIll-Acc/EndRdx(48), MlsIll-Acc/Conf/Rchg(50), MlsIll-Dam%(50)
+Level 49:	Indomitable Will		LucoftheG-Def/Rchg+(A), RechRdx-I(50)
+Level 1:	Brawl				Empty(A)
+Level 1:	Domination	
+Level 1:	Sprint				Clr-Stlth(A)
+Level 2:	Rest				Empty(A)
+Level 1:	Swift				Run-I(A)
+Level 1:	Health				NmnCnv-Regen/Rcvry+(A), NmnCnv-Heal(34), Mrc-Rcvry+(34)
+Level 1:	Hurdle				Jump-I(A)
+Level 1:	Stamina				PrfShf-End%(A), PrfShf-EndMod(34), EndMod-I(36)
+------------
+
+
+
+|              Do not modify anything below this line!              |
+|-------------------------------------------------------------------|
+|MxDz;2031;719;1438;HEX;|
+|78DA6595D94E53511486FFD373B052404066010B65AAD4164AE2942883140D06924|
+|6825726A4D6064FAC2D69AB9107F001F4062FBC737C04C7C4F14E9FC2F94225011C|
+|12B5AE1EA0EBC79EE4B4E7EB5AEBDFFF5E7B9FDDE9CB91CA37AFA74661548F2763D|
+|9EC5C247DC14EC572E98C7B266E2752F18409C0138965CE0767D2293BEE16F41593|
+|E6C6D3A95C269D0C15125209A9DFF8C1AB2963D96CEC62321772CA370955D1B4941|
+|DB3E7CFE5ECD4BCC7A1998544E26CA5F33895882DC8EFB50E4CA62ED959FB8C9DB4|
+|738BDE89053B1E8A666D476D3A96CD25328BEBAEE70BC3358B3FAFDCBF9BE4C3C0E|
+|6957701D7E5BBCF32F272B9B0C470436120B0B54EEEAB8529AF4787021C44DE32D0|
+|2BCAE1F5A8853E06BFC236F4330414FE884F937D9A886A743B4E32CC2AFC95BA327|
+|2629421A6510F4E2BE425D54D4394B9F156A2ED9BA9EF142AF19EE183C20E7C64F8|
+|A4E0922D51CE1D2BC7151D1CB220153C78050E5BC5680D8E300C2BECC408C3A8423|
+|DC6147C327815C91B55282C603195609F3C57736A35471B190C315DCBA66B31ECA2|
+|D41185668C328C2974E128C3B8C27E19AA8EE5EBF054A7B40BAF14BAF18CE139C30|
+|B855EBC5430A5270DBCA51A306492FC80421FC20A8D52D7C40BD9E4C86C445DD293|
+|168A9A2D88E894DA30C1705C613726150EC8CC5B790D5AD1099A0581256EDA7916E|
+|DEC66376A18EA154CF1E9659F5E2CAB6A075618D6183EEB2970507CFA78857CB8C5|
+|3E6F835A7887E1AEC21EDC54D88B7B0A8744BE87E57B70DFA4BA070C0F15FAF188E|
+|1B149F24F147CB5809F5BE7E7D6F53B5BBB5847ADEB96BA00DB0A38FB61E33D0FA2|
+|996155C70B624D61003F197E29F4887C885726841583525715C2F8CEF043A14B440|
+|679070DF2DCC2FC16B759E0AB70943B2FB7D3A2FF62F929ABE4DC2FD77D1BB5B69E|
+|FB0245A92F9E92CAA09AF8E629F91F3AA57E3B31CB70C228EEC0AFA5AA7E555D2E5|
+|55D7291D0353E793AB4EE1FE864539A|
+|-------------------------------------------------------------------|

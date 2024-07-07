@@ -1,0 +1,574 @@
+{
+  "BuiltWith": {
+    "App": "Mids' Reborn",
+    "Version": "3.7.4.9",
+    "Database": "Homecoming",
+    "DatabaseVersion": "2024.5.759"
+  },
+  "Level": "48",
+  "Class": "Class_Controller",
+  "Origin": "Science",
+  "Alignment": "Hero",
+  "Name": "The Petrologist",
+  "Comment": "",
+  "PowerSets": [
+    "Controller_Control.Earth_Control",
+    "Controller_Buff.Darkness_Affinity",
+    "",
+    "Pool.Leaping",
+    "Pool.Speed",
+    "Pool.Leadership",
+    "Pool.Fighting",
+    "Epic.Dominator_Soul_Mastery"
+  ],
+  "LastPower": 24,
+  "PowerEntries": [
+    {
+      "PowerName": "Controller_Control.Earth_Control.Stone_Prison",
+      "Level": 1,
+      "StatInclude": false,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": [
+        {
+          "Level": 1,
+          "IsInherent": false,
+          "Enhancement": null,
+          "FlippedEnhancement": null
+        }
+      ]
+    },
+    {
+      "PowerName": "Controller_Buff.Darkness_Affinity.Twilight_Grasp",
+      "Level": 1,
+      "StatInclude": false,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": [
+        {
+          "Level": 1,
+          "IsInherent": false,
+          "Enhancement": null,
+          "FlippedEnhancement": null
+        }
+      ]
+    },
+    {
+      "PowerName": "Controller_Control.Earth_Control.Fossilize",
+      "Level": 2,
+      "StatInclude": false,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": [
+        {
+          "Level": 2,
+          "IsInherent": false,
+          "Enhancement": null,
+          "FlippedEnhancement": null
+        }
+      ]
+    },
+    {
+      "PowerName": "Controller_Buff.Darkness_Affinity.Tar_Patch",
+      "Level": 4,
+      "StatInclude": false,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": [
+        {
+          "Level": 4,
+          "IsInherent": false,
+          "Enhancement": null,
+          "FlippedEnhancement": null
+        }
+      ]
+    },
+    {
+      "PowerName": "Controller_Buff.Darkness_Affinity.Darkest_Night",
+      "Level": 6,
+      "StatInclude": false,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": [
+        {
+          "Level": 6,
+          "IsInherent": false,
+          "Enhancement": null,
+          "FlippedEnhancement": null
+        }
+      ]
+    },
+    {
+      "PowerName": "Controller_Control.Earth_Control.Stone_Cages",
+      "Level": 8,
+      "StatInclude": false,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": [
+        {
+          "Level": 8,
+          "IsInherent": false,
+          "Enhancement": null,
+          "FlippedEnhancement": null
+        }
+      ]
+    },
+    {
+      "PowerName": "Controller_Control.Earth_Control.Quicksand",
+      "Level": 10,
+      "StatInclude": false,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": [
+        {
+          "Level": 10,
+          "IsInherent": false,
+          "Enhancement": null,
+          "FlippedEnhancement": null
+        }
+      ]
+    },
+    {
+      "PowerName": "Controller_Buff.Darkness_Affinity.Howling_Twilight",
+      "Level": 12,
+      "StatInclude": false,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": [
+        {
+          "Level": 12,
+          "IsInherent": false,
+          "Enhancement": null,
+          "FlippedEnhancement": null
+        }
+      ]
+    },
+    {
+      "PowerName": "Pool.Leaping.Combat_Jumping",
+      "Level": 14,
+      "StatInclude": false,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": [
+        {
+          "Level": 14,
+          "IsInherent": false,
+          "Enhancement": null,
+          "FlippedEnhancement": null
+        }
+      ]
+    },
+    {
+      "PowerName": "Pool.Speed.Hasten",
+      "Level": 16,
+      "StatInclude": false,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": [
+        {
+          "Level": 16,
+          "IsInherent": false,
+          "Enhancement": null,
+          "FlippedEnhancement": null
+        }
+      ]
+    },
+    {
+      "PowerName": "Controller_Buff.Darkness_Affinity.Shadow_Fall",
+      "Level": 18,
+      "StatInclude": false,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": [
+        {
+          "Level": 18,
+          "IsInherent": false,
+          "Enhancement": null,
+          "FlippedEnhancement": null
+        }
+      ]
+    },
+    {
+      "PowerName": "Controller_Control.Earth_Control.Stalagmites",
+      "Level": 20,
+      "StatInclude": false,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": [
+        {
+          "Level": 20,
+          "IsInherent": false,
+          "Enhancement": null,
+          "FlippedEnhancement": null
+        }
+      ]
+    },
+    {
+      "PowerName": "Controller_Buff.Darkness_Affinity.Fade",
+      "Level": 22,
+      "StatInclude": false,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": [
+        {
+          "Level": 22,
+          "IsInherent": false,
+          "Enhancement": null,
+          "FlippedEnhancement": null
+        }
+      ]
+    },
+    {
+      "PowerName": "Controller_Control.Earth_Control.Earthquake",
+      "Level": 24,
+      "StatInclude": false,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": [
+        {
+          "Level": 24,
+          "IsInherent": false,
+          "Enhancement": null,
+          "FlippedEnhancement": null
+        }
+      ]
+    },
+    {
+      "PowerName": "Controller_Buff.Darkness_Affinity.Soul_Absorption",
+      "Level": 26,
+      "StatInclude": false,
+      "ProcInclude": false,
+      "VariableValue": 1,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": [
+        {
+          "Level": 26,
+          "IsInherent": false,
+          "Enhancement": null,
+          "FlippedEnhancement": null
+        }
+      ]
+    },
+    {
+      "PowerName": "Controller_Control.Earth_Control.Volcanic_Gasses",
+      "Level": 28,
+      "StatInclude": false,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": [
+        {
+          "Level": 28,
+          "IsInherent": false,
+          "Enhancement": null,
+          "FlippedEnhancement": null
+        }
+      ]
+    },
+    {
+      "PowerName": "Controller_Control.Earth_Control.Animate_Stone",
+      "Level": 30,
+      "StatInclude": false,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": [
+        {
+          "Level": 30,
+          "IsInherent": false,
+          "Enhancement": null,
+          "FlippedEnhancement": null
+        }
+      ]
+    },
+    {
+      "PowerName": "Controller_Buff.Darkness_Affinity.Dark_Servant",
+      "Level": 32,
+      "StatInclude": false,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": [
+        {
+          "Level": 32,
+          "IsInherent": false,
+          "Enhancement": null,
+          "FlippedEnhancement": null
+        }
+      ]
+    },
+    {
+      "PowerName": "Pool.Leadership.Defense",
+      "Level": 35,
+      "StatInclude": false,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": [
+        {
+          "Level": 35,
+          "IsInherent": false,
+          "Enhancement": null,
+          "FlippedEnhancement": null
+        }
+      ]
+    },
+    {
+      "PowerName": "Epic.Dominator_Soul_Mastery.Dark_Consumption",
+      "Level": 38,
+      "StatInclude": false,
+      "ProcInclude": false,
+      "VariableValue": 1,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": [
+        {
+          "Level": 38,
+          "IsInherent": false,
+          "Enhancement": null,
+          "FlippedEnhancement": null
+        }
+      ]
+    },
+    {
+      "PowerName": "Epic.Dominator_Soul_Mastery.Dark_Embrace",
+      "Level": 41,
+      "StatInclude": false,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": [
+        {
+          "Level": 41,
+          "IsInherent": false,
+          "Enhancement": null,
+          "FlippedEnhancement": null
+        }
+      ]
+    },
+    {
+      "PowerName": "Epic.Dominator_Soul_Mastery.Dark_Obliteration",
+      "Level": 44,
+      "StatInclude": false,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": [
+        {
+          "Level": 44,
+          "IsInherent": false,
+          "Enhancement": null,
+          "FlippedEnhancement": null
+        }
+      ]
+    },
+    {
+      "PowerName": "Epic.Dominator_Soul_Mastery.Soul_Drain",
+      "Level": 47,
+      "StatInclude": false,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": [
+        {
+          "Level": 47,
+          "IsInherent": false,
+          "Enhancement": null,
+          "FlippedEnhancement": null
+        }
+      ]
+    },
+    {
+      "PowerName": "Pool.Leaping.Long_Jump",
+      "Level": 49,
+      "StatInclude": false,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": [
+        {
+          "Level": 49,
+          "IsInherent": false,
+          "Enhancement": null,
+          "FlippedEnhancement": null
+        }
+      ]
+    },
+    {
+      "PowerName": "Inherent.Inherent.Brawl",
+      "Level": 1,
+      "StatInclude": false,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": [
+        {
+          "Level": 1,
+          "IsInherent": false,
+          "Enhancement": null,
+          "FlippedEnhancement": null
+        }
+      ]
+    },
+    {
+      "PowerName": "Inherent.Inherent.Containment",
+      "Level": 1,
+      "StatInclude": false,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": []
+    },
+    {
+      "PowerName": "Inherent.Inherent.Sprint",
+      "Level": 1,
+      "StatInclude": false,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": [
+        {
+          "Level": 1,
+          "IsInherent": false,
+          "Enhancement": null,
+          "FlippedEnhancement": null
+        }
+      ]
+    },
+    {
+      "PowerName": "Inherent.Inherent.Rest",
+      "Level": 2,
+      "StatInclude": false,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": [
+        {
+          "Level": 2,
+          "IsInherent": false,
+          "Enhancement": null,
+          "FlippedEnhancement": null
+        }
+      ]
+    },
+    {
+      "PowerName": "Inherent.Fitness.Swift",
+      "Level": 1,
+      "StatInclude": true,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": [
+        {
+          "Level": 1,
+          "IsInherent": false,
+          "Enhancement": null,
+          "FlippedEnhancement": null
+        }
+      ]
+    },
+    {
+      "PowerName": "Inherent.Fitness.Health",
+      "Level": 1,
+      "StatInclude": true,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": [
+        {
+          "Level": 1,
+          "IsInherent": false,
+          "Enhancement": null,
+          "FlippedEnhancement": null
+        }
+      ]
+    },
+    {
+      "PowerName": "Inherent.Fitness.Hurdle",
+      "Level": 1,
+      "StatInclude": true,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": [
+        {
+          "Level": 1,
+          "IsInherent": false,
+          "Enhancement": null,
+          "FlippedEnhancement": null
+        }
+      ]
+    },
+    {
+      "PowerName": "Inherent.Fitness.Stamina",
+      "Level": 1,
+      "StatInclude": true,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": [
+        {
+          "Level": 1,
+          "IsInherent": false,
+          "Enhancement": null,
+          "FlippedEnhancement": null
+        }
+      ]
+    },
+    {
+      "PowerName": "Inherent.Inherent.Double_Jump",
+      "Level": 49,
+      "StatInclude": false,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": []
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+This Villain build was built using Mids Reborn 3.4.6
+https://github.com/LoadedCamel/MidsReborn
+
+Aggadon: Level 50 Science Brute
+Primary Power Set: Spines
+Secondary Power Set: Fiery Aura
+Power Pool: Speed
+Power Pool: Concealment
+Power Pool: Fighting
+Power Pool: Leadership
+Ancillary Pool: Pyre Mastery
+
+Villain Profile:
+------------
+Level 1:	Lunge				Hct-Dmg(A), Hct-Dmg/Rchg(3), Hct-Acc/Dmg/Rchg(3), Hct-Acc/Rchg(5), Hct-Dmg/EndRdx(5)
+Level 1:	Fire Shield			Ags-ResDam/EndRdx(A), Ags-ResDam/Rchg(7), Ags-EndRdx/Rchg(7), Ags-ResDam/EndRdx/Rchg(9), Ags-ResDam(9)
+Level 2:	Spine Burst			ScrDrv-Acc/Dmg(A), ScrDrv-Dmg/EndRdx(11), ScrDrv-Acc/Rchg(11), ScrDrv-Dam%(13), ScrDrv-Acc/Dmg/EndRdx(13)
+Level 4:	Blazing Aura			SprAvl-Acc/Dmg(A), SprAvl-Dmg/EndRdx(15), SprAvl-Acc/Dmg/EndRdx(15), SprAvl-Acc/Dmg/Rchg(17), SprAvl-Acc/Dmg/EndRdx/Rchg(17), SprAvl-Rchg/KDProc(19)
+Level 6:	Healing Flames			Prv-Heal(A), Prv-Heal/EndRdx(19), Prv-EndRdx/Rchg(21), Prv-Heal/Rchg(21), Prv-Heal/Rchg/EndRdx(23), Prv-Absorb%(23)
+Level 8:	Build Up			GssSynFr--Build%(A), RechRdx-I(25)
+Level 10:	Hasten				RechRdx-I(A), RechRdx-I(25)
+Level 12:	Temperature Protection		Ags-ResDam/EndRdx(A), Ags-ResDam/Rchg(27), Ags-EndRdx/Rchg(27), Ags-ResDam/EndRdx/Rchg(29), Ags-ResDam(29)
+Level 14:	Stealth				LucoftheG-Def/Rchg+(A), Ksm-ToHit+(31)
+Level 16:	Grant Invisibility		LucoftheG-Def/Rchg+(A)
+Level 18:	Quills				SprBrtFur-Acc/Dmg(A), SprBrtFur-Dmg/Rchg(31), SprBrtFur-Acc/Dmg/Rchg(31), SprBrtFur-Dmg/EndRdx/Rchg(33), SprBrtFur-Acc/Dmg/EndRdx/Rchg(33), SprUnrFur-Rchg/+Regen/+End(33)
+Level 20:	Consume				MckBrt-Taunt(A), MckBrt-Taunt/Rchg(34), MckBrt-Taunt/Rchg/Rng(34), MckBrt-Acc/Rchg(34), MckBrt-Taunt/Rng(36), MckBrt-Rchg(36)
+Level 22:	Kick				FrcFdb-Rechg%(A)
+Level 24:	Tough				StdPrt-ResDam/Def+(A), GldArm-3defTpProc(36), Ags-ResDam(37), Ags-ResDam/EndRdx(37), Ags-ResDam/EndRdx/Rchg(37)
+Level 26:	Ripper				ScrDrv-Acc/Dmg(A), ScrDrv-Dmg/EndRdx(39), ScrDrv-Dmg/Rchg(39), ScrDrv-Dam%(39), ScrDrv-Acc/Dmg/EndRdx(40), FrcFdb-Rechg%(40)
+Level 28:	Burn				Arm-Dmg(A), Arm-Dmg/Rchg(40), Arm-Acc/Dmg/Rchg(42), Arm-Dam%(42), Arm-Dmg/EndRdx(42), FuroftheG-ResDeb%(43)
+Level 30:	Weave				LucoftheG-Def/Rchg+(A), LucoftheG-Def/EndRdx(43), LucoftheG-Def/EndRdx/Rchg(43)
+Level 32:	Maneuvers			LucoftheG-Def/Rchg+(A), LucoftheG-Def/EndRdx(45), LucoftheG-Def/EndRdx/Rchg(45)
+Level 35:	Fiery Embrace			RechRdx-I(A), RechRdx-I(45)
+Level 38:	Tactics				HO:Cyto(A)
+Level 41:	Char				Acc-I(A)
+Level 44:	Melt Armor			AchHee-ResDeb%(A)
+Level 47:	Fire Ball			Ann-Acc/Dmg(A), Ann-ResDeb%(48), PstBls-Acc/Dmg/EndRdx(48), PstBls-Dam%(48), JvlVll-Dam%(50), Bmbdmt-+FireDmg(50)
+Level 49:	Assault				EndRdx-I(A)
+Level 1:	Brawl				Empty(A)
+Level 1:	Fury	
+Level 1:	Sprint				Empty(A)
+Level 2:	Rest				Empty(A)
+Level 1:	Swift				Empty(A)
+Level 1:	Health				NmnCnv-Regen/Rcvry+(A), Mrc-Rcvry+(46), Mrc-Heal(46)
+Level 1:	Hurdle				Empty(A)
+Level 1:	Stamina				PrfShf-End%(A), PrfShf-EndMod(46), EndMod-I(50)
+------------
+
+
+
+|              Do not modify anything below this line!              |
+|-------------------------------------------------------------------|
+|MxDz;1984;705;1410;HEX;|
+|78DA7D94CB4F534114C6BFF6DE5A795428157956A042CBCB0AA8891A8DA24882818|
+|484C42DA93096ABB590DE8254D7FE036EDCF80075E31FA01075E3D2F7D6B874E313|
+|75E1D6D463919EAF9230C96DE737E79C6F66CE9999B1C5A1CAD7AF464FC053712A9|
+|570DDC99399F9ACF14F4C39263D652C00FEC16432313D9BF64BBFA6609D1C332963|
+|E213734EDAB8F5EB4343E6BC49BB263EEC984C6E72703E9340F9F8EC6C4ABC8C990|
+|E16BA23E905C775CE3929279B0B1446869DE44CD64927AB0A346A12D326E3CE3873|
+|C1D373CE547C3C9791B9126E5624EB65F616F99E47E5C7838D96B781A817E8B73D7|
+|9695EC4183A156C7431742B3CC426C53E4FD1BA0DFD0C030ADBB19FE180C28B280B|
+|8AA2070B285ACB719921A75089AB0C57141E49D7A235FA2CDCB48BD61DB8C5705BA|
+|11A771896146AB0ACB0229A3E96F7E19345AE9F1576E20BC357855DF8C6B0A6F052|
+|F2E127798F1F0F34FFF5E8D18D46E49495B16B195B4B5C57A55BC175ABE0BA3572D|
+|D1AB96ECD5CB766AE5B40260FF0E401D4AA75377ECB60F85F96C5B58A5C51C5AE6F|
+|64C341CE67104B16092D33DC5568C53D86FB0C412DD763D10C798A472CEF0B6146F|
+|3D90687E102C345853D48315CA27B237BABE5BDD5E29A5A2DB1D671DAEB0A18DE10|
+|1AD045B77372DBB93AED5C83B792AD06CE56035F97285F97281619E8BAC4F8BAC47|
+|8C14F64BC89E59B70C84BAE8715BA7084E118C351856E1CD74DDA928F30C97BC37C|
+|12BA51CD1052084A5C0BC7B5705C2FC7F572DC53718EF0218DF0A5E86508C9141D5|
+|CC80E1C947FDB2A58DFC91E3AD9DA89468DFD5509F4B0B507CF2403A175EB7B898D|
+|D30BE78BE383A6641F3E32AC806055A11F118BC0EBD317C7BFFE061727EF439BC63|
+|5DBE096FFFB492BD886EDD2C73C3FBA85F3B85DFA4E0B146D6BE5A5421CF7E33F9B|
+|E4E5AC16682FCE08C4366044E1FB169A3F376BDEF092E6752FA5AA5593F107E9294|
+|A66|
+|-------------------------------------------------------------------|

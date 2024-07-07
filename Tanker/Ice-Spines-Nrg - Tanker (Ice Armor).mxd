@@ -1,0 +1,305 @@
+This Hero build was built using Mids Reborn 3.4.7
+https://github.com/LoadedCamel/MidsReborn
+
+Ice-Spines-Nrg: Level 50 Magic Tanker
+Primary Power Set: Ice Armor
+Secondary Power Set: Spines
+Power Pool: Speed
+Power Pool: Leaping
+Power Pool: Fighting
+Ancillary Pool: Energy Mastery
+
+Hero Profile:
+------------
+Level 1:	Frozen Armor			LucoftheG-Def/EndRdx(A), LucoftheG-Def/Rchg(15), LucoftheG-EndRdx/Rchg(15), LucoftheG-Def/EndRdx/Rchg(17), LucoftheG-Def(19), LucoftheG-Def/Rchg+(19)
+Level 1:	Lunge				SprBlsCol-Acc/Dmg(A), SprBlsCol-Dmg/EndRdx(11), SprBlsCol-Acc/Dmg/EndRdx(45), SprBlsCol-Acc/Dmg/Rchg(46), SprBlsCol-Dmg/EndRdx/Acc/Rchg(46), SprBlsCol-Rchg/HoldProc(46)
+Level 2:	Hoarfrost			GldArm-RechRes(A), GldArm-ResDam(3), GldArm-3defTpProc(3), Prv-Absorb%(48), Prv-Heal(50)
+Level 4:	Spine Burst			SprGntFis-Acc/Dmg(A), SprGntFis-Dmg/Rchg(5), SprGntFis-Acc/Dmg/Rchg(5), SprGntFis-Dmg/EndRdx/Rchg(7), SprGntFis-Acc/Dmg/EndRdx/Rchg(7), SprGntFis-Rchg/+Absorb(11)
+Level 6:	Wet Ice				EndRdx-I(A)
+Level 8:	Permafrost			StdPrt-ResDam/Def+(A), StdPrt-ResKB(9), UnbGrd-Max HP%(9)
+Level 10:	Taunt				PrfZng-Dam%(A)
+Level 12:	Chilling Embrace		PcnoftheT-Acc/Slow(A), PcnoftheT-Acc/EndRdx(13), PcnoftheT--Rchg%(13)
+Level 14:	Hasten				RechRdx-I(A)
+Level 16:	Ripper				SprMghoft-Acc/Dmg(A), SprMghoft-Dmg/Rchg(17), SprMghoft-Acc/Dmg/Rchg(40), SprMghoft-Dmg/EndRdx/Rchg(40), SprMghoft-Acc/Dmg/EndRdx/Rchg(40), SprMghoft-Rchg/Res%(42)
+Level 18:	Glacial Armor			ShlWal-Def/EndRdx(A), ShlWal-Def/Rchg(21), ShlWal-EndRdx/Rchg(21), ShlWal-Def/EndRdx/Rchg(23), ShlWal-Def(23), ShlWal-ResDam/Re TP(33)
+Level 20:	Combat Jumping			LucoftheG-Def/Rchg+(A)
+Level 22:	Energy Absorption		LucoftheG-Def/Rchg+(A), Ksm-ToHit+(33), Rct-ResDam%(34), PrfShf-End%(34), PrfShf-EndMod(34), PrfShf-EndMod/Acc(36)
+Level 24:	Icicles				SprAvl-Acc/Dmg(A), SprAvl-Dmg/EndRdx(25), SprAvl-Acc/Dmg/EndRdx(25), SprAvl-Acc/Dmg/Rchg(27), SprAvl-Acc/Dmg/EndRdx/Rchg(27), SprAvl-Rchg/KDProc(29)
+Level 26:	Build Up			GssSynFr--Build%(A)
+Level 28:	Quills				Arm-Dmg(A), Arm-Dmg/Rchg(29), Arm-Acc/Dmg/Rchg(31), Arm-Acc/Rchg(31), Arm-Dmg/EndRdx(31), Arm-Dam%(33)
+Level 30:	Throw Spines			SprFrzBls-Acc/Dmg(A), SprFrzBls-Dmg/EndRdx(37), SprFrzBls-Acc/Dmg/EndRdx(37), SprFrzBls-Acc/Dmg/Rchg(37), SprFrzBls-Dmg/EndRdx/Acc/Rchg(39), SprFrzBls-Rchg/ImmobProc(39)
+Level 32:	Hibernate			RgnTss-Regen+(A)
+Level 35:	Impale				SprWntBit-Acc/Dmg(A), SprWntBit-Dmg/Rchg(43), SprWntBit-Acc/Dmg/EndRdx(43), SprWntBit-Acc/Dmg/Rchg(43), SprWntBit-Dmg/EndRdx/Acc/Rchg(45), SprWntBit-Rchg/SlowProc(45)
+Level 38:	Conserve Power			RechRdx-I(A), RechRdx-I(39)
+Level 41:	Physical Perfection		Mrc-Rcvry+(A), Mrc-Heal(42), Mrc-Heal/EndRdx(42)
+Level 44:	Boxing				Empty(A)
+Level 47:	Tough				Ags-ResDam/EndRdx(A), Ags-ResDam(48), Ags-Psi/Status(48)
+Level 49:	Weave				LucoftheG-Def/Rchg+(A), LucoftheG-Def/EndRdx(50), LucoftheG-Def(50)
+Level 1:	Brawl				Empty(A)
+Level 1:	Gauntlet	
+Level 1:	Sprint				Empty(A)
+Level 2:	Rest				Empty(A)
+Level 1:	Swift				Empty(A)
+Level 1:	Health				NmnCnv-Regen/Rcvry+(A), NmnCnv-Heal(36), NmnCnv-Heal/EndRdx(36)
+Level 1:	Hurdle				Empty(A)
+Level 1:	Stamina				PwrTrns-EndMod(A)
+Level 50:	Agility Core Paragon	
+Level 50:	Mighty Radial Final Judgement	
+Level 50:	Reactive Core Flawless Interface	
+Level 50:	Banished Pantheon Radial Superior Ally	
+Level 50:	Melee Core Embodiment	
+Level 50:	Ageless Core Epiphany	
+------------
+------------
+Set Bonus Totals:
+6.5% DamageBuff(Smashing)
+6.5% DamageBuff(Lethal)
+6.5% DamageBuff(Fire)
+6.5% DamageBuff(Cold)
+6.5% DamageBuff(Energy)
+6.5% DamageBuff(Negative)
+6.5% DamageBuff(Toxic)
+6.5% DamageBuff(Psionic)
+16% Defense(Smashing)
+16% Defense(Lethal)
+31.63% Defense(Fire)
+31.63% Defense(Cold)
+11% Defense(Energy)
+11% Defense(Negative)
+6% Defense(Toxic)
+6% Defense(Psionic)
+18.5% Defense(Melee)
+8.5% Defense(Ranged)
+22.56% Defense(AoE)
+3.6% Max End
++2.5% Enhancement(SpeedRunning)
++2.5% Enhancement(SpeedJumping)
++2.5% Enhancement(SpeedFlying)
++24% Enhancement(Accuracy)
++2.5% Enhancement(JumpHeight)
++50% Enhancement(RechargeTime)
+15% SpeedFlying
+GrantPower Preventive Medicine (when PreventiveMedicine)
+386.5 HP (20.63%) HitPoints
+15% JumpHeight
+15% SpeedJumping
+Knockback (Mag -7)
+Knockup (Mag -7)
+135% MezResist(Confused)
+135% MezResist(Held)
+135% MezResist(Immobilized)
+135% MezResist(Sleep)
+135% MezResist(Stunned)
+135% MezResist(Terrorized)
+200% MezResist(Teleport) (20% chance)
+26.5% (0.44 End/sec) Recovery
+58% (4.53 HP/sec) Regeneration
+60% ResEffect(SpeedFlying)
+60% ResEffect(RechargeTime)
+60% ResEffect(SpeedRunning)
+26% Resistance(Smashing)
+26% Resistance(Lethal)
+38% Resistance(Fire)
+38% Resistance(Cold)
+18.5% Resistance(Energy)
+18.5% Resistance(Negative)
+30.5% Resistance(Toxic)
+35.5% Resistance(Psionic)
+15% SpeedRunning
+
+
+
+------------
+Set Bonuses:
+Luck of the Gambler
+(Frozen Armor)
+  10% (0.78 HP/sec) Regeneration
+  21.08 HP (1.13%) HitPoints
+  +9% Enhancement(Accuracy)
+  3.75% Resistance(Smashing,Lethal), 6.25% Status Resistance
+  4.5% Resistance(Toxic,Psionic), 7.5% Status Resistance
+  +7.5% Enhancement(RechargeTime)
+
+
+Superior Blistering Cold
+(Lunge)
+  15% ResEffect(SpeedRunning), 15% ResEffect(RechargeTime), 15% ResEffect(SpeedFlying)
+  4% (0.07 End/sec) Recovery
+  6% Resistance(Fire,Cold), 10% Status Resistance
+  5% Defense(Smashing,Lethal), 2.5% Defense(Melee)
+  5% Defense(Fire,Cold), 2.5% Defense(AoE)
+
+
+Gladiator's Armor
+(Hoarfrost)
+  2.5% (0.04 End/sec) Recovery
+  2.25% Max End
+  3% Defense(All), 100% MezResist(Teleport) (20% chance)
+
+
+Preventive Medicine
+(Hoarfrost)
+  2.25% Resistance(Smashing,Lethal), 3.75% Status Resistance
+  GrantPower Preventive Medicine (when PreventiveMedicine)
+
+
+Superior Gauntleted Fist
+(Spine Burst)
+  3.6% Max End
+  6% Resistance(Energy,Negative), 10% Status Resistance
+  16% (1.25 HP/sec) Regeneration
+  5% Defense(Melee), 2.5% Defense(Lethal), 2.5% Defense(Smashing)
+  6% Resistance(Smashing,Lethal), 10% Status Resistance, 6% Resistance(Fire,Cold)
+
+
+Steadfast Protection
+(Permafrost)
+  1.5% (0.03 End/sec) Recovery
+  3% Defense(All)
+  Knockback Protection (Mag 4)
+
+
+Unbreakable Guard
+(Permafrost)
+  140.6 HP (7.5%) HitPoints
+
+
+Pacing of the Turtle
+(Chilling Embrace)
+  2.25% Resistance(Toxic,Psionic), 3.75% Status Resistance
+  +2.5% Enhancement(Slow)
+
+
+Superior Might of the Tanker
+(Ripper)
+  4% DamageBuff(All)
+  56.22 HP (3%) HitPoints
+  +10% Enhancement(RechargeTime)
+  6% Resistance(Toxic,Psionic), 10% Status Resistance
+  6% Resistance(Smashing,Lethal), 10% Status Resistance
+
+
+Shield Wall
+(Glacial Armor)
+  10% (0.78 HP/sec) Regeneration
+  2.5% (0.04 End/sec) Recovery
+  42.17 HP (2.25%) HitPoints
+  1000% MezResist(Repel) (8% chance)
+  4.5% Resistance(Energy,Negative), 7.5% Status Resistance
+  5%  Resistance(All), 100% MezResist(Teleport) (20% chance)
+
+
+Luck of the Gambler
+(Combat Jumping)
+  +7.5% Enhancement(RechargeTime)
+
+
+Luck of the Gambler
+(Energy Absorption)
+  +7.5% Enhancement(RechargeTime)
+
+
+Reactive Defenses
+(Energy Absorption)
+  3% Resistance(All)
+
+
+Performance Shifter
+(Energy Absorption)
+  7.5% Movement Speed
+  35.14 HP (1.88%) HitPoints
+
+
+Superior Avalanche
+(Icicles)
+  15% ResEffect(SpeedRunning), 15% ResEffect(RechargeTime), 15% ResEffect(SpeedFlying)
+  6% Resistance(Fire,Cold), 10% Status Resistance
+  4% (0.07 End/sec) Recovery
+  5% Defense(Melee), 2.5% Defense(Lethal), 2.5% Defense(Smashing)
+  5% Defense(Fire,Cold), 2.5% Defense(AoE)
+
+
+Armageddon
+(Quills)
+  4% (0.07 End/sec) Recovery
+  6% Resistance(Fire,Cold), 10% Status Resistance
+  +15% Enhancement(Accuracy)
+  +10% Enhancement(RechargeTime)
+  6% Resistance(Toxic,Psionic), 10% Status Resistance
+
+
+Superior Frozen Blast
+(Throw Spines)
+  15% ResEffect(SpeedRunning), 15% ResEffect(RechargeTime), 15% ResEffect(SpeedFlying)
+  6% Resistance(Fire,Cold), 10% Status Resistance
+  4% (0.07 End/sec) Recovery
+  5% Defense(AoE), 2.5% Defense(Fire), 2.5% Defense(Cold)
+  5% Defense(Fire,Cold), 2.5% Defense(AoE)
+
+
+Superior Winter's Bite
+(Impale)
+  6% Resistance(Fire,Cold), 10% Status Resistance (Exceeded 5 Bonus Cap)
+  15% ResEffect(SpeedRunning), 15% ResEffect(RechargeTime), 15% ResEffect(SpeedFlying)
+  4% (0.07 End/sec) Recovery
+  5% Defense(Energy,Negative), 2.5% Defense(Ranged)
+  5% Defense(Fire,Cold), 2.5% Defense(AoE)
+
+
+Miracle
+(Physical Perfection)
+  2.5% (0.04 End/sec) Recovery
+  35.14 HP (1.88%) HitPoints
+
+
+Aegis
+(Tough)
+  7.5% Movement Speed
+  3.13% Defense(Fire,Cold), 1.56% Defense(AoE)
+  5% Resistance(Psionic)
+
+
+Luck of the Gambler
+(Weave)
+  10% (0.78 HP/sec) Regeneration
+  21.08 HP (1.13%) HitPoints
+  +7.5% Enhancement(RechargeTime)
+
+
+Numina's Convalesence
+(Health)
+  12% (0.94 HP/sec) Regeneration
+  35.14 HP (1.88%) HitPoints
+
+
+
+
+
+
+|              Do not modify anything below this line!              |
+|-------------------------------------------------------------------|
+|MxDz;2165;741;1482;HEX;|
+|78DA9D94C94F535114C6CF6B5F454A0B9432140181CA2852A8C1C4391A012D52837|
+|1D83615AFE5C55A484B8CEC1D778A031B15DD094A488CCAE0B057C161230EFF8089|
+|41495C6962EAA148CF4749587893D7F477BF77BF73CEBBE75EFF9966DBF454FB2ED|
+|26C7BC2C1582C70381839A9A2167F306474128F4C5FA7AA3FD4634454ACFE403494|
+|C653AE857702CDEA848AC49487DF08EC8E9EEA8E3AFF097E1556CAB3B088AC1DDDD|
+|D6106A58EDB127FDB559095903D01AD46A8AB97C991205FE4B411338E1961A3B7CF|
+|D9D263747A5A222A1AEA0BF883B15E15ED7371F4267E5EA6F38F468B236E21CA66F|
+|4EA5A9C472639107204B2C9299043B908790263D5CBEC2FEB49D54A57043650BF40|
+|3D5D45B886705DE01567AF81BDAE519339A99AA80161A34003CD0A78E9ABC038276|
+|CC684CD7456E2E9740EE1BCC02ABA8070118BBC2430C5095BC09E2C544E49759AD5|
+|34504D6954C058B2A0AE2617C22F497A82934E47D7748A9992EA6B76CD40D70C1A9|
+|11DB2D128C243013777A81D5DED5427B93EE59859F8A1B2E88319DA6346A09A3E22|
+|7C42F82C504B5F04DE72D20EB47750ABA8B9B417619F403EF910DA04CA683F285C9|
+|B136B7362D7BEE3E08CD664F03C54CBE80F25F7A19C7E8A6B390D9800FA05D6D10D|
+|81376C5F80B515D04D691117DD42B82DB0860611EE0814D35D8149DE9942ACAD908|
+|624F873568B3078116D3681D11681B5B415611BC276137C8F1D022FD8BE04ED4BE8|
+|91A456418F119E208C0954D138C284C07BFE74A504B595D24E3914CF38B81B83BBE|
+|99EAC5D4F4308C308F7F11E7A80302230C83B5D09C1B54A3C105508C376A21A3C73|
+|35D4C658BDD8E93E8416018DFBB20EEBABA3C4F4FC8F99350F7A7AA851832BAD096|
+|19380CEEB1A715D2376B317EF7B2F5EE4C53AE188CF3F8BB9D4EA4BEFF578FB0A2F|
+|77E8F82E6B9A68B3D6A546B8EE478AC65D765483237504E1A0C0F7153CE7966B73B|
+|2C329E3773E2B5865576DCAC48C3365E25B45CAC47F8E4977C2C7BAD4672035DC5F|
+|8DFFB713|
+|-------------------------------------------------------------------|

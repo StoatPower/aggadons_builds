@@ -1,0 +1,184 @@
+This Villain build was built using Mids Reborn 3.4.7
+https://github.com/LoadedCamel/MidsReborn
+
+psi-nrg-soul-22: Level 49 Magic Stalker
+Primary Power Set: Psionic Melee
+Secondary Power Set: Energy Aura
+Power Pool: Speed
+
+Villain Profile:
+------------
+Level 1:	Mental Strike			KntCmb-Acc/Dmg(A), KntCmb-Dmg/EndRdx(3), KntCmb-Dmg/Rchg(3)
+Level 1:	Hide				Ksm-ToHit+(A)
+Level 2:	Kinetic Shield			ShlWal-Def/EndRdx(A), ShlWal-Def(5), ShlWal-ResDam/Re TP(5)
+Level 4:	Psi Blade			AssMar-Rchg/Rchg Build Up(A), AssMar-Acc/Dmg(7), AssMar-Acc/Dmg/Rchg(7)
+Level 6:	Assassin's Psi Blade		StlGl-Acc/Dmg(A), StlGl-Dmg/Rchg(9), StlGl-Acc/Dmg/Rchg(9), StlGl-Acc/Dmg/EndRdx/Rchg(11), StlGl-Rchg/Hide%(11), StlGl-Dmg/EndRdx/Rchg(15)
+Level 8:	Power Shield			Rct-Def(A), Rct-Def/EndRdx(13), Rct-ResDam%(13)
+Level 10:	Entropy Shield			EndRdx-I(A)
+Level 12:	Telekinetic Blow		FrcFdb-Acc/KB(A), FrcFdb-Dmg/KB(17), FrcFdb-Rechg%(19)
+Level 14:	Concentration			RechRdx-I(A)
+Level 16:	Hasten				RechRdx-I(A), RechRdx-I(17)
+Level 18:	Boggle				MlsIll-Acc/Conf/Rchg(A), MlsIll-Acc/Rchg(19), Empty(25)
+Level 20:	Kinetic Dampening		GldArm-End/Res(A), GldArm-ResDam(21), GldArm-3defTpProc(21)
+Level 22:	Greater Psi Blade		BlsCol-Rchg/HoldProc(A), TchofDth-Dmg/EndRdx/Rchg(23), TchofDth-Dam%(23), TchofDth-Acc/Dmg(25), TchofDth-Acc/Dmg/EndRdx(27), TchofDth-Dmg/EndRdx(27)
+Level 24:	Energy Drain			Empty(A)
+Level 26:	[Empty]	
+Level 28:	[Empty]	
+Level 30:	[Empty]	
+Level 32:	[Empty]	
+Level 35:	[Empty]	
+Level 38:	[Empty]	
+Level 41:	[Empty]	
+Level 44:	[Empty]	
+Level 47:	[Empty]	
+Level 49:	[Empty]	
+Level 1:	Assassination	
+Level 1:	Brawl				Empty(A)
+Level 1:	Sprint				Empty(A)
+Level 2:	Rest				Empty(A)
+Level 1:	Swift				Empty(A)
+Level 1:	Hurdle				Empty(A)
+Level 1:	Health				NmnCnv-Regen/Rcvry+(A), NmnCnv-Heal(15)
+Level 1:	Stamina				PwrTrns-EndMod(A)
+------------
+------------
+Set Bonus Totals:
+5% DamageBuff(Smashing)
+5% DamageBuff(Lethal)
+5% DamageBuff(Fire)
+5% DamageBuff(Cold)
+5% DamageBuff(Energy)
+5% DamageBuff(Negative)
+5% DamageBuff(Toxic)
+5% DamageBuff(Psionic)
+5.5% Defense(Smashing)
+5.5% Defense(Lethal)
+3% Defense(Fire)
+3% Defense(Cold)
+3% Defense(Energy)
+3% Defense(Negative)
+3% Defense(Toxic)
+3% Defense(Psionic)
+4.25% Defense(Melee)
+3% Defense(Ranged)
+3% Defense(AoE)
++8.75% Enhancement(RechargeTime)
++16% Enhancement(Accuracy)
+7.5% SpeedFlying
+85.84 HP (7.13%) HitPoints
+7.5% JumpHeight
+7.5% SpeedJumping
+Knockback (Mag -3)
+Knockup (Mag -3)
+27.5% MezResist(Confused)
+27.5% MezResist(Held)
+27.5% MezResist(Immobilized)
+27.5% MezResist(Sleep)
+27.5% MezResist(Stunned)
+27.5% MezResist(Terrorized)
+200% MezResist(Teleport) (20% chance)
+7% (0.12 End/sec) Recovery
+22% (1.1 HP/sec) Regeneration
+18.5% Resistance(Smashing)
+9.5% Resistance(Fire)
+9.5% Resistance(Cold)
+12.5% Resistance(Energy)
+12.5% Resistance(Negative)
+8% Resistance(Toxic)
+8% Resistance(Psionic)
+18.5% Resistance(Lethal)
+7.5% SpeedRunning
+
+
+
+------------
+Set Bonuses:
+Kinetic Combat
+(Mental Strike)
+  1.5% Resistance(Fire,Cold), 2.5% Status Resistance
+  18.07 HP (1.5%) HitPoints
+
+
+Shield Wall
+(Kinetic Shield)
+  10% (0.5 HP/sec) Regeneration
+  2.5% (0.04 End/sec) Recovery
+  5%  Resistance(All), 100% MezResist(Teleport) (20% chance)
+
+
+Assassin's Mark
+(Psi Blade)
+  2% (0.03 End/sec) Recovery
+  +9% Enhancement(Accuracy)
+
+
+Stalker's Guile
+(Assassin's Psi Blade)
+  +7% Enhancement(Accuracy)
+  2.5% Defense(Smashing,Lethal), 1.25% Defense(Melee)
+  2.5% DamageBuff(All)
+  +8.75% Enhancement(RechargeTime)
+  5.25% Resistance(Smashing,Lethal), 8.75% Status Resistance
+
+
+Reactive Defenses
+(Power Shield)
+  1.5% Resistance(Smashing,Lethal), 2.5% Status Resistance
+  22.59 HP (1.88%) HitPoints
+  3% Resistance(All)
+
+
+Force Feedback
+(Telekinetic Blow)
+  7.5% Movement Speed
+  3% Resistance(Energy,Negative), 5% Status Resistance
+
+
+Malaise's Illusions
+(Boggle)
+  2.5% (0.04 End/sec) Recovery
+
+
+Gladiator's Armor
+(Kinetic Dampening)
+  2.5% (0.04 End/sec) Recovery
+  2.25% Max End
+  3% Defense(All), 100% MezResist(Teleport) (20% chance)
+
+
+Touch of Death
+(Greater Psi Blade)
+  1.5% Resistance(Energy,Negative), 2.5% Status Resistance
+  18.07 HP (1.5%) HitPoints
+  2.5% DamageBuff(All)
+  3.75% Resistance(Smashing,Lethal), 6.25% Status Resistance
+
+
+Numina's Convalesence
+(Health)
+  12% (0.6 HP/sec) Regeneration
+
+
+
+
+
+
+|              Do not modify anything below this line!              |
+|-------------------------------------------------------------------|
+|MxDz;1216;477;954;HEX;|
+|78DA9593DD6ED3401085CFC636217FA4A5140205212AA15EA004354F0034892A9A4|
+|881082E40605961712D2C27B25341EFF86B7BD9172B8FD22494C21D32D38478A654|
+|AAC44A6BEFB7C77376763DDBFA50CB7F3B683E802AACF94E14D99D81E3BFD3A1D57|
+|25CAF6B0028F623AF1C846E39EA6DF9E56A354D734B7FBFB25BDAD7BAD28EBC5EE0|
+|75A7946835FD560791AED4031DBADBF6C3ADD041B6DDEBF9954E5FEB3785C9B0E1B|
+|99B032F70F3136A6AA74F909B4AFE8976BDDEF7BA9599678772B05B4E34D0E17689|
+|12B94D7D78971E0AB316A78036BD974D15534BE18984A70C8F32902DA6FE9BFAADA|
+|9BA46AA92AE0A0D23514D3C96B0C130A26C0CE19A32F0DE0456A7EA058412060CDF|
+|29CE12719685CF46A25EC417095F19B2D895B0C770093B0C35DA4E5A6E278D21AB7|
+|98C24FC60A8535C46C421833B48D431259D93AE397C4A25EA1C3E325CC60EC311C5|
+|15E4D117708F5D97A9C48AC25515A53A27E1988CE66502F3F8A5C49A470C259C3C2|
+|7C3066D6A41462D6095B77C05F72554197ED26A8B22CE5AC43EFFC1AB784D932B33|
+|B0194A78C17003AF24BC6458A7B4AE7129C70449CAFFDF96CCD3E51DDF34CFD47B6|
+|2DF3C476B9BF27A91A6583BCC9EBE7B326E788E36FA47A3E173252AF719C3F8ACCD|
+|980FFD0F86318C29|
+|-------------------------------------------------------------------|

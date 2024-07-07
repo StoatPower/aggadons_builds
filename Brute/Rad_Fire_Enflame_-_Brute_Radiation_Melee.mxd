@@ -1,0 +1,86 @@
+This Hero build was built using Mids Reborn 3.0.5.9
+https://github.com/Reborn-Team/MidsReborn
+
+Rad Fire Enflame: Level 50 Mutation Brute
+Primary Power Set: Radiation Melee
+Secondary Power Set: Fiery Aura
+Power Pool: Speed
+Power Pool: Sorcery
+Power Pool: Leaping
+Power Pool: Leadership
+Ancillary Pool: Mu Mastery
+
+Hero Profile:
+------------
+Level 1:	Radioactive Smash		SprBlsCol-Acc/Dmg(A), SprBlsCol-Dmg/EndRdx(13), SprBlsCol-Acc/Dmg/EndRdx(13), SprBlsCol-Acc/Dmg/Rchg(34), SprBlsCol-Dmg/EndRdx/Acc/Rchg(37), SprBlsCol-Rchg/HoldProc(39)
+Level 1:	Fire Shield			Ags-ResDam/EndRdx(A), Ags-EndRdx/Rchg(3), Ags-ResDam/EndRdx/Rchg(3)
+Level 2:	Blazing Aura			SprAvl-Acc/Dmg(A), SprAvl-Dmg/EndRdx(5), SprAvl-Acc/Dmg/EndRdx(5), SprAvl-Acc/Dmg/Rchg(7), SprAvl-Acc/Dmg/EndRdx/Rchg(7), SprAvl-Rchg/KDProc(9)
+Level 4:	Hasten				RechRdx-I(A), RechRdx-I(9)
+Level 6:	Arcane Bolt			SprWntBit-Acc/Dmg(A), SprWntBit-Dmg/Rchg(43), SprWntBit-Acc/Dmg/EndRdx(46), SprWntBit-Acc/Dmg/Rchg(48), SprWntBit-Dmg/EndRdx/Acc/Rchg(48), SprWntBit-Rchg/SlowProc(48)
+Level 8:	Fusion				RechRdx-I(A), GssSynFr--Build%(50)
+Level 10:	Temperature Protection		Ags-ResDam/EndRdx(A), Ags-ResDam/Rchg(11), Ags-ResDam(11)
+Level 12:	Spirit Ward			Prv-Absorb%(A)
+Level 14:	Enflame				Bmbdmt-Dam(A), Bmbdmt-Dam/Rech(15), Bmbdmt-Acc/Dam/Rech(15), Bmbdmt-Acc/Dam/Rech/End(25), Bmbdmt-+FireDmg(27), Ann-ResDeb%(27)
+Level 16:	Healing Flames			Ags-ResDam/Rchg(A), Ags-EndRdx/Rchg(17), Ags-ResDam/EndRdx/Rchg(17)
+Level 18:	Irradiated Ground		Arm-Dmg(A), Arm-Acc/Dmg/Rchg(19), Arm-Acc/Rchg(19), Arm-Dmg/EndRdx(21), Arm-Dam%(21), AchHee-ResDeb%(23)
+Level 20:	Combat Jumping			LucoftheG-Def/Rchg+(A)
+Level 22:	Maneuvers			LucoftheG-Def/EndRdx(A), LucoftheG-Def/Rchg+(25)
+Level 24:	Tactics				EndRdx-I(A)
+Level 26:	Devastating Blow		Hct-Dmg/Rchg(A), Hct-Acc/Dmg/Rchg(39), Hct-Acc/Rchg(39), Hct-Dmg/EndRdx(40), Hct-Dam%(40)
+Level 28:	Burn				Obl-Dmg(A), Obl-Acc/Rchg(29), Obl-Dmg/Rchg(29), Obl-Acc/Dmg/Rchg(31), Obl-Acc/Dmg/EndRdx/Rchg(31), FuroftheG-ResDeb%(31)
+Level 30:	Vengeance			LucoftheG-Def/Rchg+(A)
+Level 32:	Atom Smasher			SprBrtFur-Dmg/Rchg(A), SprBrtFur-Acc/Dmg/Rchg(33), SprBrtFur-Dmg/EndRdx/Rchg(33), SprBrtFur-Acc/Dmg/EndRdx/Rchg(33), SprBrtFur-Rech/Fury%(34), AchHee-ResDeb%(34)
+Level 35:	Electrifying Fences		Ann-Acc/Dmg(A), Ann-Dmg/Rchg(36), Ann-Acc/Dmg/Rchg(36), Ann-Acc/Dmg/EndRdx(36), Ann-Acc/Dmg/EndRdx/Rchg(37), Ann-ResDeb%(37)
+Level 38:	Fiery Embrace			RechRdx-I(A)
+Level 41:	Ball Lightning			Rgn-Dmg/Rchg(A), Rgn-Acc/Dmg/Rchg(42), Rgn-Acc/Rchg(42), Rgn-Dmg/EndRdx(42), Rgn-Knock%(43), Ann-ResDeb%(43)
+Level 44:	Static Discharge		SprFrzBls-Acc/Dmg(A), SprFrzBls-Dmg/EndRdx(45), SprFrzBls-Acc/Dmg/EndRdx(45), SprFrzBls-Acc/Dmg/Rchg(45), SprFrzBls-Dmg/EndRdx/Acc/Rchg(46), SprFrzBls-Rchg/ImmobProc(46)
+Level 47:	Plasma Shield			GldArm-3defTpProc(A)
+Level 49:	Rune of Protection		StdPrt-ResDam/Def+(A)
+Level 1:	Fury	
+Level 1:	Brawl				Empty(A)
+Level 1:	Sprint				UnbLea-Stlth(A)
+Level 2:	Rest				Empty(A)
+Level 2:	Swift				Run-I(A)
+Level 2:	Hurdle				Jump-I(A)
+Level 2:	Health				Pnc-Heal/EndRedux(A), Pnc-Heal/Rchg(23), Pnc-Heal/EndRedux/Rchg(40), Pnc-Heal(50), Pnc-Heal/+End(50)
+Level 2:	Stamina				PwrTrns-+Heal(A)
+Level 1:	Prestige Power Dash		Empty(A)
+Level 1:	Prestige Power Slide		Empty(A)
+Level 1:	Prestige Power Quick		Empty(A)
+Level 1:	Prestige Power Rush		Empty(A)
+Level 1:	Prestige Power Surge		Empty(A)
+Level 4:	Ninja Run	
+Level 50:	Spiritual Core Paragon	
+Level 6:	Arcane Power	
+------------
+
+
+
+|              Do not modify anything below this line!              |
+|-------------------------------------------------------------------|
+|MxDz;1941;776;1552;HEX;|
+|78DA6D944B4F135114C7EF74A6427948B1148A94D222D0D24A6D01DF1AA2026E688|
+|2FA01EA04066D52DBA68F4497EE8D111057BEF011C5D74A5ED18D2BBF87BC56A82B|
+|378AF574CE75CE59B449737FE73F67CEEBCEBD899BA30D1F2EDE1E114AFD85B45E2|
+|824CFE74B45A336512AEAC5543623E0E7BCAC4FFBC75379C33F969949EB378C1A10|
+|3B4CBF64C2481B46141C52A63BDA1E7C366ACC189982111D4F19F95BC973A5BC2EE|
+|A26B3D974F44ACE30A61B10B3F929788AC684A1E752996B4DFF8D69235FB89ECAB9|
+|C772A9A9A8CC574A26F442115EF1401141F8DFE913F257B68B7B9A10714D29C3AF6|
+|196F11C71609EB8E73E71DF02F172259C62C6B4899862E9B641C643C42B1577F4B7|
+|2B0F298EF688F163E27D4F183F25AE5D24EE8629AB18535123827C18CFF50A6197B|
+|DDB5FD3BBE125E28137C447DE327EC7F83DF15D98670DC6546A58AEF892CDE23590|
+|1D723E0E369FBA38E361E259A8B31E638AFA5DD5D217406F94F537EE610D1BE6E3F|
+|D65B436D1AA7409D696697914B4B64DEBA00DAD1DB47051505C85C84D18DFD6C46A|
+|73B27D74B27D9C85DE9BE53E369FC07E7F9BCB815368EDA1751AADBFE6D272464E0|
+|6ADB36809B390D62F60B9307A2B8CD585D185CB4D599B4177CB9D763B2BBAC3D43D|
+|6E6217F8B4C977DB02EC0B808ADBB143AD3D483BD41762DC4F1C0C338E107FAA1C6|
+|9B9131DD8B272D25CBC7FD0C2017871000A0EC087035070003E1C808203F08DE04E|
+|E0D202F577CA2FA093F53E0FF577C989772DAA2CAFFF99CAF2FA9FAB2CAFFF85CAF|
+|2065EAA2C6F404E1C97ABF0A85BF6D5FD8DBEBC431B8C37196F11F76C33DE21FE0C|
+|D17A652FBDEC84E8E01292B9424334DBFE61C647191F230E1F67CC72BD82E311913|
+|1231FE9941E5E66BCC278959DFC35C6EBC4EB102D2AEB8F0E52AE07D0544CEAB1CA|
+|C7D689FAB866DD8665AF66DDB615B35C363D26C8032E2DEA64529332E88AE5BD5B6|
+|7DD964219A0F97DE77A88F41FA46B8A97EA6DF51107BB88E37EC601E29F3CFE2F76|
+|5B56ED2956558D575587AAAAC35555875354AE06739A975C50849CECD7B0759797F|
+|F011FE73894|
+|-------------------------------------------------------------------|

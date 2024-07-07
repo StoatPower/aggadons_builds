@@ -1,0 +1,315 @@
+This Hero build was built using Mids Reborn 3.4.7
+https://github.com/LoadedCamel/MidsReborn
+
+Anastasiya: Level 50 Science Blaster
+Primary Power Set: Beam Rifle
+Secondary Power Set: Temporal Manipulation
+Power Pool: Concealment
+Power Pool: Speed
+Power Pool: Fighting
+Power Pool: Leadership
+Ancillary Pool: Mace Mastery
+
+Hero Profile:
+------------
+Level 1:	Charged Shot			FrcFdb-Rechg%(A), FrcFdb-Dmg/KB(3), FrcFdb-Acc/KB(3), FrcFdb-Rchg/KB(7), FrcFdb-Rchg/EndRdx(7), FrcFdb-Dmg/EndRdx/KB(13)
+Level 1:	Time Wall			Dcm-Build%(A), Dcm-Acc/Dmg(5), Dcm-Acc/Dmg/Rchg(5)
+Level 2:	Cutting Beam			Rgn-Dmg(A), Rgn-Dmg/Rchg(15), Rgn-Acc/Dmg/Rchg(17), Rgn-Acc/Rchg(17), Rgn-Dmg/EndRdx(19), Rgn-Knock%(19)
+Level 4:	Stealth				LucoftheG-Def/Rchg+(A)
+Level 6:	Disintegrate			SprWntBit-Acc/Dmg(A), SprWntBit-Dmg/Rchg(9), SprWntBit-Acc/Dmg/EndRdx(9), SprWntBit-Acc/Dmg/Rchg(11), SprWntBit-Dmg/EndRdx/Acc/Rchg(11), SprWntBit-Rchg/SlowProc(13)
+Level 8:	Time Stop			Lck-%Hold(A)
+Level 10:	Chronos				GssSynFr--ToHit/Rchg(A), GssSynFr--Build%(21)
+Level 12:	Hasten				RechRdx-I(A)
+Level 14:	Lancer Shot			SprDfnBrr-Acc/Dmg(A), SprDfnBrr-Dmg/Rchg(34), SprDfnBrr-Acc/Dmg/Rchg(36), SprDfnBrr-Acc/Dmg/EndRdx(36), SprDfnBrr-Acc/Dmg/EndRdx/Rchg(36), SprDfnBrr-Rchg/+Status Protect(37)
+Level 16:	End of Time			SprAvl-Acc/Dmg(A), SprAvl-Dmg/EndRdx(27), SprAvl-Acc/Dmg/EndRdx(27), SprAvl-Acc/Dmg/Rchg(29), SprAvl-Acc/Dmg/EndRdx/Rchg(29), SprAvl-Rchg/KDProc(31)
+Level 18:	Aim				AdjTrg-Rchg(A)
+Level 20:	Temporal Healing		Prv-Heal(A), Prv-Heal/EndRdx(33), Prv-Absorb%(33), PrfShf-EndMod(33), PrfShf-EndMod/Acc(34), PrfShf-End%(34)
+Level 22:	Penetrating Ray			StnoftheM-Acc/Dmg(A), StnoftheM-Dmg/EndRdx(23), StnoftheM-Acc/ActRdx/Rng(23), StnoftheM-Dmg/ActRdx/Rchg(37), StnoftheM-Dmg/EndRdx/Rchg(37), StnoftheM-Dam%(39)
+Level 24:	Future Pain			SprBlsCol-Acc/Dmg(A), SprBlsCol-Dmg/EndRdx(25), SprBlsCol-Dmg/EndRdx/Acc/Rchg(25), SprBlsCol-Acc/Dmg/EndRdx(31), SprBlsCol-Acc/Dmg/Rchg(31), SprBlsCol-Rchg/HoldProc(50)
+Level 26:	Piercing Beam			SprFrzBls-Acc/Dmg(A), SprFrzBls-Dmg/EndRdx(40), SprFrzBls-Acc/Dmg/EndRdx(40), SprFrzBls-Acc/Dmg/Rchg(40), SprFrzBls-Dmg/EndRdx/Acc/Rchg(42), SprFrzBls-Rchg/ImmobProc(42)
+Level 28:	Overcharge			SprBlsWrt-Acc/Dmg(A), SprBlsWrt-Dmg/Rchg(42), SprBlsWrt-Acc/Dmg/Rchg(43), SprBlsWrt-Acc/Dmg/EndRdx(43), SprBlsWrt-Acc/Dmg/EndRdx/Rchg(43), SprBlsWrt-Rchg/Dmg%(45)
+Level 30:	Time Shift			RechRdx-I(A)
+Level 32:	Time Lord			GldArm-3defTpProc(A), StdPrt-ResDam/Def+(46), StdPrt-ResKB(46)
+Level 35:	Scorpion Shield			LucoftheG-Def/Rchg+(A), ShlWal-ResDam/Re TP(39), Rct-ResDam%(39), Ksm-Def/EndRdx(45), Ksm-Def/EndRdx/Rchg(45), Ksm-ToHit+(50)
+Level 38:	Kick				FrcFdb-Rechg%(A)
+Level 41:	Assault				EndRdx-I(A)
+Level 44:	Tough				Ags-ResDam/EndRdx(A), Ags-ResDam(46), Ags-ResDam/EndRdx/Rchg(48)
+Level 47:	Weave				LucoftheG-Def/Rchg+(A), LucoftheG-Def(48), LucoftheG-Def/EndRdx(48)
+Level 49:	Grant Invisibility		LucoftheG-Def/Rchg+(A)
+Level 1:	Defiance	
+Level 1:	Brawl				Empty(A)
+Level 1:	Sprint				Empty(A)
+Level 2:	Rest				Empty(A)
+Level 1:	Swift				Empty(A)
+Level 1:	Hurdle				Empty(A)
+Level 1:	Health				NmnCnv-Regen/Rcvry+(A), NmnCnv-Heal(15), RgnTss-Regen+(21)
+Level 1:	Stamina				PwrTrns-EndMod(A), PwrTrns-+Heal(50)
+Level 1:	Disintegrating	
+Level 49:	Quick Form	
+Level 50:	Musculature Core Paragon	
+Level 50:	Cryonic Radial Final Judgement	
+Level 50:	Degenerative Core Flawless Interface	
+Level 50:	Banished Pantheon Radial Superior Ally	
+Level 50:	Clarion Radial Epiphany	
+Level 50:	Assault Radial Embodiment	
+------------
+------------
+Set Bonus Totals:
+13.5% DamageBuff(Smashing)
+13.5% DamageBuff(Lethal)
+13.5% DamageBuff(Fire)
+13.5% DamageBuff(Cold)
+13.5% DamageBuff(Energy)
+13.5% DamageBuff(Negative)
+13.5% DamageBuff(Toxic)
+13.5% DamageBuff(Psionic)
+13.5% Defense(Smashing)
+13.5% Defense(Lethal)
+33.19% Defense(Fire)
+33.19% Defense(Cold)
+19.75% Defense(Energy)
+19.75% Defense(Negative)
+6% Defense(Toxic)
+6% Defense(Psionic)
+13.5% Defense(Melee)
+18.5% Defense(Ranged)
+25.69% Defense(AoE)
+3.6% Max End
++30% Enhancement(Accuracy)
++10% Enhancement(Range)
++67.5% Enhancement(RechargeTime)
+30% SpeedFlying
+GrantPower Preventive Medicine (when PreventiveMedicine)
+108.4 HP (9%) HitPoints
+30% JumpHeight
+30% SpeedJumping
+Knockback (Mag -4)
+Knockup (Mag -4)
+82.5% MezResist(Confused)
+82.5% MezResist(Held)
+82.5% MezResist(Immobilized)
+82.5% MezResist(Sleep)
+82.5% MezResist(Stunned)
+82.5% MezResist(Terrorized)
+200% MezResist(Teleport) (20% chance)
+23% (0.38 End/sec) Recovery
+50% (2.51 HP/sec) Regeneration
+60% ResEffect(SpeedFlying)
+60% ResEffect(RechargeTime)
+60% ResEffect(SpeedRunning)
+12.5% Resistance(Smashing)
+12.5% Resistance(Lethal)
+38% Resistance(Fire)
+38% Resistance(Cold)
+12.5% Resistance(Energy)
+12.5% Resistance(Negative)
+18.5% Resistance(Toxic)
+18.5% Resistance(Psionic)
+30% SpeedRunning
+
+
+
+------------
+Set Bonuses:
+Force Feedback
+(Charged Shot)
+  7.5% Movement Speed
+  3% Resistance(Energy,Negative), 5% Status Resistance
+  10% (0.5 HP/sec) Regeneration
+  2.5% DamageBuff(All)
+  3.13% Defense(AoE), 1.56% Defense(Fire), 1.56% Defense(Cold)
+
+
+Decimation
+(Time Wall)
+  1.5% Resistance(Energy,Negative), 2.5% Status Resistance
+  13.55 HP (1.12%) HitPoints
+
+
+Ragnarok
+(Cutting Beam)
+  4% (0.07 End/sec) Recovery
+  6% Resistance(Fire,Cold), 10% Status Resistance
+  +15% Enhancement(Accuracy)
+  +10% Enhancement(RechargeTime)
+  6% Resistance(Toxic,Psionic), 10% Status Resistance
+
+
+Luck of the Gambler
+(Stealth)
+  +7.5% Enhancement(RechargeTime)
+
+
+Superior Winter's Bite
+(Disintegrate)
+  6% Resistance(Fire,Cold), 10% Status Resistance
+  15% ResEffect(SpeedRunning), 15% ResEffect(RechargeTime), 15% ResEffect(SpeedFlying)
+  4% (0.07 End/sec) Recovery
+  5% Defense(Energy,Negative), 2.5% Defense(Ranged)
+  5% Defense(Fire,Cold), 2.5% Defense(AoE)
+
+
+Gaussian's Synchronized Fire-Control
+(Chronos)
+  7.5% Movement Speed
+
+
+Superior Defiant Barrage
+(Lancer Shot)
+  4% DamageBuff(All)
+  3.6% Max End
+  36.14 HP (3%) HitPoints
+  +10% Enhancement(RechargeTime)
+  5% Defense(Energy,Negative), 2.5% Defense(Ranged)
+
+
+Superior Avalanche
+(End of Time)
+  15% ResEffect(SpeedRunning), 15% ResEffect(RechargeTime), 15% ResEffect(SpeedFlying)
+  6% Resistance(Fire,Cold), 10% Status Resistance
+  4% (0.07 End/sec) Recovery
+  5% Defense(Melee), 2.5% Defense(Lethal), 2.5% Defense(Smashing)
+  5% Defense(Fire,Cold), 2.5% Defense(AoE)
+
+
+Preventive Medicine
+(Temporal Healing)
+  2.25% Resistance(Smashing,Lethal), 3.75% Status Resistance
+  22.59 HP (1.87%) HitPoints
+  GrantPower Preventive Medicine (when PreventiveMedicine)
+
+
+Performance Shifter
+(Temporal Healing)
+  7.5% Movement Speed
+  22.59 HP (1.87%) HitPoints
+
+
+Sting of the Manticore
+(Penetrating Ray)
+  12% (0.6 HP/sec) Regeneration
+  2.5% Defense(Ranged), 1.25% Defense(Energy), 1.25% Defense(Negative)
+  3% DamageBuff(All)
+  +7.5% Enhancement(RechargeTime)
+  4.5% Resistance(Toxic,Psionic), 7.5% Status Resistance
+
+
+Superior Blistering Cold
+(Future Pain)
+  15% ResEffect(SpeedRunning), 15% ResEffect(RechargeTime), 15% ResEffect(SpeedFlying)
+  4% (0.07 End/sec) Recovery
+  6% Resistance(Fire,Cold), 10% Status Resistance
+  5% Defense(Smashing,Lethal), 2.5% Defense(Melee)
+  5% Defense(Fire,Cold), 2.5% Defense(AoE)
+
+
+Superior Frozen Blast
+(Piercing Beam)
+  15% ResEffect(SpeedRunning), 15% ResEffect(RechargeTime), 15% ResEffect(SpeedFlying)
+  6% Resistance(Fire,Cold), 10% Status Resistance
+  4% (0.07 End/sec) Recovery
+  5% Defense(AoE), 2.5% Defense(Fire), 2.5% Defense(Cold)
+  5% Defense(Fire,Cold), 2.5% Defense(AoE)
+
+
+Superior Blaster's Wrath
+(Overcharge)
+  +15% Enhancement(Accuracy)
+  +10% Enhancement(Range)
+  4% DamageBuff(All)
+  +10% Enhancement(RechargeTime)
+  5% Defense(Ranged), 2.5% Defense(Energy), 2.5% Defense(Negative)
+
+
+Gladiator's Armor
+(Time Lord)
+  3% Defense(All), 100% MezResist(Teleport) (20% chance)
+
+
+Steadfast Protection
+(Time Lord)
+  1.5% (0.03 End/sec) Recovery
+  3% Defense(All)
+  Knockback Protection (Mag 4)
+
+
+Luck of the Gambler
+(Scorpion Shield)
+  +7.5% Enhancement(RechargeTime)
+
+
+Shield Wall
+(Scorpion Shield)
+  5%  Resistance(All), 100% MezResist(Teleport) (20% chance)
+
+
+Reactive Defenses
+(Scorpion Shield)
+  3% Resistance(All)
+
+
+Kismet
+(Scorpion Shield)
+  1.5% (0.03 End/sec) Recovery
+  2.25% Resistance(Smashing,Lethal), 3.75% Status Resistance
+
+
+Aegis
+(Tough)
+  7.5% Movement Speed
+  3.13% Defense(Fire,Cold), 1.56% Defense(AoE)
+
+
+Luck of the Gambler
+(Weave)
+  10% (0.5 HP/sec) Regeneration
+  13.55 HP (1.12%) HitPoints
+  +7.5% Enhancement(RechargeTime)
+
+
+Luck of the Gambler
+(Grant Invisibility)
+  +7.5% Enhancement(RechargeTime)
+
+
+Numina's Convalesence
+(Health)
+  12% (0.6 HP/sec) Regeneration
+
+
+Power Transfer
+(Stamina)
+  6% (0.3 HP/sec) Regeneration
+
+
+
+
+
+
+|              Do not modify anything below this line!              |
+|-------------------------------------------------------------------|
+|MxDz;2248;765;1530;HEX;|
+|78DAA594594F13611486DFE962A552595A842A2E20B801A5206AE28571450D90185|
+|16FEBD88E7592D236B418B973BD575C481445638CE272E7FA1F34AE3F4263501213|
+|13B7D443959EB78DE1C62FE9749EF37E679DF9A6EFD8F6F217CF7B37C3F06D4B989|
+|94C64AB5CB3D6A0A73F6A5BC9A80559DE2D49B199197BD8F40806FF6E89EC359371|
+|2B16DA6A990391BDF6E184D53CA3F40FA5D3A9C16C689F3520FF6622D26726EDF45|
+|0C2CCDAA924AAF6A45289D0EEE4513B631FB2137676D89BB7F4A72D2BE6CBDF76DB|
+|F123593B19AFC853AF65C6ACC1CC113B1DDC91B6A3A199347D66D492CBF4FD709D5|
+|4B6517E0703E0957303671C4087CBC8C972E0B8C0CA1938A1CA1C9C6438A5508ED3|
+|0A5B56178717650C85882E8C325C5130A52CC3A0B20C746AD4F958AB50892E86750|
+|AD558CFB041C1270FC649E1E1448D51500F4972372777E38EABA0CEC504C35D052F|
+|EE31DC77D14C1E286C93997838B907DFB5B4EDA296916A94E196AA014C28344A17F|
+|338D03CB4A0A0C6A40B1F77E103B48806180ACBE1607032B8149AE056D821755670|
+|F80A8CA9BA105719AE29D4639CE1BAC212DC50884AF555DC5B156E6AE7DD92DCCFC|
+|9FD78EF2CA8CBF081619261C44123B8C430AA6049F21A0E5F83973AD80578C5F01A|
+|34A0370C6F1556E09DC24EA9BE96CF5C2DCE6AE77538C770810734C2705EA103171|
+|50E4BF541AE3E8887AAAEC42386C70C4F1456E329C33385B8845FC4E117E1B293B6|
+|5E5158833186AB0CD7145A31AEB04B86B398862330FD522FFEA3EE16752925772C4|
+|5A7FAB6A1D6286C6D439DC28F4AA0918B6EE403BF023D4E822F5CDA374DDE8A9F0A|
+|1DF8A5E09093D8CC6F6B337F45AB455DC5EA2A34E8DBE014B5855B6A41D8A096BA1|
+|4DAB156C1257E21F60B714BED0830542ACC17BF30571366BF0679D0203557EF2AFE|
+|82E78DB95C7E73EF2CDA1E17C711CD506DD25B9C84FD3ECDA27D2ED164C407A831E|
+|C37E843B9499FFE54899FDC4EF1E1F9AA707B4D714BB91E3184D930FBEAF14B289E|
+|5F55A0C4D05D5B62F8D85462F89F75D7FFAF60138D25D6DFA494D3A8|
+|-------------------------------------------------------------------|

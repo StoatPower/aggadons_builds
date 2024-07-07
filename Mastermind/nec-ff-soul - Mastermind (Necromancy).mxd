@@ -1,0 +1,314 @@
+This Villain build was built using Mids Reborn 3.4.7
+https://github.com/LoadedCamel/MidsReborn
+
+nec-ff-soul: Level 50 Science Mastermind
+Primary Power Set: Necromancy
+Secondary Power Set: Force Field
+Power Pool: Speed
+Power Pool: Teleportation
+Power Pool: Leadership
+Ancillary Pool: Soul Mastery
+
+Villain Profile:
+------------
+Level 1:	Dark Blast			Apc-Dmg(A), Apc-Dmg/Rchg(17), Apc-Acc/Dmg/Rchg(17), Apc-Dmg/EndRdx(34), Apc-Dam%(43)
+Level 1:	Deflection Shield		LucoftheG-Def/Rchg+(A), LucoftheG-Def/EndRdx(5), LucoftheG-Def(7)
+Level 2:	Zombie Horde			OvrFrc-Dam/KB(A), EdcoftheM-PetDef(3), SprCmmoft-Rchg/PetAoEDef(3), SprCmmoft-Acc/Dmg(5), SprCmmoft-Acc/Dmg/Rchg(45), SprCmmoft-Acc/Dmg/EndRdx/Rchg(46)
+Level 4:	Gloom				SprWntBit-Acc/Dmg(A), SprWntBit-Dmg/Rchg(7), SprWntBit-Acc/Dmg/EndRdx(9), SprWntBit-Acc/Dmg/Rchg(9), SprWntBit-Dmg/EndRdx/Acc/Rchg(11), SprWntBit-Rchg/SlowProc(11)
+Level 6:	Insulation Shield		LucoftheG-Def/Rchg+(A), LucoftheG-Def/EndRdx(13), LucoftheG-Def(13)
+Level 8:	Enchant Undead			UnbGrd-ResDam(A), UnbGrd-ResDam/EndRdx/Rchg(21), UnbGrd-ResDam/EndRdx(23), UnbGrd-Max HP%(23)
+Level 10:	Life Drain			TchoftheN-Heal(A), TchoftheN-Acc/Heal(15), TchoftheN-%Dam(15), EntChs-Heal%(45)
+Level 12:	Grave Knight			SlbAll-Build%(A), SlbAll-Dmg/EndRdx(19), SprMarofS-Acc/Dmg/EndRdx(19), SprMarofS-Acc/Dmg(21), TchofLadG-%Dam(46), AchHee-ResDeb%(46)
+Level 14:	Hasten				RechRdx-I(A)
+Level 16:	Combat Teleport			GssSynFr--Build%(A)
+Level 18:	Soul Extraction			SprMarofS-EndRdx/+Resist/+Regen(A), SprMarofS-Dmg/EndRdx(25), CaltoArm-+Def(Pets)(25), ExpRnf-+Res(Pets)(42), ExpRnf-Acc/Dmg/Rchg(50), ExpRnf-Acc/Rchg(50)
+Level 20:	Dispersion Bubble		Rct-Def(A), Rct-Def/EndRdx(27), Rct-EndRdx/Rchg(27), Rct-Def/Rchg(29), Rct-Def/EndRdx/Rchg(29), Rct-ResDam%(31)
+Level 22:	Lich				CldSns-%Dam(A), HO:Endo(31), HO:Perox(31), SprMarofS-Dmg(33), SprMarofS-Acc/EndRdx(48), SvrRgh-PetResDam(50)
+Level 24:	Teleport			Wrp-+Special(A)
+Level 26:	Dark Empowerment		Mrc-Rcvry+(A), NmnCnv-Regen/Rcvry+(33), NmnCnv-Heal(33)
+Level 28:	Repulsion Field			SuddAcc--KB/+KD(A), EndRdx-I(34), EndRdx-I(34)
+Level 30:	Force Bomb			AbsAmz-Stun(A), AbsAmz-Acc/Stun/Rchg(36), AbsAmz-ToHitDeb%(36)
+Level 32:	Damping Bubble			LucoftheG-Def/Rchg+(A), ShlWal-Def/Rchg(36), ShlWal-Def(37), ShlWal-ResDam/Re TP(37)
+Level 35:	Dark Embrace			GldArm-End/Res(A), GldArm-ResDam(37), GldArm-3defTpProc(39), StdPrt-ResDam/Def+(39), ImpSki-Status(39), Ags-Psi/Status(40)
+Level 38:	Fold Space			RechRdx-I(A), RechRdx-I(40), Acc-I(40)
+Level 41:	Oppressive Gloom		HO:Endo(A), HO:Endo(42)
+Level 44:	Team Teleport			Wrp-Range(A), Wrp-End/Range(45)
+Level 47:	Maneuvers			LucoftheG-Def/Rchg+(A), LucoftheG-Def/EndRdx(48), LucoftheG-Def(48)
+Level 49:	Tactics				EndRdx(A)
+Level 1:	Supremacy	
+Level 1:	Brawl				Empty(A)
+Level 1:	Sprint				Clr-Stlth(A)
+Level 2:	Rest				Empty(A)
+Level 1:	Swift				Run-I(A)
+Level 1:	Hurdle				Jump-I(A)
+Level 1:	Health				Prv-Absorb%(A), Prv-Heal(42), Pnc-Heal/+End(43)
+Level 1:	Stamina				PwrTrns-+Heal(A), PwrTrns-EndMod(43)
+Level 2:	Zombie	
+Level 12:	Grave Knight	
+Level 22:	Lich	
+Level 50:	Cardiac Core Paragon	
+Level 50:	Void Radial Final Judgement	
+Level 50:	Paralytic Core Flawless Interface	
+Level 50:	Banished Pantheon Radial Superior Ally	
+Level 50:	Clarion Radial Epiphany	
+Level 50:	Support Core Embodiment	
+------------
+------------
+Set Bonus Totals:
+11% DamageBuff(Smashing)
+11% DamageBuff(Lethal)
+11% DamageBuff(Fire)
+11% DamageBuff(Cold)
+11% DamageBuff(Energy)
+11% DamageBuff(Negative)
+11% DamageBuff(Toxic)
+11% DamageBuff(Psionic)
+17.56% Defense(Smashing)
+17.56% Defense(Lethal)
+21% Defense(Fire)
+21% Defense(Cold)
+21% Defense(Energy)
+21% Defense(Negative)
+16% Defense(Toxic)
+16% Defense(Psionic)
+9.13% Defense(Melee)
+8.5% Defense(Ranged)
+23.5% Defense(AoE)
++9% Enhancement(Accuracy)
++88.75% Enhancement(RechargeTime)
+6.25% Enhancement(Max EnduranceDiscount)
+GrantPower Preventive Medicine (when PreventiveMedicine)
+183.7 HP (22.88%) HitPoints
+Knockback (Mag -3)
+Knockup (Mag -3)
+48.75% MezResist(Confused)
+48.75% MezResist(Held)
+48.75% MezResist(Immobilized)
+48.75% MezResist(Sleep)
+48.75% MezResist(Stunned)
+48.75% MezResist(Terrorized)
+200% MezResist(Teleport) (20% chance)
+10.5% (0.18 End/sec) Recovery
+265% (8.87 HP/sec) Regeneration
+15% ResEffect(SpeedFlying)
+15% ResEffect(RechargeTime)
+15% ResEffect(SpeedRunning)
+46.75% Resistance(Smashing)
+46.75% Resistance(Lethal)
+58% Resistance(Fire)
+58% Resistance(Cold)
+46.75% Resistance(Energy)
+46.75% Resistance(Negative)
+45.25% Resistance(Toxic)
+50.25% Resistance(Psionic)
+
+
+
+------------
+Set Bonuses:
+Apocalypse
+(Dark Blast)
+  16% (0.54 HP/sec) Regeneration
+  24.1 HP (3%) HitPoints
+  4% DamageBuff(All)
+  +10% Enhancement(RechargeTime)
+
+
+Luck of the Gambler
+(Deflection Shield)
+  10% (0.33 HP/sec) Regeneration
+  9.04 HP (1.13%) HitPoints
+  +7.5% Enhancement(RechargeTime)
+
+
+Edict of the Master
+(Zombie Horde)
+  5% Defense(Smashing,Lethal,Fire,Cold,Energy,Negative,Toxic,Psionic)
+
+
+Superior Command of the Mastermind
+(Zombie Horde)
+  4% DamageBuff(All)
+  24.1 HP (3%) HitPoints
+  +10% Enhancement(RechargeTime)
+  15% Defense(AoE)
+
+
+Superior Winter's Bite
+(Gloom)
+  6% Resistance(Fire,Cold), 10% Status Resistance
+  15% ResEffect(SpeedRunning), 15% ResEffect(RechargeTime), 15% ResEffect(SpeedFlying)
+  4% (0.07 End/sec) Recovery
+  5% Defense(Energy,Negative), 2.5% Defense(Ranged)
+  5% Defense(Fire,Cold), 2.5% Defense(AoE)
+
+
+Luck of the Gambler
+(Insulation Shield)
+  10% (0.33 HP/sec) Regeneration
+  9.04 HP (1.13%) HitPoints
+  +7.5% Enhancement(RechargeTime)
+
+
+Unbreakable Guard
+(Enchant Undead)
+  2.5% Enhancement(EnduranceDiscount)
+  2.25% Resistance(Energy,Negative), 3.75% Status Resistance
+  3.13% Defense(Melee), 1.56% Defense(Lethal), 1.56% Defense(Smashing)
+  60.24 HP (7.5%) HitPoints
+
+
+Touch of the Nictus
+(Life Drain)
+  15.06 HP (1.88%) HitPoints
+  +9% Enhancement(Accuracy)
+
+
+Soulbound Allegiance
+(Grave Knight)
+  16% (0.54 HP/sec) Regeneration
+
+
+Superior Mark of Supremacy
+(Grave Knight)
+  +10% Enhancement(RechargeTime)
+
+
+Superior Mark of Supremacy
+(Soul Extraction)
+  +10% Enhancement(RechargeTime)
+  15% Resistance(All), 150% (5.02 HP/sec) Regeneration
+
+
+Call to Arms
+(Soul Extraction)
+  5% Defense(Smashing,Lethal,Fire,Cold,Energy,Negative,Toxic,Psionic)
+
+
+Expedient Reinforcement
+(Soul Extraction)
+  1.5% Resistance(Energy,Negative), 2.5% Status Resistance
+  3% DamageBuff(All)
+  10% Resistance(All)
+
+
+Reactive Defenses
+(Dispersion Bubble)
+  1.5% Resistance(Smashing,Lethal), 2.5% Status Resistance
+  15.06 HP (1.88%) HitPoints
+  3% Resistance(Fire,Cold), 5% Status Resistance
+  3.75% Enhancement(EnduranceDiscount)
+  +8.75% Enhancement(RechargeTime)
+  3% Resistance(All)
+
+
+Superior Mark of Supremacy
+(Lich)
+  +10% Enhancement(RechargeTime)
+
+
+Sovereign Right
+(Lich)
+  10% Resistance(All)
+
+
+Numina's Convalesence
+(Dark Empowerment)
+  12% (0.4 HP/sec) Regeneration
+
+
+Absolute Amazement
+(Force Bomb)
+  4% (0.07 End/sec) Recovery
+  6% Resistance(Fire,Cold), 10% Status Resistance
+
+
+Luck of the Gambler
+(Damping Bubble)
+  +7.5% Enhancement(RechargeTime)
+
+
+Shield Wall
+(Damping Bubble)
+  10% (0.33 HP/sec) Regeneration
+  2.5% (0.04 End/sec) Recovery
+  5%  Resistance(All), 100% MezResist(Teleport) (20% chance)
+
+
+Gladiator's Armor
+(Dark Embrace)
+  2.5% (0.04 End/sec) Recovery
+  2.25% Max End
+  3% Defense(All), 100% MezResist(Teleport) (20% chance)
+
+
+Steadfast Protection
+(Dark Embrace)
+  3% Defense(All)
+
+
+Impervious Skin
+(Dark Embrace)
+  7.5% Status Resistance, 25% (0.84 HP/sec) Regeneration
+
+
+Aegis
+(Dark Embrace)
+  5% Resistance(Psionic)
+
+
+Warp
+(Team Teleport)
+  2.25% Resistance(Toxic,Psionic), 3.75% Status Resistance
+
+
+Luck of the Gambler
+(Maneuvers)
+  10% (0.33 HP/sec) Regeneration
+  9.04 HP (1.13%) HitPoints
+  +7.5% Enhancement(RechargeTime)
+
+
+Preventive Medicine
+(Health)
+  2.25% Resistance(Smashing,Lethal), 3.75% Status Resistance
+  GrantPower Preventive Medicine (when PreventiveMedicine)
+
+
+Power Transfer
+(Stamina)
+  6% (0.2 HP/sec) Regeneration
+
+
+
+
+
+
+|              Do not modify anything below this line!              |
+|-------------------------------------------------------------------|
+|MxDz;2275;783;1566;HEX;|
+|78DAAD95596F125114C7FF7406B1D0DA85D20DE84217E80214137D52DBB45A934AB|
+|54917F509090C9604180234B11FC34F6157FD0A1A8DD1C4FA1DD4971A538BB535FA|
+|8447DA720ED33E7A13C8FD9D6DFEF7DC7B67669FDCACDBF9109E80A9712A15CDE72|
+|3B3D17C41CBA59399B8653E96D432314D0160CB68317F22E1CFEB2B290BB18BC322|
+|F32BE9B49E09DCD562393D1DCDC4569DC239B9924804A6F55C4C8B4C27B5541CD63|
+|95D4F05E6B39A166F2E4F17B49496D573856821A9671ACAA6B0168D6BB9FC72326B|
+|2BF3742AF978B9E0BA954DC602F2C124E644EF6A3B89BA46BF6766FA33E17494546|
+|0B40608A9A6128D46F82504187A31C6308C104344ADAE481E87A9E255D1C870012D|
+|0C6B66998692D9844F4AC55B83AF64F49EC27B45547CC3308AB70C7EBC6358A7F28|
+|A906556B0A60A25EB0C17B1216193C18A2D09DB0C8F686A96AB36CB55D7C955D7C9|
+|556F902C8BC8532C3864D12DF8CDD08A23097F1836A948AD2C520B3B7B2FC121A15|
+|D76EB29857B8E618B8AD864836C98E25D6DC6A48407AAD0B8A48A96EFD408784560|
+|3F060F5D837A511EF51841257490BC0DD2DB80752EB44DD29AA4B4263CE467B6635|
+|1C267CA731FC3100EB948080712F61962946E97E5EDF8CE4DEAC4BE8422830B3F24|
+|1C3074E127C37352EF9007DB815DD6D885AB64549513B8CED083055E5710F755A1F|
+|E885BE7A5D6B5C9D6B5A1CB5CF1BEA069873C971D9831552E520F96F828F6609121|
+|4E4F73CA3C27BEA8E2F6F7E27CD028C82DF3DC98E14EF7212CE11E4382F2BAE511E|
+|E96F7A70FB7B99FFD98917087E1254D3D72233D08C9D020C3202E4BF8D740F729B8|
+|19BCB8C22A94566040AE6D401E616F35743214EB009FC833F9E49E0F49F0D1668EC|
+|8D01138CDE2BEBA189A283420D50464C782F28D13946F1C3BE58DC9F332060B0B98|
+|5521079D6B83A16C2C95CAC161C3AB9E7EB5BCA5736AF50B9DA092B9673D93E9E78|
+|67D3FEBF5B177DF7AE603B3C77B39845D457C987A198A863C9AFE52456891E1C670|
+|B5F4D238196CD230315C7DA9FFE718B7931093B1F6688BC1FAD118F6ADFFBC3CC3D|
+|83066BDF6180C7F01E391CC84|
+|-------------------------------------------------------------------|

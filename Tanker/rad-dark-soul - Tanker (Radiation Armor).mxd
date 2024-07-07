@@ -1,0 +1,261 @@
+This Hero build was built using Mids Reborn 3.4.7
+https://github.com/LoadedCamel/MidsReborn
+
+rad-dark-soul: Level 50 Magic Tanker
+Primary Power Set: Radiation Armor
+Secondary Power Set: Dark Melee
+Power Pool: Leaping
+Power Pool: Speed
+Power Pool: Fighting
+Ancillary Pool: Soul Mastery
+
+Hero Profile:
+------------
+Level 1:	Alpha Barrier			GldArm-End/Res(A), GldArm-ResDam(5), GldArm-3defTpProc(5)
+Level 1:	Smite				SprMghoft-Acc/Dmg(A), SprMghoft-Acc/Dmg/Rchg(17), SprMghoft-Acc/Dmg/EndRdx/Rchg(17), SprMghoft-Rchg/Res%(19), PrfZng-Dam%(19), CldSns-%Dam(21)
+Level 2:	Proton Armor			ImpArm-ResDam/EndRdx(A), ImpArm-ResDam/Rchg(7), ImpArm-EndRdx/Rchg(7), ImpArm-ResDam/EndRdx/Rchg(9), ImpArm-ResDam(9), ImpArm-ResPsi(11)
+Level 4:	Shadow Maul			SprAvl-Acc/Dmg(A), SprAvl-Acc/Dmg/EndRdx(11), PrfZng-Dam%(13), CldSns-%Dam(13), Erd-%Dam(15), Arm-Dam%(15)
+Level 6:	Gamma Boost			PrfShf-End%(A)
+Level 8:	Fallout Shelter			StdPrt-ResDam/EndRdx(A), StdPrt-ResDam/Def+(43), StdPrt-ResKB(43)
+Level 10:	Combat Jumping			LucoftheG-Def/Rchg+(A)
+Level 12:	Beta Decay			HO:Enzym(A)
+Level 14:	Hasten				RechRdx-I(A)
+Level 16:	Radiation Therapy		TchoftheN-Heal(A), TchoftheN-Acc/EndRdx/Rchg(42), TchoftheN-%Dam(45), Erd-%Dam(46), Obl-%Dam(46), ScrDrv-Dam%(50)
+Level 18:	Particle Shielding		Prv-Heal(A), Prv-Heal/Rchg(45), Prv-Absorb%(45), Prv-Heal/Rchg/EndRdx(48)
+Level 20:	Touch of Fear			Obl-Dmg(A), Obl-%Dam(21), ScrDrv-Acc/Dmg(23), ScrDrv-Dam%(23), Erd-%Dam(29), PrfZng-Dam%(29)
+Level 22:	Taunt				PrfZng-Acc/Rchg(A)
+Level 24:	Soul Drain			GssSynFr--Build%(A), SprGntFis-Rchg/+Absorb(25), SprGntFis-Acc/Dmg(25), SprGntFis-Dmg/Rchg(40), SprGntFis-Acc/Dmg/Rchg(42), SprGntFis-Acc/Dmg/EndRdx/Rchg(43)
+Level 26:	Ground Zero			SprAvl-Acc/Dmg/EndRdx/Rchg(A), SprAvl-Acc/Dmg/Rchg(27), TchofLadG-%Dam(27), Erd-%Dam(34), Obl-%Dam(34), PrfZng-Dam%(37)
+Level 28:	Meltdown			RechRdx-I(A)
+Level 30:	Midnight Grasp			Hct-Dmg(A), Hct-Dmg/Rchg(31), Hct-Acc/Dmg/Rchg(31), Hct-Dmg/EndRdx(31), Hct-Dam%(33), TchofDth-Dam%(34)
+Level 32:	Dark Consumption		FuroftheG-ResDeb%(A), PrfShf-End%(33), SprAvl-Rchg/KDProc(33), SprAvl-Dmg/EndRdx(46), PrfZng-Dam%(50)
+Level 35:	Siphon Life			SprBlsCol-Acc/Dmg(A), SprBlsCol-Acc/Dmg/EndRdx(36), CldSns-%Dam(36), TchoftheN-%Dam(36), GldStr-%Dam(37), TchofDth-Dam%(37)
+Level 38:	Gloom				SprWntBit-Acc/Dmg(A), SprWntBit-Dmg/Rchg(39), SprWntBit-Acc/Dmg/EndRdx(39), SprWntBit-Acc/Dmg/Rchg(39), SprWntBit-Dmg/EndRdx/Acc/Rchg(40), SprWntBit-Rchg/SlowProc(40)
+Level 41:	Darkest Night			DarWtcDsp-ToHitDeb/EndRdx(A), DarWtcDsp-ToHitdeb/Rchg/EndRdx(42)
+Level 44:	Kick				FrcFdb-Rechg%(A)
+Level 47:	Tough				UnbGrd-ResDam(A), UnbGrd-ResDam/EndRdx(48), UnbGrd-Max HP%(48)
+Level 49:	Weave				LucoftheG-Def/Rchg+(A), LucoftheG-Def/EndRdx(50)
+Level 1:	Gauntlet	
+Level 1:	Brawl				Empty(A)
+Level 1:	Sprint				Empty(A)
+Level 2:	Rest				Empty(A)
+Level 1:	Swift				Empty(A)
+Level 1:	Hurdle				Empty(A)
+Level 1:	Health				NmnCnv-Regen/Rcvry+(A)
+Level 1:	Stamina				EndMod-I(A)
+Level 50:	Resilient Radial Paragon	
+Level 50:	Void Radial Final Judgement	
+Level 50:	Degenerative Core Flawless Interface	
+Level 50:	Banished Pantheon Radial Superior Ally	
+Level 50:	Rebirth Radial Epiphany	
+Level 50:	Melee Core Embodiment	
+------------
+------------
+Set Bonus Totals:
+4% DamageBuff(Smashing)
+4% DamageBuff(Lethal)
+4% DamageBuff(Fire)
+4% DamageBuff(Cold)
+4% DamageBuff(Energy)
+4% DamageBuff(Negative)
+4% DamageBuff(Toxic)
+4% DamageBuff(Psionic)
+11% Defense(Melee)
+8.5% Defense(Smashing)
+8.5% Defense(Lethal)
+11% Defense(Fire)
+11% Defense(Cold)
+11% Defense(Energy)
+11% Defense(Negative)
+6% Defense(Toxic)
+7.88% Defense(Psionic)
+8.5% Defense(Ranged)
+8.5% Defense(AoE)
+5.85% Max End
++35% Enhancement(RechargeTime)
+2.5% Enhancement(Max EnduranceDiscount)
++24% Enhancement(Accuracy)
+GrantPower Preventive Medicine (when PreventiveMedicine)
+323.3 HP (17.25%) HitPoints
+Knockback (Mag -7)
+Knockup (Mag -7)
+60% MezResist(Confused)
+60% MezResist(Held)
+60% MezResist(Immobilized)
+60% MezResist(Sleep)
+60% MezResist(Stunned)
+60% MezResist(Terrorized)
+100% MezResist(Teleport) (20% chance)
+14.5% (0.24 End/sec) Recovery
+36% (2.81 HP/sec) Regeneration
+75% ResEffect(SpeedFlying)
+75% ResEffect(RechargeTime)
+75% ResEffect(SpeedRunning)
+4.5% Resistance(Smashing)
+4.5% Resistance(Lethal)
+18.75% Resistance(Fire)
+18.75% Resistance(Cold)
+8.25% Resistance(Energy)
+8.25% Resistance(Negative)
+4.5% Resistance(Toxic)
+10.5% Resistance(Psionic)
+
+
+
+------------
+Set Bonuses:
+Gladiator's Armor
+(Alpha Barrier)
+  2.5% (0.04 End/sec) Recovery
+  2.25% Max End
+  3% Defense(All), 100% MezResist(Teleport) (20% chance)
+
+
+Superior Might of the Tanker
+(Smite)
+  4% DamageBuff(All)
+  56.22 HP (3%) HitPoints
+  +10% Enhancement(RechargeTime)
+
+
+Impervium Armor
+(Proton Armor)
+  2.5% (0.04 End/sec) Recovery
+  1.88% Defense(Psionic)
+  2.25% Max End
+  3.75% Resistance(Fire,Cold), 6.25% Status Resistance
+  4.5% Resistance(Toxic,Psionic), 7.5% Status Resistance
+  6% Resistance(Psionic)
+
+
+Superior Avalanche
+(Shadow Maul)
+  15% ResEffect(SpeedRunning), 15% ResEffect(RechargeTime), 15% ResEffect(SpeedFlying)
+
+
+Steadfast Protection
+(Fallout Shelter)
+  1.5% (0.03 End/sec) Recovery
+  28.11 HP (1.5%) HitPoints
+  3% Defense(All)
+  Knockback Protection (Mag 4)
+
+
+Luck of the Gambler
+(Combat Jumping)
+  +7.5% Enhancement(RechargeTime)
+
+
+Touch of the Nictus
+(Radiation Therapy)
+  35.14 HP (1.88%) HitPoints
+  +9% Enhancement(Accuracy)
+
+
+Preventive Medicine
+(Particle Shielding)
+  2.25% Resistance(Smashing,Lethal), 3.75% Status Resistance
+  35.14 HP (1.88%) HitPoints
+  3% Resistance(Fire,Cold), 5% Status Resistance
+  GrantPower Preventive Medicine (when PreventiveMedicine)
+
+
+Obliteration
+(Touch of Fear)
+  2.25% Resistance(Smashing,Lethal), 3.75% Status Resistance
+
+
+Scirocco's Dervish
+(Touch of Fear)
+  10% (0.78 HP/sec) Regeneration
+
+
+Superior Gauntleted Fist
+(Soul Drain)
+  3.6% Max End
+  6% Resistance(Energy,Negative), 10% Status Resistance
+  16% (1.25 HP/sec) Regeneration
+  5% Defense(Melee), 2.5% Defense(Lethal), 2.5% Defense(Smashing)
+
+
+Superior Avalanche
+(Ground Zero)
+  15% ResEffect(SpeedRunning), 15% ResEffect(RechargeTime), 15% ResEffect(SpeedFlying)
+
+
+Hecatomb
+(Midnight Grasp)
+  4% (0.07 End/sec) Recovery
+  6% Resistance(Fire,Cold), 10% Status Resistance
+  +15% Enhancement(Accuracy)
+  +10% Enhancement(RechargeTime)
+
+
+Superior Avalanche
+(Dark Consumption)
+  15% ResEffect(SpeedRunning), 15% ResEffect(RechargeTime), 15% ResEffect(SpeedFlying)
+
+
+Superior Blistering Cold
+(Siphon Life)
+  15% ResEffect(SpeedRunning), 15% ResEffect(RechargeTime), 15% ResEffect(SpeedFlying)
+
+
+Superior Winter's Bite
+(Gloom)
+  6% Resistance(Fire,Cold), 10% Status Resistance
+  15% ResEffect(SpeedRunning), 15% ResEffect(RechargeTime), 15% ResEffect(SpeedFlying)
+  4% (0.07 End/sec) Recovery
+  5% Defense(Energy,Negative), 2.5% Defense(Ranged)
+  5% Defense(Fire,Cold), 2.5% Defense(AoE)
+
+
+Dark Watcher's Despair
+(Darkest Night)
+  28.11 HP (1.5%) HitPoints
+
+
+Unbreakable Guard
+(Tough)
+  2.5% Enhancement(EnduranceDiscount)
+  2.25% Resistance(Energy,Negative), 3.75% Status Resistance
+  140.6 HP (7.5%) HitPoints
+
+
+Luck of the Gambler
+(Weave)
+  10% (0.78 HP/sec) Regeneration
+  +7.5% Enhancement(RechargeTime)
+
+
+
+
+
+
+|              Do not modify anything below this line!              |
+|-------------------------------------------------------------------|
+|MxDz;2077;758;1516;HEX;|
+|78DA7D94C94F535114C6BF475F454A6BC1020599C796A9801B57C609594142C4B86|
+|D5EE8131A90D6168CC6AD18350EC8C68DE34E1C566E0CF14F90AD31BA704B82A00B|
+|8D226A3D16FACE474978C96BDFEF7EF77CF79C3B0D5DECF72EBD1D3C0AC37B62D24|
+|AA7A3A7ADA9093BE51EB2C6E2A390C797B262DD312B35D19D4ECC4C164A4BDD6697|
+|68BF7DD69E4ADB9153562C6E4DC71353D163A9738954704B1EB2276D3BD22F919B9|
+|FF00E2712939141DB4AC6A7C63C591849DA76CC97FD1C888F8D4F8BE0CFF58AD9A9|
+|F4783C193C998C8F468EA766A6EDE88864101DB2D2D376EA52A564D22AEF8D90FC1|
+|8C83D9902A0CF25AF6964E431D1C37050E147D1F63837F04ED512BC67F8A0B01F1F|
+|19D2050E946159A076136E4A5A06DB1B68110C6DAA7BD0CAD0A6B0172186B08207E|
+|D0A3F257B17DBBB70DF7432F1E0A1829773F4728EFBB0C67058BBBD690724637FCE|
+|1E6EDC53F596D456C8535E880AC331EA4090A152A142764F11C5A108E586E37A475|
+|C8B0D781CB51887E4DF7465D52689F571AC0F9D70626F4BACDF709633E3F623A0AB|
+|D48EA042172A15BA7906BA654A1DA50F97D57E4EEC4B6970572996D971856155A10|
+|79F153664C902BC64016CF0E6A1C12B70010494490D275CC32BBB2EF6E53C41E538|
+|AFEA6F518334B9EE201654ADC47593E08A4208B326CDE355850E5C53B82B1354C5B|
+|555E1B1AA07F0886149076EE4721A790A5AB8B679B1AF06D5569D5DFCADB8BF525B|
+|2D0F5E8B368DAD438821CCD0A1D0804E4E2B0AE7A8FD11FB7A0325397BB31E4724C|
+|F402EEEFFC128CBC11393F6D60393B61395F34B1C9B38E126CC69D766CC33D0796D|
+|E6ADDB823003253C2AEDAD6CDF8AA7EAD8860586670CCF79E15F30BC54F8E445F65|
+|ACAD91B612C16D01E79AD2017033A794F7662565597A811BE4622F8C667E73BC33A|
+|5DE312D7CB09F4F235D28712857673FB259FA931C14F26DB98C9643B0FEEA20D9BE|
+|C239AA1DAAA67FB201CB7B68BF665A7764653FFBA536DD07BC017944F2EACAB2CAF|
+|6120BFC74A4B5EC3AB405EC362535EC33F4EE462C1|
+|-------------------------------------------------------------------|

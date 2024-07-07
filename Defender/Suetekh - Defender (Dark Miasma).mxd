@@ -1,0 +1,78 @@
+This Hero build was built using Mids Reborn 3.4.6
+https://github.com/LoadedCamel/MidsReborn
+
+Suetekh: Level 50 Magic Defender
+Primary Power Set: Dark Miasma
+Secondary Power Set: Electrical Blast
+Power Pool: Flight
+Power Pool: Speed
+Power Pool: Leadership
+Ancillary Pool: Dark Mastery
+
+Hero Profile:
+------------
+Level 1:	Twilight Grasp			NmnCnv-Heal/EndRdx(A), NmnCnv-EndRdx/Rchg(3), NmnCnv-Heal/Rchg(3), NmnCnv-Heal/EndRdx/Rchg(5), NmnCnv-Heal(5), NmnCnv-Regen/Rcvry+(7)
+Level 1:	Charged Bolts			PwrTrns-+Heal(A), PwrTrns-EndMod(7), PwrTrns-Dam/EndMod(9), PwrTrns-Dam/Acc/Rech/End(9)
+Level 2:	Darkest Night			DarWtcDsp-ToHitDeb/EndRdx(A), DarWtcDsp-ToHitdeb/Rchg/EndRdx(11), DarWtcDsp-Rchg/EndRdx(11), DarWtcDsp-ToHitDeb(13)
+Level 4:	Lightning Bolt			Thn-Acc/Dmg(A), Thn-Dmg/EndRdx(13), Thn-Dmg/Rchg(15), Thn-Acc/Dmg/Rchg(15), Thn-Acc/Dmg/EndRdx(17), Thn-Dmg/EndRdx/Rchg(17)
+Level 6:	Tar Patch			RechRdx-I(A), PcnoftheT--Rchg%(19), PcnoftheT-EndRdx/Rchg/Slow(19)
+Level 8:	Shadow Fall			LucoftheG-Def/Rchg+(A), LucoftheG-Def/EndRdx(21), LucoftheG-Def(21), StdPrt-ResDam/Def+(23), StdPrt-ResKB(23), HO:Ribo(25)
+Level 10:	Ball Lightning			SprDfnBst-Acc/Dmg(A), SprDfnBst-Dmg/Rchg(25), SprDfnBst-Dmg/EndRdx/Rchg(27), SprDfnBst-Acc/Dmg/EndRdx(27), SprDfnBst-Acc/Dmg/EndRdx/Rchg(29), SprDfnBst-Rchg/Heal%(29)
+Level 12:	Fearsome Stare			CldSns-Acc/ToHitDeb(A), CldSns-Acc/EndRdx/Rchg(31), CldSns-Acc/Rchg(31), CldSns-ToHitDeb/EndRdx/Rchg(31), GlmoftheA-Dam%(33)
+Level 14:	Short Circuit			EffAdp-Acc/Rchg(A), EffAdp-EndMod/Acc/Rchg(33), EffAdp-EndMod/EndRdx(33), PrfShf-EndMod/Acc/Rchg(34), EnrMnp-Stun%(34)
+Level 16:	Howling Twilight		Stp-Acc/Rchg(A), Stp-Acc/Stun/Rchg(34), Stp-EndRdx/Stun(36)
+Level 18:	Fly				Frb-Fly(A)
+Level 20:	Hasten				RechRdx-I(A), RechRdx-I(36)
+Level 22:	Hover				BlsoftheZ-Travel(A), BlsoftheZ-Travel/EndRdx(36), BlsoftheZ-ResKB(37)
+Level 24:	Maneuvers			LucoftheG-Def/Rchg+(A), LucoftheG-Def/EndRdx(37), Ksm-ToHit+(37), RedFrt-Def/EndRdx(39)
+Level 26:	Charge Up			GssSynFr--ToHit/Rchg(A)
+Level 28:	Zapp				StnoftheM-Dmg/EndRdx(A), StnoftheM-Acc/Dmg(39), StnoftheM-Dmg/EndRdx/Rchg(39), Dvs-Acc/Dmg/EndRdx/Rchg(40)
+Level 30:	Tactics				HO:Membr(A), HO:Membr(40)
+Level 32:	Dark Servant			BslGaz-Acc/Hold(A), BslGaz-Acc/Rchg(40), BslGaz-Acc/EndRdx/Rchg/Hold(42), BslGaz-Slow%(42), Lck-%Hold(42)
+Level 35:	Voltaic Sentinel		ExpRnf-Acc/Rchg(A), ExpRnf-Acc/Dmg(43), ExpRnf-Dmg/EndRdx(43), ExpRnf-Acc/Dmg/Rchg(43), ExpRnf-EndRdx/Dmg/Rchg(45), ExpRnf-+Res(Pets)(45)
+Level 38:	Thunderous Blast		Empty(A), Empty(45), Empty(46), Empty(46)
+Level 41:	Dark Consumption		Empty(A), Empty(46), Empty(48)
+Level 44:	Dark Embrace			HO:Ribo(A), HO:Ribo(48)
+Level 47:	Soul Drain			Empty(A), Empty(50)
+Level 49:	Assault				Empty(A)
+Level 1:	Brawl				Empty(A)
+Level 1:	Sprint				Empty(A)
+Level 1:	Vigilance	
+Level 2:	Rest				Empty(A)
+Level 1:	Swift				Empty(A)
+Level 1:	Health				Heal-I(A)
+Level 1:	Hurdle				Empty(A)
+Level 1:	Stamina				EndMod-I(A)
+Level 1:	Shocked	
+Level 18:	Afterburner	
+Level 49:	Quick Form	
+------------
+
+
+
+|              Do not modify anything below this line!              |
+|-------------------------------------------------------------------|
+|MxDz;1988;712;1424;HEX;|
+|78DA7D95CB4F135114C6BF994EADB4BC4A811601A9A53CA45A64EBC2182C6E04831|
+|4D0C4453369A7D05081B425D195A84B138D895B9F8971E503047CFC0D1A4CD4C4D7|
+|C2858F9552455D184D3D543AE754083799E6FCE63BF7BBE7BEA67DC743A54F1EF7E|
+|E8552BE2FA9A7D391901137C66346CADAA78F24A2A0660B4F1919636CD446715D41|
+|8E744FC5E3C1909E1A8BF425F4F431DD6B2A03FAF888110BF6248D68269588EAC94|
+|8373967E0E89F984806F7271323A3197B3E0E4F1A46AC221FF61A3AF54D8F2626FF|
+|6767CF6422BA3A12D918A9131E2AC4474F58A51F058596B3028708BB3425474DC58|
+|0843083864109430C9B30CC704B856C390BF053A3910BA95986CD5896F043334D86|
+|545922992878A49AAA1D0F243C6428C502C36D0A2D72A2165C8248BDCC508E2B12A|
+|E3254E29A84EB0C83646F1535AA560458ADC2AC226086E130F5B3C9B26CA861B51A|
+|9512AA196AE126682C8087C1833D64A459F27087EC4BA47D09662DA68907F718B66|
+|04EC23C43031624DC673842F60E61AF39F05E352BD98A4F123E48F8C8E0C53B9ED7|
+|5D7A5F261DCB709E37D18B73122E306CC3450967095CFF6098C20AE1A856E0A4225|
+|2CF3034639AC14177D529FAC189DFACFA4875095571C9FD6E965042A935B2801ABC|
+|5645EA1B063FDE3238A99F5BF4B3B8E5D1F0CBA3E1C71F98EBD90A3B2B33E457276|
+|751871B3CC42C85F572887A3CE5C25BB128E119431B6E32B8A8CE46B9148DD8CD27|
+|B04DC2511AAF49EE6E139EF34168C30B86ED7829E195845F3C83390A7DF280FBB0C|
+|46A07B212BE4AF8C6B003CB12BE33CC53D8223F3D2D5879BD9A68863BD70DA7E9A2|
+|B4037673E3DBD74DEBE4F014F508C8A50CC8CBDC29E134A50685B912649B2E0EAB6|
+|87376890910985A8356FC715E790A5AEF06DA41ADF83F23D7AF157FA009CCE4CFF6|
+|E26469B4B456F3F3B9FAB241CFEC5ACDCB3D3D81BC1A330B442DDD655160EE4047F|
+|1B2E4FE029C6F75F1|
+|-------------------------------------------------------------------|

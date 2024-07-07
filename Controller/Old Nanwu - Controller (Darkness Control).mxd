@@ -1,0 +1,74 @@
+This Hero build was built using Mids Reborn 3.4.7
+https://github.com/LoadedCamel/MidsReborn
+
+Old Nanwu: Level 50 Science Controller
+Primary Power Set: Darkness Control
+Secondary Power Set: Poison
+Power Pool: Speed
+Power Pool: Fighting
+Power Pool: Leaping
+Ancillary Pool: Soul Mastery
+
+Hero Profile:
+------------
+Level 1:	Dark Grasp			BslGaz-Acc/Hold(A), BslGaz-Rchg/Hold(3), BslGaz-Slow%(3)
+Level 1:	Alkaloid			Pnc-Heal/+End(A), Pnc-Heal/EndRedux(5), Pnc-Heal(5)
+Level 2:	Living Shadows			SprWiloft-Acc/Conf/Hold/Immob/Sleep/Stun/Fear(A), SprWiloft-Conf/Hold/Immob/Sleep/Stun/Fear/Rchg(9), SprWiloft-EndRdx/Rchg(11), SprWiloft-Acc/Conf/Hold/Immob/Sleep/Stun/Fear/EndRdx(11), SprWiloft-Acc/Conf/Hold/Immob/Sleep/Stun/Fear/EndRdx/Rchg(13), SprWiloft-Rchg/Dmg%(13)
+Level 4:	Envenom				ShlBrk-DefDeb(A), ShlBrk-Acc/DefDeb(15), ShlBrk-%Dam(15)
+Level 6:	Weaken				CldSns-ToHitDeb(A), CldSns-Acc/ToHitDeb(17), CldSns-%Dam(17), SphIns-%ToHit(19)
+Level 8:	Fearsome Stare			Empty(A), Empty(19), Empty(21), Empty(29), Empty(37), Empty(37)
+Level 10:	Hasten				RechRdx-I(A), RechRdx-I(23)
+Level 12:	Neurotoxic Breath		ImpSwf-Dam%(A), PcnoftheT--Rchg%(23), IceMisTrmt-+ColdDmg(25)
+Level 14:	Kick				Empty(A)
+Level 16:	Elixir of Life			Ags-ResDam(A), Ags-ResDam/Rchg(31), Ags-EndRdx/Rchg(31)
+Level 18:	Heart of Darkness		SprOvrPrs-Acc/Conf/Hold/Immob/Sleep/Stun/Fear(A), SprOvrPrs-Conf/Hold/Immob/Sleep/Stun/Fear/Rchg(21), SprOvrPrs-EndRdx/Rchg(31), SprOvrPrs-Acc/Conf/Hold/Immob/Sleep/Stun/Fear/EndRdx(33), SprOvrPrs-Acc/Conf/Hold/Immob/Sleep/Stun/Fear/EndRdx/Rchg(50), SprOvrPrs-Rchg/Energy Font(50)
+Level 20:	Antidote			Ags-ResDam(A), Ags-ResDam/EndRdx(33), Ags-EndRdx/Rchg(33)
+Level 22:	Tough				Ags-ResDam(A), Ags-ResDam/EndRdx/Rchg(25), Ags-ResDam/EndRdx(27)
+Level 24:	Haunt				CaltoArm-Acc/Rchg(A), CaltoArm-Acc/Dmg(34), CaltoArm-Acc/Dmg/Rchg(34), CaltoArm-EndRdx/Dmg/Rchg(34), SvrRgh-PetResDam(36)
+Level 26:	Shadow Field			Empty(A), Empty(27), Empty(29)
+Level 28:	Weave				Empty(A), Empty(36), Empty(36)
+Level 30:	Combat Jumping			Empty(A)
+Level 32:	Umbra Beast			SlbAll-Dmg(A), SlbAll-Dmg/Rchg(39), SlbAll-Acc/Dmg/Rchg(40), SlbAll-Dmg/EndRdx(40), SlbAll-Build%(40), EdcoftheM-PetDef(42)
+Level 35:	Dark Embrace			StdPrt-ResDam/Def+(A), StdPrt-ResKB(42), Ags-ResDam(42), Ags-ResDam/EndRdx(43), Ags-ResDam/EndRdx/Rchg(43), GldArm-3defTpProc(43)
+Level 38:	Poison Trap			SprAvl-Acc/Dmg(A), SprAvl-Dmg/EndRdx(45), SprAvl-Acc/Dmg/EndRdx(45), SprAvl-Acc/Dmg/Rchg(45), SprAvl-Acc/Dmg/EndRdx/Rchg(46), SprAvl-Rchg/KDProc(46)
+Level 41:	Venomous Gas			TchofLadG-DefDeb/EndRdx(A), TchofLadG-DefDeb(46), TchofLadG-%Dam(48)
+Level 44:	Dark Consumption		Empty(A), Empty(48)
+Level 47:	Dark Obliteration		Empty(A), Empty(48), Empty(50)
+Level 49:	Soul Drain			Empty(A)
+Level 1:	Containment	
+Level 1:	Brawl				Empty(A)
+Level 1:	Sprint				Clr-Stlth(A)
+Level 2:	Rest				Empty(A)
+Level 1:	Swift				Empty(A)
+Level 1:	Hurdle				Empty(A)
+Level 1:	Health				Empty(A), Empty(7), Empty(7)
+Level 1:	Stamina				Empty(A), Empty(9)
+------------
+
+
+
+|              Do not modify anything below this line!              |
+|-------------------------------------------------------------------|
+|MxDz;1924;685;1370;HEX;|
+|78DA7D954B4F135114C7FF339D52288582401F94F2AA08522D145D2BA1D55551927|
+|E80A6A1034CAC334D5BA27E0A75E133E06383AF9D9FC205EC8C890B8D4617A8E1E1|
+|C2351E0ABDE7088D3769737E731EF77FEFB97766F666DAB7B19E9986D6912AE62B9|
+|55CCAB1AB65A75834CB9EECBC65DAF32668B45C2D1606AFE4ED1BCB1EA21807D5E3|
+|13E97CF99A6D7281808899595E5848CC3956C5B1E19D73283A5B32CD425BCDBC6C2|
+|D2E552D7BD157A38C992F11F8EB5030CB9525AB14B954B2E61369E7BA65E7AB4E39|
+|9775968BB9D97CA56A966F8548D100FD7E06E94F437DECE9C07BFA450D6D8F868E0|
+|F123E32DCEB3E9637E40292075E037D1206197ED17C9AC8736B58636F335E3078F1|
+|52C22B061F5E4B78C3709F64B9A42C17349712DD0E5D4213C303CA738B3C971BDF7|
+|8B11DF82E6193E1047C5C648BD6E681589B07FB8F0F0395D9CD661F9B271B9AC354|
+|AF45E8D25A10875A6D40C2435A42AB985D6FC59AA6B405F05653A121B4BB15E8344|
+|59BC82350D33FA29A7EB99D7E9CE79AFD4872CD7E4C316CD34E74CA2E772264286F|
+|37C286C8EB6518448421893E095186C724AB4BCAEAAAC95245262508592E5A6A8FC|
+|CEB9179219C63E8954576683941916704F189CFC0103E4BF822E12B430C7FB859BB|
+|54312C9B15E64DEF6D783E0CD21E91DA23EC8B3534039411958D8DB2EF77F0E0FAA|
+|B060DE082AED49DC24586514C4B98919062388D1F5468F400EED0A51896FD1FAEED|
+|5FB41E1A92205A302E777D5CF6631C537CCB57A8FF23B2FC0856F8749CC1AA84271|
+|29E329CC53309CF1956A9FC98DCEA31ACEB22F41DC30436186E93C238BF15F7B438|
+|6FF8049B77292C217B9F6818966473D3074CCA4E4EB26FFF5A884167E6C883DAC3C|
+|3E08CF1EF5B7BFF23C5FAE70CE924AFC6995BDE6399CAB7FD1FDF8EF7D87742F99A|
+|1A9ABB47323491D1CCE65F8E299C73|
+|-------------------------------------------------------------------|
