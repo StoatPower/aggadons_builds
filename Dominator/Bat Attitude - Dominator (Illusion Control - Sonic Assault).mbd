@@ -21,7 +21,7 @@
     "Pool.Leadership",
     "Epic.Psionic_Mastery_Domingator"
   ],
-  "LastPower": 27,
+  "LastPower": 28,
   "PowerEntries": [
     {
       "PowerName": "Dominator_Control.Illusion_Control.Spectral_Wall",
@@ -1747,9 +1747,9 @@
       "SlotEntries": []
     },
     {
-      "PowerName": "Incarnate.Hybrid.Melee_Genome_8",
-      "Level": 50,
-      "StatInclude": true,
+      "PowerName": "",
+      "Level": -1,
+      "StatInclude": false,
       "ProcInclude": false,
       "VariableValue": 0,
       "InherentSlotsUsed": 0,
@@ -1788,6 +1788,26 @@
     },
     {
       "PowerName": "Incarnate.Alpha.Nerve_Core_Paragon",
+      "Level": 50,
+      "StatInclude": true,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": []
+    },
+    {
+      "PowerName": "",
+      "Level": -1,
+      "StatInclude": false,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": []
+    },
+    {
+      "PowerName": "Incarnate.Hybrid.Melee_Genome_8",
       "Level": 50,
       "StatInclude": true,
       "ProcInclude": false,
