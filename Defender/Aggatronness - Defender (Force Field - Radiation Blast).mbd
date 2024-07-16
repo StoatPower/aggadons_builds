@@ -21,7 +21,7 @@
     "Pool.Leadership",
     "Epic.Corruptor_Soul_Mastery"
   ],
-  "LastPower": 25,
+  "LastPower": 27,
   "PowerEntries": [
     {
       "PowerName": "Defender_Buff.Force_Field.Personal_Force_Field",
@@ -36,7 +36,7 @@
           "Level": 1,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Crafted_Kismet_E",
+            "Uid": "Crafted_Luck_of_the_Gambler_F",
             "Grade": "None",
             "IoLevel": 29,
             "RelativeLevel": "Even",
@@ -166,9 +166,9 @@
           "Level": 5,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Crafted_Luck_of_the_Gambler_F",
+            "Uid": "Crafted_Kismet_E",
             "Grade": "None",
-            "IoLevel": 49,
+            "IoLevel": 29,
             "RelativeLevel": "Even",
             "Obtained": false
           },
@@ -180,7 +180,7 @@
       "PowerName": "Defender_Buff.Force_Field.Force_Bolt",
       "Level": 4,
       "StatInclude": true,
-      "ProcInclude": false,
+      "ProcInclude": true,
       "VariableValue": 0,
       "InherentSlotsUsed": 0,
       "SubPowerEntries": [],
@@ -203,7 +203,7 @@
           "Enhancement": {
             "Uid": "Crafted_Force_Feedback_A",
             "Grade": "None",
-            "IoLevel": 49,
+            "IoLevel": 34,
             "RelativeLevel": "Even",
             "Obtained": false
           },
@@ -295,7 +295,7 @@
           "Level": 9,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Crafted_Blessing_of_the_Zephyr_B",
+            "Uid": "Crafted_Hypersonic_B",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
@@ -307,7 +307,7 @@
           "Level": 11,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Crafted_Blessing_of_the_Zephyr_C",
+            "Uid": "Crafted_Hypersonic_D",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
@@ -330,9 +330,9 @@
           "Level": 10,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Crafted_Sudden_Acceleration_F",
+            "Uid": "Crafted_Achilles_Heel_C",
             "Grade": "None",
-            "IoLevel": 49,
+            "IoLevel": 19,
             "RelativeLevel": "Even",
             "Obtained": false
           },
@@ -650,7 +650,7 @@
           "Level": 50,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Crafted_Force_Feedback_E",
+            "Uid": "Crafted_Force_Feedback_F",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
@@ -1199,9 +1199,9 @@
           "Level": 40,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Crafted_Fury_of_the_Gladiator_B",
+            "Uid": "Crafted_Achilles_Heel_A",
             "Grade": "None",
-            "IoLevel": 49,
+            "IoLevel": 19,
             "RelativeLevel": "Even",
             "Obtained": false
           },
@@ -1217,9 +1217,9 @@
           "Level": 40,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Crafted_Fury_of_the_Gladiator_F",
+            "Uid": "Crafted_Achilles_Heel_C",
             "Grade": "None",
-            "IoLevel": 49,
+            "IoLevel": 19,
             "RelativeLevel": "Even",
             "Obtained": false
           },
@@ -1671,16 +1671,6 @@
       "SlotEntries": []
     },
     {
-      "PowerName": "",
-      "Level": -1,
-      "StatInclude": false,
-      "ProcInclude": false,
-      "VariableValue": 0,
-      "InherentSlotsUsed": 0,
-      "SubPowerEntries": [],
-      "SlotEntries": []
-    },
-    {
       "PowerName": "Incarnate.Hybrid.Support_Genome_8",
       "Level": 50,
       "StatInclude": true,
@@ -1694,16 +1684,6 @@
       "PowerName": "Incarnate.Destiny.Ageless_Core_Epiphany",
       "Level": 50,
       "StatInclude": true,
-      "ProcInclude": false,
-      "VariableValue": 0,
-      "InherentSlotsUsed": 0,
-      "SubPowerEntries": [],
-      "SlotEntries": []
-    },
-    {
-      "PowerName": "",
-      "Level": -1,
-      "StatInclude": false,
       "ProcInclude": false,
       "VariableValue": 0,
       "InherentSlotsUsed": 0,
