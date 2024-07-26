@@ -1,30 +1,30 @@
 {
   "BuiltWith": {
     "App": "Mids' Reborn",
-    "Version": "3.7.5.21",
+    "Version": "3.7.4.9",
     "Database": "Homecoming",
-    "DatabaseVersion": "2024.7.857"
+    "DatabaseVersion": "2024.5.759"
   },
   "Level": "49",
-  "Class": "Class_Dominator",
-  "Origin": "Magic",
-  "Alignment": "Villain",
-  "Name": "Umbral Ice",
+  "Class": "Class_Scrapper",
+  "Origin": "Mutation",
+  "Alignment": "Hero",
+  "Name": "Quarkstone",
   "Comment": "",
   "PowerSets": [
-    "Dominator_Control.Ice_Control",
-    "Dominator_Assault.Dark_Assault",
+    "Scrapper_Melee.Energy_Melee",
+    "Scrapper_Defense.Stone_Armor",
     "",
     "Pool.Speed",
     "Pool.Leaping",
+    "Pool.Teleportation",
     "Pool.Fighting",
-    "Pool.Force_of_Will",
-    "Epic.Ice_Mastery_Dominator"
+    "Epic.Stalker_Soul_Mastery"
   ],
-  "LastPower": 25,
+  "LastPower": 24,
   "PowerEntries": [
     {
-      "PowerName": "Dominator_Control.Ice_Control.Block_of_Ice",
+      "PowerName": "Scrapper_Melee.Energy_Melee.Energy_Punch",
       "Level": 1,
       "StatInclude": false,
       "ProcInclude": false,
@@ -39,13 +39,19 @@
           "FlippedEnhancement": null
         },
         {
-          "Level": 5,
+          "Level": 46,
           "IsInherent": false,
           "Enhancement": null,
           "FlippedEnhancement": null
         },
         {
-          "Level": 21,
+          "Level": 46,
+          "IsInherent": false,
+          "Enhancement": null,
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 48,
           "IsInherent": false,
           "Enhancement": null,
           "FlippedEnhancement": null
@@ -53,9 +59,9 @@
       ]
     },
     {
-      "PowerName": "Dominator_Assault.Dark_Assault.Smite",
+      "PowerName": "Scrapper_Defense.Stone_Armor.Rock_Armor",
       "Level": 1,
-      "StatInclude": false,
+      "StatInclude": true,
       "ProcInclude": false,
       "VariableValue": 0,
       "InherentSlotsUsed": 0,
@@ -74,19 +80,25 @@
           "FlippedEnhancement": null
         },
         {
-          "Level": 15,
+          "Level": 3,
           "IsInherent": false,
           "Enhancement": null,
           "FlippedEnhancement": null
         },
         {
-          "Level": 48,
+          "Level": 5,
           "IsInherent": false,
           "Enhancement": null,
           "FlippedEnhancement": null
         },
         {
-          "Level": 48,
+          "Level": 5,
+          "IsInherent": false,
+          "Enhancement": null,
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 7,
           "IsInherent": false,
           "Enhancement": null,
           "FlippedEnhancement": null
@@ -94,9 +106,9 @@
       ]
     },
     {
-      "PowerName": "Dominator_Control.Ice_Control.Frostbite",
+      "PowerName": "Scrapper_Defense.Stone_Armor.Stone_Skin",
       "Level": 2,
-      "StatInclude": false,
+      "StatInclude": true,
       "ProcInclude": false,
       "VariableValue": 0,
       "InherentSlotsUsed": 0,
@@ -109,7 +121,19 @@
           "FlippedEnhancement": null
         },
         {
-          "Level": 3,
+          "Level": 7,
+          "IsInherent": false,
+          "Enhancement": null,
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 9,
+          "IsInherent": false,
+          "Enhancement": null,
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 9,
           "IsInherent": false,
           "Enhancement": null,
           "FlippedEnhancement": null
@@ -121,19 +145,7 @@
           "FlippedEnhancement": null
         },
         {
-          "Level": 21,
-          "IsInherent": false,
-          "Enhancement": null,
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 34,
-          "IsInherent": false,
-          "Enhancement": null,
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 34,
+          "Level": 11,
           "IsInherent": false,
           "Enhancement": null,
           "FlippedEnhancement": null
@@ -141,7 +153,7 @@
       ]
     },
     {
-      "PowerName": "Dominator_Assault.Dark_Assault.Gloom",
+      "PowerName": "Scrapper_Melee.Energy_Melee.Bone_Smasher",
       "Level": 4,
       "StatInclude": false,
       "ProcInclude": false,
@@ -156,25 +168,31 @@
           "FlippedEnhancement": null
         },
         {
-          "Level": 5,
+          "Level": 39,
           "IsInherent": false,
           "Enhancement": null,
           "FlippedEnhancement": null
         },
         {
-          "Level": 7,
+          "Level": 45,
           "IsInherent": false,
           "Enhancement": null,
           "FlippedEnhancement": null
         },
         {
-          "Level": 11,
+          "Level": 45,
           "IsInherent": false,
           "Enhancement": null,
           "FlippedEnhancement": null
         },
         {
-          "Level": 15,
+          "Level": 46,
+          "IsInherent": false,
+          "Enhancement": null,
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 50,
           "IsInherent": false,
           "Enhancement": null,
           "FlippedEnhancement": null
@@ -182,7 +200,7 @@
       ]
     },
     {
-      "PowerName": "Dominator_Control.Ice_Control.Arctic_Air",
+      "PowerName": "Scrapper_Defense.Stone_Armor.Earths_Embrace",
       "Level": 6,
       "StatInclude": false,
       "ProcInclude": false,
@@ -197,36 +215,7 @@
           "FlippedEnhancement": null
         },
         {
-          "Level": 7,
-          "IsInherent": false,
-          "Enhancement": null,
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 9,
-          "IsInherent": false,
-          "Enhancement": null,
-          "FlippedEnhancement": null
-        }
-      ]
-    },
-    {
-      "PowerName": "Dominator_Control.Ice_Control.Shiver",
-      "Level": 8,
-      "StatInclude": false,
-      "ProcInclude": false,
-      "VariableValue": 0,
-      "InherentSlotsUsed": 0,
-      "SubPowerEntries": [],
-      "SlotEntries": [
-        {
-          "Level": 8,
-          "IsInherent": false,
-          "Enhancement": null,
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 9,
+          "Level": 13,
           "IsInherent": false,
           "Enhancement": null,
           "FlippedEnhancement": null
@@ -240,7 +229,24 @@
       ]
     },
     {
-      "PowerName": "Pool.Speed.Hasten",
+      "PowerName": "Scrapper_Melee.Energy_Melee.Build_Up",
+      "Level": 8,
+      "StatInclude": false,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": [
+        {
+          "Level": 8,
+          "IsInherent": false,
+          "Enhancement": null,
+          "FlippedEnhancement": null
+        }
+      ]
+    },
+    {
+      "PowerName": "Scrapper_Defense.Stone_Armor.Mud_Pots",
       "Level": 10,
       "StatInclude": false,
       "ProcInclude": false,
@@ -253,11 +259,35 @@
           "IsInherent": false,
           "Enhancement": null,
           "FlippedEnhancement": null
+        },
+        {
+          "Level": 15,
+          "IsInherent": false,
+          "Enhancement": null,
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 15,
+          "IsInherent": false,
+          "Enhancement": null,
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 17,
+          "IsInherent": false,
+          "Enhancement": null,
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 42,
+          "IsInherent": false,
+          "Enhancement": null,
+          "FlippedEnhancement": null
         }
       ]
     },
     {
-      "PowerName": "Dominator_Control.Ice_Control.Ice_Slick",
+      "PowerName": "Scrapper_Melee.Energy_Melee.Power_Crash",
       "Level": 12,
       "StatInclude": false,
       "ProcInclude": false,
@@ -272,7 +302,31 @@
           "FlippedEnhancement": null
         },
         {
-          "Level": 13,
+          "Level": 39,
+          "IsInherent": false,
+          "Enhancement": null,
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 42,
+          "IsInherent": false,
+          "Enhancement": null,
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 43,
+          "IsInherent": false,
+          "Enhancement": null,
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 43,
+          "IsInherent": false,
+          "Enhancement": null,
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 45,
           "IsInherent": false,
           "Enhancement": null,
           "FlippedEnhancement": null
@@ -280,7 +334,7 @@
       ]
     },
     {
-      "PowerName": "Pool.Leaping.Combat_Jumping",
+      "PowerName": "Pool.Speed.Hasten",
       "Level": 14,
       "StatInclude": false,
       "ProcInclude": false,
@@ -297,9 +351,9 @@
       ]
     },
     {
-      "PowerName": "Dominator_Assault.Dark_Assault.Gather_Shadows",
+      "PowerName": "Scrapper_Defense.Stone_Armor.Rooted",
       "Level": 16,
-      "StatInclude": false,
+      "StatInclude": true,
       "ProcInclude": false,
       "VariableValue": 0,
       "InherentSlotsUsed": 0,
@@ -318,7 +372,42 @@
           "FlippedEnhancement": null
         },
         {
-          "Level": 17,
+          "Level": 19,
+          "IsInherent": false,
+          "Enhancement": null,
+          "FlippedEnhancement": null
+        }
+      ]
+    },
+    {
+      "PowerName": "Scrapper_Melee.Energy_Melee.Whirling_Hands",
+      "Level": 18,
+      "StatInclude": false,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": [
+        {
+          "Level": 18,
+          "IsInherent": false,
+          "Enhancement": null,
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 19,
+          "IsInherent": false,
+          "Enhancement": null,
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 40,
+          "IsInherent": false,
+          "Enhancement": null,
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 40,
           "IsInherent": false,
           "Enhancement": null,
           "FlippedEnhancement": null
@@ -338,26 +427,9 @@
       ]
     },
     {
-      "PowerName": "Pool.Fighting.Kick",
-      "Level": 18,
-      "StatInclude": false,
-      "ProcInclude": false,
-      "VariableValue": 0,
-      "InherentSlotsUsed": 0,
-      "SubPowerEntries": [],
-      "SlotEntries": [
-        {
-          "Level": 18,
-          "IsInherent": false,
-          "Enhancement": null,
-          "FlippedEnhancement": null
-        }
-      ]
-    },
-    {
-      "PowerName": "Dominator_Assault.Dark_Assault.Moonbeam",
+      "PowerName": "Scrapper_Defense.Stone_Armor.Crystal_Armor",
       "Level": 20,
-      "StatInclude": false,
+      "StatInclude": true,
       "ProcInclude": false,
       "VariableValue": 0,
       "InherentSlotsUsed": 0,
@@ -370,19 +442,31 @@
           "FlippedEnhancement": null
         },
         {
-          "Level": 33,
+          "Level": 21,
           "IsInherent": false,
           "Enhancement": null,
           "FlippedEnhancement": null
         },
         {
-          "Level": 33,
+          "Level": 21,
           "IsInherent": false,
           "Enhancement": null,
           "FlippedEnhancement": null
         },
         {
-          "Level": 46,
+          "Level": 23,
+          "IsInherent": false,
+          "Enhancement": null,
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 23,
+          "IsInherent": false,
+          "Enhancement": null,
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 25,
           "IsInherent": false,
           "Enhancement": null,
           "FlippedEnhancement": null
@@ -390,7 +474,7 @@
       ]
     },
     {
-      "PowerName": "Dominator_Control.Ice_Control.Glacier",
+      "PowerName": "Scrapper_Melee.Energy_Melee.Total_Focus",
       "Level": 22,
       "StatInclude": false,
       "ProcInclude": false,
@@ -405,19 +489,31 @@
           "FlippedEnhancement": null
         },
         {
-          "Level": 23,
+          "Level": 36,
           "IsInherent": false,
           "Enhancement": null,
           "FlippedEnhancement": null
         },
         {
-          "Level": 23,
+          "Level": 36,
           "IsInherent": false,
           "Enhancement": null,
           "FlippedEnhancement": null
         },
         {
-          "Level": 50,
+          "Level": 37,
+          "IsInherent": false,
+          "Enhancement": null,
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 37,
+          "IsInherent": false,
+          "Enhancement": null,
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 37,
           "IsInherent": false,
           "Enhancement": null,
           "FlippedEnhancement": null
@@ -425,9 +521,9 @@
       ]
     },
     {
-      "PowerName": "Dominator_Assault.Dark_Assault.Life_Drain",
+      "PowerName": "Scrapper_Defense.Stone_Armor.Minerals",
       "Level": 24,
-      "StatInclude": false,
+      "StatInclude": true,
       "ProcInclude": false,
       "VariableValue": 0,
       "InherentSlotsUsed": 0,
@@ -446,25 +542,25 @@
           "FlippedEnhancement": null
         },
         {
-          "Level": 25,
+          "Level": 27,
           "IsInherent": false,
           "Enhancement": null,
           "FlippedEnhancement": null
         },
         {
-          "Level": 37,
+          "Level": 27,
           "IsInherent": false,
           "Enhancement": null,
           "FlippedEnhancement": null
         },
         {
-          "Level": 37,
+          "Level": 29,
           "IsInherent": false,
           "Enhancement": null,
           "FlippedEnhancement": null
         },
         {
-          "Level": 37,
+          "Level": 29,
           "IsInherent": false,
           "Enhancement": null,
           "FlippedEnhancement": null
@@ -472,7 +568,7 @@
       ]
     },
     {
-      "PowerName": "Dominator_Control.Ice_Control.Jack_Frost",
+      "PowerName": "Scrapper_Melee.Energy_Melee.Energy_Transfer",
       "Level": 26,
       "StatInclude": false,
       "ProcInclude": false,
@@ -487,101 +583,19 @@
           "FlippedEnhancement": null
         },
         {
-          "Level": 27,
-          "IsInherent": false,
-          "Enhancement": null,
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 27,
-          "IsInherent": false,
-          "Enhancement": null,
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 48,
-          "IsInherent": false,
-          "Enhancement": null,
-          "FlippedEnhancement": null
-        }
-      ]
-    },
-    {
-      "PowerName": "Dominator_Assault.Dark_Assault.Death_Shroud",
-      "Level": 28,
-      "StatInclude": false,
-      "ProcInclude": false,
-      "VariableValue": 0,
-      "InherentSlotsUsed": 0,
-      "SubPowerEntries": [],
-      "SlotEntries": [
-        {
-          "Level": 28,
-          "IsInherent": false,
-          "Enhancement": null,
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 29,
-          "IsInherent": false,
-          "Enhancement": null,
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 29,
-          "IsInherent": false,
-          "Enhancement": null,
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 31,
-          "IsInherent": false,
-          "Enhancement": null,
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 36,
-          "IsInherent": false,
-          "Enhancement": null,
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 36,
-          "IsInherent": false,
-          "Enhancement": null,
-          "FlippedEnhancement": null
-        }
-      ]
-    },
-    {
-      "PowerName": "Dominator_Assault.Dark_Assault.Midnight_Grasp",
-      "Level": 30,
-      "StatInclude": false,
-      "ProcInclude": false,
-      "VariableValue": 0,
-      "InherentSlotsUsed": 0,
-      "SubPowerEntries": [],
-      "SlotEntries": [
-        {
-          "Level": 30,
-          "IsInherent": false,
-          "Enhancement": null,
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 31,
-          "IsInherent": false,
-          "Enhancement": null,
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 31,
-          "IsInherent": false,
-          "Enhancement": null,
-          "FlippedEnhancement": null
-        },
-        {
           "Level": 33,
+          "IsInherent": false,
+          "Enhancement": null,
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 34,
+          "IsInherent": false,
+          "Enhancement": null,
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 34,
           "IsInherent": false,
           "Enhancement": null,
           "FlippedEnhancement": null
@@ -601,7 +615,71 @@
       ]
     },
     {
-      "PowerName": "Pool.Fighting.Tough",
+      "PowerName": "Scrapper_Defense.Stone_Armor.Brimstone_Armor",
+      "Level": 28,
+      "StatInclude": true,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": [
+        {
+          "Level": 28,
+          "IsInherent": false,
+          "Enhancement": null,
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 31,
+          "IsInherent": false,
+          "Enhancement": null,
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 31,
+          "IsInherent": false,
+          "Enhancement": null,
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 31,
+          "IsInherent": false,
+          "Enhancement": null,
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 33,
+          "IsInherent": false,
+          "Enhancement": null,
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 33,
+          "IsInherent": false,
+          "Enhancement": null,
+          "FlippedEnhancement": null
+        }
+      ]
+    },
+    {
+      "PowerName": "Scrapper_Defense.Stone_Armor.Geode",
+      "Level": 30,
+      "StatInclude": false,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": [
+        {
+          "Level": 30,
+          "IsInherent": false,
+          "Enhancement": null,
+          "FlippedEnhancement": null
+        }
+      ]
+    },
+    {
+      "PowerName": "Pool.Leaping.Combat_Jumping",
       "Level": 32,
       "StatInclude": false,
       "ProcInclude": false,
@@ -614,23 +692,11 @@
           "IsInherent": false,
           "Enhancement": null,
           "FlippedEnhancement": null
-        },
-        {
-          "Level": 47,
-          "IsInherent": false,
-          "Enhancement": null,
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 47,
-          "IsInherent": false,
-          "Enhancement": null,
-          "FlippedEnhancement": null
         }
       ]
     },
     {
-      "PowerName": "Epic.Ice_Mastery_Dominator.Hibernate",
+      "PowerName": "Pool.Teleportation.Teleport_Foe",
       "Level": 35,
       "StatInclude": false,
       "ProcInclude": false,
@@ -643,11 +709,17 @@
           "IsInherent": false,
           "Enhancement": null,
           "FlippedEnhancement": null
+        },
+        {
+          "Level": 39,
+          "IsInherent": false,
+          "Enhancement": null,
+          "FlippedEnhancement": null
         }
       ]
     },
     {
-      "PowerName": "Epic.Ice_Mastery_Dominator.Frozen_Armor",
+      "PowerName": "Pool.Teleportation.Teleport",
       "Level": 38,
       "StatInclude": false,
       "ProcInclude": false,
@@ -662,31 +734,7 @@
           "FlippedEnhancement": null
         },
         {
-          "Level": 39,
-          "IsInherent": false,
-          "Enhancement": null,
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 39,
-          "IsInherent": false,
-          "Enhancement": null,
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 39,
-          "IsInherent": false,
-          "Enhancement": null,
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 40,
-          "IsInherent": false,
-          "Enhancement": null,
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 40,
+          "Level": 42,
           "IsInherent": false,
           "Enhancement": null,
           "FlippedEnhancement": null
@@ -694,7 +742,7 @@
       ]
     },
     {
-      "PowerName": "Epic.Ice_Mastery_Dominator.Ice_Blast",
+      "PowerName": "Pool.Teleportation.Recall_Friend",
       "Level": 41,
       "StatInclude": false,
       "ProcInclude": false,
@@ -707,41 +755,11 @@
           "IsInherent": false,
           "Enhancement": null,
           "FlippedEnhancement": null
-        },
-        {
-          "Level": 42,
-          "IsInherent": false,
-          "Enhancement": null,
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 42,
-          "IsInherent": false,
-          "Enhancement": null,
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 42,
-          "IsInherent": false,
-          "Enhancement": null,
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 43,
-          "IsInherent": false,
-          "Enhancement": null,
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 43,
-          "IsInherent": false,
-          "Enhancement": null,
-          "FlippedEnhancement": null
         }
       ]
     },
     {
-      "PowerName": "Epic.Ice_Mastery_Dominator.Ice_Storm",
+      "PowerName": "Pool.Fighting.Kick",
       "Level": 44,
       "StatInclude": false,
       "ProcInclude": false,
@@ -754,43 +772,13 @@
           "IsInherent": false,
           "Enhancement": null,
           "FlippedEnhancement": null
-        },
-        {
-          "Level": 45,
-          "IsInherent": false,
-          "Enhancement": null,
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 45,
-          "IsInherent": false,
-          "Enhancement": null,
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 45,
-          "IsInherent": false,
-          "Enhancement": null,
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 46,
-          "IsInherent": false,
-          "Enhancement": null,
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 46,
-          "IsInherent": false,
-          "Enhancement": null,
-          "FlippedEnhancement": null
         }
       ]
     },
     {
-      "PowerName": "Epic.Ice_Mastery_Dominator.Frost_Breath",
+      "PowerName": "Pool.Fighting.Tough",
       "Level": 47,
-      "StatInclude": false,
+      "StatInclude": true,
       "ProcInclude": false,
       "VariableValue": 0,
       "InherentSlotsUsed": 0,
@@ -798,6 +786,18 @@
       "SlotEntries": [
         {
           "Level": 47,
+          "IsInherent": false,
+          "Enhancement": null,
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 48,
+          "IsInherent": false,
+          "Enhancement": null,
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 48,
           "IsInherent": false,
           "Enhancement": null,
           "FlippedEnhancement": null
@@ -820,28 +820,18 @@
           "FlippedEnhancement": null
         },
         {
-          "Level": 49,
+          "Level": 50,
           "IsInherent": false,
           "Enhancement": null,
           "FlippedEnhancement": null
         },
         {
-          "Level": 49,
+          "Level": 50,
           "IsInherent": false,
           "Enhancement": null,
           "FlippedEnhancement": null
         }
       ]
-    },
-    {
-      "PowerName": "Inherent.Inherent.Domination",
-      "Level": 1,
-      "StatInclude": false,
-      "ProcInclude": false,
-      "VariableValue": 0,
-      "InherentSlotsUsed": 0,
-      "SubPowerEntries": [],
-      "SlotEntries": []
     },
     {
       "PowerName": "Inherent.Inherent.Brawl",
@@ -859,6 +849,16 @@
           "FlippedEnhancement": null
         }
       ]
+    },
+    {
+      "PowerName": "Inherent.Inherent.Critical_Hit",
+      "Level": 1,
+      "StatInclude": true,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": []
     },
     {
       "PowerName": "Inherent.Inherent.Sprint",
@@ -912,7 +912,7 @@
       ]
     },
     {
-      "PowerName": "Inherent.Fitness.Hurdle",
+      "PowerName": "Inherent.Fitness.Health",
       "Level": 1,
       "StatInclude": true,
       "ProcInclude": false,
@@ -929,7 +929,7 @@
       ]
     },
     {
-      "PowerName": "Inherent.Fitness.Health",
+      "PowerName": "Inherent.Fitness.Hurdle",
       "Level": 1,
       "StatInclude": true,
       "ProcInclude": false,
@@ -963,8 +963,8 @@
       ]
     },
     {
-      "PowerName": "Inherent.Inherent.Fast_Snipe",
-      "Level": 49,
+      "PowerName": "Inherent.Inherent.Energy_Focus",
+      "Level": 1,
       "StatInclude": false,
       "ProcInclude": false,
       "VariableValue": 0,
