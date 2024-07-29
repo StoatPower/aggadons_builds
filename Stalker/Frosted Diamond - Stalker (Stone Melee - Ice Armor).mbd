@@ -6,25 +6,25 @@
     "DatabaseVersion": "2024.7.857"
   },
   "Level": "48",
-  "Class": "Class_Dominator",
-  "Origin": "Technology",
+  "Class": "Class_Stalker",
+  "Origin": "Magic",
   "Alignment": "Villain",
-  "Name": "twin 1",
+  "Name": "Frosted Diamond",
   "Comment": "",
   "PowerSets": [
-    "Dominator_Control.Darkness_Control",
-    "Dominator_Assault.Icy_Assault",
+    "Stalker_Melee.Stone_Melee",
+    "Stalker_Defense.Ice_Armor",
     "",
     "Pool.Speed",
-    "Pool.Flight",
+    "Pool.Leaping",
     "Pool.Fighting",
-    "Pool.Sorcery",
-    "Epic.Dark_Mastery_Dominator"
+    "Pool.Flight",
+    "Epic.Ice_Mastery_ScrapStalk"
   ],
-  "LastPower": 27,
+  "LastPower": 24,
   "PowerEntries": [
     {
-      "PowerName": "Dominator_Control.Darkness_Control.Dark_Grasp",
+      "PowerName": "Stalker_Melee.Stone_Melee.Stone_Mallet",
       "Level": 1,
       "StatInclude": false,
       "ProcInclude": false,
@@ -39,13 +39,13 @@
           "FlippedEnhancement": null
         },
         {
-          "Level": 3,
+          "Level": 46,
           "IsInherent": false,
           "Enhancement": null,
           "FlippedEnhancement": null
         },
         {
-          "Level": 3,
+          "Level": 48,
           "IsInherent": false,
           "Enhancement": null,
           "FlippedEnhancement": null
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "PowerName": "Dominator_Assault.Icy_Assault.Ice_Sword",
+      "PowerName": "Stalker_Defense.Ice_Armor.Hide",
       "Level": 1,
       "StatInclude": false,
       "ProcInclude": false,
@@ -66,35 +66,11 @@
           "IsInherent": false,
           "Enhancement": null,
           "FlippedEnhancement": null
-        },
-        {
-          "Level": 5,
-          "IsInherent": false,
-          "Enhancement": null,
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 5,
-          "IsInherent": false,
-          "Enhancement": null,
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 7,
-          "IsInherent": false,
-          "Enhancement": null,
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 7,
-          "IsInherent": false,
-          "Enhancement": null,
-          "FlippedEnhancement": null
         }
       ]
     },
     {
-      "PowerName": "Dominator_Control.Darkness_Control.Living_Shadows",
+      "PowerName": "Stalker_Defense.Ice_Armor.Frozen_Armor",
       "Level": 2,
       "StatInclude": false,
       "ProcInclude": false,
@@ -109,7 +85,31 @@
           "FlippedEnhancement": null
         },
         {
-          "Level": 9,
+          "Level": 3,
+          "IsInherent": false,
+          "Enhancement": null,
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 3,
+          "IsInherent": false,
+          "Enhancement": null,
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 17,
+          "IsInherent": false,
+          "Enhancement": null,
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 46,
+          "IsInherent": false,
+          "Enhancement": null,
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 46,
           "IsInherent": false,
           "Enhancement": null,
           "FlippedEnhancement": null
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "PowerName": "Dominator_Assault.Icy_Assault.Ice_Sword_Circle",
+      "PowerName": "Stalker_Melee.Stone_Melee.Fault",
       "Level": 4,
       "StatInclude": false,
       "ProcInclude": false,
@@ -132,7 +132,13 @@
           "FlippedEnhancement": null
         },
         {
-          "Level": 13,
+          "Level": 5,
+          "IsInherent": false,
+          "Enhancement": null,
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 5,
           "IsInherent": false,
           "Enhancement": null,
           "FlippedEnhancement": null
@@ -145,12 +151,6 @@
         },
         {
           "Level": 15,
-          "IsInherent": false,
-          "Enhancement": null,
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 17,
           "IsInherent": false,
           "Enhancement": null,
           "FlippedEnhancement": null
@@ -164,7 +164,7 @@
       ]
     },
     {
-      "PowerName": "Pool.Speed.Hasten",
+      "PowerName": "Stalker_Defense.Ice_Armor.Hoarfrost",
       "Level": 6,
       "StatInclude": false,
       "ProcInclude": false,
@@ -177,11 +177,29 @@
           "IsInherent": false,
           "Enhancement": null,
           "FlippedEnhancement": null
+        },
+        {
+          "Level": 7,
+          "IsInherent": false,
+          "Enhancement": null,
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 7,
+          "IsInherent": false,
+          "Enhancement": null,
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 48,
+          "IsInherent": false,
+          "Enhancement": null,
+          "FlippedEnhancement": null
         }
       ]
     },
     {
-      "PowerName": "Dominator_Control.Darkness_Control.Fearsome_Stare",
+      "PowerName": "Stalker_Melee.Stone_Melee.Assassins_Smash",
       "Level": 8,
       "StatInclude": false,
       "ProcInclude": false,
@@ -202,6 +220,12 @@
           "FlippedEnhancement": null
         },
         {
+          "Level": 9,
+          "IsInherent": false,
+          "Enhancement": null,
+          "FlippedEnhancement": null
+        },
+        {
           "Level": 11,
           "IsInherent": false,
           "Enhancement": null,
@@ -214,13 +238,7 @@
           "FlippedEnhancement": null
         },
         {
-          "Level": 19,
-          "IsInherent": false,
-          "Enhancement": null,
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 19,
+          "Level": 13,
           "IsInherent": false,
           "Enhancement": null,
           "FlippedEnhancement": null
@@ -228,7 +246,7 @@
       ]
     },
     {
-      "PowerName": "Dominator_Assault.Icy_Assault.Ice_Blast",
+      "PowerName": "Stalker_Defense.Ice_Armor.Wet_Ice",
       "Level": 10,
       "StatInclude": false,
       "ProcInclude": false,
@@ -247,35 +265,11 @@
           "IsInherent": false,
           "Enhancement": null,
           "FlippedEnhancement": null
-        },
-        {
-          "Level": 21,
-          "IsInherent": false,
-          "Enhancement": null,
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 21,
-          "IsInherent": false,
-          "Enhancement": null,
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 23,
-          "IsInherent": false,
-          "Enhancement": null,
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 23,
-          "IsInherent": false,
-          "Enhancement": null,
-          "FlippedEnhancement": null
         }
       ]
     },
     {
-      "PowerName": "Pool.Flight.Combat_Flight",
+      "PowerName": "Pool.Speed.Hasten",
       "Level": 12,
       "StatInclude": false,
       "ProcInclude": false,
@@ -288,23 +282,11 @@
           "IsInherent": false,
           "Enhancement": null,
           "FlippedEnhancement": null
-        },
-        {
-          "Level": 25,
-          "IsInherent": false,
-          "Enhancement": null,
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 25,
-          "IsInherent": false,
-          "Enhancement": null,
-          "FlippedEnhancement": null
         }
       ]
     },
     {
-      "PowerName": "Dominator_Control.Darkness_Control.Heart_of_Darkness",
+      "PowerName": "Stalker_Melee.Stone_Melee.Build_Up",
       "Level": 14,
       "StatInclude": false,
       "ProcInclude": false,
@@ -317,35 +299,11 @@
           "IsInherent": false,
           "Enhancement": null,
           "FlippedEnhancement": null
-        },
-        {
-          "Level": 27,
-          "IsInherent": false,
-          "Enhancement": null,
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 27,
-          "IsInherent": false,
-          "Enhancement": null,
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 29,
-          "IsInherent": false,
-          "Enhancement": null,
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 29,
-          "IsInherent": false,
-          "Enhancement": null,
-          "FlippedEnhancement": null
         }
       ]
     },
     {
-      "PowerName": "Dominator_Assault.Icy_Assault.Power_Boost",
+      "PowerName": "Pool.Leaping.Combat_Jumping",
       "Level": 16,
       "StatInclude": false,
       "ProcInclude": false,
@@ -362,7 +320,7 @@
       ]
     },
     {
-      "PowerName": "Dominator_Control.Darkness_Control.Haunt",
+      "PowerName": "Stalker_Melee.Stone_Melee.Seismic_Mallet",
       "Level": 18,
       "StatInclude": false,
       "ProcInclude": false,
@@ -377,19 +335,31 @@
           "FlippedEnhancement": null
         },
         {
-          "Level": 31,
+          "Level": 19,
           "IsInherent": false,
           "Enhancement": null,
           "FlippedEnhancement": null
         },
         {
-          "Level": 31,
+          "Level": 19,
           "IsInherent": false,
           "Enhancement": null,
           "FlippedEnhancement": null
         },
         {
-          "Level": 47,
+          "Level": 43,
+          "IsInherent": false,
+          "Enhancement": null,
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 43,
+          "IsInherent": false,
+          "Enhancement": null,
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 43,
           "IsInherent": false,
           "Enhancement": null,
           "FlippedEnhancement": null
@@ -397,7 +367,7 @@
       ]
     },
     {
-      "PowerName": "Pool.Fighting.Kick",
+      "PowerName": "Stalker_Defense.Ice_Armor.Chilling_Embrace",
       "Level": 20,
       "StatInclude": false,
       "ProcInclude": false,
@@ -410,13 +380,25 @@
           "IsInherent": false,
           "Enhancement": null,
           "FlippedEnhancement": null
+        },
+        {
+          "Level": 21,
+          "IsInherent": false,
+          "Enhancement": null,
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 21,
+          "IsInherent": false,
+          "Enhancement": null,
+          "FlippedEnhancement": null
         }
       ]
     },
     {
-      "PowerName": "Dominator_Control.Darkness_Control.Shadow_Field",
+      "PowerName": "Stalker_Defense.Ice_Armor.Permafrost",
       "Level": 22,
-      "StatInclude": false,
+      "StatInclude": true,
       "ProcInclude": false,
       "VariableValue": 0,
       "InherentSlotsUsed": 0,
@@ -429,19 +411,31 @@
           "FlippedEnhancement": null
         },
         {
-          "Level": 31,
+          "Level": 23,
           "IsInherent": false,
           "Enhancement": null,
           "FlippedEnhancement": null
         },
         {
-          "Level": 33,
+          "Level": 23,
           "IsInherent": false,
           "Enhancement": null,
           "FlippedEnhancement": null
         },
         {
-          "Level": 33,
+          "Level": 40,
+          "IsInherent": false,
+          "Enhancement": null,
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 40,
+          "IsInherent": false,
+          "Enhancement": null,
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 40,
           "IsInherent": false,
           "Enhancement": null,
           "FlippedEnhancement": null
@@ -449,7 +443,7 @@
       ]
     },
     {
-      "PowerName": "Dominator_Assault.Icy_Assault.Chilling_Embrace",
+      "PowerName": "Stalker_Defense.Ice_Armor.Glacial_Armor",
       "Level": 24,
       "StatInclude": false,
       "ProcInclude": false,
@@ -464,19 +458,31 @@
           "FlippedEnhancement": null
         },
         {
-          "Level": 33,
+          "Level": 25,
           "IsInherent": false,
           "Enhancement": null,
           "FlippedEnhancement": null
         },
         {
-          "Level": 34,
+          "Level": 25,
           "IsInherent": false,
           "Enhancement": null,
           "FlippedEnhancement": null
         },
         {
-          "Level": 48,
+          "Level": 39,
+          "IsInherent": false,
+          "Enhancement": null,
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 39,
+          "IsInherent": false,
+          "Enhancement": null,
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 39,
           "IsInherent": false,
           "Enhancement": null,
           "FlippedEnhancement": null
@@ -484,7 +490,7 @@
       ]
     },
     {
-      "PowerName": "Dominator_Control.Darkness_Control.Umbra_Beast",
+      "PowerName": "Stalker_Melee.Stone_Melee.Hurl_Boulder",
       "Level": 26,
       "StatInclude": false,
       "ProcInclude": false,
@@ -499,7 +505,13 @@
           "FlippedEnhancement": null
         },
         {
-          "Level": 34,
+          "Level": 27,
+          "IsInherent": false,
+          "Enhancement": null,
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 27,
           "IsInherent": false,
           "Enhancement": null,
           "FlippedEnhancement": null
@@ -511,13 +523,13 @@
           "FlippedEnhancement": null
         },
         {
-          "Level": 36,
+          "Level": 34,
           "IsInherent": false,
           "Enhancement": null,
           "FlippedEnhancement": null
         },
         {
-          "Level": 48,
+          "Level": 37,
           "IsInherent": false,
           "Enhancement": null,
           "FlippedEnhancement": null
@@ -525,7 +537,7 @@
       ]
     },
     {
-      "PowerName": "Dominator_Assault.Icy_Assault.Greater_Ice_Sword",
+      "PowerName": "Stalker_Melee.Stone_Melee.Tremor",
       "Level": 28,
       "StatInclude": false,
       "ProcInclude": false,
@@ -540,31 +552,31 @@
           "FlippedEnhancement": null
         },
         {
-          "Level": 36,
+          "Level": 29,
           "IsInherent": false,
           "Enhancement": null,
           "FlippedEnhancement": null
         },
         {
-          "Level": 36,
+          "Level": 29,
           "IsInherent": false,
           "Enhancement": null,
           "FlippedEnhancement": null
         },
         {
-          "Level": 37,
+          "Level": 31,
           "IsInherent": false,
           "Enhancement": null,
           "FlippedEnhancement": null
         },
         {
-          "Level": 37,
+          "Level": 33,
           "IsInherent": false,
           "Enhancement": null,
           "FlippedEnhancement": null
         },
         {
-          "Level": 37,
+          "Level": 34,
           "IsInherent": false,
           "Enhancement": null,
           "FlippedEnhancement": null
@@ -572,92 +584,38 @@
       ]
     },
     {
-      "PowerName": "Dominator_Assault.Icy_Assault.Bitter_Ice_Blast",
+      "PowerName": "Stalker_Defense.Ice_Armor.Energy_Absorption",
       "Level": 30,
-      "StatInclude": true,
+      "StatInclude": false,
       "ProcInclude": false,
-      "VariableValue": 0,
+      "VariableValue": 1,
       "InherentSlotsUsed": 0,
       "SubPowerEntries": [],
       "SlotEntries": [
         {
           "Level": 30,
           "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Crafted_Decimation_F",
-            "Grade": "None",
-            "IoLevel": 39,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
+          "Enhancement": null,
           "FlippedEnhancement": null
         },
         {
-          "Level": 39,
+          "Level": 31,
           "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Crafted_Apocalypse_F",
-            "Grade": "None",
-            "IoLevel": 49,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
+          "Enhancement": null,
           "FlippedEnhancement": null
         },
         {
-          "Level": 39,
+          "Level": 31,
           "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Crafted_Apocalypse_A",
-            "Grade": "None",
-            "IoLevel": 49,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 39,
-          "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Crafted_Apocalypse_E",
-            "Grade": "None",
-            "IoLevel": 49,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 40,
-          "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Crafted_Apocalypse_C",
-            "Grade": "None",
-            "IoLevel": 49,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 40,
-          "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Crafted_Apocalypse_B",
-            "Grade": "None",
-            "IoLevel": 49,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
+          "Enhancement": null,
           "FlippedEnhancement": null
         }
       ]
     },
     {
-      "PowerName": "Pool.Fighting.Tough",
+      "PowerName": "Stalker_Defense.Ice_Armor.Icy_Bastion",
       "Level": 32,
-      "StatInclude": true,
+      "StatInclude": false,
       "ProcInclude": false,
       "VariableValue": 0,
       "InherentSlotsUsed": 0,
@@ -666,45 +624,27 @@
         {
           "Level": 32,
           "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Crafted_Aegis_F",
-            "Grade": "None",
-            "IoLevel": 49,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
+          "Enhancement": null,
           "FlippedEnhancement": null
         },
         {
-          "Level": 40,
+          "Level": 33,
           "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Crafted_Aegis_E",
-            "Grade": "None",
-            "IoLevel": 49,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
+          "Enhancement": null,
           "FlippedEnhancement": null
         },
         {
-          "Level": 42,
+          "Level": 33,
           "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Crafted_Aegis_A",
-            "Grade": "None",
-            "IoLevel": 49,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
+          "Enhancement": null,
           "FlippedEnhancement": null
         }
       ]
     },
     {
-      "PowerName": "Epic.Dark_Mastery_Dominator.Murky_Cloud",
+      "PowerName": "Epic.Ice_Mastery_ScrapStalk.Frozen_Spear",
       "Level": 35,
-      "StatInclude": true,
+      "StatInclude": false,
       "ProcInclude": false,
       "VariableValue": 0,
       "InherentSlotsUsed": 0,
@@ -713,79 +653,43 @@
         {
           "Level": 35,
           "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Crafted_Gladiators_Armor_F",
-            "Grade": "None",
-            "IoLevel": 49,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
+          "Enhancement": null,
           "FlippedEnhancement": null
         },
         {
-          "Level": 42,
+          "Level": 36,
           "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Crafted_Steadfast_Protection_B",
-            "Grade": "None",
-            "IoLevel": 29,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
+          "Enhancement": null,
           "FlippedEnhancement": null
         },
         {
-          "Level": 42,
+          "Level": 36,
           "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Crafted_Unbreakable_Guard_F",
-            "Grade": "None",
-            "IoLevel": 49,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
+          "Enhancement": null,
           "FlippedEnhancement": null
         },
         {
-          "Level": 43,
+          "Level": 36,
           "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Crafted_Unbreakable_Guard_A",
-            "Grade": "None",
-            "IoLevel": 49,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
+          "Enhancement": null,
           "FlippedEnhancement": null
         },
         {
-          "Level": 43,
+          "Level": 37,
           "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Crafted_Unbreakable_Guard_B",
-            "Grade": "None",
-            "IoLevel": 49,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
+          "Enhancement": null,
           "FlippedEnhancement": null
         },
         {
-          "Level": 43,
+          "Level": 37,
           "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Crafted_Unbreakable_Guard_E",
-            "Grade": "None",
-            "IoLevel": 49,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
+          "Enhancement": null,
           "FlippedEnhancement": null
         }
       ]
     },
     {
-      "PowerName": "Epic.Dark_Mastery_Dominator.Tar_Patch",
+      "PowerName": "Pool.Fighting.Kick",
       "Level": 38,
       "StatInclude": false,
       "ProcInclude": false,
@@ -798,17 +702,11 @@
           "IsInherent": false,
           "Enhancement": null,
           "FlippedEnhancement": null
-        },
-        {
-          "Level": 45,
-          "IsInherent": false,
-          "Enhancement": null,
-          "FlippedEnhancement": null
         }
       ]
     },
     {
-      "PowerName": "Epic.Dark_Mastery_Dominator.Darkest_Night",
+      "PowerName": "Epic.Ice_Mastery_ScrapStalk.Frigid_Wind",
       "Level": 41,
       "StatInclude": false,
       "ProcInclude": false,
@@ -823,13 +721,19 @@
           "FlippedEnhancement": null
         },
         {
-          "Level": 45,
+          "Level": 42,
           "IsInherent": false,
           "Enhancement": null,
           "FlippedEnhancement": null
         },
         {
-          "Level": 45,
+          "Level": 42,
+          "IsInherent": false,
+          "Enhancement": null,
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 42,
           "IsInherent": false,
           "Enhancement": null,
           "FlippedEnhancement": null
@@ -837,11 +741,11 @@
       ]
     },
     {
-      "PowerName": "Epic.Dark_Mastery_Dominator.Soul_Consumption",
+      "PowerName": "Epic.Ice_Mastery_ScrapStalk.Ice_Elemental",
       "Level": 44,
       "StatInclude": false,
       "ProcInclude": false,
-      "VariableValue": 10,
+      "VariableValue": 0,
       "InherentSlotsUsed": 0,
       "SubPowerEntries": [],
       "SlotEntries": [
@@ -852,13 +756,19 @@
           "FlippedEnhancement": null
         },
         {
-          "Level": 46,
+          "Level": 45,
           "IsInherent": false,
           "Enhancement": null,
           "FlippedEnhancement": null
         },
         {
-          "Level": 46,
+          "Level": 45,
+          "IsInherent": false,
+          "Enhancement": null,
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 45,
           "IsInherent": false,
           "Enhancement": null,
           "FlippedEnhancement": null
@@ -866,7 +776,7 @@
       ]
     },
     {
-      "PowerName": "Pool.Sorcery.Mystic_Flight",
+      "PowerName": "Pool.Fighting.Tough",
       "Level": 47,
       "StatInclude": true,
       "ProcInclude": false,
@@ -877,13 +787,19 @@
         {
           "Level": 47,
           "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Hamidon_Slow_Recharge_Endurance_Discount",
-            "Grade": "SingleO",
-            "IoLevel": 1,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
+          "Enhancement": null,
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 47,
+          "IsInherent": false,
+          "Enhancement": null,
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 47,
+          "IsInherent": false,
+          "Enhancement": null,
           "FlippedEnhancement": null
         }
       ]
@@ -900,43 +816,25 @@
         {
           "Level": 49,
           "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Crafted_Luck_of_the_Gambler_F",
-            "Grade": "None",
-            "IoLevel": 49,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
+          "Enhancement": null,
           "FlippedEnhancement": null
         },
         {
           "Level": 49,
           "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Crafted_Luck_of_the_Gambler_A",
-            "Grade": "None",
-            "IoLevel": 49,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
+          "Enhancement": null,
           "FlippedEnhancement": null
         },
         {
           "Level": 49,
           "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Crafted_Shield_Wall_F",
-            "Grade": "None",
-            "IoLevel": 49,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
+          "Enhancement": null,
           "FlippedEnhancement": null
         }
       ]
     },
     {
-      "PowerName": "Inherent.Inherent.Domination",
+      "PowerName": "Inherent.Inherent.Assassination",
       "Level": 1,
       "StatInclude": false,
       "ProcInclude": false,
@@ -1014,7 +912,7 @@
       ]
     },
     {
-      "PowerName": "Inherent.Fitness.Hurdle",
+      "PowerName": "Inherent.Fitness.Health",
       "Level": 1,
       "StatInclude": true,
       "ProcInclude": false,
@@ -1031,7 +929,7 @@
       ]
     },
     {
-      "PowerName": "Inherent.Fitness.Health",
+      "PowerName": "Inherent.Fitness.Hurdle",
       "Level": 1,
       "StatInclude": true,
       "ProcInclude": false,
@@ -1041,12 +939,6 @@
       "SlotEntries": [
         {
           "Level": 1,
-          "IsInherent": false,
-          "Enhancement": null,
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 46,
           "IsInherent": false,
           "Enhancement": null,
           "FlippedEnhancement": null
@@ -1067,24 +959,8 @@
           "IsInherent": false,
           "Enhancement": null,
           "FlippedEnhancement": null
-        },
-        {
-          "Level": 47,
-          "IsInherent": false,
-          "Enhancement": null,
-          "FlippedEnhancement": null
         }
       ]
-    },
-    {
-      "PowerName": "Pool.Sorcery.Translocation",
-      "Level": 47,
-      "StatInclude": false,
-      "ProcInclude": false,
-      "VariableValue": 0,
-      "InherentSlotsUsed": 0,
-      "SubPowerEntries": [],
-      "SlotEntries": []
     }
   ]
 }

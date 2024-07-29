@@ -9,7 +9,7 @@
   "Class": "Class_Dominator",
   "Origin": "Technology",
   "Alignment": "Villain",
-  "Name": "twin 1",
+  "Name": "Umbral Rime",
   "Comment": "",
   "PowerSets": [
     "Dominator_Control.Darkness_Control",
@@ -21,7 +21,7 @@
     "Pool.Sorcery",
     "Epic.Dark_Mastery_Dominator"
   ],
-  "LastPower": 27,
+  "LastPower": 28,
   "PowerEntries": [
     {
       "PowerName": "Dominator_Control.Darkness_Control.Dark_Grasp",

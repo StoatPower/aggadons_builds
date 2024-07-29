@@ -9,7 +9,7 @@
   "Class": "Class_Dominator",
   "Origin": "Magic",
   "Alignment": "Villain",
-  "Name": "Umbral Ice",
+  "Name": "Icebound Eidolon",
   "Comment": "",
   "PowerSets": [
     "Dominator_Control.Ice_Control",
@@ -21,7 +21,7 @@
     "Pool.Sorcery",
     "Epic.Ice_Mastery_Dominator"
   ],
-  "LastPower": 26,
+  "LastPower": 27,
   "PowerEntries": [
     {
       "PowerName": "Dominator_Control.Ice_Control.Block_of_Ice",
@@ -1559,16 +1559,6 @@
       "SlotEntries": []
     },
     {
-      "PowerName": "",
-      "Level": -1,
-      "StatInclude": false,
-      "ProcInclude": false,
-      "VariableValue": 0,
-      "InherentSlotsUsed": 0,
-      "SubPowerEntries": [],
-      "SlotEntries": []
-    },
-    {
       "PowerName": "Incarnate.Alpha.Agility_Core_Paragon",
       "Level": 50,
       "StatInclude": true,
@@ -1612,46 +1602,6 @@
       "PowerName": "Incarnate.Lore.Banished_Pantheon_Radial_Superior_Ally",
       "Level": 50,
       "StatInclude": true,
-      "ProcInclude": false,
-      "VariableValue": 0,
-      "InherentSlotsUsed": 0,
-      "SubPowerEntries": [],
-      "SlotEntries": []
-    },
-    {
-      "PowerName": "",
-      "Level": -1,
-      "StatInclude": false,
-      "ProcInclude": false,
-      "VariableValue": 0,
-      "InherentSlotsUsed": 0,
-      "SubPowerEntries": [],
-      "SlotEntries": []
-    },
-    {
-      "PowerName": "",
-      "Level": -1,
-      "StatInclude": false,
-      "ProcInclude": false,
-      "VariableValue": 0,
-      "InherentSlotsUsed": 0,
-      "SubPowerEntries": [],
-      "SlotEntries": []
-    },
-    {
-      "PowerName": "",
-      "Level": -1,
-      "StatInclude": false,
-      "ProcInclude": false,
-      "VariableValue": 0,
-      "InherentSlotsUsed": 0,
-      "SubPowerEntries": [],
-      "SlotEntries": []
-    },
-    {
-      "PowerName": "",
-      "Level": -1,
-      "StatInclude": false,
       "ProcInclude": false,
       "VariableValue": 0,
       "InherentSlotsUsed": 0,
