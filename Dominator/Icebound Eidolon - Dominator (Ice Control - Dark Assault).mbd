@@ -21,7 +21,7 @@
     "Pool.Sorcery",
     "Epic.Ice_Mastery_Dominator"
   ],
-  "LastPower": 27,
+  "LastPower": 28,
   "PowerEntries": [
     {
       "PowerName": "Dominator_Control.Ice_Control.Block_of_Ice",
@@ -83,73 +83,109 @@
           "Level": 1,
           "IsInherent": false,
           "Enhancement": {
+            "Uid": "Crafted_Touch_of_Death_F",
+            "Grade": "None",
+            "IoLevel": 39,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": {
             "Uid": "Superior_Attuned_Blistering_Cold_F",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
             "Obtained": false
-          },
-          "FlippedEnhancement": null
+          }
         },
         {
           "Level": 3,
           "IsInherent": false,
           "Enhancement": {
+            "Uid": "Crafted_Touch_of_Death_A",
+            "Grade": "None",
+            "IoLevel": 39,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": {
             "Uid": "Superior_Attuned_Blistering_Cold_A",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
             "Obtained": false
-          },
-          "FlippedEnhancement": null
+          }
         },
         {
           "Level": 13,
           "IsInherent": false,
           "Enhancement": {
+            "Uid": "Crafted_Touch_of_Death_B",
+            "Grade": "None",
+            "IoLevel": 39,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": {
             "Uid": "Superior_Attuned_Blistering_Cold_E",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
             "Obtained": false
-          },
-          "FlippedEnhancement": null
+          }
         },
         {
           "Level": 15,
           "IsInherent": false,
           "Enhancement": {
+            "Uid": "Crafted_Touch_of_Death_C",
+            "Grade": "None",
+            "IoLevel": 39,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": {
             "Uid": "Superior_Attuned_Blistering_Cold_B",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
             "Obtained": false
-          },
-          "FlippedEnhancement": null
+          }
         },
         {
           "Level": 48,
           "IsInherent": false,
           "Enhancement": {
+            "Uid": "Crafted_Touch_of_Death_D",
+            "Grade": "None",
+            "IoLevel": 39,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": {
             "Uid": "Superior_Attuned_Blistering_Cold_C",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
             "Obtained": false
-          },
-          "FlippedEnhancement": null
+          }
         },
         {
           "Level": 48,
           "IsInherent": false,
           "Enhancement": {
+            "Uid": "Crafted_Touch_of_Death_E",
+            "Grade": "None",
+            "IoLevel": 39,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": {
             "Uid": "Superior_Attuned_Blistering_Cold_D",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
             "Obtained": false
-          },
-          "FlippedEnhancement": null
+          }
         }
       ]
     },
@@ -166,25 +202,37 @@
           "Level": 2,
           "IsInherent": false,
           "Enhancement": {
+            "Uid": "Crafted_Trap_of_the_Hunter_F",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": {
             "Uid": "Crafted_Gravitational_Anchor_F",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
             "Obtained": false
-          },
-          "FlippedEnhancement": null
+          }
         },
         {
           "Level": 11,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Crafted_Gravitational_Anchor_C",
+            "Uid": "Crafted_Trap_of_the_Hunter_D",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
             "Obtained": false
           },
-          "FlippedEnhancement": null
+          "FlippedEnhancement": {
+            "Uid": "Crafted_Gravitational_Anchor_C",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          }
         }
       ]
     },
@@ -201,61 +249,91 @@
           "Level": 4,
           "IsInherent": false,
           "Enhancement": {
+            "Uid": "Crafted_Gladiators_Javelin_F",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": {
             "Uid": "Crafted_Apocalypse_F",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
             "Obtained": false
-          },
-          "FlippedEnhancement": null
+          }
         },
         {
           "Level": 5,
           "IsInherent": false,
           "Enhancement": {
+            "Uid": "Crafted_Entropic_Chaos_E",
+            "Grade": "None",
+            "IoLevel": 34,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": {
             "Uid": "Crafted_Apocalypse_A",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
             "Obtained": false
-          },
-          "FlippedEnhancement": null
+          }
         },
         {
           "Level": 7,
           "IsInherent": false,
           "Enhancement": {
+            "Uid": "Crafted_Entropic_Chaos_A",
+            "Grade": "None",
+            "IoLevel": 34,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": {
             "Uid": "Crafted_Apocalypse_B",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
             "Obtained": false
-          },
-          "FlippedEnhancement": null
+          }
         },
         {
           "Level": 11,
           "IsInherent": false,
           "Enhancement": {
+            "Uid": "Crafted_Entropic_Chaos_B",
+            "Grade": "None",
+            "IoLevel": 34,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": {
             "Uid": "Crafted_Apocalypse_C",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
             "Obtained": false
-          },
-          "FlippedEnhancement": null
+          }
         },
         {
           "Level": 15,
           "IsInherent": false,
           "Enhancement": {
+            "Uid": "Crafted_Entropic_Chaos_D",
+            "Grade": "None",
+            "IoLevel": 34,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": {
             "Uid": "Crafted_Apocalypse_E",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
             "Obtained": false
-          },
-          "FlippedEnhancement": null
+          }
         }
       ]
     },
@@ -272,49 +350,73 @@
           "Level": 6,
           "IsInherent": false,
           "Enhancement": {
+            "Uid": "Crafted_Endurance_Discount",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": {
             "Uid": "Hamidon_Slow_Recharge_Endurance_Discount",
             "Grade": "SingleO",
             "IoLevel": 1,
             "RelativeLevel": "Even",
             "Obtained": false
-          },
-          "FlippedEnhancement": null
+          }
         },
         {
           "Level": 7,
           "IsInherent": false,
           "Enhancement": {
+            "Uid": "Crafted_Endurance_Discount",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": {
             "Uid": "Hamidon_Slow_Recharge_Endurance_Discount",
             "Grade": "SingleO",
             "IoLevel": 1,
             "RelativeLevel": "Even",
             "Obtained": false
-          },
-          "FlippedEnhancement": null
+          }
         },
         {
           "Level": 19,
           "IsInherent": false,
           "Enhancement": {
+            "Uid": "Crafted_Confuse",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": {
             "Uid": "Crafted_Coercive_Persuasion_E",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
             "Obtained": false
-          },
-          "FlippedEnhancement": null
+          }
         },
         {
           "Level": 19,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Crafted_Coercive_Persuasion_A",
+            "Uid": "Crafted_Confuse",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
             "Obtained": false
           },
-          "FlippedEnhancement": null
+          "FlippedEnhancement": {
+            "Uid": "Crafted_Coercive_Persuasion_A",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          }
         }
       ]
     },
@@ -553,73 +655,109 @@
           "Level": 20,
           "IsInherent": false,
           "Enhancement": {
+            "Uid": "Crafted_Fury_of_the_Gladiator_F",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": {
             "Uid": "Superior_Attuned_Avalanche_F",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
             "Obtained": false
-          },
-          "FlippedEnhancement": null
+          }
         },
         {
           "Level": 33,
           "IsInherent": false,
           "Enhancement": {
+            "Uid": "Crafted_Sciroccos_Dervish_F",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": {
             "Uid": "Superior_Attuned_Avalanche_A",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
             "Obtained": false
-          },
-          "FlippedEnhancement": null
+          }
         },
         {
           "Level": 33,
           "IsInherent": false,
           "Enhancement": {
+            "Uid": "Crafted_Sciroccos_Dervish_A",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": {
             "Uid": "Superior_Attuned_Avalanche_C",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
             "Obtained": false
-          },
-          "FlippedEnhancement": null
+          }
         },
         {
           "Level": 36,
           "IsInherent": false,
           "Enhancement": {
+            "Uid": "Crafted_Sciroccos_Dervish_B",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": {
             "Uid": "Superior_Attuned_Avalanche_E",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
             "Obtained": false
-          },
-          "FlippedEnhancement": null
+          }
         },
         {
           "Level": 43,
           "IsInherent": false,
           "Enhancement": {
+            "Uid": "Crafted_Sciroccos_Dervish_E",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": {
             "Uid": "Superior_Attuned_Avalanche_B",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
             "Obtained": false
-          },
-          "FlippedEnhancement": null
+          }
         },
         {
           "Level": 46,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Superior_Attuned_Avalanche_D",
+            "Uid": "Crafted_Sciroccos_Dervish_C",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
             "Obtained": false
           },
-          "FlippedEnhancement": null
+          "FlippedEnhancement": {
+            "Uid": "Superior_Attuned_Avalanche_D",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          }
         }
       ]
     },

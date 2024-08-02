@@ -1,11 +1,11 @@
 {
   "BuiltWith": {
     "App": "Mids' Reborn",
-    "Version": "3.7.5.20",
+    "Version": "3.7.5.21",
     "Database": "Homecoming",
-    "DatabaseVersion": "2024.5.759"
+    "DatabaseVersion": "2024.7.857"
   },
-  "Level": "48",
+  "Level": "35",
   "Class": "Class_Scrapper",
   "Origin": "Magic",
   "Alignment": "Hero",
@@ -15,13 +15,13 @@
     "Scrapper_Melee.Fiery_Melee",
     "Scrapper_Defense.Ninjitsu",
     "",
-    "Pool.Invisibility",
+    "Pool.Leaping",
     "Pool.Speed",
-    "Pool.Fighting",
     "Pool.Flight",
+    "Pool.Fighting",
     "Epic.Weapon_Mastery"
   ],
-  "LastPower": 24,
+  "LastPower": 26,
   "PowerEntries": [
     {
       "PowerName": "Scrapper_Melee.Fiery_Melee.Fire_Sword",
@@ -167,6 +167,18 @@
           "IsInherent": false,
           "Enhancement": {
             "Uid": "Superior_Attuned_Blistering_Cold_F",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 17,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Superior_Attuned_Blistering_Cold_E",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
@@ -461,7 +473,7 @@
       ]
     },
     {
-      "PowerName": "Pool.Invisibility.Stealth",
+      "PowerName": "Pool.Leaping.Combat_Jumping",
       "Level": 12,
       "StatInclude": true,
       "ProcInclude": false,
@@ -474,18 +486,6 @@
           "IsInherent": false,
           "Enhancement": {
             "Uid": "Crafted_Luck_of_the_Gambler_F",
-            "Grade": "None",
-            "IoLevel": 49,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 17,
-          "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Crafted_Luck_of_the_Gambler_A",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
@@ -992,7 +992,7 @@
       ]
     },
     {
-      "PowerName": "Scrapper_Defense.Ninjitsu.Blinding_Powder",
+      "PowerName": "Pool.Flight.Combat_Flight",
       "Level": 30,
       "StatInclude": true,
       "ProcInclude": false,
@@ -1004,7 +1004,7 @@
           "Level": 30,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Crafted_Malaises_Illusions_F",
+            "Uid": "Crafted_Hypersonic_A",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
@@ -1016,9 +1016,9 @@
           "Level": 31,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Crafted_Cloud_Senses_F",
+            "Uid": "Crafted_Hypersonic_B",
             "Grade": "None",
-            "IoLevel": 29,
+            "IoLevel": 49,
             "RelativeLevel": "Even",
             "Obtained": false
           },
@@ -1028,9 +1028,9 @@
           "Level": 31,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Crafted_Cloud_Senses_B",
+            "Uid": "Crafted_Hypersonic_D",
             "Grade": "None",
-            "IoLevel": 29,
+            "IoLevel": 49,
             "RelativeLevel": "Even",
             "Obtained": false
           },
@@ -1039,9 +1039,9 @@
       ]
     },
     {
-      "PowerName": "Pool.Fighting.Kick",
+      "PowerName": "Pool.Flight.Fly",
       "Level": 32,
-      "StatInclude": true,
+      "StatInclude": false,
       "ProcInclude": true,
       "VariableValue": 0,
       "InherentSlotsUsed": 0,
@@ -1051,30 +1051,7 @@
           "Level": 32,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Crafted_Force_Feedback_F",
-            "Grade": "None",
-            "IoLevel": 49,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
-          "FlippedEnhancement": null
-        }
-      ]
-    },
-    {
-      "PowerName": "Pool.Invisibility.Invisibility",
-      "Level": 35,
-      "StatInclude": false,
-      "ProcInclude": false,
-      "VariableValue": 0,
-      "InherentSlotsUsed": 0,
-      "SubPowerEntries": [],
-      "SlotEntries": [
-        {
-          "Level": 35,
-          "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Crafted_Luck_of_the_Gambler_F",
+            "Uid": "Crafted_Fly",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
@@ -1086,7 +1063,7 @@
     },
     {
       "PowerName": "Epic.Weapon_Mastery.Caltrops",
-      "Level": 38,
+      "Level": 35,
       "StatInclude": true,
       "ProcInclude": false,
       "VariableValue": 0,
@@ -1094,7 +1071,7 @@
       "SubPowerEntries": [],
       "SlotEntries": [
         {
-          "Level": 38,
+          "Level": 35,
           "IsInherent": false,
           "Enhancement": {
             "Uid": "Superior_Attuned_Frozen_Blast_F",
@@ -1145,7 +1122,7 @@
     },
     {
       "PowerName": "Epic.Weapon_Mastery.Shuriken",
-      "Level": 41,
+      "Level": 38,
       "StatInclude": true,
       "ProcInclude": true,
       "VariableValue": 0,
@@ -1153,7 +1130,7 @@
       "SubPowerEntries": [],
       "SlotEntries": [
         {
-          "Level": 41,
+          "Level": 38,
           "IsInherent": false,
           "Enhancement": {
             "Uid": "Crafted_Apocalypse_F",
@@ -1228,7 +1205,7 @@
     },
     {
       "PowerName": "Epic.Weapon_Mastery.Targeting_Drone",
-      "Level": 44,
+      "Level": 41,
       "StatInclude": false,
       "ProcInclude": true,
       "VariableValue": 0,
@@ -1236,7 +1213,7 @@
       "SubPowerEntries": [],
       "SlotEntries": [
         {
-          "Level": 44,
+          "Level": 41,
           "IsInherent": false,
           "Enhancement": {
             "Uid": "Crafted_Gaussians_Synchronized_FireControl_F",
@@ -1252,6 +1229,29 @@
           "IsInherent": false,
           "Enhancement": {
             "Uid": "Crafted_Gaussians_Synchronized_FireControl_E",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        }
+      ]
+    },
+    {
+      "PowerName": "Pool.Fighting.Kick",
+      "Level": 44,
+      "StatInclude": true,
+      "ProcInclude": true,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": [
+        {
+          "Level": 44,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Crafted_Force_Feedback_F",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
@@ -1311,7 +1311,7 @@
     {
       "PowerName": "Pool.Fighting.Weave",
       "Level": 49,
-      "StatInclude": false,
+      "StatInclude": true,
       "ProcInclude": false,
       "VariableValue": 0,
       "InherentSlotsUsed": 0,
@@ -1356,6 +1356,16 @@
       ]
     },
     {
+      "PowerName": "Inherent.Inherent.Critical_Hit",
+      "Level": 1,
+      "StatInclude": true,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": []
+    },
+    {
       "PowerName": "Inherent.Inherent.Brawl",
       "Level": 1,
       "StatInclude": false,
@@ -1371,16 +1381,6 @@
           "FlippedEnhancement": null
         }
       ]
-    },
-    {
-      "PowerName": "Inherent.Inherent.Critical_Hit",
-      "Level": 1,
-      "StatInclude": true,
-      "ProcInclude": false,
-      "VariableValue": 0,
-      "InherentSlotsUsed": 0,
-      "SubPowerEntries": [],
-      "SlotEntries": []
     },
     {
       "PowerName": "Inherent.Inherent.Sprint",
@@ -1446,6 +1446,29 @@
       ]
     },
     {
+      "PowerName": "Inherent.Fitness.Hurdle",
+      "Level": 1,
+      "StatInclude": true,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": [
+        {
+          "Level": 1,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Crafted_Jump",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        }
+      ]
+    },
+    {
       "PowerName": "Inherent.Fitness.Health",
       "Level": 1,
       "StatInclude": true,
@@ -1471,29 +1494,6 @@
           "IsInherent": false,
           "Enhancement": {
             "Uid": "Crafted_Numinas_Convalesence_F",
-            "Grade": "None",
-            "IoLevel": 49,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
-          "FlippedEnhancement": null
-        }
-      ]
-    },
-    {
-      "PowerName": "Inherent.Fitness.Hurdle",
-      "Level": 1,
-      "StatInclude": true,
-      "ProcInclude": false,
-      "VariableValue": 0,
-      "InherentSlotsUsed": 0,
-      "SubPowerEntries": [],
-      "SlotEntries": [
-        {
-          "Level": 1,
-          "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Crafted_Jump",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
@@ -1539,38 +1539,8 @@
       ]
     },
     {
-      "PowerName": "",
-      "Level": -1,
-      "StatInclude": false,
-      "ProcInclude": false,
-      "VariableValue": 0,
-      "InherentSlotsUsed": 0,
-      "SubPowerEntries": [],
-      "SlotEntries": []
-    },
-    {
-      "PowerName": "",
-      "Level": -1,
-      "StatInclude": false,
-      "ProcInclude": false,
-      "VariableValue": 0,
-      "InherentSlotsUsed": 0,
-      "SubPowerEntries": [],
-      "SlotEntries": []
-    },
-    {
-      "PowerName": "",
-      "Level": -1,
-      "StatInclude": false,
-      "ProcInclude": false,
-      "VariableValue": 0,
-      "InherentSlotsUsed": 0,
-      "SubPowerEntries": [],
-      "SlotEntries": []
-    },
-    {
-      "PowerName": "",
-      "Level": -1,
+      "PowerName": "Inherent.Inherent.Afterburner",
+      "Level": 32,
       "StatInclude": false,
       "ProcInclude": false,
       "VariableValue": 0,
@@ -1612,56 +1582,6 @@
       "PowerName": "Incarnate.Lore.Banished_Pantheon_Radial_Superior_Ally",
       "Level": 50,
       "StatInclude": true,
-      "ProcInclude": false,
-      "VariableValue": 0,
-      "InherentSlotsUsed": 0,
-      "SubPowerEntries": [],
-      "SlotEntries": []
-    },
-    {
-      "PowerName": "",
-      "Level": -1,
-      "StatInclude": false,
-      "ProcInclude": false,
-      "VariableValue": 0,
-      "InherentSlotsUsed": 0,
-      "SubPowerEntries": [],
-      "SlotEntries": []
-    },
-    {
-      "PowerName": "",
-      "Level": -1,
-      "StatInclude": false,
-      "ProcInclude": false,
-      "VariableValue": 0,
-      "InherentSlotsUsed": 0,
-      "SubPowerEntries": [],
-      "SlotEntries": []
-    },
-    {
-      "PowerName": "",
-      "Level": -1,
-      "StatInclude": false,
-      "ProcInclude": false,
-      "VariableValue": 0,
-      "InherentSlotsUsed": 0,
-      "SubPowerEntries": [],
-      "SlotEntries": []
-    },
-    {
-      "PowerName": "",
-      "Level": -1,
-      "StatInclude": false,
-      "ProcInclude": false,
-      "VariableValue": 0,
-      "InherentSlotsUsed": 0,
-      "SubPowerEntries": [],
-      "SlotEntries": []
-    },
-    {
-      "PowerName": "",
-      "Level": -1,
-      "StatInclude": false,
       "ProcInclude": false,
       "VariableValue": 0,
       "InherentSlotsUsed": 0,
