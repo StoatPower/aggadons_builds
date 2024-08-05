@@ -3,9 +3,9 @@
     "App": "Mids' Reborn",
     "Version": "3.7.5.21",
     "Database": "Homecoming",
-    "DatabaseVersion": "2024.8.865"
+    "DatabaseVersion": "2024.7.857"
   },
-  "Level": "49",
+  "Level": "22",
   "Class": "Class_Scrapper",
   "Origin": "Mutation",
   "Alignment": "Hero",
@@ -17,11 +17,11 @@
     "",
     "Pool.Speed",
     "Pool.Leaping",
-    "Pool.Teleportation",
     "Pool.Fighting",
+    "Pool.Teleportation",
     "Epic.Body_Mastery"
   ],
-  "LastPower": 25,
+  "LastPower": 26,
   "PowerEntries": [
     {
       "PowerName": "Scrapper_Melee.Energy_Melee.Barrage",
@@ -73,30 +73,6 @@
           "IsInherent": false,
           "Enhancement": {
             "Uid": "Crafted_Touch_of_Death_D",
-            "Grade": "None",
-            "IoLevel": 39,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 46,
-          "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Crafted_Touch_of_Death_C",
-            "Grade": "None",
-            "IoLevel": 39,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 46,
-          "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Crafted_Touch_of_Death_B",
             "Grade": "None",
             "IoLevel": 39,
             "RelativeLevel": "Even",
@@ -285,73 +261,109 @@
           "Level": 4,
           "IsInherent": false,
           "Enhancement": {
+            "Uid": "Crafted_Crushing_Impact_F",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": {
             "Uid": "Superior_Attuned_Blistering_Cold_F",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
             "Obtained": false
-          },
-          "FlippedEnhancement": null
+          }
         },
         {
-          "Level": 39,
+          "Level": 13,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Superior_Attuned_Blistering_Cold_A",
+            "Uid": "Crafted_Crushing_Impact_A",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
             "Obtained": false
           },
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 45,
-          "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Superior_Attuned_Blistering_Cold_B",
-            "Grade": "None",
-            "IoLevel": 49,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 45,
-          "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Superior_Attuned_Blistering_Cold_C",
-            "Grade": "None",
-            "IoLevel": 49,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 46,
-          "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Superior_Attuned_Blistering_Cold_D",
-            "Grade": "None",
-            "IoLevel": 49,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 50,
-          "IsInherent": false,
-          "Enhancement": {
+          "FlippedEnhancement": {
             "Uid": "Superior_Attuned_Blistering_Cold_E",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
             "Obtained": false
+          }
+        },
+        {
+          "Level": 39,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Crafted_Crushing_Impact_B",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
           },
-          "FlippedEnhancement": null
+          "FlippedEnhancement": {
+            "Uid": "Superior_Attuned_Blistering_Cold_A",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          }
+        },
+        {
+          "Level": 45,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Crafted_Crushing_Impact_C",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": {
+            "Uid": "Superior_Attuned_Blistering_Cold_B",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          }
+        },
+        {
+          "Level": 45,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Crafted_Crushing_Impact_D",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": {
+            "Uid": "Superior_Attuned_Blistering_Cold_C",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          }
+        },
+        {
+          "Level": 46,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Crafted_Crushing_Impact_E",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": {
+            "Uid": "Superior_Attuned_Blistering_Cold_D",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          }
         }
       ]
     },
@@ -383,18 +395,6 @@
             "Uid": "Crafted_Numinas_Convalesence_E",
             "Grade": "None",
             "IoLevel": 49,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 13,
-          "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Crafted_Regenerative_Tissue_E",
-            "Grade": "None",
-            "IoLevel": 29,
             "RelativeLevel": "Even",
             "Obtained": false
           },
@@ -508,74 +508,74 @@
         {
           "Level": 12,
           "IsInherent": false,
-          "Enhancement": {
+          "Enhancement": null,
+          "FlippedEnhancement": {
             "Uid": "Crafted_Absolute_Amazement_F",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
             "Obtained": false
-          },
-          "FlippedEnhancement": null
+          }
         },
         {
           "Level": 39,
           "IsInherent": false,
-          "Enhancement": {
+          "Enhancement": null,
+          "FlippedEnhancement": {
             "Uid": "Crafted_Absolute_Amazement_A",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
             "Obtained": false
-          },
-          "FlippedEnhancement": null
+          }
         },
         {
           "Level": 42,
           "IsInherent": false,
-          "Enhancement": {
+          "Enhancement": null,
+          "FlippedEnhancement": {
             "Uid": "Crafted_Absolute_Amazement_B",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
             "Obtained": false
-          },
-          "FlippedEnhancement": null
+          }
         },
         {
           "Level": 43,
           "IsInherent": false,
-          "Enhancement": {
+          "Enhancement": null,
+          "FlippedEnhancement": {
             "Uid": "Crafted_Absolute_Amazement_C",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
             "Obtained": false
-          },
-          "FlippedEnhancement": null
+          }
         },
         {
           "Level": 43,
           "IsInherent": false,
-          "Enhancement": {
+          "Enhancement": null,
+          "FlippedEnhancement": {
             "Uid": "Crafted_Absolute_Amazement_D",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
             "Obtained": false
-          },
-          "FlippedEnhancement": null
+          }
         },
         {
           "Level": 45,
           "IsInherent": false,
-          "Enhancement": {
+          "Enhancement": null,
+          "FlippedEnhancement": {
             "Uid": "Crafted_Absolute_Amazement_E",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
             "Obtained": false
-          },
-          "FlippedEnhancement": null
+          }
         }
       ]
     },
@@ -668,67 +668,73 @@
             "RelativeLevel": "Even",
             "Obtained": false
           },
-          "FlippedEnhancement": null
+          "FlippedEnhancement": {
+            "Uid": "Crafted_Fury_of_the_Gladiator_F",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          }
         },
         {
           "Level": 19,
           "IsInherent": false,
-          "Enhancement": {
+          "Enhancement": null,
+          "FlippedEnhancement": {
             "Uid": "Superior_Attuned_Avalanche_F",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
             "Obtained": false
-          },
-          "FlippedEnhancement": null
+          }
         },
         {
           "Level": 40,
           "IsInherent": false,
-          "Enhancement": {
+          "Enhancement": null,
+          "FlippedEnhancement": {
             "Uid": "Superior_Attuned_Avalanche_A",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
             "Obtained": false
-          },
-          "FlippedEnhancement": null
+          }
         },
         {
           "Level": 40,
           "IsInherent": false,
-          "Enhancement": {
+          "Enhancement": null,
+          "FlippedEnhancement": {
             "Uid": "Superior_Attuned_Avalanche_B",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
             "Obtained": false
-          },
-          "FlippedEnhancement": null
+          }
         },
         {
           "Level": 40,
           "IsInherent": false,
-          "Enhancement": {
+          "Enhancement": null,
+          "FlippedEnhancement": {
             "Uid": "Superior_Attuned_Avalanche_C",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
             "Obtained": false
-          },
-          "FlippedEnhancement": null
+          }
         },
         {
           "Level": 43,
           "IsInherent": false,
-          "Enhancement": {
+          "Enhancement": null,
+          "FlippedEnhancement": {
             "Uid": "Superior_Attuned_Avalanche_D",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
             "Obtained": false
-          },
-          "FlippedEnhancement": null
+          }
         }
       ]
     },
@@ -782,18 +788,6 @@
           "IsInherent": false,
           "Enhancement": {
             "Uid": "Crafted_Reactive_Defenses_B",
-            "Grade": "None",
-            "IoLevel": 49,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 23,
-          "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Crafted_Performance_Shifter_F",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
@@ -1182,7 +1176,7 @@
       ]
     },
     {
-      "PowerName": "Pool.Teleportation.Teleport_Foe",
+      "PowerName": "Epic.Body_Mastery.Focused_Accuracy",
       "Level": 35,
       "StatInclude": true,
       "ProcInclude": false,
@@ -1194,9 +1188,9 @@
           "Level": 35,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Crafted_Gaussians_Synchronized_FireControl_F",
-            "Grade": "None",
-            "IoLevel": 49,
+            "Uid": "Hamidon_Buff_Endurance_Discount",
+            "Grade": "SingleO",
+            "IoLevel": 1,
             "RelativeLevel": "Even",
             "Obtained": false
           },
@@ -1205,7 +1199,7 @@
       ]
     },
     {
-      "PowerName": "Pool.Teleportation.Teleport",
+      "PowerName": "Epic.Body_Mastery.Laser_Beam_Eyes",
       "Level": 38,
       "StatInclude": true,
       "ProcInclude": false,
@@ -1216,19 +1210,79 @@
         {
           "Level": 38,
           "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Crafted_Warp_D",
+          "Enhancement": null,
+          "FlippedEnhancement": {
+            "Uid": "Superior_Attuned_Winters_Bite_F",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
             "Obtained": false
-          },
-          "FlippedEnhancement": null
+          }
+        },
+        {
+          "Level": 46,
+          "IsInherent": false,
+          "Enhancement": null,
+          "FlippedEnhancement": {
+            "Uid": "Superior_Attuned_Winters_Bite_A",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          }
+        },
+        {
+          "Level": 46,
+          "IsInherent": false,
+          "Enhancement": null,
+          "FlippedEnhancement": {
+            "Uid": "Superior_Attuned_Winters_Bite_B",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          }
+        },
+        {
+          "Level": 48,
+          "IsInherent": false,
+          "Enhancement": null,
+          "FlippedEnhancement": {
+            "Uid": "Superior_Attuned_Winters_Bite_C",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          }
+        },
+        {
+          "Level": 50,
+          "IsInherent": false,
+          "Enhancement": null,
+          "FlippedEnhancement": {
+            "Uid": "Superior_Attuned_Winters_Bite_D",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          }
+        },
+        {
+          "Level": 50,
+          "IsInherent": false,
+          "Enhancement": null,
+          "FlippedEnhancement": {
+            "Uid": "Superior_Attuned_Winters_Bite_E",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          }
         }
       ]
     },
     {
-      "PowerName": "Pool.Teleportation.Recall_Friend",
+      "PowerName": "Epic.Body_Mastery.Physical_Perfection",
       "Level": 41,
       "StatInclude": true,
       "ProcInclude": false,
@@ -1240,9 +1294,9 @@
           "Level": 41,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Crafted_Warp_A",
+            "Uid": "Crafted_Regenerative_Tissue_E",
             "Grade": "None",
-            "IoLevel": 49,
+            "IoLevel": 29,
             "RelativeLevel": "Even",
             "Obtained": false
           },
@@ -1276,7 +1330,7 @@
     {
       "PowerName": "Pool.Fighting.Tough",
       "Level": 47,
-      "StatInclude": true,
+      "StatInclude": false,
       "ProcInclude": false,
       "VariableValue": 0,
       "InherentSlotsUsed": 0,
@@ -1323,7 +1377,7 @@
     {
       "PowerName": "Pool.Fighting.Weave",
       "Level": 49,
-      "StatInclude": true,
+      "StatInclude": false,
       "ProcInclude": false,
       "VariableValue": 0,
       "InherentSlotsUsed": 0,
@@ -1482,18 +1536,6 @@
             "Obtained": false
           },
           "FlippedEnhancement": null
-        },
-        {
-          "Level": 47,
-          "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Crafted_Panacea_E",
-            "Grade": "None",
-            "IoLevel": 49,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
-          "FlippedEnhancement": null
         }
       ]
     },
@@ -1521,108 +1563,8 @@
       ]
     },
     {
-      "PowerName": "",
-      "Level": -1,
-      "StatInclude": false,
-      "ProcInclude": false,
-      "VariableValue": 0,
-      "InherentSlotsUsed": 0,
-      "SubPowerEntries": [],
-      "SlotEntries": []
-    },
-    {
-      "PowerName": "",
-      "Level": -1,
-      "StatInclude": false,
-      "ProcInclude": false,
-      "VariableValue": 0,
-      "InherentSlotsUsed": 0,
-      "SubPowerEntries": [],
-      "SlotEntries": []
-    },
-    {
       "PowerName": "Inherent.Inherent.Energy_Focus",
       "Level": 1,
-      "StatInclude": false,
-      "ProcInclude": false,
-      "VariableValue": 0,
-      "InherentSlotsUsed": 0,
-      "SubPowerEntries": [],
-      "SlotEntries": []
-    },
-    {
-      "PowerName": "",
-      "Level": -1,
-      "StatInclude": false,
-      "ProcInclude": false,
-      "VariableValue": 0,
-      "InherentSlotsUsed": 0,
-      "SubPowerEntries": [],
-      "SlotEntries": []
-    },
-    {
-      "PowerName": "",
-      "Level": -1,
-      "StatInclude": false,
-      "ProcInclude": false,
-      "VariableValue": 0,
-      "InherentSlotsUsed": 0,
-      "SubPowerEntries": [],
-      "SlotEntries": []
-    },
-    {
-      "PowerName": "",
-      "Level": -1,
-      "StatInclude": false,
-      "ProcInclude": false,
-      "VariableValue": 0,
-      "InherentSlotsUsed": 0,
-      "SubPowerEntries": [],
-      "SlotEntries": []
-    },
-    {
-      "PowerName": "",
-      "Level": -1,
-      "StatInclude": false,
-      "ProcInclude": false,
-      "VariableValue": 0,
-      "InherentSlotsUsed": 0,
-      "SubPowerEntries": [],
-      "SlotEntries": []
-    },
-    {
-      "PowerName": "",
-      "Level": -1,
-      "StatInclude": false,
-      "ProcInclude": false,
-      "VariableValue": 0,
-      "InherentSlotsUsed": 0,
-      "SubPowerEntries": [],
-      "SlotEntries": []
-    },
-    {
-      "PowerName": "",
-      "Level": -1,
-      "StatInclude": false,
-      "ProcInclude": false,
-      "VariableValue": 0,
-      "InherentSlotsUsed": 0,
-      "SubPowerEntries": [],
-      "SlotEntries": []
-    },
-    {
-      "PowerName": "",
-      "Level": -1,
-      "StatInclude": false,
-      "ProcInclude": false,
-      "VariableValue": 0,
-      "InherentSlotsUsed": 0,
-      "SubPowerEntries": [],
-      "SlotEntries": []
-    },
-    {
-      "PowerName": "",
-      "Level": -1,
       "StatInclude": false,
       "ProcInclude": false,
       "VariableValue": 0,
@@ -1661,56 +1603,6 @@
       "SlotEntries": []
     },
     {
-      "PowerName": "",
-      "Level": -1,
-      "StatInclude": false,
-      "ProcInclude": false,
-      "VariableValue": 0,
-      "InherentSlotsUsed": 0,
-      "SubPowerEntries": [],
-      "SlotEntries": []
-    },
-    {
-      "PowerName": "",
-      "Level": -1,
-      "StatInclude": false,
-      "ProcInclude": false,
-      "VariableValue": 0,
-      "InherentSlotsUsed": 0,
-      "SubPowerEntries": [],
-      "SlotEntries": []
-    },
-    {
-      "PowerName": "",
-      "Level": -1,
-      "StatInclude": false,
-      "ProcInclude": false,
-      "VariableValue": 0,
-      "InherentSlotsUsed": 0,
-      "SubPowerEntries": [],
-      "SlotEntries": []
-    },
-    {
-      "PowerName": "",
-      "Level": -1,
-      "StatInclude": false,
-      "ProcInclude": false,
-      "VariableValue": 0,
-      "InherentSlotsUsed": 0,
-      "SubPowerEntries": [],
-      "SlotEntries": []
-    },
-    {
-      "PowerName": "",
-      "Level": -1,
-      "StatInclude": false,
-      "ProcInclude": false,
-      "VariableValue": 0,
-      "InherentSlotsUsed": 0,
-      "SubPowerEntries": [],
-      "SlotEntries": []
-    },
-    {
       "PowerName": "Incarnate.Destiny.Ageless_Radial_Epiphany",
       "Level": 50,
       "StatInclude": true,
@@ -1724,26 +1616,6 @@
       "PowerName": "Incarnate.Alpha.Musculature_Core_Paragon",
       "Level": 50,
       "StatInclude": true,
-      "ProcInclude": false,
-      "VariableValue": 0,
-      "InherentSlotsUsed": 0,
-      "SubPowerEntries": [],
-      "SlotEntries": []
-    },
-    {
-      "PowerName": "",
-      "Level": -1,
-      "StatInclude": false,
-      "ProcInclude": false,
-      "VariableValue": 0,
-      "InherentSlotsUsed": 0,
-      "SubPowerEntries": [],
-      "SlotEntries": []
-    },
-    {
-      "PowerName": "",
-      "Level": -1,
-      "StatInclude": false,
       "ProcInclude": false,
       "VariableValue": 0,
       "InherentSlotsUsed": 0,
