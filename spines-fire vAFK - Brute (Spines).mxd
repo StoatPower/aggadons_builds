@@ -1,0 +1,87 @@
+This Villain build was built using Mids Reborn 3.2.17
+https://github.com/LoadedCamel/MidsReborn
+
+spines-fire afk: Level 50 Magic Brute
+Primary Power Set: Spines
+Secondary Power Set: Fiery Aura
+Power Pool: Fighting
+Power Pool: Concealment
+Power Pool: Leaping
+Power Pool: Leadership
+Ancillary Pool: Energy Mastery
+
+Villain Profile:
+------------
+Level 1:	Lunge				SprBlsCol-Acc/Dmg(A), SprBlsCol-Dmg/EndRdx(3), SprBlsCol-Acc/Dmg/EndRdx(3), SprBlsCol-Acc/Dmg/Rchg(5), SprBlsCol-Dmg/EndRdx/Acc/Rchg(5), SprBlsCol-Rchg/HoldProc(7)
+Level 1:	Fire Shield			Ags-ResDam/EndRdx(A), Ags-EndRdx/Rchg(7), Ags-ResDam/Rchg(9), StdPrt-ResDam/Def+(9), GldArm-3defTpProc(11), ImpSki-Status(11)
+Level 2:	Spine Burst			SprAvl-Acc/Dmg(A), SprAvl-Dmg/EndRdx(21), SprAvl-Acc/Dmg/EndRdx(23), SprAvl-Acc/Dmg/Rchg(23), SprAvl-Acc/Dmg/EndRdx/Rchg(25), SprAvl-Rchg/KDProc(25)
+Level 4:	Blazing Aura			ScrDrv-Dam%(A), ScrDrv-Acc/Dmg/EndRdx(45), Erd-%Dam(46), Obl-%Dam(46), PrfZng-Dam%(46), SprUnrFur-Rchg/+Regen/+End(50)
+Level 6:	Boxing				TchofDth-Dam%(A)
+Level 8:	Healing Flames			Pnc-Heal/EndRedux(A), Pnc-EndRdx/Rchg(27), Pnc-Heal/Rchg(27), Pnc-Heal/EndRedux/Rchg(29), Pnc-Heal(29)
+Level 10:	Grant Invisibility		LucoftheG-Def/Rchg+(A)
+Level 12:	Stealth				LucoftheG-Def/Rchg+(A)
+Level 14:	Combat Jumping			LucoftheG-Def/Rchg+(A)
+Level 16:	Plasma Shield			Ags-ResDam/EndRdx(A), Ags-ResDam/EndRdx/Rchg(31), Ags-EndRdx/Rchg(31), UnbGrd-Max HP%(31)
+Level 18:	Quills				SprBrtFur-Rech/Fury%(A), SprBrtFur-Acc/Dmg(40), ScrDrv-Dam%(43), ScrDrv-Acc/Dmg/EndRdx(43), Erd-%Dam(45), Obl-%Dam(45)
+Level 20:	Maneuvers			LucoftheG-Def/Rchg+(A)
+Level 22:	Super Jump			Lnch-+Special(A)
+Level 24:	Tough				Ags-ResDam/EndRdx(A), Ags-EndRdx/Rchg(33), Ags-ResDam/EndRdx/Rchg(33)
+Level 26:	Weave				ShlWal-EndRdx/Rchg(A), ShlWal-ResDam/Re TP(33), ShlWal-Def/EndRdx(34)
+Level 28:	Burn				Arm-Dmg(A), Arm-Dmg/Rchg(34), Arm-Acc/Dmg/Rchg(34), Arm-Acc/Rchg(36), Arm-Dam%(36), FuroftheG-ResDeb%(36)
+Level 30:	Ripper				SprUnrFur-Acc/Dmg(A), SprUnrFur-Dmg/Rchg(37), SprUnrFur-Acc/Dmg/Rchg(37)
+Level 32:	Throw Spines			Rgn-Dmg(A), Rgn-Dmg/Rchg(37), Rgn-Acc/Dmg/Rchg(39), Rgn-Acc/Rchg(39), Rgn-Knock%(39)
+Level 35:	Temperature Protection		Ags-ResDam(A), Ags-ResDam/EndRdx(40), Ags-Psi/Status(40)
+Level 38:	Superior Conditioning		PwrTrns-+Heal(A)
+Level 41:	Laser Beam Eyes			Apc-Dmg(A), Apc-Dmg/Rchg(42), Apc-Acc/Dmg/Rchg(42), Apc-Acc/Rchg(42), Apc-Dam%(43)
+Level 44:	Physical Perfection		PwrTrns-+Heal(A)
+Level 47:	Energy Torrent			SprFrzBls-Acc/Dmg(A), SprFrzBls-Dmg/EndRdx(48), SprFrzBls-Acc/Dmg/EndRdx(48), SprFrzBls-Acc/Dmg/Rchg(48), SprFrzBls-Dmg/EndRdx/Acc/Rchg(50), SprFrzBls-Rchg/ImmobProc(50)
+Level 49:	Infiltration			LucoftheG-Def/Rchg+(A)
+Level 1:	Fury	
+Level 1:	Brawl				TchofDth-Dam%(A)
+Level 1:	Sprint				Clr-Stlth(A)
+Level 2:	Rest				Heal-I(A)
+Level 1:	Swift				Run-I(A)
+Level 1:	Hurdle				Jump-I(A)
+Level 1:	Health				Mrc-Rcvry+(A), RgnTss-Regen+(13), Prv-Absorb%(13), NmnCnv-Heal(15), NmnCnv-Regen/Rcvry+(15), Pnc-Heal/+End(17)
+Level 1:	Stamina				PrfShf-End%(A), PwrTrns-EndMod(17), PwrTrns-+Heal(19), PwrTrns-Dam/EndMod(19), PwrTrns-Dam/Acc/End(21)
+Level 50:	Ion Core Final Judgement	
+Level 50:	Degenerative Radial Flawless Interface	
+Level 50:	Melee Core Embodiment	
+Level 50:	Born In Battle	
+Level 50:	High Pain Threshold	
+Level 50:	Invader	
+Level 50:	Marshal	
+Level 22:	Double Jump	
+Level 50:	Spiritual Core Paragon	
+Level 50:	Ageless Core Epiphany	
+------------
+
+
+
+|              Do not modify anything below this line!              |
+|-------------------------------------------------------------------|
+|MxDz;1959;740;1480;HEX;|
+|78DA5D945B4F534110C7F7B4A7626F9452A0542814048AA52DB440BCC53BD41B4D2|
+|0C64B7C692A9E96139B427A8A11FD125EC38B177CF01BC84D5F7DD107F58B80241A|
+|139FEAB43DDBFFC0266D7F3BFFDD99D9D9E9A61F4DB972B9D479A1382F15B28691B|
+|9585A2E6BB67436AFCF5B85101E63492F6A462CA797B45036F7A0896CADB53599B4|
+|56D0B4F88D9ADE59374D6939AD6868F194AE95563217964B59E19E5D5C2C9021BF5|
+|0D68B796F6D76B5F85037F47B7A412FAFB86A96192D4B7EF21E39B9AF958C057D29|
+|30BDA4CFC7A78B5A29BF9249678D72D56D2D5427E591A4CFD721FA524475546CE2A|
+|92A4442552A342CCF183F07AB2F18BF041F7A055E17DCE998824549F0E104633F71|
+|B0CE8EA4B561770461FF46992AD2A9F21AD1DADE803BDE327E07EE5C63FC1EBC41D|
+|EACD2A9F5896808D1C7E0D8AEA591454C20BB98616970C20BA70A5DB2CD742A6C19|
+|FA09D7854DC22653509BBAE1E94890710FB8BB977108DC4C11EC3282BD1D857493E|
+|014A6E0644207096EB9C3CD84ED6A939A82D5C3EEAA679C31BBB79E7FC8E33BDD89|
+|5796CFFB0142780D1C61658DB0B2465959A3ACAC5E4AD52753F5B154FD24B4CBC3B|
+|577D81A829504BF2958FCEC0C219677889D47A50D013384257005B143D7C17D29F0|
+|675AD9250FDA7502F7DE7792F129F0D1D38CCF303E07A73FA87A419945D085061A7|
+|0336E06FFA40DBDB27F7A93F03A300E1E9A603CC9F838788B3CF4CB82F54FA03061|
+|56BCF024D8EE156250DEC9E05FA4E4246158A6341C45886331C671C6A3E04802EC2|
+|2472332C2088BE026212E4B1FFF0861749DF106E34D70628BF136D8430D30265B69|
+|8CF5584AC5D355E9661321D81F79669F60C72966556927411940B3EF38F88E1884D|
+|D7DC230845F0EFE885E531AC15D67F128BA76D8A370B37A0C7B9D6FE1482D7D58B3|
+|C79CAA621589B7ECA138ADACFAADBFD943FB078C116823A3ACD8653F9BD4C627EAB|
+|3845991CA9C83C9B7F9E40E9FDC751CF4F22582BF3E1B73BE830B31567D2CF07F86|
+|3C8223|
+|-------------------------------------------------------------------|

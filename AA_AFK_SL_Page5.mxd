@@ -1,0 +1,83 @@
+This Hero build was built using Mids Reborn 3.4.6
+https://github.com/LoadedCamel/MidsReborn
+
+elec rad tank: Level 50 Magic Tanker
+Primary Power Set: Electric Armor
+Secondary Power Set: Radiation Melee
+Power Pool: Fighting
+Power Pool: Leaping
+Power Pool: Leadership
+Power Pool: Flight
+Ancillary Pool: Energy Mastery
+
+Hero Profile:
+------------
+Level 1:	Charged Armor			ResDam-I(A), ImpSki-Status(3), StdPrt-ResDam/Def+(5)
+Level 1:	Contaminated Strike		SprMghoft-Acc/Dmg(A), SprMghoft-Dmg/Rchg(5), SprMghoft-Acc/Dmg/Rchg(7), SprMghoft-Dmg/EndRdx/Rchg(7), SprMghoft-Acc/Dmg/EndRdx/Rchg(9), SprMghoft-Rchg/Res%(47)
+Level 2:	Lightning Field			Erd-%Dam(A), ScrDrv-Dam%(17), Obl-%Dam(19), PrfZng-Dam%(19), PwrTrns-+Heal(21), SprGntFis-Rchg/+Absorb(21)
+Level 4:	Boxing				AbsAmz-EndRdx/Stun(A), AbsAmz-Stun(23), AbsAmz-Stun/Rchg(23), AbsAmz-Acc/Stun/Rchg(25), AbsAmz-Acc/Rchg(25)
+Level 6:	Combat Jumping			LucoftheG-Def/Rchg+(A), Ksm-ToHit+(27), ShlWal-ResDam/Re TP(27), Rct-ResDam%(29)
+Level 8:	Static Shield			UnbGrd-Max HP%(A)
+Level 10:	Grounded			GldArm-3defTpProc(A)
+Level 12:	Maneuvers			LucoftheG-Def/Rchg+(A)
+Level 14:	Tough				GldArm-ResDam(A), GldArm-End/Res(29)
+Level 16:	Radiation Siphon		KntCmb-Acc/Dmg(A), KntCmb-Dmg/EndRdx(31), KntCmb-Dmg/Rchg(31), KntCmb-Dmg/EndRdx/Rchg(31)
+Level 18:	Lightning Reflexes		Run-I(A)
+Level 20:	Weave				LucoftheG-Def(A), LucoftheG-Def/EndRdx(48)
+Level 22:	Tactics				RctRtc-ToHit/Rchg(A), RctRtc-ToHit(47)
+Level 24:	Hover				LucoftheG-Def/Rchg+(A)
+Level 26:	Jump Kick			SprBlsCol-Acc/Dmg(A), SprBlsCol-Dmg/EndRdx(33), SprBlsCol-Acc/Dmg/EndRdx(33), SprBlsCol-Acc/Dmg/Rchg(33), SprBlsCol-Dmg/EndRdx/Acc/Rchg(34)
+Level 28:	Irradiated Ground		AchHee-ResDeb%(A), TchofLadG-%Dam(34), ShlBrk-%Dam(34), Erd-%Dam(36), Obl-%Dam(36), Acc-I(36)
+Level 30:	Kick				KntCmb-Acc/Dmg(A), KntCmb-Dmg/Rchg(37), KntCmb-Dmg/EndRdx(37), KntCmb-Dmg/EndRdx/Rchg(37)
+Level 32:	Radioactive Smash		Hct-Dmg(A), Hct-Dmg/Rchg(39), Hct-Acc/Dmg/Rchg(39), Hct-Acc/Rchg(39), Hct-Dmg/EndRdx(40)
+Level 35:	Focused Accuracy		RctRtc-ToHit(A), RctRtc-ToHit/Rchg(48)
+Level 38:	Atom Smasher			FuroftheG-ResDeb%(A), Arm-Dam%(40), Erd-%Dam(40), Obl-%Dam(42), ScrDrv-Dam%(42), ScrDrv-Dmg/EndRdx(42)
+Level 41:	Proton Sweep			Arm-Dmg(A), Arm-Acc/Rchg(43), Arm-Acc/Dmg/Rchg(43), Arm-Dmg/Rchg(43), Arm-Dmg/EndRdx(45)
+Level 44:	Physical Perfection		NmnCnv-Heal(A), NmnCnv-Regen/Rcvry+(45), RgnTss-Regen+(45), Mrc-Rcvry+(46), PwrTrns-+Heal(46), PrfShf-End%(46)
+Level 47:	Vengeance			LucoftheG-Def/Rchg+(A)
+Level 49:	Devastating Blow		KntCmb-Acc/Dmg(A), KntCmb-Dmg/EndRdx(49), KntCmb-Dmg/Rchg(49), KntCmb-Dmg/EndRdx/Rchg(49)
+Level 1:	Gauntlet	
+Level 1:	Brawl				KntCmb-Dmg/EndRdx(A), KntCmb-Acc/Dmg(9), KntCmb-Dmg/Rchg(11), KntCmb-Dmg/EndRdx/Rchg(11)
+Level 1:	Sprint				Empty(A)
+Level 2:	Rest				Empty(A)
+Level 1:	Swift				Empty(A)
+Level 1:	Hurdle				Empty(A)
+Level 1:	Health				Prv-Absorb%(A), Prv-Heal(13), Pnc-Heal/+End(13), Pnc-Heal(15)
+Level 1:	Stamina				PwrTrns-+Heal(A), PwrTrns-EndMod(15), PrfShf-End%(17)
+Level 50:	Agility Core Paragon	
+Level 50:	Ageless Core Epiphany	
+Level 50:	Assault Radial Embodiment	
+Level 50:	Degenerative Radial Flawless Interface	
+Level 50:	Banished Pantheon Radial Superior Ally	
+------------
+
+
+
+|              Do not modify anything below this line!              |
+|-------------------------------------------------------------------|
+|MxDz;2107;802;1604;HEX;|
+|78DA7D55594F1361143D331D9696968265874A29855296527C725F226802D4002EA|
+|F4D036369C442DA264AFC05BEB9253CE883AFFAE0FA0B4C341A23AFAE7FC0C48044|
+|13134D4CBDEDD0F90E257192767ABE73BF3BE7DE73E76BFCEAB87BFDDDF47168EE9|
+|34BC95C2E712E99B96466ABE2C9547A1E7279CC25733E904D2E04F2C2D4C88ADF0A|
+|498C9B17CD4CCE8C4E48403E9B9E4F9CC85E5ECE766DB371D96746E7920BE9643EB|
+|D9CB1303C33CBCB4BD153E9D4623E9D49B94B68DA4CAE08F096C18299CD2DA657EA|
+|ACD0A562AC6F62253D1F9DC898D9D46A229ECCE5CDEC6A9B4809C9E7A557BE3494A|
+|F820E0CCB7DCCA915E4D2E117CE6F948081D622B09847E1E23E7B63A10A78EF907D|
+|E5D00F0A54E323834F0AD4E2B302517C51E09597B34B7A0D9BBAADA401D76087EE0|
+|11C0472BA0D9AF0CB20705D014D9C70507AC381336A5F0B26194C29D0866906710A|
+|938C5594D1518566CDEE6307FEC256DF812925B80B3F15782D55D75012D4E0B762D|
+|F08EB64D6897D8A6D140175CCD6B10087B01E62350F461D36DB8531059E8AB35EAE|
+|C48B19B907ADC7ECC52C8339066715782B5A1B594D2346946586A8F1B11A1F9A8A5|
+|A6B4BEC281A94709F8436736833EE49D77DE599B9AB8053425B41CF6CB53A60B1CD|
+|C2B6B3E5EDB8610D84555D00372D38BB0D6F59706E1BDEB6A055630FEEA861FA310|
+|074F2AC76E28552D5837535253DA876D873D0CB23DDCB53DC8B0E7A0745B89FFDF0|
+|B31F21B620C4E684D88FC7626A3757DF8D7E9DAAEF4758A7EAFB31A053F5FD88E85|
+|47D1883AAA4FB223B485DD782654F4A37E728FBF55C64F471ABFA704C951DC6119D|
+|007527C2DD89F0DB1FC115D5AA27927E80AB1CC07E95711087181C64704081611C5|
+|6E0A1071862C14338AF8673181734DA77549D95239814102E033A8746B046279478|
+|1BE5918DF2C83E937262EC7C8C9D8FB1D9311E83183B1F31761EF085AE8A05692C2|
+|5AAE547B838AB8BB34E1BE0AB50CA2CE76AF16BC6E0FCC2698ADB70ED7C38EFDBFC|
+|0FF7DDB54BF4869A0837BEAAF3CB8D1EC5D423A0982DD7AEFF3A32A61E5B861DDAC|
+|02EFD69919FDCC2359F2C50858507C18A85D3AD155BBE852A16FE01D1433E4B|
+|-------------------------------------------------------------------|

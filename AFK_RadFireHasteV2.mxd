@@ -1,0 +1,88 @@
+This Hero build was built using Mids Reborn 3.2.17
+https://github.com/LoadedCamel/MidsReborn
+
+Level 50 Magic Brute
+Primary Power Set: Radiation Melee
+Secondary Power Set: Fiery Aura
+Power Pool: Speed
+Power Pool: Fighting
+Power Pool: Leaping
+Power Pool: Leadership
+Ancillary Pool: Mu Mastery
+
+Hero Profile:
+------------
+Level 1:	Contaminated Strike		Dmg-I(A)
+Level 1:	Fire Shield			Ags-ResDam(A), Ags-ResDam/EndRdx(3), Ags-EndRdx/Rchg(3), GldArm-3defTpProc(5)
+Level 2:	Blazing Aura			Erd-%Dam(A), SprUnrFur-Acc/Dmg(15), Obl-%Dam(47), ScrDrv-Dam%(48), PrfZng-Dam%(48), SprUnrFur-Rchg/+Regen/+End(48)
+Level 4:	Proton Sweep			SprAvl-Acc/Dmg(A), SprAvl-Dmg/EndRdx(11), SprAvl-Acc/Dmg/EndRdx(11), SprAvl-Acc/Dmg/Rchg(13), SprAvl-Acc/Dmg/EndRdx/Rchg(13), SprAvl-Rchg/KDProc(15)
+Level 6:	Radioactive Smash		SprUnrFur-Dmg/EndRdx/Rchg(A), SprUnrFur-Acc/Dmg/EndRdx/Rchg(49)
+Level 8:	Healing Flames			Prv-Heal/Rchg(A), Prv-EndRdx/Rchg(17), Prv-Heal/EndRdx(17), Prv-Heal(19), Prv-Absorb%(19), Prv-Heal/Rchg/EndRdx(21)
+Level 10:	Hasten				RechRdx-I(A)
+Level 12:	Boxing				AbsAmz-Stun(A), AbsAmz-Stun/Rchg(21), AbsAmz-Acc/Stun/Rchg(23), AbsAmz-Acc/Rchg(23), AbsAmz-EndRdx/Stun(25)
+Level 14:	Tough				StdPrt-ResDam/Def+(A)
+Level 16:	Temperature Protection		Ags-ResDam(A), Ags-ResDam/EndRdx(25), Ags-ResDam/Rchg(27)
+Level 18:	Irradiated Ground		TchofLadG-%Dam(A), ShlBrk-%Dam(27), ScrDrv-Dam%(29), Obl-%Dam(29), AchHee-ResDeb%(31), Erd-%Dam(31)
+Level 20:	Consume				MckBrt-Taunt/Rchg/Rng(A), MckBrt-Acc/Rchg(31), MckBrt-Taunt/Rchg(33), MckBrt-Taunt(33), MckBrt-Rchg(33), MckBrt-Taunt/Rng(34)
+Level 22:	Weave				LucoftheG-Def/Rchg+(A)
+Level 24:	Combat Jumping			LucoftheG-Def/Rchg+(A)
+Level 26:	Taunt				MckBrt-Taunt/Rchg/Rng(A), MckBrt-Acc/Rchg(34), MckBrt-Taunt/Rchg(34), MckBrt-Taunt(36), MckBrt-Rchg(36), MckBrt-Taunt/Rng(36)
+Level 28:	Burn				Arm-Dam%(A), ScrDrv-Dam%(37), SprUnrFur-Acc/Dmg/Rchg(37), FuroftheG-ResDeb%(37), Erd-%Dam(39), SprUnrFur-Dmg/Rchg(39)
+Level 30:	Maneuvers			LucoftheG-Def/Rchg+(A)
+Level 32:	Atom Smasher			SprBrtFur-Acc/Dmg(A), SprBrtFur-Dmg/Rchg(39), SprBrtFur-Rech/Fury%(40), SprBrtFur-Acc/Dmg/Rchg(40), SprBrtFur-Dmg/EndRdx/Rchg(40)
+Level 35:	Tactics				GssSynFr--Build%(A)
+Level 38:	Electrifying Fences		SprFrzBls-Acc/Dmg/Rchg(A), SprFrzBls-Acc/Dmg/EndRdx(42), SprFrzBls-Dmg/EndRdx(42), SprFrzBls-Acc/Dmg(42), SprFrzBls-Rchg/ImmobProc(43), SprFrzBls-Dmg/EndRdx/Acc/Rchg(43)
+Level 41:	Ball Lightning			Rgn-Dmg(A), Rgn-Dmg/EndRdx(43), Rgn-Acc/Rchg(45), Rgn-Acc/Dmg/Rchg(45), Rgn-Dmg/Rchg(45)
+Level 44:	Mu Lightning			Apc-Dmg(A), Apc-Dmg/Rchg(46), Apc-Acc/Dmg/Rchg(46), Apc-Acc/Rchg(46), Apc-Dmg/EndRdx(47)
+Level 47:	Assault				EndRdx-I(A)
+Level 49:	Vengeance			LucoftheG-Def/Rchg+(A)
+Level 1:	Fury	
+Level 1:	Brawl				SprBlsCol-Acc/Dmg(A), SprBlsCol-Dmg/EndRdx(5), SprBlsCol-Acc/Dmg/EndRdx(7), SprBlsCol-Acc/Dmg/Rchg(7), SprBlsCol-Rchg/HoldProc(9), SprBlsCol-Dmg/EndRdx/Acc/Rchg(9)
+Level 1:	Sprint				Clr-Stlth(A)
+Level 2:	Rest				Empty(A)
+Level 2:	Swift				Run-I(A)
+Level 2:	Hurdle				Jump-I(A)
+Level 2:	Health				Mrc-Rcvry+(A)
+Level 2:	Stamina				EndMod-I(A)
+Level 1:	Prestige Power Dash		Empty(A)
+Level 1:	Prestige Power Slide		Empty(A)
+Level 1:	Prestige Power Quick		Empty(A)
+Level 1:	Prestige Power Rush		Empty(A)
+Level 1:	Prestige Power Surge		Empty(A)
+Level 4:	Ninja Run	
+Level 50:	Musculature Core Paragon	
+Level 50:	Ageless Core Epiphany	
+Level 50:	Reactive Radial Flawless Interface	
+Level 50:	Banished Pantheon Radial Superior Ally	
+Level 50:	Ion Core Final Judgement	
+Level 50:	Assault Radial Embodiment	
+------------
+
+
+
+|              Do not modify anything below this line!              |
+|-------------------------------------------------------------------|
+|MxDz;1981;731;1462;HEX;|
+|78DA6D94DB4E1351148667DA2958E881D216CA99967210E8D0027A673C612F801AA|
+|20F50277480D10A4D5B128D8FA026201A6F3C80C60BEEE5A05EF900DEFB082882BE|
+|415DD399DD7F35E94EA6FDD6FEF7ACD3DEB3338FE63C2B2BE96B92DC7A33AF954AD|
+|91BC5CDB2EECA68ABC6B2648E667A7AAA93D98C9ED775F58E9633B4B2B1B16ED911|
+|4B9BD357F4F592AEA60DBDF8387B7DB3A8492D4B1B1B79F56E41D773DE2AA68DD5B|
+|5B2B1BEEAA95A8BBA5620C32F8C9C5E2CAD1985F0AD82B1ACDA0137B319AD54268F|
+|11CA2241CFD311FA91AB895524A98FFE528A5CA1712041704AB3724D7024194F839|
+|569678D0FCD77ED975DF2B9833C5B82CFA3D416A9125E987A82C85325073880F5CF|
+|2955A770EA7C03A1E52DE37760CF7BC6BB60DF1EF8193975D94E65971F42B20D7C6|
+|46F5B3572F329D26EFBCDF817B8FD84F11938F4071C238F6ED179F78459BFBB2AC8|
+|24B4DAD194D6793423B400EE58649C01476E839DE4C86B3B92BC9D726D178E69C66|
+|F8776F8D9DE46D8DE76A7C0DBD4A580687DE007427437396B5E7BD91EF6B2BDEDFF|
+|4EEB8336B3B3F0959607AD33567105EFC369FF03F0A0C1788DF14370340F56A8E6B|
+|0E86A388C123A48E814422713B6A8B62EB1B95D2C8D284B23CAD21862690CB13486|
+|581ADFCC8F5C34ACE70A84386B52DC872316BF8A868DB0268D78B1264025F48912F|
+|A58093B54C280383103BBCCD31E78F413E30F8C3F828314212622C4F691F63D5A33|
+|2C9A347C849C2E1E323E60FC193CFE85F1315823A76322EDB169441BBF0C9EBCC47|
+|896F10C384B8E2684A389490889046395F114584D82DBA97E55D4AF46F14D864848|
+|8A4F29C95A9F56704D567A15498C8A4BDA42A5CA36B8E905E31DF085578C5F82179|
+|953BA3190EC9222229360DD1CE6CF590BEE5E494EA086F33A610CC2DF3A619E68D4|
+|8AF0AF4E18C41BE37539D542271B4FA71A4FCF349E9E6D3CED6E93CC3BC56AF402D|
+|D1B29D1F5D7A621148C9F7CCD699C195D2166ECC798F11F55598602|
+|-------------------------------------------------------------------|
