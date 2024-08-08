@@ -21,7 +21,7 @@
     "Pool.Leadership",
     "Epic.Pyre_Mastery"
   ],
-  "LastPower": 25,
+  "LastPower": 27,
   "PowerEntries": [
     {
       "PowerName": "Brute_Melee.Radiation_Melee.Radioactive_Smash",
@@ -369,9 +369,9 @@
           "Level": 19,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Crafted_Miracle_F",
+            "Uid": "Crafted_Aegis_D",
             "Grade": "None",
-            "IoLevel": 39,
+            "IoLevel": 49,
             "RelativeLevel": "Even",
             "Obtained": false
           },
@@ -387,9 +387,9 @@
           "Level": 19,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Crafted_Miracle_E",
+            "Uid": "Crafted_Preventive_Medicine_D",
             "Grade": "None",
-            "IoLevel": 39,
+            "IoLevel": 49,
             "RelativeLevel": "Even",
             "Obtained": false
           },
@@ -405,26 +405,20 @@
           "Level": 21,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Crafted_Regenerative_Tissue_E",
-            "Grade": "None",
-            "IoLevel": 29,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
-          "FlippedEnhancement": {
-            "Uid": "Crafted_Aegis_B",
+            "Uid": "Crafted_Preventive_Medicine_A",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
             "Obtained": false
-          }
+          },
+          "FlippedEnhancement": null
         }
       ]
     },
     {
       "PowerName": "Brute_Melee.Radiation_Melee.Fusion",
       "Level": 6,
-      "StatInclude": false,
+      "StatInclude": true,
       "ProcInclude": true,
       "VariableValue": 0,
       "InherentSlotsUsed": 0,
@@ -436,7 +430,7 @@
           "Enhancement": {
             "Uid": "Crafted_Gaussians_Synchronized_FireControl_F",
             "Grade": "None",
-            "IoLevel": 49,
+            "IoLevel": 20,
             "RelativeLevel": "Even",
             "Obtained": false
           },
@@ -941,7 +935,7 @@
           "Level": 34,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Crafted_Luck_of_the_Gambler_A",
+            "Uid": "Crafted_Reactive_Defenses_B",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
@@ -953,7 +947,7 @@
           "Level": 36,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Crafted_Luck_of_the_Gambler_E",
+            "Uid": "Crafted_Reactive_Defenses_A",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
@@ -1393,42 +1387,6 @@
           "FlippedEnhancement": null
         },
         {
-          "Level": 43,
-          "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Crafted_Shield_Breaker_C",
-            "Grade": "None",
-            "IoLevel": 29,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 43,
-          "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Crafted_Shield_Breaker_D",
-            "Grade": "None",
-            "IoLevel": 29,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 45,
-          "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Crafted_Shield_Breaker_E",
-            "Grade": "None",
-            "IoLevel": 29,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
-          "FlippedEnhancement": null
-        },
-        {
           "Level": 45,
           "IsInherent": false,
           "Enhancement": {
@@ -1620,7 +1578,7 @@
     {
       "PowerName": "Inherent.Inherent.Brawl",
       "Level": 1,
-      "StatInclude": false,
+      "StatInclude": true,
       "ProcInclude": false,
       "VariableValue": 0,
       "InherentSlotsUsed": 0,
@@ -1629,7 +1587,49 @@
         {
           "Level": 1,
           "IsInherent": false,
-          "Enhancement": null,
+          "Enhancement": {
+            "Uid": "Crafted_Kinetic_Combat_A",
+            "Grade": "None",
+            "IoLevel": 34,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 43,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Crafted_Kinetic_Combat_B",
+            "Grade": "None",
+            "IoLevel": 34,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 43,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Crafted_Kinetic_Combat_C",
+            "Grade": "None",
+            "IoLevel": 34,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 45,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Crafted_Kinetic_Combat_D",
+            "Grade": "None",
+            "IoLevel": 34,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
           "FlippedEnhancement": null
         }
       ]
@@ -1751,7 +1751,7 @@
           "Level": 9,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Crafted_Panacea_E",
+            "Uid": "Crafted_Preventive_Medicine_A",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
