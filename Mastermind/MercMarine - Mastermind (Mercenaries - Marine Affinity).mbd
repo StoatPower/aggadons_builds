@@ -21,7 +21,7 @@
     "Pool.Invisibility",
     "Epic.Mastermind_Mace_Mastery"
   ],
-  "LastPower": 30,
+  "LastPower": 31,
   "PowerEntries": [
     {
       "PowerName": "Mastermind_Summon.Mercenaries.Soldiers",
@@ -51,7 +51,7 @@
           }
         },
         {
-          "Level": 5,
+          "Level": 3,
           "IsInherent": false,
           "Enhancement": {
             "Uid": "Superior_Attuned_Superior_Mark_of_Supremacy_C",
@@ -69,7 +69,7 @@
           }
         },
         {
-          "Level": 7,
+          "Level": 3,
           "IsInherent": false,
           "Enhancement": {
             "Uid": "Superior_Attuned_Superior_Mark_of_Supremacy_A",
@@ -87,7 +87,7 @@
           }
         },
         {
-          "Level": 23,
+          "Level": 5,
           "IsInherent": false,
           "Enhancement": {
             "Uid": "Superior_Attuned_Superior_Mark_of_Supremacy_E",
@@ -105,7 +105,7 @@
           }
         },
         {
-          "Level": 23,
+          "Level": 5,
           "IsInherent": false,
           "Enhancement": {
             "Uid": "Crafted_Call_to_Arms_F",
@@ -123,7 +123,7 @@
           }
         },
         {
-          "Level": 25,
+          "Level": 7,
           "IsInherent": false,
           "Enhancement": {
             "Uid": "Crafted_Expedient_Reinforcement_F",
@@ -155,21 +155,33 @@
           "Level": 1,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Hamidon_DeBuff_Accuracy",
-            "Grade": "SingleO",
-            "IoLevel": 1,
+            "Uid": "Crafted_Shield_Breaker_F",
+            "Grade": "None",
+            "IoLevel": 19,
             "RelativeLevel": "Even",
             "Obtained": false
           },
           "FlippedEnhancement": null
         },
         {
-          "Level": 3,
+          "Level": 7,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Hamidon_DeBuff_Accuracy",
-            "Grade": "SingleO",
-            "IoLevel": 1,
+            "Uid": "Crafted_Shield_Breaker_A",
+            "Grade": "None",
+            "IoLevel": 29,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 29,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Crafted_Shield_Breaker_B",
+            "Grade": "None",
+            "IoLevel": 29,
             "RelativeLevel": "Even",
             "Obtained": false
           },
@@ -190,7 +202,7 @@
           "Level": 2,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Hamidon_Accuracy_Range",
+            "Uid": "Hamidon_Heal_Accuracy",
             "Grade": "SingleO",
             "IoLevel": 1,
             "RelativeLevel": "Even",
@@ -199,10 +211,10 @@
           "FlippedEnhancement": null
         },
         {
-          "Level": 5,
+          "Level": 11,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Hamidon_Accuracy_Range",
+            "Uid": "Hamidon_Heal_Accuracy",
             "Grade": "SingleO",
             "IoLevel": 1,
             "RelativeLevel": "Even",
@@ -234,7 +246,7 @@
           "FlippedEnhancement": null
         },
         {
-          "Level": 9,
+          "Level": 11,
           "IsInherent": false,
           "Enhancement": {
             "Uid": "Crafted_Winters_Gift_C",
@@ -246,7 +258,7 @@
           "FlippedEnhancement": null
         },
         {
-          "Level": 9,
+          "Level": 13,
           "IsInherent": false,
           "Enhancement": {
             "Uid": "Crafted_Winters_Gift_B",
@@ -281,7 +293,7 @@
           "FlippedEnhancement": null
         },
         {
-          "Level": 7,
+          "Level": 13,
           "IsInherent": false,
           "Enhancement": {
             "Uid": "Crafted_Unbreakable_Guard_B",
@@ -293,7 +305,7 @@
           "FlippedEnhancement": null
         },
         {
-          "Level": 13,
+          "Level": 15,
           "IsInherent": false,
           "Enhancement": {
             "Uid": "Crafted_Impervious_Skin_E",
@@ -317,7 +329,7 @@
           "FlippedEnhancement": null
         },
         {
-          "Level": 37,
+          "Level": 17,
           "IsInherent": false,
           "Enhancement": {
             "Uid": "Crafted_Unbreakable_Guard_F",
@@ -329,7 +341,7 @@
           "FlippedEnhancement": null
         },
         {
-          "Level": 47,
+          "Level": 17,
           "IsInherent": false,
           "Enhancement": {
             "Uid": "Crafted_Unbreakable_Guard_D",
@@ -343,10 +355,10 @@
       ]
     },
     {
-      "PowerName": "Mastermind_Summon.Mercenaries.M30_Grenade",
+      "PowerName": "Mastermind_Buff.Marine_Affinity.Toroidal_Bubble",
       "Level": 8,
       "StatInclude": true,
-      "ProcInclude": true,
+      "ProcInclude": false,
       "VariableValue": 0,
       "InherentSlotsUsed": 0,
       "SubPowerEntries": [],
@@ -355,69 +367,45 @@
           "Level": 8,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Crafted_Sudden_Acceleration_F",
+            "Uid": "Crafted_Steadfast_Protection_B",
             "Grade": "None",
-            "IoLevel": 49,
+            "IoLevel": 29,
             "RelativeLevel": "Even",
             "Obtained": false
           },
           "FlippedEnhancement": null
         },
         {
-          "Level": 13,
+          "Level": 19,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Crafted_Force_Feedback_F",
+            "Uid": "Crafted_Steadfast_Protection_C",
             "Grade": "None",
-            "IoLevel": 49,
+            "IoLevel": 29,
             "RelativeLevel": "Even",
             "Obtained": false
           },
           "FlippedEnhancement": null
         },
         {
-          "Level": 42,
+          "Level": 31,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Crafted_Ragnarok_A",
+            "Uid": "Crafted_Impervious_Skin_E",
             "Grade": "None",
-            "IoLevel": 49,
+            "IoLevel": 29,
             "RelativeLevel": "Even",
             "Obtained": false
           },
           "FlippedEnhancement": null
         },
         {
-          "Level": 45,
+          "Level": 31,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Crafted_Ragnarok_C",
+            "Uid": "Crafted_Impervious_Skin_B",
             "Grade": "None",
-            "IoLevel": 49,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 45,
-          "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Crafted_Ragnarok_E",
-            "Grade": "None",
-            "IoLevel": 49,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 46,
-          "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Crafted_Ragnarok_D",
-            "Grade": "None",
-            "IoLevel": 49,
+            "IoLevel": 29,
             "RelativeLevel": "Even",
             "Obtained": false
           },
@@ -426,11 +414,11 @@
       ]
     },
     {
-      "PowerName": "Mastermind_Buff.Marine_Affinity.Whitecap",
+      "PowerName": "Pool.Speed.Hasten",
       "Level": 10,
       "StatInclude": true,
       "ProcInclude": false,
-      "VariableValue": 1,
+      "VariableValue": 0,
       "InherentSlotsUsed": 0,
       "SubPowerEntries": [],
       "SlotEntries": [
@@ -438,21 +426,9 @@
           "Level": 10,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Hamidon_Slow_Recharge_Endurance_Discount",
-            "Grade": "SingleO",
-            "IoLevel": 1,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 15,
-          "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Hamidon_Accuracy_Range",
-            "Grade": "SingleO",
-            "IoLevel": 1,
+            "Uid": "Crafted_Recharge",
+            "Grade": "None",
+            "IoLevel": 49,
             "RelativeLevel": "Even",
             "Obtained": false
           },
@@ -488,7 +464,7 @@
           }
         },
         {
-          "Level": 17,
+          "Level": 19,
           "IsInherent": false,
           "Enhancement": {
             "Uid": "Superior_Attuned_Superior_Command_of_the_Mastermind_A",
@@ -506,7 +482,7 @@
           }
         },
         {
-          "Level": 19,
+          "Level": 21,
           "IsInherent": false,
           "Enhancement": {
             "Uid": "Hamidon_Damage_Mez",
@@ -524,7 +500,7 @@
           }
         },
         {
-          "Level": 19,
+          "Level": 21,
           "IsInherent": false,
           "Enhancement": {
             "Uid": "Hamidon_Accuracy_Mez",
@@ -542,7 +518,7 @@
           }
         },
         {
-          "Level": 21,
+          "Level": 23,
           "IsInherent": false,
           "Enhancement": {
             "Uid": "Crafted_Edict_of_the_Master_F",
@@ -560,7 +536,7 @@
           }
         },
         {
-          "Level": 21,
+          "Level": 23,
           "IsInherent": false,
           "Enhancement": {
             "Uid": "Crafted_Sovereign_Right_F",
@@ -580,8 +556,91 @@
       ]
     },
     {
-      "PowerName": "Pool.Flight.Fly",
+      "PowerName": "Mastermind_Buff.Marine_Affinity.Whitecap",
       "Level": 14,
+      "StatInclude": true,
+      "ProcInclude": true,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": [
+        {
+          "Level": 14,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Crafted_Obliteration_F",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 25,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Crafted_Obliteration_A",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 25,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Crafted_Armageddon_F",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 27,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Crafted_Eradication_F",
+            "Grade": "None",
+            "IoLevel": 29,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 27,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Crafted_Sciroccos_Dervish_F",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 29,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Crafted_Force_Feedback_F",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        }
+      ]
+    },
+    {
+      "PowerName": "Pool.Flight.Fly",
+      "Level": 16,
       "StatInclude": false,
       "ProcInclude": false,
       "VariableValue": 0,
@@ -589,7 +648,7 @@
       "SubPowerEntries": [],
       "SlotEntries": [
         {
-          "Level": 14,
+          "Level": 16,
           "IsInherent": false,
           "Enhancement": {
             "Uid": "Hamidon_Travel_Endurance_Discount",
@@ -603,32 +662,9 @@
       ]
     },
     {
-      "PowerName": "Pool.Speed.Hasten",
-      "Level": 16,
-      "StatInclude": true,
-      "ProcInclude": false,
-      "VariableValue": 0,
-      "InherentSlotsUsed": 0,
-      "SubPowerEntries": [],
-      "SlotEntries": [
-        {
-          "Level": 16,
-          "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Crafted_Recharge",
-            "Grade": "None",
-            "IoLevel": 49,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
-          "FlippedEnhancement": null
-        }
-      ]
-    },
-    {
-      "PowerName": "Pool.Leadership.Defense",
+      "PowerName": "Mastermind_Buff.Marine_Affinity.Tide_Pool",
       "Level": 18,
-      "StatInclude": true,
+      "StatInclude": false,
       "ProcInclude": false,
       "VariableValue": 0,
       "InherentSlotsUsed": 0,
@@ -638,31 +674,7 @@
           "Level": 18,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Crafted_Luck_of_the_Gambler_F",
-            "Grade": "None",
-            "IoLevel": 49,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 40,
-          "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Crafted_Luck_of_the_Gambler_E",
-            "Grade": "None",
-            "IoLevel": 49,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 43,
-          "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Hamidon_Buff_Endurance_Discount",
+            "Uid": "Hamidon_Slow_Recharge_Endurance_Discount",
             "Grade": "SingleO",
             "IoLevel": 1,
             "RelativeLevel": "Even",
@@ -694,7 +706,7 @@
           "FlippedEnhancement": null
         },
         {
-          "Level": 29,
+          "Level": 31,
           "IsInherent": false,
           "Enhancement": {
             "Uid": "Crafted_Rectified_Reticle_A",
@@ -706,7 +718,7 @@
           "FlippedEnhancement": null
         },
         {
-          "Level": 29,
+          "Level": 33,
           "IsInherent": false,
           "Enhancement": {
             "Uid": "Crafted_Rectified_Reticle_B",
@@ -718,7 +730,7 @@
           "FlippedEnhancement": null
         },
         {
-          "Level": 31,
+          "Level": 33,
           "IsInherent": false,
           "Enhancement": {
             "Uid": "Crafted_Reactive_Armor_D",
@@ -730,7 +742,7 @@
           "FlippedEnhancement": null
         },
         {
-          "Level": 31,
+          "Level": 33,
           "IsInherent": false,
           "Enhancement": {
             "Uid": "Crafted_Gladiators_Armor_F",
@@ -742,7 +754,7 @@
           "FlippedEnhancement": null
         },
         {
-          "Level": 46,
+          "Level": 34,
           "IsInherent": false,
           "Enhancement": {
             "Uid": "Crafted_Reactive_Armor_B",
@@ -801,7 +813,7 @@
           }
         },
         {
-          "Level": 36,
+          "Level": 34,
           "IsInherent": false,
           "Enhancement": {
             "Uid": "Crafted_Soulbound_Allegiance_A",
@@ -855,7 +867,7 @@
           }
         },
         {
-          "Level": 37,
+          "Level": 36,
           "IsInherent": false,
           "Enhancement": {
             "Uid": "Superior_Attuned_Superior_Mark_of_Supremacy_D",
@@ -875,7 +887,7 @@
       ]
     },
     {
-      "PowerName": "Mastermind_Buff.Marine_Affinity.Brine",
+      "PowerName": "Mastermind_Buff.Marine_Affinity.Shifting_Tides",
       "Level": 24,
       "StatInclude": true,
       "ProcInclude": false,
@@ -886,37 +898,37 @@
         {
           "Level": 24,
           "IsInherent": false,
-          "Enhancement": null,
+          "Enhancement": {
+            "Uid": "Hamidon_Buff_Endurance_Discount",
+            "Grade": "SingleO",
+            "IoLevel": 1,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
           "FlippedEnhancement": null
         },
         {
-          "Level": 33,
+          "Level": 37,
           "IsInherent": false,
-          "Enhancement": null,
+          "Enhancement": {
+            "Uid": "Hamidon_Buff_Endurance_Discount",
+            "Grade": "SingleO",
+            "IoLevel": 1,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
           "FlippedEnhancement": null
         },
         {
-          "Level": 33,
+          "Level": 37,
           "IsInherent": false,
-          "Enhancement": null,
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 33,
-          "IsInherent": false,
-          "Enhancement": null,
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 34,
-          "IsInherent": false,
-          "Enhancement": null,
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 34,
-          "IsInherent": false,
-          "Enhancement": null,
+          "Enhancement": {
+            "Uid": "Hamidon_Buff_Endurance_Discount",
+            "Grade": "SingleO",
+            "IoLevel": 1,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
           "FlippedEnhancement": null
         }
       ]
@@ -943,7 +955,7 @@
           "FlippedEnhancement": null
         },
         {
-          "Level": 27,
+          "Level": 39,
           "IsInherent": false,
           "Enhancement": {
             "Uid": "Crafted_Reactive_Defenses_B",
@@ -979,7 +991,7 @@
           "FlippedEnhancement": null
         },
         {
-          "Level": 39,
+          "Level": 40,
           "IsInherent": false,
           "Enhancement": {
             "Uid": "Crafted_Kismet_A",
@@ -991,7 +1003,7 @@
           "FlippedEnhancement": null
         },
         {
-          "Level": 47,
+          "Level": 40,
           "IsInherent": false,
           "Enhancement": {
             "Uid": "Crafted_Kismet_E",
@@ -1005,7 +1017,7 @@
       ]
     },
     {
-      "PowerName": "Mastermind_Buff.Marine_Affinity.Tide_Pool",
+      "PowerName": "Mastermind_Buff.Marine_Affinity.Wellspring",
       "Level": 28,
       "StatInclude": true,
       "ProcInclude": false,
@@ -1016,31 +1028,67 @@
         {
           "Level": 28,
           "IsInherent": false,
-          "Enhancement": null,
+          "Enhancement": {
+            "Uid": "Crafted_Luck_of_the_Gambler_F",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
           "FlippedEnhancement": null
         },
         {
-          "Level": 31,
+          "Level": 40,
           "IsInherent": false,
-          "Enhancement": null,
+          "Enhancement": {
+            "Uid": "Crafted_Reactive_Defenses_F",
+            "Grade": "None",
+            "IoLevel": 29,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
           "FlippedEnhancement": null
         },
         {
           "Level": 42,
           "IsInherent": false,
-          "Enhancement": null,
+          "Enhancement": {
+            "Uid": "Crafted_Reactive_Defenses_A",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
           "FlippedEnhancement": null
         },
         {
-          "Level": 48,
+          "Level": 43,
           "IsInherent": false,
-          "Enhancement": null,
+          "Enhancement": {
+            "Uid": "Crafted_Preventive_Medicine_A",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 43,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Crafted_Preventive_Medicine_B",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
           "FlippedEnhancement": null
         }
       ]
     },
     {
-      "PowerName": "Mastermind_Buff.Marine_Affinity.Wellspring",
+      "PowerName": "Mastermind_Buff.Marine_Affinity.Power_of_the_Depths",
       "Level": 30,
       "StatInclude": true,
       "ProcInclude": false,
@@ -1051,49 +1099,8 @@
         {
           "Level": 30,
           "IsInherent": false,
-          "Enhancement": null,
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 37,
-          "IsInherent": false,
-          "Enhancement": null,
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 49,
-          "IsInherent": false,
-          "Enhancement": null,
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 50,
-          "IsInherent": false,
-          "Enhancement": null,
-          "FlippedEnhancement": null
-        }
-      ]
-    },
-    {
-      "PowerName": "Mastermind_Buff.Marine_Affinity.Power_of_the_Depths",
-      "Level": 32,
-      "StatInclude": true,
-      "ProcInclude": true,
-      "VariableValue": 0,
-      "InherentSlotsUsed": 0,
-      "SubPowerEntries": [],
-      "SlotEntries": [
-        {
-          "Level": 32,
-          "IsInherent": false,
-          "Enhancement": null,
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 46,
-          "IsInherent": false,
           "Enhancement": {
-            "Uid": "Hamidon_Threat_Accuracy_Recharge",
+            "Uid": "Hamidon_Heal_Recharge",
             "Grade": "SingleO",
             "IoLevel": 1,
             "RelativeLevel": "Even",
@@ -1102,10 +1109,69 @@
           "FlippedEnhancement": null
         },
         {
-          "Level": 48,
+          "Level": 42,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Hamidon_Threat_Accuracy_Recharge",
+            "Uid": "Hamidon_Heal_Accuracy",
+            "Grade": "SingleO",
+            "IoLevel": 1,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 42,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Hamidon_Endurance_Modification_Recharge",
+            "Grade": "SingleO",
+            "IoLevel": 1,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        }
+      ]
+    },
+    {
+      "PowerName": "Pool.Leadership.Defense",
+      "Level": 32,
+      "StatInclude": true,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": [
+        {
+          "Level": 32,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Crafted_Luck_of_the_Gambler_F",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 45,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Crafted_Luck_of_the_Gambler_E",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 45,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Hamidon_Buff_Endurance_Discount",
             "Grade": "SingleO",
             "IoLevel": 1,
             "RelativeLevel": "Even",
@@ -1137,7 +1203,7 @@
           "FlippedEnhancement": null
         },
         {
-          "Level": 40,
+          "Level": 45,
           "IsInherent": false,
           "Enhancement": {
             "Uid": "Crafted_Hypersonic_C",
@@ -1149,7 +1215,7 @@
           "FlippedEnhancement": null
         },
         {
-          "Level": 40,
+          "Level": 46,
           "IsInherent": false,
           "Enhancement": {
             "Uid": "Crafted_Hypersonic_D",
@@ -1161,7 +1227,7 @@
           "FlippedEnhancement": null
         },
         {
-          "Level": 49,
+          "Level": 46,
           "IsInherent": false,
           "Enhancement": {
             "Uid": "Crafted_Endurance_Discount",
@@ -1196,7 +1262,7 @@
           "FlippedEnhancement": null
         },
         {
-          "Level": 42,
+          "Level": 46,
           "IsInherent": false,
           "Enhancement": {
             "Uid": "Crafted_Luck_of_the_Gambler_A",
@@ -1208,7 +1274,7 @@
           "FlippedEnhancement": null
         },
         {
-          "Level": 43,
+          "Level": 47,
           "IsInherent": false,
           "Enhancement": {
             "Uid": "Crafted_Luck_of_the_Gambler_B",
@@ -1220,7 +1286,7 @@
           "FlippedEnhancement": null
         },
         {
-          "Level": 43,
+          "Level": 47,
           "IsInherent": false,
           "Enhancement": {
             "Uid": "Crafted_Luck_of_the_Gambler_E",
@@ -1232,7 +1298,7 @@
           "FlippedEnhancement": null
         },
         {
-          "Level": 48,
+          "Level": 47,
           "IsInherent": false,
           "Enhancement": {
             "Uid": "Crafted_Luck_of_the_Gambler_D",
@@ -1244,7 +1310,7 @@
           "FlippedEnhancement": null
         },
         {
-          "Level": 50,
+          "Level": 48,
           "IsInherent": false,
           "Enhancement": {
             "Uid": "Crafted_Shield_Wall_F",
@@ -1260,7 +1326,7 @@
     {
       "PowerName": "Epic.Mastermind_Mace_Mastery.Power_Boost",
       "Level": 41,
-      "StatInclude": true,
+      "StatInclude": false,
       "ProcInclude": false,
       "VariableValue": 0,
       "InherentSlotsUsed": 0,
@@ -1302,7 +1368,7 @@
           "FlippedEnhancement": null
         },
         {
-          "Level": 45,
+          "Level": 48,
           "IsInherent": false,
           "Enhancement": {
             "Uid": "Hamidon_Buff_Endurance_Discount",
@@ -1337,7 +1403,7 @@
           "FlippedEnhancement": null
         },
         {
-          "Level": 50,
+          "Level": 48,
           "IsInherent": false,
           "Enhancement": {
             "Uid": "Hamidon_Buff_Endurance_Discount",
@@ -1508,10 +1574,34 @@
           "FlippedEnhancement": null
         },
         {
-          "Level": 25,
+          "Level": 9,
           "IsInherent": false,
           "Enhancement": {
             "Uid": "Crafted_Preventive_Medicine_F",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 37,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Crafted_Preventive_Medicine_A",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 43,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Crafted_Numinas_Convalesence_F",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
@@ -1543,7 +1633,7 @@
           "FlippedEnhancement": null
         },
         {
-          "Level": 27,
+          "Level": 9,
           "IsInherent": false,
           "Enhancement": {
             "Uid": "Crafted_Power_Transfer_A",
@@ -1567,7 +1657,77 @@
       "SlotEntries": []
     },
     {
-      "PowerName": "Incarnate.Interface.Reactive_Core_Flawless_Interface",
+      "PowerName": "",
+      "Level": -1,
+      "StatInclude": false,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": []
+    },
+    {
+      "PowerName": "",
+      "Level": -1,
+      "StatInclude": false,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": []
+    },
+    {
+      "PowerName": "",
+      "Level": -1,
+      "StatInclude": false,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": []
+    },
+    {
+      "PowerName": "",
+      "Level": -1,
+      "StatInclude": false,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": []
+    },
+    {
+      "PowerName": "Incarnate.Destiny.Ageless_Core_Epiphany",
+      "Level": 50,
+      "StatInclude": false,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": []
+    },
+    {
+      "PowerName": "Incarnate.Hybrid.Support_Genome_8",
+      "Level": 50,
+      "StatInclude": false,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": []
+    },
+    {
+      "PowerName": "",
+      "Level": -1,
+      "StatInclude": false,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": []
+    },
+    {
+      "PowerName": "Incarnate.Judgement.Ion_Core_Final_Judgement",
       "Level": 50,
       "StatInclude": true,
       "ProcInclude": false,
@@ -1577,7 +1737,17 @@
       "SlotEntries": []
     },
     {
-      "PowerName": "Incarnate.Lore.Arachnos_Radial_Superior_Ally",
+      "PowerName": "Incarnate.Interface.Degenerative_Core_Flawless_Interface",
+      "Level": 50,
+      "StatInclude": true,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": []
+    },
+    {
+      "PowerName": "Incarnate.Lore.Banished_Pantheon_Radial_Superior_Ally",
       "Level": 50,
       "StatInclude": true,
       "ProcInclude": false,
@@ -1588,36 +1758,6 @@
     },
     {
       "PowerName": "Incarnate.Alpha.Musculature_Core_Paragon",
-      "Level": 50,
-      "StatInclude": true,
-      "ProcInclude": false,
-      "VariableValue": 0,
-      "InherentSlotsUsed": 0,
-      "SubPowerEntries": [],
-      "SlotEntries": []
-    },
-    {
-      "PowerName": "Incarnate.Judgement.Void_Radial_Final_Judgement",
-      "Level": 50,
-      "StatInclude": true,
-      "ProcInclude": false,
-      "VariableValue": 0,
-      "InherentSlotsUsed": 0,
-      "SubPowerEntries": [],
-      "SlotEntries": []
-    },
-    {
-      "PowerName": "Incarnate.Destiny.Ageless_Core_Epiphany",
-      "Level": 50,
-      "StatInclude": true,
-      "ProcInclude": false,
-      "VariableValue": 0,
-      "InherentSlotsUsed": 0,
-      "SubPowerEntries": [],
-      "SlotEntries": []
-    },
-    {
-      "PowerName": "Incarnate.Hybrid.Support_Genome_8",
       "Level": 50,
       "StatInclude": true,
       "ProcInclude": false,

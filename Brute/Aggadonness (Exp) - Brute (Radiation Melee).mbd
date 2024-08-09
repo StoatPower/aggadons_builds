@@ -21,12 +21,12 @@
     "Pool.Leadership",
     "Epic.Pyre_Mastery"
   ],
-  "LastPower": 27,
+  "LastPower": 29,
   "PowerEntries": [
     {
       "PowerName": "Brute_Melee.Radiation_Melee.Radioactive_Smash",
       "Level": 1,
-      "StatInclude": false,
+      "StatInclude": true,
       "ProcInclude": false,
       "VariableValue": 0,
       "InherentSlotsUsed": 0,
@@ -97,6 +97,18 @@
             "Obtained": false
           },
           "FlippedEnhancement": null
+        },
+        {
+          "Level": 34,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Crafted_Force_Feedback_F",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
         }
       ]
     },
@@ -115,7 +127,7 @@
           "Enhancement": {
             "Uid": "Crafted_Aegis_E",
             "Grade": "None",
-            "IoLevel": 29,
+            "IoLevel": 49,
             "RelativeLevel": "Even",
             "Obtained": false
           },
@@ -430,7 +442,7 @@
           "Enhancement": {
             "Uid": "Crafted_Gaussians_Synchronized_FireControl_F",
             "Grade": "None",
-            "IoLevel": 20,
+            "IoLevel": 49,
             "RelativeLevel": "Even",
             "Obtained": false
           },
@@ -442,7 +454,7 @@
       "PowerName": "Pool.Fighting.Kick",
       "Level": 8,
       "StatInclude": true,
-      "ProcInclude": true,
+      "ProcInclude": false,
       "VariableValue": 0,
       "InherentSlotsUsed": 0,
       "SubPowerEntries": [],
@@ -451,9 +463,45 @@
           "Level": 8,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Crafted_Force_Feedback_F",
+            "Uid": "Crafted_Kinetic_Combat_A",
             "Grade": "None",
-            "IoLevel": 49,
+            "IoLevel": 34,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 43,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Crafted_Kinetic_Combat_B",
+            "Grade": "None",
+            "IoLevel": 34,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 43,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Crafted_Kinetic_Combat_C",
+            "Grade": "None",
+            "IoLevel": 34,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 45,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Crafted_Kinetic_Combat_D",
+            "Grade": "None",
+            "IoLevel": 34,
             "RelativeLevel": "Even",
             "Obtained": false
           },
@@ -838,18 +886,6 @@
           "FlippedEnhancement": null
         },
         {
-          "Level": 34,
-          "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Crafted_Gladiators_Armor_A",
-            "Grade": "None",
-            "IoLevel": 49,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
-          "FlippedEnhancement": null
-        },
-        {
           "Level": 37,
           "IsInherent": false,
           "Enhancement": {
@@ -1160,31 +1196,8 @@
       ]
     },
     {
-      "PowerName": "Pool.Leadership.Tactics",
-      "Level": 30,
-      "StatInclude": true,
-      "ProcInclude": false,
-      "VariableValue": 0,
-      "InherentSlotsUsed": 0,
-      "SubPowerEntries": [],
-      "SlotEntries": [
-        {
-          "Level": 30,
-          "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Crafted_Endurance_Discount",
-            "Grade": "None",
-            "IoLevel": 49,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
-          "FlippedEnhancement": null
-        }
-      ]
-    },
-    {
       "PowerName": "Brute_Melee.Radiation_Melee.Atom_Smasher",
-      "Level": 32,
+      "Level": 30,
       "StatInclude": false,
       "ProcInclude": false,
       "VariableValue": 0,
@@ -1192,7 +1205,7 @@
       "SubPowerEntries": [],
       "SlotEntries": [
         {
-          "Level": 32,
+          "Level": 30,
           "IsInherent": false,
           "Enhancement": {
             "Uid": "Superior_Attuned_Superior_Brutes_Fury_A",
@@ -1297,8 +1310,31 @@
     },
     {
       "PowerName": "Brute_Defense.Fiery_Aura.Fiery_Embrace",
-      "Level": 35,
+      "Level": 32,
       "StatInclude": false,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": [
+        {
+          "Level": 32,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Crafted_Recharge",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        }
+      ]
+    },
+    {
+      "PowerName": "Pool.Leadership.Tactics",
+      "Level": 35,
+      "StatInclude": true,
       "ProcInclude": false,
       "VariableValue": 0,
       "InherentSlotsUsed": 0,
@@ -1308,7 +1344,7 @@
           "Level": 35,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Crafted_Recharge",
+            "Uid": "Crafted_Endurance_Discount",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
@@ -1401,31 +1437,8 @@
       ]
     },
     {
-      "PowerName": "Brute_Defense.Fiery_Aura.Rise_of_the_Phoenix",
-      "Level": 44,
-      "StatInclude": true,
-      "ProcInclude": false,
-      "VariableValue": 0,
-      "InherentSlotsUsed": 0,
-      "SubPowerEntries": [],
-      "SlotEntries": [
-        {
-          "Level": 44,
-          "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Attuned_Overwhelming_Force_F",
-            "Grade": "None",
-            "IoLevel": 49,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
-          "FlippedEnhancement": null
-        }
-      ]
-    },
-    {
       "PowerName": "Epic.Pyre_Mastery.Fire_Ball",
-      "Level": 47,
+      "Level": 44,
       "StatInclude": false,
       "ProcInclude": false,
       "VariableValue": 0,
@@ -1433,7 +1446,7 @@
       "SubPowerEntries": [],
       "SlotEntries": [
         {
-          "Level": 47,
+          "Level": 44,
           "IsInherent": false,
           "Enhancement": {
             "Uid": "Superior_Attuned_Frozen_Blast_F",
@@ -1543,6 +1556,29 @@
       ]
     },
     {
+      "PowerName": "Brute_Defense.Fiery_Aura.Rise_of_the_Phoenix",
+      "Level": 47,
+      "StatInclude": true,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": [
+        {
+          "Level": 47,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Attuned_Overwhelming_Force_F",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        }
+      ]
+    },
+    {
       "PowerName": "Pool.Leadership.Assault",
       "Level": 49,
       "StatInclude": true,
@@ -1570,7 +1606,7 @@
       "Level": 1,
       "StatInclude": true,
       "ProcInclude": false,
-      "VariableValue": 0,
+      "VariableValue": 80,
       "InherentSlotsUsed": 0,
       "SubPowerEntries": [],
       "SlotEntries": []
@@ -1587,49 +1623,7 @@
         {
           "Level": 1,
           "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Crafted_Kinetic_Combat_A",
-            "Grade": "None",
-            "IoLevel": 34,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 43,
-          "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Crafted_Kinetic_Combat_B",
-            "Grade": "None",
-            "IoLevel": 34,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 43,
-          "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Crafted_Kinetic_Combat_C",
-            "Grade": "None",
-            "IoLevel": 34,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 45,
-          "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Crafted_Kinetic_Combat_D",
-            "Grade": "None",
-            "IoLevel": 34,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
+          "Enhancement": null,
           "FlippedEnhancement": null
         }
       ]
