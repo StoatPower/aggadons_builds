@@ -5,11 +5,11 @@
     "Database": "Homecoming",
     "DatabaseVersion": "2024.8.865"
   },
-  "Level": "48",
+  "Level": "37",
   "Class": "Class_Corruptor",
   "Origin": "Technology",
   "Alignment": "Villain",
-  "Name": "Toxic Sludge 26",
+  "Name": "Waste Walker 37",
   "Comment": "",
   "PowerSets": [
     "Corruptor_Ranged.Water_Blast",
@@ -18,10 +18,10 @@
     "Pool.Speed",
     "Pool.Experimentation",
     "Pool.Fighting",
-    "Pool.Leaping",
-    "Epic.Dark_Mastery"
+    "Pool.Leadership",
+    "Epic.Corruptor_Soul_Mastery"
   ],
-  "LastPower": 27,
+  "LastPower": 29,
   "PowerEntries": [
     {
       "PowerName": "Corruptor_Ranged.Water_Blast.Hydro_Blast",
@@ -67,6 +67,18 @@
             "Obtained": false
           },
           "FlippedEnhancement": null
+        },
+        {
+          "Level": 34,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Crafted_Force_Feedback_E",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
         }
       ]
     },
@@ -98,6 +110,42 @@
             "Uid": "Crafted_Preventive_Medicine_D",
             "Grade": "None",
             "IoLevel": 29,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 13,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Crafted_Preventive_Medicine_A",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 37,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Crafted_Preventive_Medicine_E",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 37,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Crafted_Preventive_Medicine_B",
+            "Grade": "None",
+            "IoLevel": 49,
             "RelativeLevel": "Even",
             "Obtained": false
           },
@@ -173,6 +221,18 @@
             "Obtained": false
           },
           "FlippedEnhancement": null
+        },
+        {
+          "Level": 29,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Attuned_Scourging_Blast_B",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
         }
       ]
     },
@@ -189,9 +249,9 @@
           "Level": 4,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Magic_Recharge",
-            "Grade": "SingleO",
-            "IoLevel": 1,
+            "Uid": "Crafted_Recharge",
+            "Grade": "None",
+            "IoLevel": 49,
             "RelativeLevel": "Even",
             "Obtained": false
           },
@@ -201,21 +261,9 @@
           "Level": 5,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Magic_Recharge",
-            "Grade": "SingleO",
-            "IoLevel": 1,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 13,
-          "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Magic_Recharge",
-            "Grade": "SingleO",
-            "IoLevel": 1,
+            "Uid": "Crafted_Recharge",
+            "Grade": "None",
+            "IoLevel": 49,
             "RelativeLevel": "Even",
             "Obtained": false
           },
@@ -319,9 +367,9 @@
           "Level": 8,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Magic_Defense_DeBuff",
-            "Grade": "SingleO",
-            "IoLevel": 1,
+            "Uid": "Crafted_Endurance_Discount",
+            "Grade": "None",
+            "IoLevel": 49,
             "RelativeLevel": "Even",
             "Obtained": false
           },
@@ -331,9 +379,21 @@
           "Level": 9,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Magic_ToHit_DeBuff",
-            "Grade": "SingleO",
-            "IoLevel": 1,
+            "Uid": "Crafted_ToHit_DeBuff",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 13,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Crafted_Defense_DeBuff",
+            "Grade": "None",
+            "IoLevel": 49,
             "RelativeLevel": "Even",
             "Obtained": false
           },
@@ -354,9 +414,9 @@
           "Level": 10,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Magic_Recharge",
-            "Grade": "SingleO",
-            "IoLevel": 1,
+            "Uid": "Crafted_Recharge",
+            "Grade": "None",
+            "IoLevel": 49,
             "RelativeLevel": "Even",
             "Obtained": false
           },
@@ -366,9 +426,9 @@
           "Level": 11,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Magic_Recharge",
-            "Grade": "SingleO",
-            "IoLevel": 1,
+            "Uid": "Crafted_Recharge",
+            "Grade": "None",
+            "IoLevel": 49,
             "RelativeLevel": "Even",
             "Obtained": false
           },
@@ -389,21 +449,9 @@
           "Level": 12,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Magic_Recharge",
-            "Grade": "SingleO",
-            "IoLevel": 1,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 13,
-          "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Magic_Recharge",
-            "Grade": "SingleO",
-            "IoLevel": 1,
+            "Uid": "Crafted_Recharge",
+            "Grade": "None",
+            "IoLevel": 49,
             "RelativeLevel": "Even",
             "Obtained": false
           },
@@ -513,6 +561,42 @@
             "Obtained": false
           },
           "FlippedEnhancement": null
+        },
+        {
+          "Level": 27,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Crafted_Gladiators_Armor_F",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 31,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Crafted_Unbreakable_Guard_F",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 37,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Crafted_Impervious_Skin_E",
+            "Grade": "None",
+            "IoLevel": 29,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
         }
       ]
     },
@@ -560,6 +644,30 @@
             "Obtained": false
           },
           "FlippedEnhancement": null
+        },
+        {
+          "Level": 27,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Crafted_Luck_of_the_Gambler_F",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 34,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Crafted_Shield_Wall_F",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
         }
       ]
     },
@@ -576,9 +684,9 @@
           "Level": 22,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Magic_Endurance_Discount",
-            "Grade": "SingleO",
-            "IoLevel": 1,
+            "Uid": "Crafted_Endurance_Discount",
+            "Grade": "None",
+            "IoLevel": 49,
             "RelativeLevel": "Even",
             "Obtained": false
           },
@@ -611,7 +719,7 @@
           "Level": 25,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Crafted_Impeded_Swiftness_A",
+            "Uid": "Crafted_Pacing_of_the_Turtle_F",
             "Grade": "None",
             "IoLevel": 29,
             "RelativeLevel": "Even",
@@ -623,7 +731,7 @@
           "Level": 25,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Crafted_Impeded_Swiftness_E",
+            "Uid": "Crafted_Pacing_of_the_Turtle_A",
             "Grade": "None",
             "IoLevel": 29,
             "RelativeLevel": "Even",
@@ -634,9 +742,9 @@
       ]
     },
     {
-      "PowerName": "Pool.Leaping.Combat_Jumping",
+      "PowerName": "Pool.Experimentation.Speed_of_Sound",
       "Level": 26,
-      "StatInclude": true,
+      "StatInclude": false,
       "ProcInclude": false,
       "VariableValue": 0,
       "InherentSlotsUsed": 0,
@@ -646,7 +754,7 @@
           "Level": 26,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Crafted_Luck_of_the_Gambler_F",
+            "Uid": "Crafted_Winters_Gift_C",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
@@ -657,44 +765,216 @@
       ]
     },
     {
-      "PowerName": "",
-      "Level": -1,
+      "PowerName": "Pool.Experimentation.Adrenal_Booster",
+      "Level": 28,
       "StatInclude": false,
       "ProcInclude": false,
       "VariableValue": 0,
       "InherentSlotsUsed": 0,
       "SubPowerEntries": [],
-      "SlotEntries": []
+      "SlotEntries": [
+        {
+          "Level": 28,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Crafted_Recharge",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 29,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Crafted_Recharge",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        }
+      ]
     },
     {
-      "PowerName": "",
-      "Level": -1,
-      "StatInclude": false,
+      "PowerName": "Corruptor_Ranged.Water_Blast.Dehydrate",
+      "Level": 30,
+      "StatInclude": true,
       "ProcInclude": false,
       "VariableValue": 0,
       "InherentSlotsUsed": 0,
       "SubPowerEntries": [],
-      "SlotEntries": []
+      "SlotEntries": [
+        {
+          "Level": 30,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Crafted_Decimation_F",
+            "Grade": "None",
+            "IoLevel": 39,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 31,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Crafted_Touch_of_the_Nictus_F",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 31,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Crafted_Touch_of_the_Nictus_C",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 33,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Crafted_Touch_of_the_Nictus_A",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 34,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Crafted_Decimation_A",
+            "Grade": "None",
+            "IoLevel": 39,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        }
+      ]
     },
     {
-      "PowerName": "",
-      "Level": -1,
-      "StatInclude": false,
+      "PowerName": "Pool.Leadership.Defense",
+      "Level": 32,
+      "StatInclude": true,
       "ProcInclude": false,
       "VariableValue": 0,
       "InherentSlotsUsed": 0,
       "SubPowerEntries": [],
-      "SlotEntries": []
+      "SlotEntries": [
+        {
+          "Level": 32,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Crafted_Luck_of_the_Gambler_F",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 33,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Crafted_Reactive_Defenses_F",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 33,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Crafted_Reactive_Defenses_B",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        }
+      ]
     },
     {
-      "PowerName": "",
-      "Level": -1,
-      "StatInclude": false,
+      "PowerName": "Corruptor_Buff.Radiation_Emission.Choking_Cloud",
+      "Level": 35,
+      "StatInclude": true,
       "ProcInclude": false,
       "VariableValue": 0,
       "InherentSlotsUsed": 0,
       "SubPowerEntries": [],
-      "SlotEntries": []
+      "SlotEntries": [
+        {
+          "Level": 35,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Crafted_Neuronic_Shutdown_C",
+            "Grade": "None",
+            "IoLevel": 29,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 36,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Crafted_Neuronic_Shutdown_B",
+            "Grade": "None",
+            "IoLevel": 29,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 36,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Crafted_Neuronic_Shutdown_E",
+            "Grade": "None",
+            "IoLevel": 29,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 36,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Crafted_Lockdown_F",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        }
+      ]
     },
     {
       "PowerName": "",
@@ -928,6 +1208,16 @@
     {
       "PowerName": "Inherent.Inherent.COMBO_LEVEL_3",
       "Level": 1,
+      "StatInclude": false,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": []
+    },
+    {
+      "PowerName": "Pool.Experimentation.Jaunt",
+      "Level": 26,
       "StatInclude": false,
       "ProcInclude": false,
       "VariableValue": 0,
