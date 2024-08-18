@@ -5,7 +5,7 @@
     "Database": "Homecoming",
     "DatabaseVersion": "2024.8.865"
   },
-  "Level": "37",
+  "Level": "49",
   "Class": "Class_Blaster",
   "Origin": "Science",
   "Alignment": "Hero",
@@ -16,12 +16,12 @@
     "Blaster_Support.Radiation_Manipulation",
     "",
     "Pool.Fighting",
+    "Pool.Teleportation",
     "Pool.Speed",
     "Pool.Experimentation",
-    "Pool.Teleportation",
     "Epic.Blaster_Mace_Mastery"
   ],
-  "LastPower": 26,
+  "LastPower": 27,
   "PowerEntries": [
     {
       "PowerName": "Blaster_Ranged.Fire_Blast.Fire_Blast",
@@ -116,7 +116,7 @@
           "FlippedEnhancement": null
         },
         {
-          "Level": 33,
+          "Level": 23,
           "IsInherent": false,
           "Enhancement": {
             "Uid": "Crafted_Touch_of_Death_D",
@@ -293,10 +293,10 @@
           "FlippedEnhancement": null
         },
         {
-          "Level": 13,
+          "Level": 11,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Attuned_Defiant_Barrage_E",
+            "Uid": "Attuned_Defiant_Barrage_B",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
@@ -305,7 +305,7 @@
           "FlippedEnhancement": null
         },
         {
-          "Level": 15,
+          "Level": 13,
           "IsInherent": false,
           "Enhancement": {
             "Uid": "Attuned_Defiant_Barrage_C",
@@ -320,7 +320,7 @@
           "Level": 15,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Attuned_Defiant_Barrage_B",
+            "Uid": "Attuned_Defiant_Barrage_D",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
@@ -329,10 +329,10 @@
           "FlippedEnhancement": null
         },
         {
-          "Level": 21,
+          "Level": 15,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Attuned_Defiant_Barrage_D",
+            "Uid": "Attuned_Defiant_Barrage_E",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
@@ -343,7 +343,7 @@
       ]
     },
     {
-      "PowerName": "Blaster_Ranged.Fire_Blast.Fire_Breath",
+      "PowerName": "Pool.Teleportation.Teleport_Foe",
       "Level": 8,
       "StatInclude": true,
       "ProcInclude": false,
@@ -355,9 +355,9 @@
           "Level": 8,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Attuned_Overwhelming_Force_F",
+            "Uid": "Crafted_Rectified_Reticle_A",
             "Grade": "None",
-            "IoLevel": 49,
+            "IoLevel": 19,
             "RelativeLevel": "Even",
             "Obtained": false
           },
@@ -367,57 +367,9 @@
           "Level": 9,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Crafted_Bombardment_F",
+            "Uid": "Crafted_Rectified_Reticle_C",
             "Grade": "None",
-            "IoLevel": 49,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 11,
-          "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Crafted_Bombardment_A",
-            "Grade": "None",
-            "IoLevel": 49,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 21,
-          "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Crafted_Bombardment_D",
-            "Grade": "None",
-            "IoLevel": 49,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 23,
-          "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Crafted_Annihilation_F",
-            "Grade": "None",
-            "IoLevel": 49,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 23,
-          "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Crafted_Positrons_Blast_D",
-            "Grade": "None",
-            "IoLevel": 49,
+            "IoLevel": 19,
             "RelativeLevel": "Even",
             "Obtained": false
           },
@@ -493,12 +445,12 @@
           "FlippedEnhancement": null
         },
         {
-          "Level": 25,
+          "Level": 21,
           "IsInherent": false,
           "Enhancement": {
             "Uid": "Crafted_Gaussians_Synchronized_FireControl_B",
             "Grade": "None",
-            "IoLevel": 20,
+            "IoLevel": 49,
             "RelativeLevel": "Even",
             "Obtained": false
           },
@@ -552,7 +504,7 @@
           "FlippedEnhancement": null
         },
         {
-          "Level": 27,
+          "Level": 25,
           "IsInherent": false,
           "Enhancement": {
             "Uid": "Crafted_Gladiators_Armor_F",
@@ -611,7 +563,7 @@
           "FlippedEnhancement": null
         },
         {
-          "Level": 25,
+          "Level": 21,
           "IsInherent": false,
           "Enhancement": {
             "Uid": "Crafted_Kismet_D",
@@ -623,7 +575,7 @@
           "FlippedEnhancement": null
         },
         {
-          "Level": 27,
+          "Level": 23,
           "IsInherent": false,
           "Enhancement": {
             "Uid": "Crafted_Luck_of_the_Gambler_F",
@@ -705,7 +657,7 @@
           "FlippedEnhancement": null
         },
         {
-          "Level": 29,
+          "Level": 25,
           "IsInherent": false,
           "Enhancement": {
             "Uid": "Crafted_Preventive_Medicine_A",
@@ -719,7 +671,7 @@
       ]
     },
     {
-      "PowerName": "Pool.Teleportation.Teleport_Foe",
+      "PowerName": "Pool.Teleportation.Teleport",
       "Level": 24,
       "StatInclude": true,
       "ProcInclude": false,
@@ -731,21 +683,9 @@
           "Level": 24,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Crafted_Rectified_Reticle_A",
+            "Uid": "Crafted_Winters_Gift_C",
             "Grade": "None",
-            "IoLevel": 19,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 29,
-          "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Crafted_Rectified_Reticle_C",
-            "Grade": "None",
-            "IoLevel": 19,
+            "IoLevel": 49,
             "RelativeLevel": "Even",
             "Obtained": false
           },
@@ -754,7 +694,7 @@
       ]
     },
     {
-      "PowerName": "Pool.Teleportation.Teleport",
+      "PowerName": "Blaster_Ranged.Fire_Blast.Inferno",
       "Level": 26,
       "StatInclude": true,
       "ProcInclude": false,
@@ -766,9 +706,69 @@
           "Level": 26,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Crafted_Winters_Gift_C",
+            "Uid": "Crafted_Sciroccos_Dervish_F",
             "Grade": "None",
             "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 27,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Crafted_Sciroccos_Dervish_A",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 27,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Crafted_Sciroccos_Dervish_B",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 29,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Crafted_Sciroccos_Dervish_D",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 29,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Crafted_Sciroccos_Dervish_C",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 33,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Crafted_Sciroccos_Dervish_E",
+            "Grade": "None",
+            "IoLevel": 29,
             "RelativeLevel": "Even",
             "Obtained": false
           },
@@ -1184,6 +1184,26 @@
           "FlippedEnhancement": null
         }
       ]
+    },
+    {
+      "PowerName": "",
+      "Level": -1,
+      "StatInclude": false,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": []
+    },
+    {
+      "PowerName": "Incarnate.Destiny.Clarion_Core_Epiphany",
+      "Level": 50,
+      "StatInclude": true,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": []
     }
   ]
 }
