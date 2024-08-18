@@ -5,7 +5,7 @@
     "Database": "Homecoming",
     "DatabaseVersion": "2024.8.865"
   },
-  "Level": "26",
+  "Level": "48",
   "Class": "Class_Corruptor",
   "Origin": "Technology",
   "Alignment": "Villain",
@@ -21,7 +21,7 @@
     "Pool.Leaping",
     "Epic.Dark_Mastery"
   ],
-  "LastPower": 26,
+  "LastPower": 27,
   "PowerEntries": [
     {
       "PowerName": "Corruptor_Ranged.Water_Blast.Hydro_Blast",

@@ -5,7 +5,7 @@
     "Database": "Homecoming",
     "DatabaseVersion": "2024.8.865"
   },
-  "Level": "26",
+  "Level": "48",
   "Class": "Class_Blaster",
   "Origin": "Science",
   "Alignment": "Hero",
@@ -21,7 +21,7 @@
     "Pool.Leaping",
     "Epic.Blaster_Mace_Mastery"
   ],
-  "LastPower": 24,
+  "LastPower": 25,
   "PowerEntries": [
     {
       "PowerName": "Blaster_Ranged.Fire_Blast.Fire_Blast",
@@ -747,6 +747,16 @@
       "SlotEntries": []
     },
     {
+      "PowerName": "Inherent.Inherent.Defiance",
+      "Level": 1,
+      "StatInclude": true,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": []
+    },
+    {
       "PowerName": "Inherent.Inherent.Brawl",
       "Level": 1,
       "StatInclude": false,
@@ -762,16 +772,6 @@
           "FlippedEnhancement": null
         }
       ]
-    },
-    {
-      "PowerName": "Inherent.Inherent.Defiance",
-      "Level": 1,
-      "StatInclude": true,
-      "ProcInclude": false,
-      "VariableValue": 0,
-      "InherentSlotsUsed": 0,
-      "SubPowerEntries": [],
-      "SlotEntries": []
     },
     {
       "PowerName": "Inherent.Inherent.Sprint",
@@ -837,29 +837,6 @@
       ]
     },
     {
-      "PowerName": "Inherent.Fitness.Health",
-      "Level": 1,
-      "StatInclude": true,
-      "ProcInclude": false,
-      "VariableValue": 0,
-      "InherentSlotsUsed": 0,
-      "SubPowerEntries": [],
-      "SlotEntries": [
-        {
-          "Level": 1,
-          "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Crafted_Panacea_F",
-            "Grade": "None",
-            "IoLevel": 49,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
-          "FlippedEnhancement": null
-        }
-      ]
-    },
-    {
       "PowerName": "Inherent.Fitness.Hurdle",
       "Level": 1,
       "StatInclude": true,
@@ -875,6 +852,29 @@
             "Uid": "Magic_Jump",
             "Grade": "SingleO",
             "IoLevel": 1,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        }
+      ]
+    },
+    {
+      "PowerName": "Inherent.Fitness.Health",
+      "Level": 1,
+      "StatInclude": true,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": [
+        {
+          "Level": 1,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Crafted_Panacea_F",
+            "Grade": "None",
+            "IoLevel": 49,
             "RelativeLevel": "Even",
             "Obtained": false
           },
@@ -904,16 +904,6 @@
           "FlippedEnhancement": null
         }
       ]
-    },
-    {
-      "PowerName": "",
-      "Level": -1,
-      "StatInclude": false,
-      "ProcInclude": false,
-      "VariableValue": 0,
-      "InherentSlotsUsed": 0,
-      "SubPowerEntries": [],
-      "SlotEntries": []
     }
   ]
 }
