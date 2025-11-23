@@ -15,13 +15,13 @@
     "Tanker_Defense.Psionic_Armor",
     "Tanker_Melee.Dark_Melee",
     "",
-    "Pool.Flight",
     "Pool.Speed",
+    "Pool.Flight",
     "Pool.Teleportation",
     "Pool.Force_of_Will",
-    "Epic.Psionic_Mastery_TankBrute"
+    "Epic.Brute_Soul_Mastery"
   ],
-  "LastPower": 29,
+  "LastPower": 31,
   "PowerEntries": [
     {
       "PowerName": "Tanker_Defense.Psionic_Armor.Psychic_Wall",
@@ -1412,7 +1412,7 @@
       ]
     },
     {
-      "PowerName": "Epic.Psionic_Mastery_TankBrute.Dominate",
+      "PowerName": "Epic.Brute_Soul_Mastery.Gloom",
       "Level": 47,
       "StatInclude": true,
       "ProcInclude": false,
@@ -1424,7 +1424,7 @@
           "Level": 47,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Superior_Attuned_Entomb_F",
+            "Uid": "Superior_Attuned_Winters_Bite_A",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
@@ -1436,7 +1436,7 @@
           "Level": 48,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Superior_Attuned_Entomb_A",
+            "Uid": "Superior_Attuned_Winters_Bite_C",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
@@ -1447,7 +1447,7 @@
       ]
     },
     {
-      "PowerName": "Epic.Psionic_Mastery_TankBrute.Harmonic_Mind",
+      "PowerName": "Epic.Brute_Soul_Mastery.Darkest_Night",
       "Level": 49,
       "StatInclude": true,
       "ProcInclude": false,
@@ -1459,9 +1459,9 @@
           "Level": 49,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Crafted_Performance_Shifter_F",
-            "Grade": "None",
-            "IoLevel": 49,
+            "Uid": "Hamidon_DeBuff_Endurance_Discount",
+            "Grade": "SingleO",
+            "IoLevel": 1,
             "RelativeLevel": "Even",
             "Obtained": false
           },
