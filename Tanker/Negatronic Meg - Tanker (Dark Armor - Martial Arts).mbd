@@ -1,9 +1,9 @@
 {
   "BuiltWith": {
-    "App": "Mids' Reborn",
-    "Version": "3.7.4.9",
+    "App": "Mids Reborn",
+    "Version": "3.7.15.1",
     "Database": "Homecoming",
-    "DatabaseVersion": "2024.5.759"
+    "DatabaseVersion": "2025.11.1232"
   },
   "Level": "49",
   "Class": "Class_Tanker",
@@ -21,7 +21,7 @@
     "Pool.Leadership",
     "Epic.Energy_Mastery"
   ],
-  "LastPower": 24,
+  "LastPower": 25,
   "PowerEntries": [
     {
       "PowerName": "Tanker_Defense.Dark_Armor.Dark_Embrace",
@@ -1086,9 +1086,9 @@
       ]
     },
     {
-      "PowerName": "Epic.Energy_Mastery.Conserve_Power",
+      "PowerName": "Epic.Energy_Mastery.Focused_Accuracy",
       "Level": 35,
-      "StatInclude": false,
+      "StatInclude": true,
       "ProcInclude": false,
       "VariableValue": 0,
       "InherentSlotsUsed": 0,
@@ -1098,7 +1098,7 @@
           "Level": 35,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Crafted_Recharge",
+            "Uid": "Crafted_Gaussians_Synchronized_FireControl_F",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
@@ -1110,7 +1110,7 @@
           "Level": 36,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Crafted_Recharge",
+            "Uid": "Crafted_Gaussians_Synchronized_FireControl_E",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
@@ -1311,8 +1311,8 @@
     {
       "PowerName": "Tanker_Defense.Dark_Armor.Soul_Transfer",
       "Level": 49,
-      "StatInclude": true,
-      "ProcInclude": false,
+      "StatInclude": false,
+      "ProcInclude": true,
       "VariableValue": 0,
       "InherentSlotsUsed": 0,
       "SubPowerEntries": [],
@@ -1561,9 +1561,9 @@
       "SlotEntries": []
     },
     {
-      "PowerName": "Incarnate.Destiny.Clarion_Radial_Epiphany",
-      "Level": 50,
-      "StatInclude": true,
+      "PowerName": "",
+      "Level": -1,
+      "StatInclude": false,
       "ProcInclude": false,
       "VariableValue": 0,
       "InherentSlotsUsed": 0,
@@ -1572,6 +1572,66 @@
     },
     {
       "PowerName": "Incarnate.Hybrid.Support_Genome_9",
+      "Level": 50,
+      "StatInclude": false,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": []
+    },
+    {
+      "PowerName": "Inherent.Inherent.Special_Set_Bonuses",
+      "Level": 1,
+      "StatInclude": true,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": []
+    },
+    {
+      "PowerName": "",
+      "Level": -1,
+      "StatInclude": false,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": []
+    },
+    {
+      "PowerName": "",
+      "Level": -1,
+      "StatInclude": false,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": []
+    },
+    {
+      "PowerName": "",
+      "Level": -1,
+      "StatInclude": false,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": []
+    },
+    {
+      "PowerName": "",
+      "Level": -1,
+      "StatInclude": false,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": []
+    },
+    {
+      "PowerName": "Incarnate.Destiny.Clarion_Radial_Epiphany",
       "Level": 50,
       "StatInclude": true,
       "ProcInclude": false,
