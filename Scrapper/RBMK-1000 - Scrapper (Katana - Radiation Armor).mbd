@@ -1,9 +1,9 @@
 {
   "BuiltWith": {
-    "App": "Mids' Reborn",
-    "Version": "3.7.4.9",
+    "App": "Mids Reborn",
+    "Version": "3.7.15.1",
     "Database": "Homecoming",
-    "DatabaseVersion": "2024.5.759"
+    "DatabaseVersion": "2025.11.1232"
   },
   "Level": "48",
   "Class": "Class_Scrapper",
@@ -19,9 +19,9 @@
     "Pool.Speed",
     "Pool.Fighting",
     "Pool.Flight",
-    "Epic.Scrapper_Mace_Mastery"
+    "Epic.Body_Mastery"
   ],
-  "LastPower": 24,
+  "LastPower": 25,
   "PowerEntries": [
     {
       "PowerName": "Scrapper_Melee.Katana.Hack",
@@ -79,7 +79,7 @@
       "Level": 4,
       "StatInclude": true,
       "ProcInclude": false,
-      "VariableValue": 100,
+      "VariableValue": 0,
       "InherentSlotsUsed": 0,
       "SubPowerEntries": [],
       "SlotEntries": [
@@ -330,7 +330,7 @@
       ]
     },
     {
-      "PowerName": "Epic.Scrapper_Mace_Mastery.Mace_Blast",
+      "PowerName": "Epic.Body_Mastery.Focused_Accuracy",
       "Level": 35,
       "StatInclude": false,
       "ProcInclude": false,
@@ -347,7 +347,7 @@
       ]
     },
     {
-      "PowerName": "Epic.Scrapper_Mace_Mastery.Mace_Beam",
+      "PowerName": "Epic.Body_Mastery.Laser_Beam_Eyes",
       "Level": 38,
       "StatInclude": false,
       "ProcInclude": false,
@@ -364,9 +364,9 @@
       ]
     },
     {
-      "PowerName": "Epic.Scrapper_Mace_Mastery.Disruptor_Blast",
+      "PowerName": "Epic.Body_Mastery.Physical_Perfection",
       "Level": 41,
-      "StatInclude": false,
+      "StatInclude": true,
       "ProcInclude": false,
       "VariableValue": 0,
       "InherentSlotsUsed": 0,
@@ -432,6 +432,16 @@
       ]
     },
     {
+      "PowerName": "Inherent.Inherent.Critical_Hit",
+      "Level": 1,
+      "StatInclude": true,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": []
+    },
+    {
       "PowerName": "Inherent.Inherent.Brawl",
       "Level": 1,
       "StatInclude": false,
@@ -447,16 +457,6 @@
           "FlippedEnhancement": null
         }
       ]
-    },
-    {
-      "PowerName": "Inherent.Inherent.Critical_Hit",
-      "Level": 1,
-      "StatInclude": true,
-      "ProcInclude": false,
-      "VariableValue": 0,
-      "InherentSlotsUsed": 0,
-      "SubPowerEntries": [],
-      "SlotEntries": []
     },
     {
       "PowerName": "Inherent.Inherent.Sprint",
@@ -510,7 +510,7 @@
       ]
     },
     {
-      "PowerName": "Inherent.Fitness.Health",
+      "PowerName": "Inherent.Fitness.Hurdle",
       "Level": 1,
       "StatInclude": true,
       "ProcInclude": false,
@@ -527,7 +527,7 @@
       ]
     },
     {
-      "PowerName": "Inherent.Fitness.Hurdle",
+      "PowerName": "Inherent.Fitness.Health",
       "Level": 1,
       "StatInclude": true,
       "ProcInclude": false,
@@ -561,9 +561,19 @@
       ]
     },
     {
-      "PowerName": "Inherent.Inherent.Fast_Snipe",
-      "Level": 49,
+      "PowerName": "",
+      "Level": -1,
       "StatInclude": false,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": []
+    },
+    {
+      "PowerName": "Inherent.Inherent.Special_Set_Bonuses",
+      "Level": 1,
+      "StatInclude": true,
       "ProcInclude": false,
       "VariableValue": 0,
       "InherentSlotsUsed": 0,
