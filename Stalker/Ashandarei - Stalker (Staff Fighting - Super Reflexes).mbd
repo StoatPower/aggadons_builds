@@ -21,7 +21,7 @@
     "Pool.Leadership",
     "Epic.Body_Mastery_Stalker"
   ],
-  "LastPower": 24,
+  "LastPower": 25,
   "PowerEntries": [
     {
       "PowerName": "Stalker_Melee.Staff_Fighting.Mercurial_Blow",
@@ -1356,16 +1356,6 @@
       ]
     },
     {
-      "PowerName": "Inherent.Inherent.Special_Set_Bonuses",
-      "Level": 1,
-      "StatInclude": true,
-      "ProcInclude": false,
-      "VariableValue": 0,
-      "InherentSlotsUsed": 0,
-      "SubPowerEntries": [],
-      "SlotEntries": []
-    },
-    {
       "PowerName": "Inherent.Inherent.Assassination",
       "Level": 1,
       "StatInclude": false,
@@ -1456,6 +1446,29 @@
       ]
     },
     {
+      "PowerName": "Inherent.Fitness.Hurdle",
+      "Level": 1,
+      "StatInclude": true,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": [
+        {
+          "Level": 1,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Crafted_Jump",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        }
+      ]
+    },
+    {
       "PowerName": "Inherent.Fitness.Health",
       "Level": 1,
       "StatInclude": true,
@@ -1481,29 +1494,6 @@
           "IsInherent": false,
           "Enhancement": {
             "Uid": "Crafted_Preventive_Medicine_F",
-            "Grade": "None",
-            "IoLevel": 49,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
-          "FlippedEnhancement": null
-        }
-      ]
-    },
-    {
-      "PowerName": "Inherent.Fitness.Hurdle",
-      "Level": 1,
-      "StatInclude": true,
-      "ProcInclude": false,
-      "VariableValue": 0,
-      "InherentSlotsUsed": 0,
-      "SubPowerEntries": [],
-      "SlotEntries": [
-        {
-          "Level": 1,
-          "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Crafted_Jump",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
@@ -1579,49 +1569,9 @@
       "SlotEntries": []
     },
     {
-      "PowerName": "",
-      "Level": -1,
-      "StatInclude": false,
-      "ProcInclude": false,
-      "VariableValue": 0,
-      "InherentSlotsUsed": 0,
-      "SubPowerEntries": [],
-      "SlotEntries": []
-    },
-    {
-      "PowerName": "",
-      "Level": -1,
-      "StatInclude": false,
-      "ProcInclude": false,
-      "VariableValue": 0,
-      "InherentSlotsUsed": 0,
-      "SubPowerEntries": [],
-      "SlotEntries": []
-    },
-    {
-      "PowerName": "",
-      "Level": -1,
-      "StatInclude": false,
-      "ProcInclude": false,
-      "VariableValue": 0,
-      "InherentSlotsUsed": 0,
-      "SubPowerEntries": [],
-      "SlotEntries": []
-    },
-    {
-      "PowerName": "",
-      "Level": -1,
-      "StatInclude": false,
-      "ProcInclude": false,
-      "VariableValue": 0,
-      "InherentSlotsUsed": 0,
-      "SubPowerEntries": [],
-      "SlotEntries": []
-    },
-    {
-      "PowerName": "",
-      "Level": -1,
-      "StatInclude": false,
+      "PowerName": "Inherent.Inherent.Special_Set_Bonuses",
+      "Level": 1,
+      "StatInclude": true,
       "ProcInclude": false,
       "VariableValue": 0,
       "InherentSlotsUsed": 0,
@@ -1669,158 +1619,8 @@
       "SlotEntries": []
     },
     {
-      "PowerName": "",
-      "Level": -1,
-      "StatInclude": false,
-      "ProcInclude": false,
-      "VariableValue": 0,
-      "InherentSlotsUsed": 0,
-      "SubPowerEntries": [],
-      "SlotEntries": []
-    },
-    {
-      "PowerName": "",
-      "Level": -1,
-      "StatInclude": false,
-      "ProcInclude": false,
-      "VariableValue": 0,
-      "InherentSlotsUsed": 0,
-      "SubPowerEntries": [],
-      "SlotEntries": []
-    },
-    {
-      "PowerName": "",
-      "Level": -1,
-      "StatInclude": false,
-      "ProcInclude": false,
-      "VariableValue": 0,
-      "InherentSlotsUsed": 0,
-      "SubPowerEntries": [],
-      "SlotEntries": []
-    },
-    {
-      "PowerName": "",
-      "Level": -1,
-      "StatInclude": false,
-      "ProcInclude": false,
-      "VariableValue": 0,
-      "InherentSlotsUsed": 0,
-      "SubPowerEntries": [],
-      "SlotEntries": []
-    },
-    {
-      "PowerName": "",
-      "Level": -1,
-      "StatInclude": false,
-      "ProcInclude": false,
-      "VariableValue": 0,
-      "InherentSlotsUsed": 0,
-      "SubPowerEntries": [],
-      "SlotEntries": []
-    },
-    {
-      "PowerName": "",
-      "Level": -1,
-      "StatInclude": false,
-      "ProcInclude": false,
-      "VariableValue": 0,
-      "InherentSlotsUsed": 0,
-      "SubPowerEntries": [],
-      "SlotEntries": []
-    },
-    {
-      "PowerName": "",
-      "Level": -1,
-      "StatInclude": false,
-      "ProcInclude": false,
-      "VariableValue": 0,
-      "InherentSlotsUsed": 0,
-      "SubPowerEntries": [],
-      "SlotEntries": []
-    },
-    {
-      "PowerName": "",
-      "Level": -1,
-      "StatInclude": false,
-      "ProcInclude": false,
-      "VariableValue": 0,
-      "InherentSlotsUsed": 0,
-      "SubPowerEntries": [],
-      "SlotEntries": []
-    },
-    {
-      "PowerName": "",
-      "Level": -1,
-      "StatInclude": false,
-      "ProcInclude": false,
-      "VariableValue": 0,
-      "InherentSlotsUsed": 0,
-      "SubPowerEntries": [],
-      "SlotEntries": []
-    },
-    {
       "PowerName": "Incarnate.Destiny.Barrier_Core_Epiphany",
       "Level": 50,
-      "StatInclude": false,
-      "ProcInclude": false,
-      "VariableValue": 0,
-      "InherentSlotsUsed": 0,
-      "SubPowerEntries": [],
-      "SlotEntries": []
-    },
-    {
-      "PowerName": "",
-      "Level": -1,
-      "StatInclude": false,
-      "ProcInclude": false,
-      "VariableValue": 0,
-      "InherentSlotsUsed": 0,
-      "SubPowerEntries": [],
-      "SlotEntries": []
-    },
-    {
-      "PowerName": "",
-      "Level": -1,
-      "StatInclude": false,
-      "ProcInclude": false,
-      "VariableValue": 0,
-      "InherentSlotsUsed": 0,
-      "SubPowerEntries": [],
-      "SlotEntries": []
-    },
-    {
-      "PowerName": "",
-      "Level": -1,
-      "StatInclude": false,
-      "ProcInclude": false,
-      "VariableValue": 0,
-      "InherentSlotsUsed": 0,
-      "SubPowerEntries": [],
-      "SlotEntries": []
-    },
-    {
-      "PowerName": "",
-      "Level": -1,
-      "StatInclude": false,
-      "ProcInclude": false,
-      "VariableValue": 0,
-      "InherentSlotsUsed": 0,
-      "SubPowerEntries": [],
-      "SlotEntries": []
-    },
-    {
-      "PowerName": "",
-      "Level": -1,
-      "StatInclude": false,
-      "ProcInclude": false,
-      "VariableValue": 0,
-      "InherentSlotsUsed": 0,
-      "SubPowerEntries": [],
-      "SlotEntries": []
-    },
-    {
-      "PowerName": "",
-      "Level": -1,
       "StatInclude": false,
       "ProcInclude": false,
       "VariableValue": 0,
