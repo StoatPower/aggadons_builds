@@ -21,7 +21,7 @@
     "Pool.Fighting",
     "Epic.Brute_Mu_Mastery"
   ],
-  "LastPower": 25,
+  "LastPower": 26,
   "PowerEntries": [
     {
       "PowerName": "Brute_Melee.War_Mace.Pulverize",
