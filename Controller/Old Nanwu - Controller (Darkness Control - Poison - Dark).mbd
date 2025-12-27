@@ -1,9 +1,9 @@
 {
   "BuiltWith": {
     "App": "Mids Reborn",
-    "Version": "3.7.15.1",
+    "Version": "3.8.0.0",
     "Database": "Homecoming",
-    "DatabaseVersion": "2025.11.1232"
+    "DatabaseVersion": "2025.12.1240"
   },
   "Level": "49",
   "Class": "Class_Controller",
@@ -21,7 +21,7 @@
     "Pool.Fighting",
     "Epic.Dark_Mastery_Controller"
   ],
-  "LastPower": 29,
+  "LastPower": 30,
   "PowerEntries": [
     {
       "PowerName": "Controller_Control.Darkness_Control.Dark_Grasp",
@@ -1578,16 +1578,6 @@
       "PowerName": "Inherent.Inherent.Special_Set_Bonuses",
       "Level": 1,
       "StatInclude": true,
-      "ProcInclude": false,
-      "VariableValue": 0,
-      "InherentSlotsUsed": 0,
-      "SubPowerEntries": [],
-      "SlotEntries": []
-    },
-    {
-      "PowerName": "",
-      "Level": -1,
-      "StatInclude": false,
       "ProcInclude": false,
       "VariableValue": 0,
       "InherentSlotsUsed": 0,

@@ -1,9 +1,9 @@
 {
   "BuiltWith": {
-    "App": "Mids' Reborn",
-    "Version": "3.7.4.9",
+    "App": "Mids Reborn",
+    "Version": "3.8.0.0",
     "Database": "Homecoming",
-    "DatabaseVersion": "2024.5.759"
+    "DatabaseVersion": "2025.12.1240"
   },
   "Level": "48",
   "Class": "Class_Defender",
@@ -16,12 +16,12 @@
     "Defender_Ranged.Dual_Pistols",
     "",
     "Pool.Speed",
-    "Pool.Flight",
+    "Pool.Leaping",
     "Pool.Leadership",
     "Pool.Experimentation",
-    "Epic.Corruptor_Soul_Mastery"
+    "Epic.Corruptor_Mace_Mastery"
   ],
-  "LastPower": 25,
+  "LastPower": 26,
   "PowerEntries": [
     {
       "PowerName": "Defender_Buff.Trick_Arrow.Entangling_Arrow",
@@ -204,7 +204,7 @@
       ]
     },
     {
-      "PowerName": "Pool.Flight.Combat_Flight",
+      "PowerName": "Pool.Leaping.Combat_Jumping",
       "Level": 20,
       "StatInclude": false,
       "ProcInclude": false,
@@ -340,7 +340,7 @@
       ]
     },
     {
-      "PowerName": "Epic.Corruptor_Soul_Mastery.Dark_Embrace",
+      "PowerName": "Pool.Leadership.Assault",
       "Level": 38,
       "StatInclude": false,
       "ProcInclude": false,
@@ -374,7 +374,7 @@
       ]
     },
     {
-      "PowerName": "Epic.Corruptor_Soul_Mastery.Power_Boost",
+      "PowerName": "Epic.Corruptor_Mace_Mastery.Scorpion_Shield",
       "Level": 44,
       "StatInclude": false,
       "ProcInclude": false,
@@ -577,6 +577,16 @@
       "PowerName": "Defender_Ranged.Dual_Pistols.Incendiary_Ammunition",
       "Level": 10,
       "StatInclude": false,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": []
+    },
+    {
+      "PowerName": "Inherent.Inherent.Special_Set_Bonuses",
+      "Level": 1,
+      "StatInclude": true,
       "ProcInclude": false,
       "VariableValue": 0,
       "InherentSlotsUsed": 0,

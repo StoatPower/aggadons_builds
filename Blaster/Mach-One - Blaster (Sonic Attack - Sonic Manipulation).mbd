@@ -1,9 +1,9 @@
 {
   "BuiltWith": {
     "App": "Mids Reborn",
-    "Version": "3.7.15.1",
+    "Version": "3.8.0.0",
     "Database": "Homecoming",
-    "DatabaseVersion": "2025.11.1232"
+    "DatabaseVersion": "2025.12.1240"
   },
   "Level": "49",
   "Class": "Class_Blaster",
@@ -21,7 +21,7 @@
     "Pool.Experimentation",
     "Epic.Blaster_Mace_Mastery"
   ],
-  "LastPower": 27,
+  "LastPower": 28,
   "PowerEntries": [
     {
       "PowerName": "Blaster_Ranged.Sonic_Attack.Scream",

@@ -1,9 +1,9 @@
 {
   "BuiltWith": {
     "App": "Mids Reborn",
-    "Version": "3.7.15.1",
+    "Version": "3.8.0.0",
     "Database": "Homecoming",
-    "DatabaseVersion": "2025.11.1232"
+    "DatabaseVersion": "2025.12.1240"
   },
   "Level": "49",
   "Class": "Class_Tanker",
@@ -17,11 +17,11 @@
     "",
     "Pool.Speed",
     "Pool.Flight",
-    "Pool.Flight",
     "Pool.Teleportation",
+    "Pool.Sorcery",
     "Epic.Brute_Soul_Mastery"
   ],
-  "LastPower": 32,
+  "LastPower": 33,
   "PowerEntries": [
     {
       "PowerName": "Tanker_Defense.Psionic_Armor.Psychic_Wall",
@@ -156,6 +156,18 @@
           "IsInherent": false,
           "Enhancement": {
             "Uid": "Crafted_Touch_of_Death_D",
+            "Grade": "None",
+            "IoLevel": 39,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 48,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Crafted_Touch_of_Death_E",
             "Grade": "None",
             "IoLevel": 39,
             "RelativeLevel": "Even",
@@ -929,7 +941,7 @@
           "Level": 25,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Crafted_Winters_Gift_B",
+            "Uid": "Crafted_Winters_Gift_C",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
@@ -941,7 +953,7 @@
           "Level": 36,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Crafted_Winters_Gift_C",
+            "Uid": "Crafted_Winters_Gift_A",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
@@ -1137,7 +1149,7 @@
           "Level": 45,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Attuned_Overwhelming_Force_F",
+            "Uid": "Crafted_Obliteration_A",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
@@ -1396,8 +1408,8 @@
     {
       "PowerName": "Pool.Flight.Fly",
       "Level": 47,
-      "StatInclude": true,
-      "ProcInclude": false,
+      "StatInclude": false,
+      "ProcInclude": true,
       "VariableValue": 0,
       "InherentSlotsUsed": 0,
       "SubPowerEntries": [],
@@ -1419,7 +1431,7 @@
     {
       "PowerName": "Pool.Flight.Evasive_Maneuvers",
       "Level": 49,
-      "StatInclude": true,
+      "StatInclude": false,
       "ProcInclude": false,
       "VariableValue": 0,
       "InherentSlotsUsed": 0,
@@ -1657,6 +1669,16 @@
       "SlotEntries": []
     },
     {
+      "PowerName": "",
+      "Level": -1,
+      "StatInclude": false,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": []
+    },
+    {
       "PowerName": "Incarnate.Alpha.Resilient_Radial_Paragon",
       "Level": 50,
       "StatInclude": true,
@@ -1711,7 +1733,7 @@
       "Level": 50,
       "StatInclude": false,
       "ProcInclude": false,
-      "VariableValue": 1,
+      "VariableValue": 10,
       "InherentSlotsUsed": 0,
       "SubPowerEntries": [],
       "SlotEntries": []
@@ -1750,6 +1772,16 @@
       "PowerName": "Temporary_Powers.Accolades.Task_Force_Commander",
       "Level": 50,
       "StatInclude": true,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": []
+    },
+    {
+      "PowerName": "",
+      "Level": -1,
+      "StatInclude": false,
       "ProcInclude": false,
       "VariableValue": 0,
       "InherentSlotsUsed": 0,
