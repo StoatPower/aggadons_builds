@@ -5,26 +5,26 @@
     "Database": "Homecoming",
     "DatabaseVersion": "2025.11.1232"
   },
-  "Level": "48",
-  "Class": "Class_Defender",
-  "Origin": "Science",
-  "Alignment": "Hero",
-  "Name": "Apex 9",
+  "Level": "49",
+  "Class": "Class_Dominator",
+  "Origin": "Magic",
+  "Alignment": "Villain",
+  "Name": "Xaelithis",
   "Comment": "",
   "PowerSets": [
-    "Defender_Buff.Trick_Arrow",
-    "Defender_Ranged.Dual_Pistols",
+    "Dominator_Control.Mind_Control",
+    "Dominator_Assault.Psionic_Assault",
     "",
-    "Pool.Speed",
     "Pool.Leaping",
-    "Pool.Leadership",
-    "Pool.Experimentation",
-    "Epic.Corruptor_Mace_Mastery"
+    "Pool.Speed",
+    "Pool.Fighting",
+    "Pool.Flight",
+    "Epic.Psionic_Mastery_Domingator"
   ],
-  "LastPower": 27,
+  "LastPower": 26,
   "PowerEntries": [
     {
-      "PowerName": "Defender_Buff.Trick_Arrow.Entangling_Arrow",
+      "PowerName": "Dominator_Control.Mind_Control.Mesmerize",
       "Level": 1,
       "StatInclude": true,
       "ProcInclude": false,
@@ -34,382 +34,6 @@
       "SlotEntries": [
         {
           "Level": 1,
-          "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Hamidon_Damage_Mez",
-            "Grade": "SingleO",
-            "IoLevel": 1,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
-          "FlippedEnhancement": null
-        }
-      ]
-    },
-    {
-      "PowerName": "Defender_Ranged.Dual_Pistols.Dual_Wield",
-      "Level": 1,
-      "StatInclude": true,
-      "ProcInclude": false,
-      "VariableValue": 0,
-      "InherentSlotsUsed": 0,
-      "SubPowerEntries": [],
-      "SlotEntries": [
-        {
-          "Level": 1,
-          "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Superior_Attuned_Superior_Vigilant_Assault_F",
-            "Grade": "None",
-            "IoLevel": 49,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 3,
-          "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Superior_Attuned_Superior_Vigilant_Assault_A",
-            "Grade": "None",
-            "IoLevel": 49,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 3,
-          "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Superior_Attuned_Superior_Vigilant_Assault_B",
-            "Grade": "None",
-            "IoLevel": 49,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 46,
-          "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Superior_Attuned_Superior_Vigilant_Assault_C",
-            "Grade": "None",
-            "IoLevel": 49,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 47,
-          "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Superior_Attuned_Superior_Vigilant_Assault_D",
-            "Grade": "None",
-            "IoLevel": 49,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 47,
-          "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Superior_Attuned_Superior_Vigilant_Assault_E",
-            "Grade": "None",
-            "IoLevel": 49,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
-          "FlippedEnhancement": null
-        }
-      ]
-    },
-    {
-      "PowerName": "Defender_Buff.Trick_Arrow.Flash_Arrow",
-      "Level": 2,
-      "StatInclude": true,
-      "ProcInclude": false,
-      "VariableValue": 0,
-      "InherentSlotsUsed": 0,
-      "SubPowerEntries": [],
-      "SlotEntries": [
-        {
-          "Level": 2,
-          "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Crafted_Siphon_Insight_F",
-            "Grade": "None",
-            "IoLevel": 49,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 13,
-          "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Crafted_Siphon_Insight_A",
-            "Grade": "None",
-            "IoLevel": 49,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 48,
-          "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Crafted_Siphon_Insight_B",
-            "Grade": "None",
-            "IoLevel": 49,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 48,
-          "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Crafted_Siphon_Insight_D",
-            "Grade": "None",
-            "IoLevel": 49,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 49,
-          "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Crafted_Siphon_Insight_E",
-            "Grade": "None",
-            "IoLevel": 49,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
-          "FlippedEnhancement": null
-        }
-      ]
-    },
-    {
-      "PowerName": "Defender_Ranged.Dual_Pistols.Empty_Clips",
-      "Level": 4,
-      "StatInclude": true,
-      "ProcInclude": false,
-      "VariableValue": 0,
-      "InherentSlotsUsed": 0,
-      "SubPowerEntries": [],
-      "SlotEntries": [
-        {
-          "Level": 4,
-          "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Superior_Attuned_Superior_Defenders_Bastion_F",
-            "Grade": "None",
-            "IoLevel": 49,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 5,
-          "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Superior_Attuned_Superior_Defenders_Bastion_A",
-            "Grade": "None",
-            "IoLevel": 49,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 5,
-          "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Superior_Attuned_Superior_Defenders_Bastion_B",
-            "Grade": "None",
-            "IoLevel": 49,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 7,
-          "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Superior_Attuned_Superior_Defenders_Bastion_C",
-            "Grade": "None",
-            "IoLevel": 49,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 11,
-          "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Superior_Attuned_Superior_Defenders_Bastion_D",
-            "Grade": "None",
-            "IoLevel": 49,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 13,
-          "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Superior_Attuned_Superior_Defenders_Bastion_E",
-            "Grade": "None",
-            "IoLevel": 49,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
-          "FlippedEnhancement": null
-        }
-      ]
-    },
-    {
-      "PowerName": "Defender_Buff.Trick_Arrow.Glue_Arrow",
-      "Level": 6,
-      "StatInclude": true,
-      "ProcInclude": false,
-      "VariableValue": 0,
-      "InherentSlotsUsed": 0,
-      "SubPowerEntries": [],
-      "SlotEntries": [
-        {
-          "Level": 6,
-          "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Hamidon_Slow_Recharge_Endurance_Discount",
-            "Grade": "SingleO",
-            "IoLevel": 1,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 7,
-          "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Hamidon_Slow_Recharge_Endurance_Discount",
-            "Grade": "SingleO",
-            "IoLevel": 1,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
-          "FlippedEnhancement": null
-        }
-      ]
-    },
-    {
-      "PowerName": "Defender_Buff.Trick_Arrow.Ice_Arrow",
-      "Level": 8,
-      "StatInclude": true,
-      "ProcInclude": false,
-      "VariableValue": 0,
-      "InherentSlotsUsed": 0,
-      "SubPowerEntries": [],
-      "SlotEntries": [
-        {
-          "Level": 8,
-          "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Crafted_Lockdown_F",
-            "Grade": "None",
-            "IoLevel": 49,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 9,
-          "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Crafted_Lockdown_A",
-            "Grade": "None",
-            "IoLevel": 49,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 9,
-          "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Crafted_Lockdown_E",
-            "Grade": "None",
-            "IoLevel": 49,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 11,
-          "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Crafted_Lockdown_B",
-            "Grade": "None",
-            "IoLevel": 49,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 25,
-          "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Crafted_Lockdown_C",
-            "Grade": "None",
-            "IoLevel": 49,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
-          "FlippedEnhancement": null
-        }
-      ]
-    },
-    {
-      "PowerName": "Defender_Ranged.Dual_Pistols.Swap_Ammo",
-      "Level": 10,
-      "StatInclude": true,
-      "ProcInclude": false,
-      "VariableValue": 0,
-      "InherentSlotsUsed": 0,
-      "SubPowerEntries": [],
-      "SlotEntries": []
-    },
-    {
-      "PowerName": "Defender_Buff.Trick_Arrow.Poison_Gas_Arrow",
-      "Level": 12,
-      "StatInclude": true,
-      "ProcInclude": false,
-      "VariableValue": 0,
-      "InherentSlotsUsed": 0,
-      "SubPowerEntries": [],
-      "SlotEntries": [
-        {
-          "Level": 12,
           "IsInherent": false,
           "Enhancement": {
             "Uid": "Hamidon_Accuracy_Mez",
@@ -423,7 +47,384 @@
       ]
     },
     {
-      "PowerName": "Defender_Buff.Trick_Arrow.Acid_Arrow",
+      "PowerName": "Dominator_Assault.Psionic_Assault.Mind_Probe",
+      "Level": 1,
+      "StatInclude": true,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": [
+        {
+          "Level": 1,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Superior_Attuned_Blistering_Cold_F",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 43,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Superior_Attuned_Blistering_Cold_A",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 45,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Superior_Attuned_Blistering_Cold_B",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 45,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Superior_Attuned_Blistering_Cold_C",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 45,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Superior_Attuned_Blistering_Cold_D",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 46,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Superior_Attuned_Blistering_Cold_E",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        }
+      ]
+    },
+    {
+      "PowerName": "Dominator_Control.Mind_Control.Levitate",
+      "Level": 2,
+      "StatInclude": true,
+      "ProcInclude": true,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": [
+        {
+          "Level": 2,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Crafted_Force_Feedback_F",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 3,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Crafted_Force_Feedback_A",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        }
+      ]
+    },
+    {
+      "PowerName": "Dominator_Control.Mind_Control.Dominate",
+      "Level": 4,
+      "StatInclude": true,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": [
+        {
+          "Level": 4,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Crafted_Unbreakable_Constraint_F",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 5,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Crafted_Unbreakable_Constraint_A",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 5,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Crafted_Unbreakable_Constraint_C",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        }
+      ]
+    },
+    {
+      "PowerName": "Dominator_Assault.Psionic_Assault.Telekinetic_Thrust",
+      "Level": 6,
+      "StatInclude": true,
+      "ProcInclude": true,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": [
+        {
+          "Level": 6,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Crafted_Force_Feedback_F",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 7,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Crafted_Force_Feedback_A",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 7,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Crafted_Force_Feedback_B",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 9,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Crafted_Force_Feedback_C",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 11,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Crafted_Force_Feedback_D",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 11,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Crafted_Force_Feedback_E",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        }
+      ]
+    },
+    {
+      "PowerName": "Dominator_Control.Mind_Control.Mass_Hypnosis",
+      "Level": 8,
+      "StatInclude": true,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": [
+        {
+          "Level": 8,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Hamidon_Accuracy_Mez",
+            "Grade": "SingleO",
+            "IoLevel": 1,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        }
+      ]
+    },
+    {
+      "PowerName": "Pool.Leaping.Combat_Jumping",
+      "Level": 10,
+      "StatInclude": true,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": [
+        {
+          "Level": 10,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Crafted_Luck_of_the_Gambler_F",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        }
+      ]
+    },
+    {
+      "PowerName": "Dominator_Assault.Psionic_Assault.Mental_Blast",
+      "Level": 12,
+      "StatInclude": true,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": [
+        {
+          "Level": 12,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Superior_Attuned_Winters_Bite_F",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 13,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Superior_Attuned_Winters_Bite_A",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 13,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Superior_Attuned_Winters_Bite_B",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 15,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Superior_Attuned_Winters_Bite_C",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 15,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Superior_Attuned_Winters_Bite_D",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 43,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Superior_Attuned_Winters_Bite_E",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        }
+      ]
+    },
+    {
+      "PowerName": "Pool.Speed.Hasten",
       "Level": 14,
       "StatInclude": true,
       "ProcInclude": false,
@@ -435,7 +436,7 @@
           "Level": 14,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Crafted_Analyze_Weakness_F",
+            "Uid": "Crafted_Recharge",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
@@ -444,22 +445,10 @@
           "FlippedEnhancement": null
         },
         {
-          "Level": 15,
+          "Level": 21,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Crafted_Analyze_Weakness_A",
-            "Grade": "None",
-            "IoLevel": 49,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 15,
-          "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Crafted_Analyze_Weakness_B",
+            "Uid": "Crafted_Recharge",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
@@ -470,7 +459,7 @@
       ]
     },
     {
-      "PowerName": "Defender_Ranged.Dual_Pistols.Bullet_Rain",
+      "PowerName": "Dominator_Assault.Psionic_Assault.Psychic_Scream",
       "Level": 16,
       "StatInclude": true,
       "ProcInclude": false,
@@ -515,7 +504,7 @@
           "FlippedEnhancement": null
         },
         {
-          "Level": 19,
+          "Level": 42,
           "IsInherent": false,
           "Enhancement": {
             "Uid": "Superior_Attuned_Frozen_Blast_C",
@@ -527,7 +516,7 @@
           "FlippedEnhancement": null
         },
         {
-          "Level": 21,
+          "Level": 42,
           "IsInherent": false,
           "Enhancement": {
             "Uid": "Superior_Attuned_Frozen_Blast_D",
@@ -539,7 +528,7 @@
           "FlippedEnhancement": null
         },
         {
-          "Level": 21,
+          "Level": 43,
           "IsInherent": false,
           "Enhancement": {
             "Uid": "Superior_Attuned_Frozen_Blast_E",
@@ -553,11 +542,11 @@
       ]
     },
     {
-      "PowerName": "Pool.Speed.Hasten",
+      "PowerName": "Dominator_Control.Mind_Control.Total_Domination",
       "Level": 18,
       "StatInclude": true,
       "ProcInclude": false,
-      "VariableValue": 0,
+      "VariableValue": 16,
       "InherentSlotsUsed": 0,
       "SubPowerEntries": [],
       "SlotEntries": [
@@ -565,7 +554,7 @@
           "Level": 18,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Crafted_Recharge",
+            "Uid": "Superior_Attuned_Superior_Dominating_Grasp_F",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
@@ -577,6 +566,65 @@
           "Level": 19,
           "IsInherent": false,
           "Enhancement": {
+            "Uid": "Superior_Attuned_Superior_Dominating_Grasp_A",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 19,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Superior_Attuned_Superior_Dominating_Grasp_B",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 42,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Superior_Attuned_Superior_Dominating_Grasp_D",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        }
+      ]
+    },
+    {
+      "PowerName": "Dominator_Assault.Psionic_Assault.Drain_Psyche",
+      "Level": 20,
+      "StatInclude": true,
+      "ProcInclude": false,
+      "VariableValue": 10,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": [
+        {
+          "Level": 20,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Crafted_Recharge",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 21,
+          "IsInherent": false,
+          "Enhancement": {
             "Uid": "Crafted_Recharge",
             "Grade": "None",
             "IoLevel": 49,
@@ -588,30 +636,7 @@
       ]
     },
     {
-      "PowerName": "Pool.Leaping.Combat_Jumping",
-      "Level": 20,
-      "StatInclude": true,
-      "ProcInclude": false,
-      "VariableValue": 0,
-      "InherentSlotsUsed": 0,
-      "SubPowerEntries": [],
-      "SlotEntries": [
-        {
-          "Level": 20,
-          "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Crafted_Luck_of_the_Gambler_F",
-            "Grade": "None",
-            "IoLevel": 49,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
-          "FlippedEnhancement": null
-        }
-      ]
-    },
-    {
-      "PowerName": "Defender_Ranged.Dual_Pistols.Suppressive_Fire",
+      "PowerName": "Dominator_Control.Mind_Control.Terrify",
       "Level": 22,
       "StatInclude": true,
       "ProcInclude": false,
@@ -623,7 +648,7 @@
           "Level": 22,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Superior_Attuned_Entomb_F",
+            "Uid": "Superior_Attuned_Superior_Ascendency_of_the_Dominator_F",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
@@ -635,7 +660,7 @@
           "Level": 23,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Superior_Attuned_Entomb_A",
+            "Uid": "Superior_Attuned_Superior_Ascendency_of_the_Dominator_A",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
@@ -647,7 +672,7 @@
           "Level": 23,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Superior_Attuned_Entomb_B",
+            "Uid": "Superior_Attuned_Superior_Ascendency_of_the_Dominator_B",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
@@ -656,10 +681,10 @@
           "FlippedEnhancement": null
         },
         {
-          "Level": 25,
+          "Level": 37,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Superior_Attuned_Entomb_C",
+            "Uid": "Superior_Attuned_Superior_Ascendency_of_the_Dominator_C",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
@@ -668,10 +693,10 @@
           "FlippedEnhancement": null
         },
         {
-          "Level": 43,
+          "Level": 37,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Superior_Attuned_Entomb_D",
+            "Uid": "Superior_Attuned_Superior_Ascendency_of_the_Dominator_D",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
@@ -680,10 +705,10 @@
           "FlippedEnhancement": null
         },
         {
-          "Level": 43,
+          "Level": 40,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Superior_Attuned_Entomb_E",
+            "Uid": "Superior_Attuned_Superior_Ascendency_of_the_Dominator_E",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
@@ -694,7 +719,7 @@
       ]
     },
     {
-      "PowerName": "Defender_Buff.Trick_Arrow.Disruption_Arrow",
+      "PowerName": "Dominator_Assault.Psionic_Assault.Subdue",
       "Level": 24,
       "StatInclude": true,
       "ProcInclude": false,
@@ -706,9 +731,69 @@
           "Level": 24,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Hamidon_Endurance_Modification_Accuracy",
-            "Grade": "SingleO",
-            "IoLevel": 1,
+            "Uid": "Crafted_Decimation_F",
+            "Grade": "None",
+            "IoLevel": 39,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 25,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Crafted_Gravitational_Anchor_F",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 25,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Crafted_Gravitational_Anchor_A",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 34,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Crafted_Gravitational_Anchor_C",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 36,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Crafted_Devastation_F",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 37,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Crafted_Devastation_A",
+            "Grade": "None",
+            "IoLevel": 49,
             "RelativeLevel": "Even",
             "Obtained": false
           },
@@ -717,11 +802,11 @@
       ]
     },
     {
-      "PowerName": "Defender_Buff.Trick_Arrow.Oil_Slick_Arrow",
+      "PowerName": "Dominator_Control.Mind_Control.Mass_Confusion",
       "Level": 26,
       "StatInclude": true,
       "ProcInclude": false,
-      "VariableValue": 1,
+      "VariableValue": 0,
       "InherentSlotsUsed": 0,
       "SubPowerEntries": [],
       "SlotEntries": [
@@ -729,9 +814,9 @@
           "Level": 26,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Crafted_Achilles_Heel_C",
+            "Uid": "Crafted_Coercive_Persuasion_F",
             "Grade": "None",
-            "IoLevel": 19,
+            "IoLevel": 49,
             "RelativeLevel": "Even",
             "Obtained": false
           },
@@ -741,9 +826,9 @@
           "Level": 27,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Crafted_Annihilation_F",
+            "Uid": "Crafted_Coercive_Persuasion_A",
             "Grade": "None",
-            "IoLevel": 19,
+            "IoLevel": 49,
             "RelativeLevel": "Even",
             "Obtained": false
           },
@@ -753,43 +838,7 @@
           "Level": 27,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Crafted_Bombardment_F",
-            "Grade": "None",
-            "IoLevel": 29,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 40,
-          "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Crafted_Bombardment_A",
-            "Grade": "None",
-            "IoLevel": 49,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 40,
-          "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Crafted_Bombardment_D",
-            "Grade": "None",
-            "IoLevel": 49,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 40,
-          "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Crafted_Bombardment_E",
+            "Uid": "Crafted_Coercive_Persuasion_C",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
@@ -800,7 +849,7 @@
       ]
     },
     {
-      "PowerName": "Defender_Ranged.Dual_Pistols.Executioners_Shot",
+      "PowerName": "Dominator_Assault.Psionic_Assault.Psionic_Lance",
       "Level": 28,
       "StatInclude": true,
       "ProcInclude": false,
@@ -812,7 +861,7 @@
           "Level": 28,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Superior_Attuned_Winters_Bite_F",
+            "Uid": "Crafted_Experienced_Marksman_C",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
@@ -824,7 +873,7 @@
           "Level": 29,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Superior_Attuned_Winters_Bite_A",
+            "Uid": "Crafted_Apocalypse_F",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
@@ -836,7 +885,7 @@
           "Level": 29,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Superior_Attuned_Winters_Bite_B",
+            "Uid": "Crafted_Apocalypse_A",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
@@ -845,10 +894,10 @@
           "FlippedEnhancement": null
         },
         {
-          "Level": 39,
+          "Level": 33,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Superior_Attuned_Winters_Bite_C",
+            "Uid": "Crafted_Apocalypse_B",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
@@ -857,10 +906,10 @@
           "FlippedEnhancement": null
         },
         {
-          "Level": 39,
+          "Level": 34,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Superior_Attuned_Winters_Bite_D",
+            "Uid": "Crafted_Apocalypse_E",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
@@ -869,10 +918,10 @@
           "FlippedEnhancement": null
         },
         {
-          "Level": 39,
+          "Level": 34,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Superior_Attuned_Winters_Bite_E",
+            "Uid": "Crafted_Apocalypse_C",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
@@ -883,7 +932,7 @@
       ]
     },
     {
-      "PowerName": "Defender_Buff.Trick_Arrow.EMP_Arrow",
+      "PowerName": "Dominator_Assault.Psionic_Assault.Psychic_Shockwave",
       "Level": 30,
       "StatInclude": true,
       "ProcInclude": false,
@@ -895,7 +944,7 @@
           "Level": 30,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Crafted_Ghost_Widows_Embrace_F",
+            "Uid": "Superior_Attuned_Avalanche_F",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
@@ -907,19 +956,7 @@
           "Level": 31,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Crafted_Neuronic_Shutdown_F",
-            "Grade": "None",
-            "IoLevel": 29,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 31,
-          "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Crafted_Unbreakable_Constraint_F",
+            "Uid": "Superior_Attuned_Avalanche_A",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
@@ -931,7 +968,7 @@
           "Level": 31,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Crafted_Gladiators_Net_F",
+            "Uid": "Superior_Attuned_Avalanche_B",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
@@ -940,10 +977,10 @@
           "FlippedEnhancement": null
         },
         {
-          "Level": 34,
+          "Level": 31,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Crafted_Gladiators_Net_A",
+            "Uid": "Superior_Attuned_Avalanche_C",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
@@ -952,10 +989,22 @@
           "FlippedEnhancement": null
         },
         {
-          "Level": 37,
+          "Level": 33,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Crafted_Gladiators_Net_E",
+            "Uid": "Superior_Attuned_Avalanche_D",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 33,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Superior_Attuned_Avalanche_E",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
@@ -966,10 +1015,10 @@
       ]
     },
     {
-      "PowerName": "Defender_Ranged.Dual_Pistols.Piercing_Rounds",
+      "PowerName": "Pool.Fighting.Kick",
       "Level": 32,
       "StatInclude": true,
-      "ProcInclude": false,
+      "ProcInclude": true,
       "VariableValue": 0,
       "InherentSlotsUsed": 0,
       "SubPowerEntries": [],
@@ -978,67 +1027,7 @@
           "Level": 32,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Crafted_Bombardment_F",
-            "Grade": "None",
-            "IoLevel": 49,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 33,
-          "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Crafted_Bombardment_A",
-            "Grade": "None",
-            "IoLevel": 49,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 33,
-          "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Crafted_Bombardment_B",
-            "Grade": "None",
-            "IoLevel": 49,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 33,
-          "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Crafted_Bombardment_C",
-            "Grade": "None",
-            "IoLevel": 49,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 34,
-          "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Crafted_Bombardment_D",
-            "Grade": "None",
-            "IoLevel": 49,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 34,
-          "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Crafted_Bombardment_E",
+            "Uid": "Crafted_Force_Feedback_F",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
@@ -1049,7 +1038,7 @@
       ]
     },
     {
-      "PowerName": "Defender_Ranged.Dual_Pistols.Hail_of_Bullets",
+      "PowerName": "Epic.Psionic_Mastery_Domingator.Link_Minds",
       "Level": 35,
       "StatInclude": true,
       "ProcInclude": false,
@@ -1061,7 +1050,7 @@
           "Level": 35,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Crafted_Force_Feedback_F",
+            "Uid": "Crafted_Luck_of_the_Gambler_F",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
@@ -1073,7 +1062,7 @@
           "Level": 36,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Crafted_Force_Feedback_A",
+            "Uid": "Crafted_Gaussians_Synchronized_FireControl_F",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
@@ -1085,45 +1074,9 @@
           "Level": 36,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Crafted_Force_Feedback_E",
-            "Grade": "None",
-            "IoLevel": 49,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 36,
-          "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Crafted_Eradication_F",
-            "Grade": "None",
-            "IoLevel": 29,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 37,
-          "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Crafted_Eradication_A",
-            "Grade": "None",
-            "IoLevel": 29,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 37,
-          "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Crafted_Eradication_D",
-            "Grade": "None",
-            "IoLevel": 29,
+            "Uid": "Hamidon_Buff_Recharge",
+            "Grade": "SingleO",
+            "IoLevel": 1,
             "RelativeLevel": "Even",
             "Obtained": false
           },
@@ -1132,7 +1085,7 @@
       ]
     },
     {
-      "PowerName": "Pool.Leadership.Assault",
+      "PowerName": "Epic.Psionic_Mastery_Domingator.Mind_Over_Body",
       "Level": 38,
       "StatInclude": true,
       "ProcInclude": false,
@@ -1144,9 +1097,69 @@
           "Level": 38,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Crafted_Endurance_Discount",
+            "Uid": "Crafted_Unbreakable_Guard_F",
             "Grade": "None",
             "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 39,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Crafted_Unbreakable_Guard_A",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 39,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Crafted_Unbreakable_Guard_B",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 39,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Crafted_Unbreakable_Guard_D",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 40,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Crafted_Steadfast_Protection_B",
+            "Grade": "None",
+            "IoLevel": 29,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 40,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Crafted_Steadfast_Protection_C",
+            "Grade": "None",
+            "IoLevel": 29,
             "RelativeLevel": "Even",
             "Obtained": false
           },
@@ -1155,7 +1168,7 @@
       ]
     },
     {
-      "PowerName": "Pool.Leadership.Defense",
+      "PowerName": "Epic.Psionic_Mastery_Domingator.Indomitable_Will",
       "Level": 41,
       "StatInclude": true,
       "ProcInclude": false,
@@ -1176,46 +1189,10 @@
           "FlippedEnhancement": null
         },
         {
-          "Level": 42,
+          "Level": 47,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Crafted_Reactive_Defenses_F",
-            "Grade": "None",
-            "IoLevel": 49,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 42,
-          "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Crafted_Reactive_Defenses_A",
-            "Grade": "None",
-            "IoLevel": 49,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 42,
-          "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Crafted_Reactive_Defenses_B",
-            "Grade": "None",
-            "IoLevel": 49,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 43,
-          "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Crafted_Reactive_Defenses_D",
+            "Uid": "Crafted_Recharge",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
@@ -1226,7 +1203,7 @@
       ]
     },
     {
-      "PowerName": "Epic.Corruptor_Mace_Mastery.Scorpion_Shield",
+      "PowerName": "Epic.Psionic_Mastery_Domingator.World_of_Confusion",
       "Level": 44,
       "StatInclude": true,
       "ProcInclude": false,
@@ -1238,67 +1215,31 @@
           "Level": 44,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Crafted_Luck_of_the_Gambler_F",
+            "Uid": "Crafted_Eradication_F",
             "Grade": "None",
-            "IoLevel": 49,
+            "IoLevel": 29,
             "RelativeLevel": "Even",
             "Obtained": false
           },
           "FlippedEnhancement": null
         },
         {
-          "Level": 45,
+          "Level": 47,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Crafted_Shield_Wall_F",
+            "Uid": "Crafted_Eradication_A",
             "Grade": "None",
-            "IoLevel": 49,
+            "IoLevel": 29,
             "RelativeLevel": "Even",
             "Obtained": false
           },
           "FlippedEnhancement": null
         },
         {
-          "Level": 45,
+          "Level": 48,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Crafted_Shield_Wall_A",
-            "Grade": "None",
-            "IoLevel": 49,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 45,
-          "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Crafted_Shield_Wall_E",
-            "Grade": "None",
-            "IoLevel": 49,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 46,
-          "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Crafted_Shield_Wall_B",
-            "Grade": "None",
-            "IoLevel": 49,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 46,
-          "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Crafted_Kismet_E",
+            "Uid": "Crafted_Eradication_E",
             "Grade": "None",
             "IoLevel": 29,
             "RelativeLevel": "Even",
@@ -1309,7 +1250,7 @@
       ]
     },
     {
-      "PowerName": "Pool.Leadership.Tactics",
+      "PowerName": "Pool.Fighting.Tough",
       "Level": 47,
       "StatInclude": true,
       "ProcInclude": false,
@@ -1321,9 +1262,9 @@
           "Level": 47,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Hamidon_Buff_Endurance_Discount",
-            "Grade": "SingleO",
-            "IoLevel": 1,
+            "Uid": "Crafted_Gladiators_Armor_F",
+            "Grade": "None",
+            "IoLevel": 49,
             "RelativeLevel": "Even",
             "Obtained": false
           },
@@ -1333,9 +1274,33 @@
           "Level": 48,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Hamidon_Buff_Endurance_Discount",
-            "Grade": "SingleO",
-            "IoLevel": 1,
+            "Uid": "Crafted_Gladiators_Armor_E",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 48,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Crafted_Gladiators_Armor_A",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 50,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Crafted_Aegis_F",
+            "Grade": "None",
+            "IoLevel": 49,
             "RelativeLevel": "Even",
             "Obtained": false
           },
@@ -1344,9 +1309,9 @@
       ]
     },
     {
-      "PowerName": "Pool.Leadership.Vengeance",
+      "PowerName": "Pool.Fighting.Weave",
       "Level": 49,
-      "StatInclude": false,
+      "StatInclude": true,
       "ProcInclude": false,
       "VariableValue": 0,
       "InherentSlotsUsed": 0,
@@ -1363,11 +1328,59 @@
             "Obtained": false
           },
           "FlippedEnhancement": null
+        },
+        {
+          "Level": 49,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Crafted_Shield_Wall_F",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 49,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Crafted_Shield_Wall_A",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 50,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Crafted_Shield_Wall_E",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 50,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Crafted_Reactive_Defenses_F",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
         }
       ]
     },
     {
-      "PowerName": "Inherent.Inherent.Vigilance",
+      "PowerName": "Inherent.Inherent.Domination",
       "Level": 1,
       "StatInclude": true,
       "ProcInclude": false,
@@ -1526,36 +1539,6 @@
       ]
     },
     {
-      "PowerName": "Defender_Ranged.Dual_Pistols.Chemical_Ammunition",
-      "Level": 10,
-      "StatInclude": false,
-      "ProcInclude": false,
-      "VariableValue": 0,
-      "InherentSlotsUsed": 0,
-      "SubPowerEntries": [],
-      "SlotEntries": []
-    },
-    {
-      "PowerName": "Defender_Ranged.Dual_Pistols.Cryo_Ammunition",
-      "Level": 10,
-      "StatInclude": true,
-      "ProcInclude": false,
-      "VariableValue": 0,
-      "InherentSlotsUsed": 0,
-      "SubPowerEntries": [],
-      "SlotEntries": []
-    },
-    {
-      "PowerName": "Defender_Ranged.Dual_Pistols.Incendiary_Ammunition",
-      "Level": 10,
-      "StatInclude": false,
-      "ProcInclude": false,
-      "VariableValue": 0,
-      "InherentSlotsUsed": 0,
-      "SubPowerEntries": [],
-      "SlotEntries": []
-    },
-    {
       "PowerName": "Inherent.Inherent.Special_Set_Bonuses",
       "Level": 1,
       "StatInclude": true,
@@ -1566,8 +1549,8 @@
       "SlotEntries": []
     },
     {
-      "PowerName": "",
-      "Level": -1,
+      "PowerName": "Inherent.Inherent.Fast_Snipe",
+      "Level": 49,
       "StatInclude": false,
       "ProcInclude": false,
       "VariableValue": 0,
@@ -1586,7 +1569,17 @@
       "SlotEntries": []
     },
     {
-      "PowerName": "Incarnate.Interface.Diamagnetic_Radial_Flawless_Interface",
+      "PowerName": "Incarnate.Judgement.Vorpal_Radial_Final_Judgement",
+      "Level": 50,
+      "StatInclude": true,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": []
+    },
+    {
+      "PowerName": "Incarnate.Interface.Cognitive_Radial_Flawless_Interface",
       "Level": 50,
       "StatInclude": true,
       "ProcInclude": false,
@@ -1616,57 +1609,7 @@
       "SlotEntries": []
     },
     {
-      "PowerName": "",
-      "Level": -1,
-      "StatInclude": false,
-      "ProcInclude": false,
-      "VariableValue": 0,
-      "InherentSlotsUsed": 0,
-      "SubPowerEntries": [],
-      "SlotEntries": []
-    },
-    {
-      "PowerName": "",
-      "Level": -1,
-      "StatInclude": false,
-      "ProcInclude": false,
-      "VariableValue": 0,
-      "InherentSlotsUsed": 0,
-      "SubPowerEntries": [],
-      "SlotEntries": []
-    },
-    {
-      "PowerName": "",
-      "Level": -1,
-      "StatInclude": false,
-      "ProcInclude": false,
-      "VariableValue": 0,
-      "InherentSlotsUsed": 0,
-      "SubPowerEntries": [],
-      "SlotEntries": []
-    },
-    {
-      "PowerName": "",
-      "Level": -1,
-      "StatInclude": false,
-      "ProcInclude": false,
-      "VariableValue": 0,
-      "InherentSlotsUsed": 0,
-      "SubPowerEntries": [],
-      "SlotEntries": []
-    },
-    {
-      "PowerName": "",
-      "Level": -1,
-      "StatInclude": false,
-      "ProcInclude": false,
-      "VariableValue": 0,
-      "InherentSlotsUsed": 0,
-      "SubPowerEntries": [],
-      "SlotEntries": []
-    },
-    {
-      "PowerName": "Incarnate.Destiny.Ageless_Radial_Epiphany",
+      "PowerName": "Incarnate.Hybrid.Control_Radial_Embodiment",
       "Level": 50,
       "StatInclude": true,
       "ProcInclude": false,
@@ -1676,7 +1619,67 @@
       "SlotEntries": []
     },
     {
-      "PowerName": "Incarnate.Hybrid.Support_Genome_8",
+      "PowerName": "Temporary_Powers.Accolades.Born_In_Battle",
+      "Level": 50,
+      "StatInclude": true,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": []
+    },
+    {
+      "PowerName": "Temporary_Powers.Accolades.High_Pain_Threshold",
+      "Level": 50,
+      "StatInclude": true,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": []
+    },
+    {
+      "PowerName": "Temporary_Powers.Accolades.Invader",
+      "Level": 50,
+      "StatInclude": true,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": []
+    },
+    {
+      "PowerName": "Temporary_Powers.Accolades.Marshall",
+      "Level": 50,
+      "StatInclude": true,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": []
+    },
+    {
+      "PowerName": "",
+      "Level": -1,
+      "StatInclude": false,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": []
+    },
+    {
+      "PowerName": "",
+      "Level": -1,
+      "StatInclude": false,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": []
+    },
+    {
+      "PowerName": "Incarnate.Destiny.Clarion_Radial_Epiphany",
       "Level": 50,
       "StatInclude": true,
       "ProcInclude": false,
