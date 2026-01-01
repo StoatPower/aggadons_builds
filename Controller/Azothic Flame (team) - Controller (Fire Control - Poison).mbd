@@ -1,15 +1,15 @@
 {
   "BuiltWith": {
-    "App": "Mids' Reborn",
-    "Version": "3.7.5.21",
+    "App": "Mids Reborn",
+    "Version": "3.8.0.0",
     "Database": "Homecoming",
-    "DatabaseVersion": "2024.8.865"
+    "DatabaseVersion": "2025.12.1240"
   },
   "Level": "49",
   "Class": "Class_Controller",
   "Origin": "Magic",
   "Alignment": "Hero",
-  "Name": "Hot Spit",
+  "Name": "Azothic Flame",
   "Comment": "",
   "PowerSets": [
     "Controller_Control.Fire_Control",
@@ -21,7 +21,7 @@
     "Pool.Leadership",
     "Epic.Fire_Mastery"
   ],
-  "LastPower": 25,
+  "LastPower": 26,
   "PowerEntries": [
     {
       "PowerName": "Controller_Control.Fire_Control.Soot",
@@ -1539,8 +1539,8 @@
       ]
     },
     {
-      "PowerName": "",
-      "Level": -1,
+      "PowerName": "Pool.Sorcery.Translocation",
+      "Level": 18,
       "StatInclude": false,
       "ProcInclude": false,
       "VariableValue": 0,
@@ -1599,9 +1599,9 @@
       "SlotEntries": []
     },
     {
-      "PowerName": "Pool.Sorcery.Translocation",
-      "Level": 18,
-      "StatInclude": false,
+      "PowerName": "Inherent.Inherent.Special_Set_Bonuses",
+      "Level": 1,
+      "StatInclude": true,
       "ProcInclude": false,
       "VariableValue": 0,
       "InherentSlotsUsed": 0,
