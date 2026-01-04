@@ -21,7 +21,7 @@
     "Pool.Teleportation",
     "Epic.Blaster_Mace_Mastery"
   ],
-  "LastPower": 26,
+  "LastPower": 27,
   "PowerEntries": [
     {
       "PowerName": "Blaster_Ranged.Fire_Blast.Fire_Blast",
@@ -167,7 +167,7 @@
           "Level": 48,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Crafted_Positrons_Blast_B",
+            "Uid": "Crafted_Positrons_Blast_C",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
@@ -286,6 +286,18 @@
           "IsInherent": false,
           "Enhancement": {
             "Uid": "Crafted_Luck_of_the_Gambler_F",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 37,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Crafted_Luck_of_the_Gambler_A",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
@@ -484,31 +496,8 @@
       ]
     },
     {
-      "PowerName": "Pool.Speed.Flurry",
-      "Level": 14,
-      "StatInclude": true,
-      "ProcInclude": true,
-      "VariableValue": 0,
-      "InherentSlotsUsed": 0,
-      "SubPowerEntries": [],
-      "SlotEntries": [
-        {
-          "Level": 14,
-          "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Crafted_Touch_of_Death_F",
-            "Grade": "None",
-            "IoLevel": 39,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
-          "FlippedEnhancement": null
-        }
-      ]
-    },
-    {
       "PowerName": "Pool.Flight.Combat_Flight",
-      "Level": 16,
+      "Level": 14,
       "StatInclude": true,
       "ProcInclude": false,
       "VariableValue": 0,
@@ -516,7 +505,7 @@
       "SubPowerEntries": [],
       "SlotEntries": [
         {
-          "Level": 16,
+          "Level": 14,
           "IsInherent": false,
           "Enhancement": {
             "Uid": "Crafted_Luck_of_the_Gambler_F",
@@ -544,6 +533,29 @@
           "IsInherent": false,
           "Enhancement": {
             "Uid": "Crafted_Hypersonic_B",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        }
+      ]
+    },
+    {
+      "PowerName": "Pool.Speed.Super_Speed",
+      "Level": 16,
+      "StatInclude": true,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": [
+        {
+          "Level": 16,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Crafted_Thrust_D",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
@@ -875,7 +887,7 @@
           "Level": 39,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Crafted_Obliteration_E",
+            "Uid": "Crafted_Obliteration_C",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
@@ -1209,18 +1221,6 @@
             "Uid": "Crafted_Luck_of_the_Gambler_D",
             "Grade": "None",
             "IoLevel": 49,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 37,
-          "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Crafted_Kismet_E",
-            "Grade": "None",
-            "IoLevel": 29,
             "RelativeLevel": "Even",
             "Obtained": false
           },
@@ -1589,9 +1589,9 @@
       "SlotEntries": []
     },
     {
-      "PowerName": "Incarnate.Hybrid.Assault_Radial_Embodiment",
-      "Level": 50,
-      "StatInclude": true,
+      "PowerName": "",
+      "Level": -1,
+      "StatInclude": false,
       "ProcInclude": false,
       "VariableValue": 0,
       "InherentSlotsUsed": 0,
@@ -1609,9 +1609,9 @@
       "SlotEntries": []
     },
     {
-      "PowerName": "Incarnate.Destiny.Ageless_Radial_Epiphany",
-      "Level": 50,
-      "StatInclude": true,
+      "PowerName": "",
+      "Level": -1,
+      "StatInclude": false,
       "ProcInclude": false,
       "VariableValue": 0,
       "InherentSlotsUsed": 0,
@@ -1659,6 +1659,416 @@
       "SlotEntries": []
     },
     {
+      "PowerName": "Inherent.Inherent.Speed_Phase",
+      "Level": 16,
+      "StatInclude": false,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": []
+    },
+    {
+      "PowerName": "",
+      "Level": -1,
+      "StatInclude": false,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": []
+    },
+    {
+      "PowerName": "",
+      "Level": -1,
+      "StatInclude": false,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": []
+    },
+    {
+      "PowerName": "",
+      "Level": -1,
+      "StatInclude": false,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": []
+    },
+    {
+      "PowerName": "",
+      "Level": -1,
+      "StatInclude": false,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": []
+    },
+    {
+      "PowerName": "",
+      "Level": -1,
+      "StatInclude": false,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": []
+    },
+    {
+      "PowerName": "",
+      "Level": -1,
+      "StatInclude": false,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": []
+    },
+    {
+      "PowerName": "",
+      "Level": -1,
+      "StatInclude": false,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": []
+    },
+    {
+      "PowerName": "",
+      "Level": -1,
+      "StatInclude": false,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": []
+    },
+    {
+      "PowerName": "",
+      "Level": -1,
+      "StatInclude": false,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": []
+    },
+    {
+      "PowerName": "",
+      "Level": -1,
+      "StatInclude": false,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": []
+    },
+    {
+      "PowerName": "",
+      "Level": -1,
+      "StatInclude": false,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": []
+    },
+    {
+      "PowerName": "",
+      "Level": -1,
+      "StatInclude": false,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": []
+    },
+    {
+      "PowerName": "",
+      "Level": -1,
+      "StatInclude": false,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": []
+    },
+    {
+      "PowerName": "",
+      "Level": -1,
+      "StatInclude": false,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": []
+    },
+    {
+      "PowerName": "",
+      "Level": -1,
+      "StatInclude": false,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": []
+    },
+    {
+      "PowerName": "",
+      "Level": -1,
+      "StatInclude": false,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": []
+    },
+    {
+      "PowerName": "",
+      "Level": -1,
+      "StatInclude": false,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": []
+    },
+    {
+      "PowerName": "",
+      "Level": -1,
+      "StatInclude": false,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": []
+    },
+    {
+      "PowerName": "",
+      "Level": -1,
+      "StatInclude": false,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": []
+    },
+    {
+      "PowerName": "",
+      "Level": -1,
+      "StatInclude": false,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": []
+    },
+    {
+      "PowerName": "",
+      "Level": -1,
+      "StatInclude": false,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": []
+    },
+    {
+      "PowerName": "",
+      "Level": -1,
+      "StatInclude": false,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": []
+    },
+    {
+      "PowerName": "",
+      "Level": -1,
+      "StatInclude": false,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": []
+    },
+    {
+      "PowerName": "",
+      "Level": -1,
+      "StatInclude": false,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": []
+    },
+    {
+      "PowerName": "",
+      "Level": -1,
+      "StatInclude": false,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": []
+    },
+    {
+      "PowerName": "",
+      "Level": -1,
+      "StatInclude": false,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": []
+    },
+    {
+      "PowerName": "",
+      "Level": -1,
+      "StatInclude": false,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": []
+    },
+    {
+      "PowerName": "",
+      "Level": -1,
+      "StatInclude": false,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": []
+    },
+    {
+      "PowerName": "",
+      "Level": -1,
+      "StatInclude": false,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": []
+    },
+    {
+      "PowerName": "",
+      "Level": -1,
+      "StatInclude": false,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": []
+    },
+    {
+      "PowerName": "",
+      "Level": -1,
+      "StatInclude": false,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": []
+    },
+    {
+      "PowerName": "",
+      "Level": -1,
+      "StatInclude": false,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": []
+    },
+    {
+      "PowerName": "",
+      "Level": -1,
+      "StatInclude": false,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": []
+    },
+    {
+      "PowerName": "",
+      "Level": -1,
+      "StatInclude": false,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": []
+    },
+    {
+      "PowerName": "",
+      "Level": -1,
+      "StatInclude": false,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": []
+    },
+    {
+      "PowerName": "",
+      "Level": -1,
+      "StatInclude": false,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": []
+    },
+    {
+      "PowerName": "",
+      "Level": -1,
+      "StatInclude": false,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": []
+    },
+    {
+      "PowerName": "",
+      "Level": -1,
+      "StatInclude": false,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": []
+    },
+    {
+      "PowerName": "",
+      "Level": -1,
+      "StatInclude": false,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": []
+    },
+    {
+      "PowerName": "Incarnate.Hybrid.Assault_Radial_Embodiment",
+      "Level": 50,
+      "StatInclude": true,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": []
+    },
+    {
       "PowerName": "",
       "Level": -1,
       "StatInclude": false,
@@ -1690,6 +2100,66 @@
     },
     {
       "PowerName": "Incarnate.Alpha.Agility_Core_Paragon",
+      "Level": 50,
+      "StatInclude": true,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": []
+    },
+    {
+      "PowerName": "",
+      "Level": -1,
+      "StatInclude": false,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": []
+    },
+    {
+      "PowerName": "",
+      "Level": -1,
+      "StatInclude": false,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": []
+    },
+    {
+      "PowerName": "",
+      "Level": -1,
+      "StatInclude": false,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": []
+    },
+    {
+      "PowerName": "",
+      "Level": -1,
+      "StatInclude": false,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": []
+    },
+    {
+      "PowerName": "",
+      "Level": -1,
+      "StatInclude": false,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": []
+    },
+    {
+      "PowerName": "Incarnate.Destiny.Clarion_Radial_Epiphany",
       "Level": 50,
       "StatInclude": true,
       "ProcInclude": false,
