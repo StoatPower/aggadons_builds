@@ -18,10 +18,10 @@
     "Pool.Flight",
     "Pool.Speed",
     "Pool.Fighting",
-    "Pool.Invisibility",
+    "Pool.Leadership",
     "Epic.Blaster_Mace_Mastery"
   ],
-  "LastPower": 30,
+  "LastPower": 31,
   "PowerEntries": [
     {
       "PowerName": "Blaster_Ranged.Fire_Blast.Fire_Blast",
@@ -225,7 +225,7 @@
           "Level": 4,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Crafted_Luck_of_the_Gambler_F",
+            "Uid": "Crafted_Winters_Gift_B",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
@@ -631,7 +631,13 @@
             "RelativeLevel": "Even",
             "Obtained": false
           },
-          "FlippedEnhancement": null
+          "FlippedEnhancement": {
+            "Uid": "Crafted_Luck_of_the_Gambler_F",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          }
         },
         {
           "Level": 21,
@@ -643,7 +649,13 @@
             "RelativeLevel": "Even",
             "Obtained": false
           },
-          "FlippedEnhancement": null
+          "FlippedEnhancement": {
+            "Uid": "Crafted_Luck_of_the_Gambler_E",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          }
         },
         {
           "Level": 21,
@@ -655,7 +667,13 @@
             "RelativeLevel": "Even",
             "Obtained": false
           },
-          "FlippedEnhancement": null
+          "FlippedEnhancement": {
+            "Uid": "Crafted_Shield_Wall_E",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          }
         },
         {
           "Level": 40,
@@ -667,19 +685,13 @@
             "RelativeLevel": "Even",
             "Obtained": false
           },
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 40,
-          "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Crafted_Preventive_Medicine_A",
+          "FlippedEnhancement": {
+            "Uid": "Crafted_Shield_Wall_F",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
             "Obtained": false
-          },
-          "FlippedEnhancement": null
+          }
         },
         {
           "Level": 42,
@@ -691,7 +703,13 @@
             "RelativeLevel": "Even",
             "Obtained": false
           },
-          "FlippedEnhancement": null
+          "FlippedEnhancement": {
+            "Uid": "Crafted_Reactive_Defenses_A",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          }
         }
       ]
     },
@@ -1214,6 +1232,18 @@
           "FlippedEnhancement": null
         },
         {
+          "Level": 40,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Superior_Attuned_Winters_Bite_D",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        },
+        {
           "Level": 43,
           "IsInherent": false,
           "Enhancement": {
@@ -1253,18 +1283,6 @@
           "Level": 48,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Superior_Attuned_Winters_Bite_D",
-            "Grade": "None",
-            "IoLevel": 49,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 50,
-          "IsInherent": false,
-          "Enhancement": {
             "Uid": "Superior_Attuned_Winters_Bite_E",
             "Grade": "None",
             "IoLevel": 49,
@@ -1279,7 +1297,7 @@
       "PowerName": "Pool.Flight.Fly",
       "Level": 41,
       "StatInclude": false,
-      "ProcInclude": false,
+      "ProcInclude": true,
       "VariableValue": 0,
       "InherentSlotsUsed": 0,
       "SubPowerEntries": [],
@@ -1301,7 +1319,7 @@
     {
       "PowerName": "Pool.Flight.Evasive_Maneuvers",
       "Level": 44,
-      "StatInclude": true,
+      "StatInclude": false,
       "ProcInclude": false,
       "VariableValue": 0,
       "InherentSlotsUsed": 0,
@@ -1322,7 +1340,7 @@
       ]
     },
     {
-      "PowerName": "Blaster_Support.Gadgets.Smoke_Grenade",
+      "PowerName": "Pool.Leadership.Defense",
       "Level": 47,
       "StatInclude": true,
       "ProcInclude": false,
@@ -1334,9 +1352,21 @@
           "Level": 47,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Hamidon_DeBuff_Accuracy",
-            "Grade": "SingleO",
-            "IoLevel": 1,
+            "Uid": "Crafted_Luck_of_the_Gambler_F",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 50,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Crafted_Luck_of_the_Gambler_A",
+            "Grade": "None",
+            "IoLevel": 49,
             "RelativeLevel": "Even",
             "Obtained": false
           },
@@ -1621,7 +1651,7 @@
     {
       "PowerName": "Incarnate.Destiny.Clarion_Radial_Epiphany",
       "Level": 50,
-      "StatInclude": true,
+      "StatInclude": false,
       "ProcInclude": false,
       "VariableValue": 0,
       "InherentSlotsUsed": 0,
