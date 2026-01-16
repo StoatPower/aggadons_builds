@@ -1,9 +1,9 @@
 {
   "BuiltWith": {
-    "App": "Mids' Reborn",
-    "Version": "3.7.5.20",
+    "App": "Mids Reborn",
+    "Version": "3.8.0.0",
     "Database": "Homecoming",
-    "DatabaseVersion": "2024.5.759"
+    "DatabaseVersion": "2025.12.1240"
   },
   "Level": "49",
   "Class": "Class_Sentinel",
@@ -15,13 +15,13 @@
     "Sentinel_Ranged.Ice_Blast",
     "Sentinel_Defense.Willpower",
     "",
+    "Pool.Leaping",
     "Pool.Fighting",
     "Pool.Speed",
-    "Pool.Leaping",
     "Pool.Flight",
     "Epic.Sentinel_Ice_Mastery"
   ],
-  "LastPower": 26,
+  "LastPower": 28,
   "PowerEntries": [
     {
       "PowerName": "Sentinel_Ranged.Ice_Blast.Ice_Blast",
@@ -61,6 +61,18 @@
           "IsInherent": false,
           "Enhancement": {
             "Uid": "Crafted_Gladiators_Javelin_C",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 17,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Crafted_Gladiators_Javelin_D",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
@@ -237,7 +249,7 @@
       ]
     },
     {
-      "PowerName": "Sentinel_Ranged.Ice_Blast.Frost_Breath",
+      "PowerName": "Sentinel_Defense.Willpower.Fast_Healing",
       "Level": 4,
       "StatInclude": true,
       "ProcInclude": false,
@@ -249,45 +261,21 @@
           "Level": 4,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Crafted_Ragnarok_F",
+            "Uid": "Crafted_Miracle_F",
             "Grade": "None",
-            "IoLevel": 49,
+            "IoLevel": 39,
             "RelativeLevel": "Even",
             "Obtained": false
           },
           "FlippedEnhancement": null
         },
         {
-          "Level": 17,
+          "Level": 19,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Crafted_Ragnarok_A",
+            "Uid": "Crafted_Miracle_E",
             "Grade": "None",
-            "IoLevel": 49,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 17,
-          "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Crafted_Ragnarok_E",
-            "Grade": "None",
-            "IoLevel": 49,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 23,
-          "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Crafted_Ragnarok_B",
-            "Grade": "None",
-            "IoLevel": 49,
+            "IoLevel": 39,
             "RelativeLevel": "Even",
             "Obtained": false
           },
@@ -309,6 +297,18 @@
           "IsInherent": false,
           "Enhancement": {
             "Uid": "Crafted_Decimation_F",
+            "Grade": "None",
+            "IoLevel": 39,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 17,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Crafted_Decimation_D",
             "Grade": "None",
             "IoLevel": 39,
             "RelativeLevel": "Even",
@@ -367,7 +367,7 @@
       ]
     },
     {
-      "PowerName": "Sentinel_Defense.Willpower.Fast_Healing",
+      "PowerName": "Pool.Leaping.Combat_Jumping",
       "Level": 8,
       "StatInclude": true,
       "ProcInclude": false,
@@ -379,21 +379,9 @@
           "Level": 8,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Crafted_Miracle_F",
+            "Uid": "Crafted_Luck_of_the_Gambler_F",
             "Grade": "None",
-            "IoLevel": 39,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 19,
-          "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Crafted_Miracle_E",
-            "Grade": "None",
-            "IoLevel": 39,
+            "IoLevel": 49,
             "RelativeLevel": "Even",
             "Obtained": false
           },
@@ -452,7 +440,7 @@
       "PowerName": "Pool.Fighting.Kick",
       "Level": 12,
       "StatInclude": true,
-      "ProcInclude": false,
+      "ProcInclude": true,
       "VariableValue": 0,
       "InherentSlotsUsed": 0,
       "SubPowerEntries": [],
@@ -565,7 +553,7 @@
       ]
     },
     {
-      "PowerName": "Pool.Leaping.Combat_Jumping",
+      "PowerName": "Sentinel_Defense.Willpower.Quick_Recovery",
       "Level": 20,
       "StatInclude": true,
       "ProcInclude": false,
@@ -575,29 +563,6 @@
       "SlotEntries": [
         {
           "Level": 20,
-          "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Crafted_Luck_of_the_Gambler_F",
-            "Grade": "None",
-            "IoLevel": 49,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
-          "FlippedEnhancement": null
-        }
-      ]
-    },
-    {
-      "PowerName": "Sentinel_Defense.Willpower.Quick_Recovery",
-      "Level": 22,
-      "StatInclude": true,
-      "ProcInclude": false,
-      "VariableValue": 0,
-      "InherentSlotsUsed": 0,
-      "SubPowerEntries": [],
-      "SlotEntries": [
-        {
-          "Level": 22,
           "IsInherent": false,
           "Enhancement": {
             "Uid": "Crafted_Performance_Shifter_F",
@@ -624,7 +589,7 @@
     },
     {
       "PowerName": "Sentinel_Ranged.Ice_Blast.Bitter_Ice_Blast",
-      "Level": 24,
+      "Level": 22,
       "StatInclude": true,
       "ProcInclude": false,
       "VariableValue": 0,
@@ -632,7 +597,7 @@
       "SubPowerEntries": [],
       "SlotEntries": [
         {
-          "Level": 24,
+          "Level": 22,
           "IsInherent": false,
           "Enhancement": {
             "Uid": "Crafted_Apocalypse_F",
@@ -656,7 +621,19 @@
           "FlippedEnhancement": null
         },
         {
-          "Level": 27,
+          "Level": 23,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Crafted_Apocalypse_E",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 39,
           "IsInherent": false,
           "Enhancement": {
             "Uid": "Crafted_Apocalypse_C",
@@ -671,7 +648,7 @@
           "Level": 40,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Crafted_Apocalypse_E",
+            "Uid": "Crafted_Apocalypse_D",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
@@ -684,6 +661,89 @@
           "IsInherent": false,
           "Enhancement": {
             "Uid": "Crafted_Apocalypse_B",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        }
+      ]
+    },
+    {
+      "PowerName": "Sentinel_Defense.Willpower.Heightened_Senses",
+      "Level": 24,
+      "StatInclude": true,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": [
+        {
+          "Level": 24,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Crafted_Reactive_Defenses_F",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 37,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Crafted_Reactive_Defenses_A",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 27,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Crafted_Reactive_Defenses_B",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 39,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Crafted_Reactive_Defenses_D",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 39,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Crafted_Reactive_Defenses_E",
+            "Grade": "None",
+            "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        },
+        {
+          "Level": 40,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Crafted_Luck_of_the_Gambler_F",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
@@ -860,7 +920,7 @@
       ]
     },
     {
-      "PowerName": "Sentinel_Defense.Willpower.Heightened_Senses",
+      "PowerName": "Sentinel_Ranged.Ice_Blast.Blizzard",
       "Level": 30,
       "StatInclude": true,
       "ProcInclude": false,
@@ -870,89 +930,6 @@
       "SlotEntries": [
         {
           "Level": 30,
-          "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Crafted_Reactive_Defenses_F",
-            "Grade": "None",
-            "IoLevel": 49,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 37,
-          "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Crafted_Reactive_Defenses_A",
-            "Grade": "None",
-            "IoLevel": 49,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 39,
-          "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Crafted_Reactive_Defenses_B",
-            "Grade": "None",
-            "IoLevel": 49,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 39,
-          "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Crafted_Reactive_Defenses_D",
-            "Grade": "None",
-            "IoLevel": 49,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 39,
-          "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Crafted_Reactive_Defenses_E",
-            "Grade": "None",
-            "IoLevel": 49,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
-          "FlippedEnhancement": null
-        },
-        {
-          "Level": 40,
-          "IsInherent": false,
-          "Enhancement": {
-            "Uid": "Crafted_Luck_of_the_Gambler_F",
-            "Grade": "None",
-            "IoLevel": 49,
-            "RelativeLevel": "Even",
-            "Obtained": false
-          },
-          "FlippedEnhancement": null
-        }
-      ]
-    },
-    {
-      "PowerName": "Sentinel_Ranged.Ice_Blast.Blizzard",
-      "Level": 32,
-      "StatInclude": true,
-      "ProcInclude": false,
-      "VariableValue": 0,
-      "InherentSlotsUsed": 0,
-      "SubPowerEntries": [],
-      "SlotEntries": [
-        {
-          "Level": 32,
           "IsInherent": false,
           "Enhancement": {
             "Uid": "Superior_Attuned_Superior_Sentinels_Ward_F",
@@ -1015,9 +992,32 @@
           "Level": 43,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Attuned_Sentinels_Ward_A",
+            "Uid": "Superior_Attuned_Superior_Sentinels_Ward_A",
             "Grade": "None",
             "IoLevel": 49,
+            "RelativeLevel": "Even",
+            "Obtained": false
+          },
+          "FlippedEnhancement": null
+        }
+      ]
+    },
+    {
+      "PowerName": "Sentinel_Defense.Willpower.Resurgence",
+      "Level": 32,
+      "StatInclude": false,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": [
+        {
+          "Level": 32,
+          "IsInherent": false,
+          "Enhancement": {
+            "Uid": "Hamidon_Endurance_Modification_Recharge",
+            "Grade": "SingleO",
+            "IoLevel": 1,
             "RelativeLevel": "Even",
             "Obtained": false
           },
@@ -1083,7 +1083,7 @@
           "FlippedEnhancement": null
         },
         {
-          "Level": 50,
+          "Level": 46,
           "IsInherent": false,
           "Enhancement": {
             "Uid": "Superior_Attuned_Blistering_Cold_F",
@@ -1189,10 +1189,10 @@
           "FlippedEnhancement": null
         },
         {
-          "Level": 48,
+          "Level": 46,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Superior_Attuned_Avalanche_B",
+            "Uid": "Superior_Attuned_Avalanche_A",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
@@ -1201,10 +1201,10 @@
           "FlippedEnhancement": null
         },
         {
-          "Level": 50,
+          "Level": 48,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Superior_Attuned_Avalanche_A",
+            "Uid": "Superior_Attuned_Avalanche_B",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
@@ -1330,10 +1330,10 @@
           "FlippedEnhancement": null
         },
         {
-          "Level": 46,
+          "Level": 50,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Crafted_Luck_of_the_Gambler_E",
+            "Uid": "Crafted_Luck_of_the_Gambler_F",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
@@ -1342,10 +1342,10 @@
           "FlippedEnhancement": null
         },
         {
-          "Level": 46,
+          "Level": 50,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Crafted_Luck_of_the_Gambler_F",
+            "Uid": "Crafted_Luck_of_the_Gambler_E",
             "Grade": "None",
             "IoLevel": 49,
             "RelativeLevel": "Even",
@@ -1360,7 +1360,7 @@
       "Level": 1,
       "StatInclude": true,
       "ProcInclude": false,
-      "VariableValue": 5,
+      "VariableValue": 0,
       "InherentSlotsUsed": 0,
       "SubPowerEntries": [],
       "SlotEntries": []
@@ -1543,6 +1543,16 @@
           "FlippedEnhancement": null
         }
       ]
+    },
+    {
+      "PowerName": "Inherent.Inherent.Special_Set_Bonuses",
+      "Level": 1,
+      "StatInclude": true,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": []
     },
     {
       "PowerName": "Incarnate.Alpha.Cardiac_Core_Paragon",
