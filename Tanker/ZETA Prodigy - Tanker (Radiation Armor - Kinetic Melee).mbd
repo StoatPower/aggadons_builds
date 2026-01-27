@@ -21,7 +21,7 @@
     "Pool.Fighting",
     "Epic.Dark_Mastery_TankBrute"
   ],
-  "LastPower": 25,
+  "LastPower": 26,
   "PowerEntries": [
     {
       "PowerName": "Tanker_Defense.Radiation_Armor.Alpha_Barrier",
@@ -814,7 +814,7 @@
       ]
     },
     {
-      "PowerName": "Tanker_Defense.Radiation_Armor.Ground_Zero",
+      "PowerName": "Tanker_Melee.Kinetic_Attack.Burst",
       "Level": 26,
       "StatInclude": true,
       "ProcInclude": false,
@@ -826,9 +826,9 @@
           "Level": 26,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Crafted_Eradication_F",
+            "Uid": "Crafted_Force_Feedback_F",
             "Grade": "None",
-            "IoLevel": 29,
+            "IoLevel": 49,
             "RelativeLevel": "Even",
             "Obtained": false
           },
@@ -838,9 +838,9 @@
           "Level": 27,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Crafted_Eradication_A",
+            "Uid": "Crafted_Armageddon_F",
             "Grade": "None",
-            "IoLevel": 29,
+            "IoLevel": 49,
             "RelativeLevel": "Even",
             "Obtained": false
           },
@@ -850,45 +850,45 @@
           "Level": 27,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Crafted_Eradication_D",
+            "Uid": "Crafted_Armageddon_A",
             "Grade": "None",
-            "IoLevel": 29,
+            "IoLevel": 49,
             "RelativeLevel": "Even",
             "Obtained": false
           },
           "FlippedEnhancement": null
         },
         {
-          "Level": 40,
+          "Level": 31,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Crafted_Eradication_E",
+            "Uid": "Crafted_Armageddon_E",
             "Grade": "None",
-            "IoLevel": 29,
+            "IoLevel": 49,
             "RelativeLevel": "Even",
             "Obtained": false
           },
           "FlippedEnhancement": null
         },
         {
-          "Level": 40,
+          "Level": 34,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Hamidon_Heal_Accuracy",
-            "Grade": "SingleO",
-            "IoLevel": 1,
+            "Uid": "Crafted_Armageddon_C",
+            "Grade": "None",
+            "IoLevel": 49,
             "RelativeLevel": "Even",
             "Obtained": false
           },
           "FlippedEnhancement": null
         },
         {
-          "Level": 40,
+          "Level": 34,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Hamidon_Heal_Accuracy",
-            "Grade": "SingleO",
-            "IoLevel": 1,
+            "Uid": "Crafted_Armageddon_B",
+            "Grade": "None",
+            "IoLevel": 49,
             "RelativeLevel": "Even",
             "Obtained": false
           },
@@ -944,7 +944,7 @@
       ]
     },
     {
-      "PowerName": "Tanker_Melee.Kinetic_Attack.Burst",
+      "PowerName": "Tanker_Defense.Radiation_Armor.Ground_Zero",
       "Level": 30,
       "StatInclude": true,
       "ProcInclude": false,
@@ -956,9 +956,9 @@
           "Level": 30,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Crafted_Force_Feedback_F",
+            "Uid": "Crafted_Eradication_F",
             "Grade": "None",
-            "IoLevel": 49,
+            "IoLevel": 29,
             "RelativeLevel": "Even",
             "Obtained": false
           },
@@ -968,9 +968,9 @@
           "Level": 31,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Crafted_Armageddon_F",
+            "Uid": "Crafted_Eradication_A",
             "Grade": "None",
-            "IoLevel": 49,
+            "IoLevel": 29,
             "RelativeLevel": "Even",
             "Obtained": false
           },
@@ -980,45 +980,45 @@
           "Level": 31,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Crafted_Armageddon_A",
+            "Uid": "Crafted_Eradication_D",
             "Grade": "None",
-            "IoLevel": 49,
+            "IoLevel": 29,
             "RelativeLevel": "Even",
             "Obtained": false
           },
           "FlippedEnhancement": null
         },
         {
-          "Level": 31,
+          "Level": 40,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Crafted_Armageddon_E",
+            "Uid": "Crafted_Eradication_E",
             "Grade": "None",
-            "IoLevel": 49,
+            "IoLevel": 29,
             "RelativeLevel": "Even",
             "Obtained": false
           },
           "FlippedEnhancement": null
         },
         {
-          "Level": 34,
+          "Level": 40,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Crafted_Armageddon_C",
-            "Grade": "None",
-            "IoLevel": 49,
+            "Uid": "Hamidon_Heal_Accuracy",
+            "Grade": "SingleO",
+            "IoLevel": 1,
             "RelativeLevel": "Even",
             "Obtained": false
           },
           "FlippedEnhancement": null
         },
         {
-          "Level": 34,
+          "Level": 40,
           "IsInherent": false,
           "Enhancement": {
-            "Uid": "Crafted_Armageddon_B",
-            "Grade": "None",
-            "IoLevel": 49,
+            "Uid": "Hamidon_Heal_Accuracy",
+            "Grade": "SingleO",
+            "IoLevel": 1,
             "RelativeLevel": "Even",
             "Obtained": false
           },
@@ -1549,56 +1549,6 @@
       "SlotEntries": []
     },
     {
-      "PowerName": "Temporary_Powers.Accolades.Freedom_Phalanx_Reserve",
-      "Level": 50,
-      "StatInclude": true,
-      "ProcInclude": false,
-      "VariableValue": 0,
-      "InherentSlotsUsed": 0,
-      "SubPowerEntries": [],
-      "SlotEntries": []
-    },
-    {
-      "PowerName": "Temporary_Powers.Accolades.Portal_Jockey",
-      "Level": 50,
-      "StatInclude": true,
-      "ProcInclude": false,
-      "VariableValue": 0,
-      "InherentSlotsUsed": 0,
-      "SubPowerEntries": [],
-      "SlotEntries": []
-    },
-    {
-      "PowerName": "Temporary_Powers.Accolades.Task_Force_Commander",
-      "Level": 50,
-      "StatInclude": true,
-      "ProcInclude": false,
-      "VariableValue": 0,
-      "InherentSlotsUsed": 0,
-      "SubPowerEntries": [],
-      "SlotEntries": []
-    },
-    {
-      "PowerName": "Temporary_Powers.Accolades.The_Atlas_Medallion",
-      "Level": 50,
-      "StatInclude": true,
-      "ProcInclude": false,
-      "VariableValue": 0,
-      "InherentSlotsUsed": 0,
-      "SubPowerEntries": [],
-      "SlotEntries": []
-    },
-    {
-      "PowerName": "",
-      "Level": -1,
-      "StatInclude": false,
-      "ProcInclude": false,
-      "VariableValue": 0,
-      "InherentSlotsUsed": 0,
-      "SubPowerEntries": [],
-      "SlotEntries": []
-    },
-    {
       "PowerName": "Incarnate.Alpha.Resilient_Radial_Paragon",
       "Level": 50,
       "StatInclude": true,
@@ -1654,6 +1604,46 @@
       "StatInclude": true,
       "ProcInclude": false,
       "VariableValue": 10,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": []
+    },
+    {
+      "PowerName": "Temporary_Powers.Accolades.Freedom_Phalanx_Reserve",
+      "Level": 50,
+      "StatInclude": true,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": []
+    },
+    {
+      "PowerName": "Temporary_Powers.Accolades.Portal_Jockey",
+      "Level": 50,
+      "StatInclude": true,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": []
+    },
+    {
+      "PowerName": "Temporary_Powers.Accolades.Task_Force_Commander",
+      "Level": 50,
+      "StatInclude": true,
+      "ProcInclude": false,
+      "VariableValue": 0,
+      "InherentSlotsUsed": 0,
+      "SubPowerEntries": [],
+      "SlotEntries": []
+    },
+    {
+      "PowerName": "Temporary_Powers.Accolades.The_Atlas_Medallion",
+      "Level": 50,
+      "StatInclude": true,
+      "ProcInclude": false,
+      "VariableValue": 0,
       "InherentSlotsUsed": 0,
       "SubPowerEntries": [],
       "SlotEntries": []
